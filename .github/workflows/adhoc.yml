@@ -35,7 +35,7 @@ jobs:
     - name: Auth check
       run: |
         rm -rf ~/.config/esporifai
-        esporifai auth --force
+        esporifai auth
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
