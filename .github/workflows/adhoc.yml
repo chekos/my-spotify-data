@@ -1,0 +1,43 @@
+name: Get Recently Played Tracks
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.8
+        cache: pip
+    - name: Cache playwright 
+      id: cache-playwright
+      uses: actions/cache@v3
+      with: 
+        path: ~/.cache/ms-playwright/
+        key: ${{ runner.os }}-browsers
+    - name: Cache Spotify info
+      uses: actions/cache@v3
+      with: 
+        path: ~/.config/esporifai
+        key: ${{ runner.os }}-esporifai
+    - name: Install python dependencies
+      run: |-
+        pip install -r requirements.txt
+    - name: Install Chromium
+      if: steps.cache-playwright.outputs.cache-hit != 'true'
+      run: |
+        playwright install chromium
+    - name: Auth check
+      run: |
+        esporifai auth
+      env:
+        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
