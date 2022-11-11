@@ -34,7 +34,7 @@ jobs:
         playwright install chromium
     - name: Auth check
       run: |
-        esporifai auth
+        esporifai auth --force
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
