@@ -2,8 +2,6 @@ name: Get Recently Played Tracks
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '13 * * * *'
 
 jobs:
   scheduled:
