@@ -1,0 +1,62 @@
+name: Get Top Tracks and Artists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 */4 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.8
+        cache: pip
+    - name: Cache playwright 
+      uses: actions/cache@v3
+      with: 
+        path: ~/.cache/ms-playwright/
+        key: ${{ runner.os }}-browsers
+    - name: Cache Spotify info
+      uses: actions/cache@v3
+      with: 
+        path: ~/.config/spotify-git-scraper
+        key: ${{ runner.os }}-spotify
+    - name: Install python dependencies
+      run: |-
+        pip install -r requirements.txt
+        playwright install chromium
+    - name: Get Top Artists 
+      run: |-
+        esporifai get-top artists --limit 50 --time-range long --output data/top_50_artists_long_term.json
+        esporifai get-top artists --limit 50 --time-range medium --output data/top_50_artists_medium_term.json
+        esporifai get-top artists --limit 50 --time-range short --output data/top_50_artists_short_term.json
+      env:
+        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+    - name: Get Top Tracks 
+      run: |-
+        esporifai get-top tracks --limit 50 --time-range long --output data/top_50_tracks_long_term.json
+        esporifai get-top tracks --limit 50 --time-range medium --output data/top_50_tracks_medium_term.json
+        esporifai get-top tracks --limit 50 --time-range short --output data/top_50_tracks_short_term.json 
+      env:
+        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+    - name: Commit and push if it changed 
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
