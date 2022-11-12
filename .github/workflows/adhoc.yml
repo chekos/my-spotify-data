@@ -11,7 +11,7 @@ env:
   REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
 
 jobs:
-  scheduled:
+  force-auth:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
