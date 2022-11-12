@@ -41,6 +41,10 @@ jobs:
         playwright install chromium
     - name: Auth check
       run: |
-        [ -d "~/.config/esporifai/" ] && rm -rf ~/.config/esporifai/ || echo "config not found"
-        
-        esporifai auth --force
+        if [ "$(esporifai auth --check)" ]
+          then
+              echo "Credentials already present."
+          else
+              echo "Authorizing"
+              esporifai auth --force
+        fi

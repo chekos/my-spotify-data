@@ -3,6 +3,13 @@ name: Get Recently Played Tracks
 on:
   workflow_dispatch:
 
+env:
+  SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+  SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
+  USERNAME: ${{ secrets.USERNAME }}
+  PASSWORD: ${{ secrets.PASSWORD }}
+  REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -12,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: 3.8
+        python-version: '3.10'
         cache: pip
     - name: Cache playwright 
       id: cache-playwright
@@ -41,21 +48,9 @@ jobs:
               echo "Authorizing"
               esporifai auth --force
         fi
-      env:
-        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-        SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PASSWORD: ${{ secrets.PASSWORD }}
-        REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
     - name: Get tracks played in the last hour
       run: |-
         esporifai get-recently-played before "$(date +"%Y-%m-%d %T")" --limit 50 --time-zone UTC --output data/recently_played.json --trim
-      env:
-        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-        SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PASSWORD: ${{ secrets.PASSWORD }}
-        REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
     - name: Commit and push if it changed 
       run: |-
         git config user.name "Automated"
