@@ -49,3 +49,6 @@ jobs:
               echo "Authorizing"
               esporifai auth --force
         fi
+    - name: Get tracks played in the last hour
+      run: |-
+        esporifai get-recently-played before "$(date +"%Y-%m-%d %T")" --limit 5 --time-zone UTC
