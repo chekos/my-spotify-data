@@ -2,6 +2,8 @@ name: Get Top Tracks and Artists
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "27 * * * *"
 
 env:
   SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
