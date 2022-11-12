@@ -1,8 +1,15 @@
-name: Manually auth
+name: Manually authorize and cache credentials
 
 on:
   workflow_dispatch:
   
+env:
+  SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+  SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
+  USERNAME: ${{ secrets.USERNAME }}
+  PASSWORD: ${{ secrets.PASSWORD }}
+  REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -14,31 +21,15 @@ jobs:
       with:
         python-version: 3.8
         cache: pip
-    - name: Cache playwright 
-      id: cache-playwright
-      uses: actions/cache@v3
-      with: 
-        path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-browsers
+    - name: Install python dependencies
+      run: |-
+        pip install -r requirements.txt
+    - name: Auth check
+      run: |
+        rm -rf ~/.config/esporifai/
+        esporifai auth
     - name: Cache Spotify info
       uses: actions/cache@v3
       with: 
         path: ~/.config/esporifai
         key: ${{ runner.os }}-esporifai
-    - name: Install python dependencies
-      run: |-
-        pip install -r requirements.txt
-    - name: Install Chromium
-      if: steps.cache-playwright.outputs.cache-hit != 'true'
-      run: |
-        playwright install chromium
-    - name: Auth check
-      run: |
-        rm -rf ~/.config/esporifai/
-        esporifai auth
-      env:
-        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-        SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PASSWORD: ${{ secrets.PASSWORD }}
-        REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
