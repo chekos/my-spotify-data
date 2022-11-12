@@ -39,7 +39,8 @@ jobs:
       if: steps.cache-browser.outputs.cache-hit != 'true'
       run: |
         playwright install chromium
-    - name: Auth check
-      run: |
-        rm -rf ~/.config/esporifai/
-        esporifai auth
+    # - name: Auth check
+    #   run: |
+    #     [ -d "~/.config/esporifai/" ] && rm -rf ~/.config/esporifai/ || echo "config not found"
+        
+    #     esporifai auth --force
