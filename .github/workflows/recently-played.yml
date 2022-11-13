@@ -32,7 +32,7 @@ jobs:
     - name: Cache Spotify info
       uses: actions/cache@v3
       with: 
-        path: ~/.config/esporifai
+        path: ~/.config/esporifai/
         key: ${{ runner.os }}-esporifai
     - name: Install python dependencies
       run: |-
