@@ -41,15 +41,6 @@ jobs:
       if: steps.cache-playwright.outputs.cache-hit != 'true'
       run: |
         playwright install chromium
-    - name: Auth check
-      run: |
-        if [ "$(esporifai auth --check)" ]
-          then
-              echo "Credentials already present."
-          else
-              echo "Authorizing"
-              esporifai auth --force
-        fi
     - name: Get tracks played in the last hour
       run: |-
         esporifai get-recently-played before "$(date +"%Y-%m-%d %T")" --limit 50 --time-zone UTC --output data/recently_played.json --trim
