@@ -31,8 +31,8 @@ jobs:
     - name: Cache Spotify info
       uses: actions/cache@v3
       with: 
-        path: ~/.config/spotify-git-scraper
-        key: ${{ runner.os }}-spotify
+        path: ~/.config/esporifai/
+        key: ${{ runner.os }}-esporifai
     - name: Install python dependencies
       run: |-
         pip install -r requirements.txt
