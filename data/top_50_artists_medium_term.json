@@ -1736,6 +1736,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+      },
+      "followers": {
+        "href": null,
+        "total": 514440
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+      "id": "645xd9cHiiLqqehoLzLMDR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe8d667e7d4d5d61280fa00f5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e8d667e7d4d5d61280fa00f5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e8d667e7d4d5d61280fa00f5",
+          "width": 160
+        }
+      ],
+      "name": "Ad\u00e1n Cruz",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
@@ -1769,49 +1804,6 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-      },
-      "followers": {
-        "href": null,
-        "total": 1178251
-      },
-      "genres": [
-        "latin alternative",
-        "latin rock",
-        "mexican rock",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1RgXxY6uzWo9cjYYwwgVGq",
-      "id": "1RgXxY6uzWo9cjYYwwgVGq",
-      "images": [
-        {
-          "height": 589,
-          "url": "https://i.scdn.co/image/7dd7d32e6724f57d4a943a70ee6545f3d0ac565e",
-          "width": 1000
-        },
-        {
-          "height": 377,
-          "url": "https://i.scdn.co/image/93fa4f6defe0a0ffbacfb19c2fb3eb7a12b0d419",
-          "width": 640
-        },
-        {
-          "height": 118,
-          "url": "https://i.scdn.co/image/36c27627e388c9bf082ae76109ac178ef5e9492b",
-          "width": 200
-        },
-        {
-          "height": 38,
-          "url": "https://i.scdn.co/image/a8f2859be627be75ea9b3d86640624c78159dddb",
-          "width": 64
-        }
-      ],
-      "name": "Jaguares",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:1RgXxY6uzWo9cjYYwwgVGq"
     }
   ],
   "total": 50,
