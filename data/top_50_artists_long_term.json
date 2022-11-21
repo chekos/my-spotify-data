@@ -256,6 +256,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+      },
+      "followers": {
+        "href": null,
+        "total": 187084
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+      "id": "1FCItwxfRieMGhR0eRxotU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09adc06b030032f0ad563a13",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409adc06b030032f0ad563a13",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809adc06b030032f0ad563a13",
+          "width": 160
+        }
+      ],
+      "name": "Rich Vagos",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
@@ -289,41 +324,6 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-      },
-      "followers": {
-        "href": null,
-        "total": 187084
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-      "id": "1FCItwxfRieMGhR0eRxotU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09adc06b030032f0ad563a13",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409adc06b030032f0ad563a13",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809adc06b030032f0ad563a13",
-          "width": 160
-        }
-      ],
-      "name": "Rich Vagos",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
     {
       "external_urls": {
@@ -623,7 +623,7 @@
       },
       "followers": {
         "href": null,
-        "total": 79278
+        "total": 79310
       },
       "genres": [
         "mexican hip hop",
@@ -660,7 +660,7 @@
       },
       "followers": {
         "href": null,
-        "total": 95017
+        "total": 95087
       },
       "genres": [
         "trap mexicano"
@@ -773,7 +773,7 @@
       },
       "followers": {
         "href": null,
-        "total": 112494
+        "total": 112575
       },
       "genres": [
         "mexican hip hop",
@@ -809,7 +809,7 @@
       },
       "followers": {
         "href": null,
-        "total": 219418
+        "total": 219564
       },
       "genres": [
         "latin hip hop",
@@ -882,7 +882,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14066
+        "total": 14074
       },
       "genres": [
         "mexican hip hop"
@@ -940,7 +940,7 @@
         }
       ],
       "name": "C\u00f3digo KM",
-      "popularity": 6,
+      "popularity": 9,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
@@ -1021,7 +1021,7 @@
       },
       "followers": {
         "href": null,
-        "total": 52057
+        "total": 52093
       },
       "genres": [
         "indie campechano",
@@ -1459,7 +1459,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7775
+        "total": 7780
       },
       "genres": [
         "mexican hip hop",
@@ -1566,7 +1566,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21971851
+        "total": 21981820
       },
       "genres": [
         "conscious hip hop",
@@ -1604,7 +1604,7 @@
       },
       "followers": {
         "href": null,
-        "total": 100403
+        "total": 100481
       },
       "genres": [
         "mexican hip hop",
@@ -1640,7 +1640,7 @@
       },
       "followers": {
         "href": null,
-        "total": 258586
+        "total": 258683
       },
       "genres": [
         "boom bap espanol",

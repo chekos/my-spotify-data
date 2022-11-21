@@ -113,6 +113,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+      },
+      "followers": {
+        "href": null,
+        "total": 187084
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+      "id": "1FCItwxfRieMGhR0eRxotU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09adc06b030032f0ad563a13",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409adc06b030032f0ad563a13",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809adc06b030032f0ad563a13",
+          "width": 160
+        }
+      ],
+      "name": "Rich Vagos",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
@@ -146,41 +181,6 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-      },
-      "followers": {
-        "href": null,
-        "total": 187084
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-      "id": "1FCItwxfRieMGhR0eRxotU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09adc06b030032f0ad563a13",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409adc06b030032f0ad563a13",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809adc06b030032f0ad563a13",
-          "width": 160
-        }
-      ],
-      "name": "Rich Vagos",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
     {
       "external_urls": {
@@ -332,7 +332,7 @@
       },
       "followers": {
         "href": null,
-        "total": 95017
+        "total": 95087
       },
       "genres": [
         "trap mexicano"
@@ -866,7 +866,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23239
+        "total": 23258
       },
       "genres": [
         "mexican hip hop",
@@ -940,7 +940,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14066
+        "total": 14074
       },
       "genres": [
         "mexican hip hop"
@@ -1118,7 +1118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 219418
+        "total": 219564
       },
       "genres": [
         "latin hip hop",
@@ -1155,7 +1155,7 @@
       },
       "followers": {
         "href": null,
-        "total": 20701
+        "total": 20706
       },
       "genres": [
         "mexican hip hop"
@@ -1190,7 +1190,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7775
+        "total": 7780
       },
       "genres": [
         "mexican hip hop",
@@ -1226,7 +1226,7 @@
       },
       "followers": {
         "href": null,
-        "total": 79278
+        "total": 79310
       },
       "genres": [
         "mexican hip hop",
