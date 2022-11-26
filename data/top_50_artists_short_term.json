@@ -971,6 +971,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+      },
+      "followers": {
+        "href": null,
+        "total": 802569
+      },
+      "genres": [
+        "cantautor",
+        "folclore tucumano",
+        "folklore argentino",
+        "nueva cancion",
+        "rock en espanol",
+        "trova"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2HvyR5FsU37QMqVzIbGwl7",
+      "id": "2HvyR5FsU37QMqVzIbGwl7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb513c5e2928bba4a3d4608eb4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174513c5e2928bba4a3d4608eb4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178513c5e2928bba4a3d4608eb4",
+          "width": 160
+        }
+      ],
+      "name": "Mercedes Sosa",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:2HvyR5FsU37QMqVzIbGwl7"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
@@ -1113,46 +1153,6 @@
       "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-      },
-      "followers": {
-        "href": null,
-        "total": 802569
-      },
-      "genres": [
-        "cantautor",
-        "folclore tucumano",
-        "folklore argentino",
-        "nueva cancion",
-        "rock en espanol",
-        "trova"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2HvyR5FsU37QMqVzIbGwl7",
-      "id": "2HvyR5FsU37QMqVzIbGwl7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb513c5e2928bba4a3d4608eb4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174513c5e2928bba4a3d4608eb4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178513c5e2928bba4a3d4608eb4",
-          "width": 160
-        }
-      ],
-      "name": "Mercedes Sosa",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:2HvyR5FsU37QMqVzIbGwl7"
     },
     {
       "external_urls": {
