@@ -256,41 +256,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu"
-      },
-      "followers": {
-        "href": null,
-        "total": 7240
-      },
-      "genres": [
-        "milwaukee indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4AHhe1KXVCCoOdHQNjH5Zu",
-      "id": "4AHhe1KXVCCoOdHQNjH5Zu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb746494eb9829c626711f115b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174746494eb9829c626711f115b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178746494eb9829c626711f115b",
-          "width": 160
-        }
-      ],
-      "name": "REYNA",
-      "popularity": 27,
-      "type": "artist",
-      "uri": "spotify:artist:4AHhe1KXVCCoOdHQNjH5Zu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
       },
       "followers": {
@@ -1446,10 +1411,10 @@
       "uri": "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
     }
   ],
-  "total": 40,
+  "total": 39,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "next": null
 }
