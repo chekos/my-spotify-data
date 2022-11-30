@@ -434,6 +434,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "followers": {
+        "href": null,
+        "total": 7875769
+      },
+      "genres": [
+        "argentine hip hop",
+        "pop venezolano",
+        "trap argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id": "716NhGYqD1jl2wI1Qkgq36",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
+          "width": 160
+        }
+      ],
+      "name": "Bizarrap",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -725,43 +762,6 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-      },
-      "followers": {
-        "href": null,
-        "total": 7875769
-      },
-      "genres": [
-        "argentine hip hop",
-        "pop venezolano",
-        "trap argentino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-      "id": "716NhGYqD1jl2wI1Qkgq36",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
-          "width": 160
-        }
-      ],
-      "name": "Bizarrap",
-      "popularity": 85,
-      "type": "artist",
-      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     },
     {
       "external_urls": {
@@ -1343,6 +1343,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+      },
+      "followers": {
+        "href": null,
+        "total": 360588
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
+      "id": "6JG2QQcaQBzinELNvu9PRk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc2f0225c1855590b90d2d773",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c2f0225c1855590b90d2d773",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c2f0225c1855590b90d2d773",
+          "width": 160
+        }
+      ],
+      "name": "Bipo Montana",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -1449,7 +1485,7 @@
       "uri": "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
     }
   ],
-  "total": 40,
+  "total": 41,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
