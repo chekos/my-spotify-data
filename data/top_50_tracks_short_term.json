@@ -3041,6 +3041,243 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            },
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
+            "type": "artist",
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
+            "width": 64
+          }
+        ],
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
+          "type": "artist",
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 238306,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6P42209723"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ruIZmpltDy6Y1NyU2zr2U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ruIZmpltDy6Y1NyU2zr2U",
+      "id": "3ruIZmpltDy6Y1NyU2zr2U",
+      "is_local": false,
+      "name": "Tumbado Freestyle",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/af81e06ea9f163b70feebb175c6c2041b175bc8f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3ruIZmpltDy6Y1NyU2zr2U"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
             },
             "href": "https://api.spotify.com/v1/artists/0rJ0xlAQI0wLRucDRoQQbO",
@@ -3274,17 +3511,17 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "SINGLE",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
             },
-            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-            "id": "7I85Ma5xjAo6nlvqOCIiWx",
-            "name": "Fntxy",
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
             "type": "artist",
-            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
           }
         ],
         "available_markets": [
@@ -3369,44 +3606,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
+          "spotify": "https://open.spotify.com/album/7kjsDPy6QRdKWGiEwdaTwC"
         },
-        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
-        "id": "7cftuQ1mezvQCWSHtP7eA9",
+        "href": "https://api.spotify.com/v1/albums/7kjsDPy6QRdKWGiEwdaTwC",
+        "id": "7kjsDPy6QRdKWGiEwdaTwC",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
+            "url": "https://i.scdn.co/image/ab67616d0000b273499f976d4c6c60d36b52b29d",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
+            "url": "https://i.scdn.co/image/ab67616d00001e02499f976d4c6c60d36b52b29d",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
+            "url": "https://i.scdn.co/image/ab67616d00004851499f976d4c6c60d36b52b29d",
             "width": 64
           }
         ],
-        "name": "Homie Alone",
-        "release_date": "2022-07-29",
+        "name": "R8",
+        "release_date": "2018-05-25",
         "release_date_precision": "day",
-        "total_tracks": 17,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
+        "uri": "spotify:album:7kjsDPy6QRdKWGiEwdaTwC"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
           },
-          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-          "id": "7I85Ma5xjAo6nlvqOCIiWx",
-          "name": "Fntxy",
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
           "type": "artist",
-          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
         }
       ],
       "available_markets": [
@@ -3491,23 +3728,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 238306,
+      "duration_ms": 170561,
       "explicit": true,
       "external_ids": {
-        "isrc": "QM6P42209723"
+        "isrc": "QZ5AB1940946"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3ruIZmpltDy6Y1NyU2zr2U"
+        "spotify": "https://open.spotify.com/track/2TBUxA3Lran4WcgAksdo3x"
       },
-      "href": "https://api.spotify.com/v1/tracks/3ruIZmpltDy6Y1NyU2zr2U",
-      "id": "3ruIZmpltDy6Y1NyU2zr2U",
+      "href": "https://api.spotify.com/v1/tracks/2TBUxA3Lran4WcgAksdo3x",
+      "id": "2TBUxA3Lran4WcgAksdo3x",
       "is_local": false,
-      "name": "Tumbado Freestyle",
-      "popularity": 43,
-      "preview_url": "https://p.scdn.co/mp3-preview/af81e06ea9f163b70feebb175c6c2041b175bc8f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 16,
+      "name": "R8",
+      "popularity": 29,
+      "preview_url": "https://p.scdn.co/mp3-preview/1af93c34f54c6bdbb2ceb5826d4795e27efbb6c9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:3ruIZmpltDy6Y1NyU2zr2U"
+      "uri": "spotify:track:2TBUxA3Lran4WcgAksdo3x"
     },
     {
       "album": {
@@ -5255,243 +5492,6 @@
       "track_number": 7,
       "type": "track",
       "uri": "spotify:track:2B6YnDvjcwpoejag0MQBvY"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7kjsDPy6QRdKWGiEwdaTwC"
-        },
-        "href": "https://api.spotify.com/v1/albums/7kjsDPy6QRdKWGiEwdaTwC",
-        "id": "7kjsDPy6QRdKWGiEwdaTwC",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273499f976d4c6c60d36b52b29d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02499f976d4c6c60d36b52b29d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851499f976d4c6c60d36b52b29d",
-            "width": 64
-          }
-        ],
-        "name": "R8",
-        "release_date": "2018-05-25",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:7kjsDPy6QRdKWGiEwdaTwC"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 170561,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ5AB1940946"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2TBUxA3Lran4WcgAksdo3x"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2TBUxA3Lran4WcgAksdo3x",
-      "id": "2TBUxA3Lran4WcgAksdo3x",
-      "is_local": false,
-      "name": "R8",
-      "popularity": 29,
-      "preview_url": "https://p.scdn.co/mp3-preview/1af93c34f54c6bdbb2ceb5826d4795e27efbb6c9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2TBUxA3Lran4WcgAksdo3x"
     },
     {
       "album": {
