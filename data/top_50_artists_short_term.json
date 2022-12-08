@@ -1083,9 +1083,49 @@
       "popularity": 26,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+      },
+      "followers": {
+        "href": null,
+        "total": 2025398
+      },
+      "genres": [
+        "latin alternative",
+        "latin hip hop",
+        "latin rock",
+        "mexican hip hop",
+        "mexican rock",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
+      "id": "27Owkm4TGlMqb0BqaEt3PW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdac824cf925f7f8ee8b8180a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174dac824cf925f7f8ee8b8180a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178dac824cf925f7f8ee8b8180a",
+          "width": 160
+        }
+      ],
+      "name": "Molotov",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
     }
   ],
-  "total": 30,
+  "total": 31,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
