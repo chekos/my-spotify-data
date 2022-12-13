@@ -3263,93 +3263,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
-        },
-        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
-        "id": "0mIpceBen3APHHKsAe5SfK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
-            "width": 64
-          }
-        ],
-        "name": "Terremotos",
-        "release_date": "2016-11-09",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-          },
-          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
-          "id": "5ET6v0l25osw5BzztPsMvD",
-          "name": "Muelas De Gallo",
-          "type": "artist",
-          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 225882,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ5AB1628146"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
-      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
-      "is_local": false,
-      "name": "Terremotos",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -3584,6 +3497,93 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:7lBE9JV5hOgiJhJrpDslzI"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
+        },
+        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
+        "id": "0mIpceBen3APHHKsAe5SfK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
+            "width": 64
+          }
+        ],
+        "name": "Terremotos",
+        "release_date": "2016-11-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+          "id": "5ET6v0l25osw5BzztPsMvD",
+          "name": "Muelas De Gallo",
+          "type": "artist",
+          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 225882,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB1628146"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
+      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
+      "is_local": false,
+      "name": "Terremotos",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
     },
     {
       "album": {
@@ -10994,7 +10994,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
   "next": null
 }
