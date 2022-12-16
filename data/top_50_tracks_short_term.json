@@ -2269,6 +2269,97 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 350186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
+      "id": "25hiY8kewc9ytxr9cEgbHZ",
+      "is_local": false,
+      "name": "Amores Lejanos - En Vivo",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/e8d771f48a5ee6448bf567565e50fde3c5eca940?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
             },
             "href": "https://api.spotify.com/v1/artists/1hcdI2N1023RvSwLzTtdsp",
@@ -12178,243 +12269,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:3gub6mUQ7cvolCrEYZE8Pr"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7mD9y3xMFhWPKINN7Pa5qF"
-            },
-            "href": "https://api.spotify.com/v1/artists/7mD9y3xMFhWPKINN7Pa5qF",
-            "id": "7mD9y3xMFhWPKINN7Pa5qF",
-            "name": "Delosimple",
-            "type": "artist",
-            "uri": "spotify:artist:7mD9y3xMFhWPKINN7Pa5qF"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3fhgtKTRt9Cx8j0fbHcbOT"
-        },
-        "href": "https://api.spotify.com/v1/albums/3fhgtKTRt9Cx8j0fbHcbOT",
-        "id": "3fhgtKTRt9Cx8j0fbHcbOT",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e3b5d0fdc93e0e3f3c54258f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e3b5d0fdc93e0e3f3c54258f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e3b5d0fdc93e0e3f3c54258f",
-            "width": 64
-          }
-        ],
-        "name": "Absoluto",
-        "release_date": "2021-06-06",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3fhgtKTRt9Cx8j0fbHcbOT"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7mD9y3xMFhWPKINN7Pa5qF"
-          },
-          "href": "https://api.spotify.com/v1/artists/7mD9y3xMFhWPKINN7Pa5qF",
-          "id": "7mD9y3xMFhWPKINN7Pa5qF",
-          "name": "Delosimple",
-          "type": "artist",
-          "uri": "spotify:artist:7mD9y3xMFhWPKINN7Pa5qF"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 98106,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ42170353"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3kYTC22RsyfkV4h4nlXqMh"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3kYTC22RsyfkV4h4nlXqMh",
-      "id": "3kYTC22RsyfkV4h4nlXqMh",
-      "is_local": false,
-      "name": "Absoluto",
-      "popularity": 19,
-      "preview_url": "https://p.scdn.co/mp3-preview/fc3eb96a14468f7e893c6ea40077f24bbc62bca3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3kYTC22RsyfkV4h4nlXqMh"
     }
   ],
   "total": 50,
