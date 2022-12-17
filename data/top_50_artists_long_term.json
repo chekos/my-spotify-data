@@ -183,7 +183,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -307,8 +307,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap underground mexicano",
-        "urbano mexicano"
+        "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
       "id": "1gPiNBRjOB9XochAAFR3iM",
@@ -923,7 +922,7 @@
         }
       ],
       "name": "Desert Ni\u00f1os",
-      "popularity": 37,
+      "popularity": 38,
       "type": "artist",
       "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
     },
@@ -1029,7 +1028,7 @@
         }
       ],
       "name": "Wk",
-      "popularity": 45,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     },
@@ -1848,7 +1847,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "next": null
 }
