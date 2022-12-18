@@ -2,243 +2,6 @@
   "items": [
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-            },
-            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-            "id": "7I85Ma5xjAo6nlvqOCIiWx",
-            "name": "Fntxy",
-            "type": "artist",
-            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
-        },
-        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
-        "id": "7cftuQ1mezvQCWSHtP7eA9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
-            "width": 64
-          }
-        ],
-        "name": "Homie Alone",
-        "release_date": "2022-07-29",
-        "release_date_precision": "day",
-        "total_tracks": 17,
-        "type": "album",
-        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-          },
-          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-          "id": "7I85Ma5xjAo6nlvqOCIiWx",
-          "name": "Fntxy",
-          "type": "artist",
-          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 181969,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6P42209677"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7DxHxVvZkeW2UUrXYGmn3U",
-      "id": "7DxHxVvZkeW2UUrXYGmn3U",
-      "is_local": false,
-      "name": "Waze",
-      "popularity": 44,
-      "preview_url": "https://p.scdn.co/mp3-preview/90be934339f18eddea096744d2bcb21b6f02fd95?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:7DxHxVvZkeW2UUrXYGmn3U"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -500,6 +263,334 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 350186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
+      "id": "25hiY8kewc9ytxr9cEgbHZ",
+      "is_local": false,
+      "name": "Amores Lejanos - En Vivo",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/e8d771f48a5ee6448bf567565e50fde3c5eca940?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            },
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
+            "type": "artist",
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
+            "width": 64
+          }
+        ],
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
+          "type": "artist",
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 181969,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6P42209677"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DxHxVvZkeW2UUrXYGmn3U",
+      "id": "7DxHxVvZkeW2UUrXYGmn3U",
+      "is_local": false,
+      "name": "Waze",
+      "popularity": 44,
+      "preview_url": "https://p.scdn.co/mp3-preview/90be934339f18eddea096744d2bcb21b6f02fd95?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7DxHxVvZkeW2UUrXYGmn3U"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
             },
             "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
@@ -730,6 +821,273 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:1orgfjGJoycODSItcGVatE"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
+            "id": "7psBfCiJgjoSL9JMbTxqGU",
+            "name": "Kamaro",
+            "type": "artist",
+            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
+        },
+        "href": "https://api.spotify.com/v1/albums/4lgrPArcFGHMKgqxmTeSMA",
+        "id": "4lgrPArcFGHMKgqxmTeSMA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27301e2981ec91b99ae33cce9bb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0201e2981ec91b99ae33cce9bb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485101e2981ec91b99ae33cce9bb",
+            "width": 64
+          }
+        ],
+        "name": "M\u00fasica Prohibida",
+        "release_date": "2022-06-24",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:4lgrPArcFGHMKgqxmTeSMA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
+          "id": "7psBfCiJgjoSL9JMbTxqGU",
+          "name": "Kamaro",
+          "type": "artist",
+          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+          "id": "3ScIigEm9KZUrUQtXzBmKJ",
+          "name": "Cozy Cuz",
+          "type": "artist",
+          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 224000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6N22252150"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0F474liaweEFCAavvqZHiu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0F474liaweEFCAavvqZHiu",
+      "id": "0F474liaweEFCAavvqZHiu",
+      "is_local": false,
+      "name": "El Amigo",
+      "popularity": 25,
+      "preview_url": "https://p.scdn.co/mp3-preview/10e96bf5cb84888c83f91c2a4a49fb659c143f6d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0F474liaweEFCAavvqZHiu"
     },
     {
       "album": {
@@ -1471,97 +1829,6 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:1bK03ss9a8va8QoxJPedwt"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "id": "6zGGjiyCeY36tgNrxsFrK9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-            "width": 64
-          }
-        ],
-        "name": "En Vivo",
-        "release_date": "2004-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-          "id": "4TK1gDgb7QKoPFlzRrBRgR",
-          "name": "Los Enanitos Verdes",
-          "type": "artist",
-          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "CO",
-        "CR",
-        "ES",
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 350186,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF110400437"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
-      "id": "25hiY8kewc9ytxr9cEgbHZ",
-      "is_local": false,
-      "name": "Amores Lejanos - En Vivo",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/e8d771f48a5ee6448bf567565e50fde3c5eca940?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
     },
     {
       "album": {
@@ -4289,273 +4556,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0D41fVPqGcBIy7HXvwMGw4"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-            },
-            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-            "id": "7psBfCiJgjoSL9JMbTxqGU",
-            "name": "Kamaro",
-            "type": "artist",
-            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
-        },
-        "href": "https://api.spotify.com/v1/albums/4lgrPArcFGHMKgqxmTeSMA",
-        "id": "4lgrPArcFGHMKgqxmTeSMA",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27301e2981ec91b99ae33cce9bb",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0201e2981ec91b99ae33cce9bb",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485101e2981ec91b99ae33cce9bb",
-            "width": 64
-          }
-        ],
-        "name": "M\u00fasica Prohibida",
-        "release_date": "2022-06-24",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:4lgrPArcFGHMKgqxmTeSMA"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-          },
-          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-          "id": "7psBfCiJgjoSL9JMbTxqGU",
-          "name": "Kamaro",
-          "type": "artist",
-          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-          "id": "3ScIigEm9KZUrUQtXzBmKJ",
-          "name": "Cozy Cuz",
-          "type": "artist",
-          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 224000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6N22252150"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0F474liaweEFCAavvqZHiu"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0F474liaweEFCAavvqZHiu",
-      "id": "0F474liaweEFCAavvqZHiu",
-      "is_local": false,
-      "name": "El Amigo",
-      "popularity": 25,
-      "preview_url": "https://p.scdn.co/mp3-preview/10e96bf5cb84888c83f91c2a4a49fb659c143f6d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:0F474liaweEFCAavvqZHiu"
     },
     {
       "album": {
@@ -11814,7 +11814,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=short_term",
+  "previous": null,
   "next": null
 }
