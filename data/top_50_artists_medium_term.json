@@ -195,7 +195,8 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap conciencia"
+        "rap conciencia",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
       "id": "2hejA1Dkf8v8R0koF44FvW",
@@ -471,7 +472,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 46,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -581,7 +582,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 47,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -1496,7 +1497,7 @@
         }
       ],
       "name": "Los Enanitos Verdes",
-      "popularity": 72,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     },
@@ -1829,7 +1830,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "next": null
 }

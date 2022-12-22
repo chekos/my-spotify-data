@@ -10,7 +10,8 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap conciencia"
+        "rap conciencia",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
       "id": "2hejA1Dkf8v8R0koF44FvW",
@@ -327,7 +328,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 46,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -847,7 +848,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 47,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -1357,7 +1358,7 @@
         }
       ],
       "name": "Los Tigres Del Norte",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:3hYtANQYrE6pd2PbtEyTIy"
     },
@@ -1430,7 +1431,7 @@
         }
       ],
       "name": "Mike Diaz",
-      "popularity": 37,
+      "popularity": 38,
       "type": "artist",
       "uri": "spotify:artist:5pR3pEU0bCMZhhAzag3DUz"
     },
@@ -1842,7 +1843,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "next": null
 }
