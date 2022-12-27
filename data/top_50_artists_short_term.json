@@ -307,6 +307,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+      },
+      "followers": {
+        "href": null,
+        "total": 293
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+      "id": "231yQfVjg9sGhTNsaym9ck",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+          "width": 64
+        }
+      ],
+      "name": "C\u00f3digo KM",
+      "popularity": 10,
+      "type": "artist",
+      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
@@ -343,112 +376,6 @@
       "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-      },
-      "followers": {
-        "href": null,
-        "total": 293
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-      "id": "231yQfVjg9sGhTNsaym9ck",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
-          "width": 64
-        }
-      ],
-      "name": "C\u00f3digo KM",
-      "popularity": 10,
-      "type": "artist",
-      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1000451
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-      },
-      "followers": {
-        "href": null,
-        "total": 61430843
-      },
-      "genres": [
-        "reggaeton",
-        "trap latino",
-        "urbano latino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-      "id": "4q3ewBCX7sLwd24euuV69X",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
-          "width": 160
-        }
-      ],
-      "name": "Bad Bunny",
-      "popularity": 100,
-      "type": "artist",
-      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
     },
     {
       "external_urls": {
@@ -565,6 +492,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "followers": {
+        "href": null,
+        "total": 61430843
+      },
+      "genres": [
+        "reggaeton",
+        "trap latino",
+        "urbano latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+          "width": 160
+        }
+      ],
+      "name": "Bad Bunny",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -603,7 +567,7 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 16,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
