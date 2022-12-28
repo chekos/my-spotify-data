@@ -476,7 +476,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 71,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -587,7 +587,7 @@
         }
       ],
       "name": "Robot95",
-      "popularity": 62,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
@@ -885,7 +885,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 66,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -1233,7 +1233,9 @@
         "href": null,
         "total": 11661
       },
-      "genres": [],
+      "genres": [
+        "latin alternative"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1542,7 +1544,7 @@
         }
       ],
       "name": "Bipo Montana",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
     },
@@ -1728,7 +1730,7 @@
         }
       ],
       "name": "Akwid",
-      "popularity": 61,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
     },
@@ -1846,7 +1848,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
