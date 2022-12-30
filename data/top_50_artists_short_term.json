@@ -307,39 +307,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-      },
-      "followers": {
-        "href": null,
-        "total": 294
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-      "id": "231yQfVjg9sGhTNsaym9ck",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
-          "width": 64
-        }
-      ],
-      "name": "C\u00f3digo KM",
-      "popularity": 10,
-      "type": "artist",
-      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
@@ -379,43 +346,36 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
       },
       "followers": {
         "href": null,
-        "total": 2032792
+        "total": 294
       },
-      "genres": [
-        "latin alternative",
-        "latin hip hop",
-        "latin rock",
-        "mexican hip hop",
-        "mexican rock",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
-      "id": "27Owkm4TGlMqb0BqaEt3PW",
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+      "id": "231yQfVjg9sGhTNsaym9ck",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdac824cf925f7f8ee8b8180a",
+          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dac824cf925f7f8ee8b8180a",
-          "width": 320
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+          "width": 300
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dac824cf925f7f8ee8b8180a",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+          "width": 64
         }
       ],
-      "name": "Molotov",
-      "popularity": 66,
+      "name": "C\u00f3digo KM",
+      "popularity": 10,
       "type": "artist",
-      "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
+      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
     {
       "external_urls": {
@@ -567,10 +527,10 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 15,
+  "total": 14,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "next": null
 }
