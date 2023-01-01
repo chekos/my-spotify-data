@@ -159,6 +159,7 @@
       },
       "genres": [
         "mexican hip hop",
+        "perreo",
         "rap underground mexicano",
         "urbano mexicano"
       ],
@@ -954,7 +955,7 @@
         }
       ],
       "name": "C\u00f3digo KM",
-      "popularity": 10,
+      "popularity": 9,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
@@ -1233,7 +1234,9 @@
         "href": null,
         "total": 11707
       },
-      "genres": [],
+      "genres": [
+        "latin alternative"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1846,7 +1849,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "next": null
 }
