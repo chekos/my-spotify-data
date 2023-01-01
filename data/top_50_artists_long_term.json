@@ -1661,6 +1661,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+      },
+      "followers": {
+        "href": null,
+        "total": 1181995
+      },
+      "genres": [
+        "chicano rap",
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
+      "id": "3mYFuz6iY7D9X78rOXg5CG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb10878c506a126c91402b4be6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517410878c506a126c91402b4be6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17810878c506a126c91402b4be6",
+          "width": 160
+        }
+      ],
+      "name": "Akwid",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
       },
       "followers": {
@@ -1697,43 +1734,6 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-      },
-      "followers": {
-        "href": null,
-        "total": 1181995
-      },
-      "genres": [
-        "chicano rap",
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
-      "id": "3mYFuz6iY7D9X78rOXg5CG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb10878c506a126c91402b4be6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517410878c506a126c91402b4be6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17810878c506a126c91402b4be6",
-          "width": 160
-        }
-      ],
-      "name": "Akwid",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
     },
     {
       "external_urls": {
@@ -1849,7 +1849,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
