@@ -6052,6 +6052,263 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Aleman",
+            "type": "artist",
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7wUIkeQGuvBHuymoRWUtYx"
+        },
+        "href": "https://api.spotify.com/v1/albums/7wUIkeQGuvBHuymoRWUtYx",
+        "id": "7wUIkeQGuvBHuymoRWUtYx",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b1e85564fda786c90e71a38",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021b1e85564fda786c90e71a38",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511b1e85564fda786c90e71a38",
+            "width": 64
+          }
+        ],
+        "name": "Odio el Drama",
+        "release_date": "2018-12-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7wUIkeQGuvBHuymoRWUtYx"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 233273,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "usl4r1811122"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3vhPJL3xarF2lPYTMTU8v5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3vhPJL3xarF2lPYTMTU8v5",
+      "id": "3vhPJL3xarF2lPYTMTU8v5",
+      "is_local": false,
+      "name": "Odio el Drama",
+      "popularity": 52,
+      "preview_url": "https://p.scdn.co/mp3-preview/94d6282c260be2719c9c63628be38f83de889b3b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3vhPJL3xarF2lPYTMTU8v5"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -8567,6 +8824,253 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+            },
+            "href": "https://api.spotify.com/v1/artists/30BSBWLKnYJION1lCPugXc",
+            "id": "30BSBWLKnYJION1lCPugXc",
+            "name": "Santa RM",
+            "type": "artist",
+            "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4vECtOiPgIljIql1IpB3sz"
+        },
+        "href": "https://api.spotify.com/v1/albums/4vECtOiPgIljIql1IpB3sz",
+        "id": "4vECtOiPgIljIql1IpB3sz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27386c2e98146f2080b51904aa7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0286c2e98146f2080b51904aa7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485186c2e98146f2080b51904aa7",
+            "width": 64
+          }
+        ],
+        "name": "Sesiones Perdidas (2016-2019)",
+        "release_date": "2019-12-31",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:4vECtOiPgIljIql1IpB3sz"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          },
+          "href": "https://api.spotify.com/v1/artists/30BSBWLKnYJION1lCPugXc",
+          "id": "30BSBWLKnYJION1lCPugXc",
+          "name": "Santa RM",
+          "type": "artist",
+          "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10J3a6GsujuosUYXJ4DL5y"
+          },
+          "href": "https://api.spotify.com/v1/artists/10J3a6GsujuosUYXJ4DL5y",
+          "id": "10J3a6GsujuosUYXJ4DL5y",
+          "name": "Ill Mascaras",
+          "type": "artist",
+          "uri": "spotify:artist:10J3a6GsujuosUYXJ4DL5y"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 227882,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ61916664"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ORwwya03bitRr4PiSnQxs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ORwwya03bitRr4PiSnQxs",
+      "id": "0ORwwya03bitRr4PiSnQxs",
+      "is_local": false,
+      "name": "Click Clack",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/d550dd3bd0fcbb178c386c03047f598c24bcfdd9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0ORwwya03bitRr4PiSnQxs"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
             },
             "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
@@ -11063,17 +11567,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
             },
-            "href": "https://api.spotify.com/v1/artists/0VZrPa7mWAYXH4CwmYk8Km",
-            "id": "0VZrPa7mWAYXH4CwmYk8Km",
-            "name": "Kidd Keo",
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
             "type": "artist",
-            "uri": "spotify:artist:0VZrPa7mWAYXH4CwmYk8Km"
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
           }
         ],
         "available_markets": [
@@ -11158,54 +11662,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/26Y2EukOIUcgSt20c8jQPN"
+          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
         },
-        "href": "https://api.spotify.com/v1/albums/26Y2EukOIUcgSt20c8jQPN",
-        "id": "26Y2EukOIUcgSt20c8jQPN",
+        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
+        "id": "6pV6SSMwxUzqGRC5OZjrCi",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27335e44680a989b35bd172697d",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0235e44680a989b35bd172697d",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485135e44680a989b35bd172697d",
+            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
             "width": 64
           }
         ],
-        "name": "Touchdown",
-        "release_date": "2018-05-24",
+        "name": "Degeneraci\u00f3n Nacional",
+        "release_date": "2022-08-19",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 16,
         "type": "album",
-        "uri": "spotify:album:26Y2EukOIUcgSt20c8jQPN"
+        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
           },
-          "href": "https://api.spotify.com/v1/artists/0VZrPa7mWAYXH4CwmYk8Km",
-          "id": "0VZrPa7mWAYXH4CwmYk8Km",
-          "name": "Kidd Keo",
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
           "type": "artist",
-          "uri": "spotify:artist:0VZrPa7mWAYXH4CwmYk8Km"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-          },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
-          "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
         }
       ],
       "available_markets": [
@@ -11290,343 +11784,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 193500,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "usdy41891509"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1g2pomnU3K9f0f5wW4k0N0"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1g2pomnU3K9f0f5wW4k0N0",
-      "id": "1g2pomnU3K9f0f5wW4k0N0",
-      "is_local": false,
-      "name": "Touchdown",
-      "popularity": 61,
-      "preview_url": "https://p.scdn.co/mp3-preview/de48a5435569aab49550199228fdd10192f71c94?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1g2pomnU3K9f0f5wW4k0N0"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-            },
-            "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-            "id": "4H3ePoFDdsl36QwB96jZzg",
-            "name": "Leyruk",
-            "type": "artist",
-            "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7zxW9wRNKndM4CUH9XeU1i"
-        },
-        "href": "https://api.spotify.com/v1/albums/7zxW9wRNKndM4CUH9XeU1i",
-        "id": "7zxW9wRNKndM4CUH9XeU1i",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737c0bb5196b6be5671cb73f25",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027c0bb5196b6be5671cb73f25",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517c0bb5196b6be5671cb73f25",
-            "width": 64
-          }
-        ],
-        "name": "Bendici\u00f3n",
-        "release_date": "2017-01-26",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:7zxW9wRNKndM4CUH9XeU1i"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-          },
-          "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-          "id": "4H3ePoFDdsl36QwB96jZzg",
-          "name": "Leyruk",
-          "type": "artist",
-          "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 234000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG1701888"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1oTr4QvEtyXhurMb58EUG1"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1oTr4QvEtyXhurMb58EUG1",
-      "id": "1oTr4QvEtyXhurMb58EUG1",
-      "is_local": false,
-      "name": "Respira Profundo",
-      "popularity": 13,
-      "preview_url": "https://p.scdn.co/mp3-preview/e10686f0013d1198770dd9d9dcf29392cfa24dfe?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 12,
-      "type": "track",
-      "uri": "spotify:track:1oTr4QvEtyXhurMb58EUG1"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2Lss2KwJWG97CZIEvyzYfl"
-            },
-            "href": "https://api.spotify.com/v1/artists/2Lss2KwJWG97CZIEvyzYfl",
-            "id": "2Lss2KwJWG97CZIEvyzYfl",
-            "name": "Chuy Jr",
-            "type": "artist",
-            "uri": "spotify:artist:2Lss2KwJWG97CZIEvyzYfl"
-          }
-        ],
-        "available_markets": [
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/1NjSCGuxxrq5A1bTA1W6sa"
-        },
-        "href": "https://api.spotify.com/v1/albums/1NjSCGuxxrq5A1bTA1W6sa",
-        "id": "1NjSCGuxxrq5A1bTA1W6sa",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273781aceda52180e6810cd1298",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02781aceda52180e6810cd1298",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851781aceda52180e6810cd1298",
-            "width": 64
-          }
-        ],
-        "name": "Mr. Party",
-        "release_date": "2003-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:1NjSCGuxxrq5A1bTA1W6sa"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2Lss2KwJWG97CZIEvyzYfl"
-          },
-          "href": "https://api.spotify.com/v1/artists/2Lss2KwJWG97CZIEvyzYfl",
-          "id": "2Lss2KwJWG97CZIEvyzYfl",
-          "name": "Chuy Jr",
-          "type": "artist",
-          "uri": "spotify:artist:2Lss2KwJWG97CZIEvyzYfl"
-        }
-      ],
-      "available_markets": [
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 264386,
+      "duration_ms": 216440,
       "explicit": false,
       "external_ids": {
-        "isrc": "USEL10300223"
+        "isrc": "QMBZ92263779"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1sx7zAJNjXFJ6S7mzBTp57"
+        "spotify": "https://open.spotify.com/track/1OWGGvhEFKGVJoq9dTjo4Z"
       },
-      "href": "https://api.spotify.com/v1/tracks/1sx7zAJNjXFJ6S7mzBTp57",
-      "id": "1sx7zAJNjXFJ6S7mzBTp57",
+      "href": "https://api.spotify.com/v1/tracks/1OWGGvhEFKGVJoq9dTjo4Z",
+      "id": "1OWGGvhEFKGVJoq9dTjo4Z",
       "is_local": false,
-      "name": "Mr. Party - Extended Club Mix",
-      "popularity": 7,
-      "preview_url": "https://p.scdn.co/mp3-preview/db05b20e47481316c551c2072fc4fbb90980e985?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 11,
+      "name": "Agua Transparente",
+      "popularity": 33,
+      "preview_url": "https://p.scdn.co/mp3-preview/5efb01c90d7bbc92a17373db3ab5c1d9e47bccbe?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 16,
       "type": "track",
-      "uri": "spotify:track:1sx7zAJNjXFJ6S7mzBTp57"
+      "uri": "spotify:track:1OWGGvhEFKGVJoq9dTjo4Z"
     }
   ],
   "total": 50,
