@@ -86,7 +86,8 @@
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
-        "rock en espanol"
+        "rock en espanol",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -307,7 +308,8 @@
       "genres": [
         "mexican hip hop",
         "rap underground mexicano",
-        "trap mexicano"
+        "trap mexicano",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -624,7 +626,7 @@
         }
       ],
       "name": "Simpson Ahuevo",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
     },
@@ -897,7 +899,8 @@
         "total": 14504
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
       "id": "2Ch5zHsrWSpgq7g0WI2UFD",
@@ -1846,7 +1849,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
