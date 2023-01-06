@@ -86,8 +86,7 @@
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
-        "rock en espanol",
-        "urbano mexicano"
+        "rock en espanol"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -308,8 +307,7 @@
       "genres": [
         "mexican hip hop",
         "rap underground mexicano",
-        "trap mexicano",
-        "urbano mexicano"
+        "trap mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -1222,7 +1220,7 @@
         }
       ],
       "name": "Calle 13",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
     },
@@ -1234,9 +1232,7 @@
         "href": null,
         "total": 11762
       },
-      "genres": [
-        "latin alternative"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1849,7 +1845,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "next": null
 }
