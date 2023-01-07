@@ -6272,93 +6272,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
-        },
-        "href": "https://api.spotify.com/v1/albums/20q5j9oFR1Ax38kogUuGiq",
-        "id": "20q5j9oFR1Ax38kogUuGiq",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d0f0949b68a1bddd254c5658",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d0f0949b68a1bddd254c5658",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d0f0949b68a1bddd254c5658",
-            "width": 64
-          }
-        ],
-        "name": "El Vicio y la Fama",
-        "release_date": "2019-07-15",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:20q5j9oFR1Ax38kogUuGiq"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/53QLtXsBANuv2bQuaTD4t0"
-          },
-          "href": "https://api.spotify.com/v1/artists/53QLtXsBANuv2bQuaTD4t0",
-          "id": "53QLtXsBANuv2bQuaTD4t0",
-          "name": "King Lil G",
-          "type": "artist",
-          "uri": "spotify:artist:53QLtXsBANuv2bQuaTD4t0"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 258077,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZGLM1912250"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3HvItAQaInmvJVu7XJcP4X"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3HvItAQaInmvJVu7XJcP4X",
-      "id": "3HvItAQaInmvJVu7XJcP4X",
-      "is_local": false,
-      "name": "Con Mi F\u00e9",
-      "popularity": 40,
-      "preview_url": null,
-      "track_number": 8,
-      "type": "track",
-      "uri": "spotify:track:3HvItAQaInmvJVu7XJcP4X"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
             },
             "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
@@ -6599,6 +6512,93 @@
       "track_number": 12,
       "type": "track",
       "uri": "spotify:track:14caNW7a2eNEjUChgcDG01"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
+        },
+        "href": "https://api.spotify.com/v1/albums/20q5j9oFR1Ax38kogUuGiq",
+        "id": "20q5j9oFR1Ax38kogUuGiq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d0f0949b68a1bddd254c5658",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d0f0949b68a1bddd254c5658",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d0f0949b68a1bddd254c5658",
+            "width": 64
+          }
+        ],
+        "name": "El Vicio y la Fama",
+        "release_date": "2019-07-15",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:20q5j9oFR1Ax38kogUuGiq"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53QLtXsBANuv2bQuaTD4t0"
+          },
+          "href": "https://api.spotify.com/v1/artists/53QLtXsBANuv2bQuaTD4t0",
+          "id": "53QLtXsBANuv2bQuaTD4t0",
+          "name": "King Lil G",
+          "type": "artist",
+          "uri": "spotify:artist:53QLtXsBANuv2bQuaTD4t0"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 258077,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZGLM1912250"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HvItAQaInmvJVu7XJcP4X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HvItAQaInmvJVu7XJcP4X",
+      "id": "3HvItAQaInmvJVu7XJcP4X",
+      "is_local": false,
+      "name": "Con Mi F\u00e9",
+      "popularity": 40,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3HvItAQaInmvJVu7XJcP4X"
     },
     {
       "album": {
@@ -10994,7 +10994,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
