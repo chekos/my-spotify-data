@@ -2079,253 +2079,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-            },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
-            "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
-        },
-        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
-        "id": "6pV6SSMwxUzqGRC5OZjrCi",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
-            "width": 64
-          }
-        ],
-        "name": "Degeneraci\u00f3n Nacional",
-        "release_date": "2022-08-19",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-          },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
-          "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
-          },
-          "href": "https://api.spotify.com/v1/artists/6pu8qjuOYZRBYc1hiHEVL5",
-          "id": "6pu8qjuOYZRBYc1hiHEVL5",
-          "name": "Primero Company",
-          "type": "artist",
-          "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 322111,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QMBZ92263761"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4hPl8CtzHoh9LMmKTFyiPl"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4hPl8CtzHoh9LMmKTFyiPl",
-      "id": "4hPl8CtzHoh9LMmKTFyiPl",
-      "is_local": false,
-      "name": "Lupe Esparza",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/a45f726208b5915be2aa491ae5371b675674334f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:4hPl8CtzHoh9LMmKTFyiPl"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -2580,6 +2333,253 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7xRWmHZ2wt3zDgM5mAL0JU"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
+            "type": "artist",
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
+        },
+        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
+        "id": "6pV6SSMwxUzqGRC5OZjrCi",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
+            "width": 64
+          }
+        ],
+        "name": "Degeneraci\u00f3n Nacional",
+        "release_date": "2022-08-19",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pu8qjuOYZRBYc1hiHEVL5",
+          "id": "6pu8qjuOYZRBYc1hiHEVL5",
+          "name": "Primero Company",
+          "type": "artist",
+          "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 322111,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QMBZ92263761"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4hPl8CtzHoh9LMmKTFyiPl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4hPl8CtzHoh9LMmKTFyiPl",
+      "id": "4hPl8CtzHoh9LMmKTFyiPl",
+      "is_local": false,
+      "name": "Lupe Esparza",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/a45f726208b5915be2aa491ae5371b675674334f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4hPl8CtzHoh9LMmKTFyiPl"
     },
     {
       "album": {
@@ -11501,13 +11501,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
-            "href": "https://api.spotify.com/v1/artists/4TPTW3cTwUtiihgOMSQfmy",
-            "id": "4TPTW3cTwUtiihgOMSQfmy",
-            "name": "Mexican Institute Of Sound",
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
             "type": "artist",
-            "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
           }
         ],
         "available_markets": [
@@ -11592,44 +11592,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV"
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
         },
-        "href": "https://api.spotify.com/v1/albums/70WPUwHcJq2pRObNPByUaV",
-        "id": "70WPUwHcJq2pRObNPByUaV",
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273df886fe0ce9508891244e662",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02df886fe0ce9508891244e662",
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851df886fe0ce9508891244e662",
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
             "width": 64
           }
         ],
-        "name": "M\u00e9jico M\u00e1xico",
-        "release_date": "2006-08-15",
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
         "release_date_precision": "day",
-        "total_tracks": 15,
+        "total_tracks": 17,
         "type": "album",
-        "uri": "spotify:album:70WPUwHcJq2pRObNPByUaV"
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
           },
-          "href": "https://api.spotify.com/v1/artists/4TPTW3cTwUtiihgOMSQfmy",
-          "id": "4TPTW3cTwUtiihgOMSQfmy",
-          "name": "Mexican Institute Of Sound",
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
           "type": "artist",
-          "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
       "available_markets": [
@@ -11714,29 +11714,29 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 275933,
-      "explicit": false,
+      "duration_ms": 181969,
+      "explicit": true,
       "external_ids": {
-        "isrc": "US66W0500158"
+        "isrc": "QM6P42209677"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs"
+        "spotify": "https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U"
       },
-      "href": "https://api.spotify.com/v1/tracks/00Z3s0Xw7oE3fgTSZVjEFs",
-      "id": "00Z3s0Xw7oE3fgTSZVjEFs",
+      "href": "https://api.spotify.com/v1/tracks/7DxHxVvZkeW2UUrXYGmn3U",
+      "id": "7DxHxVvZkeW2UUrXYGmn3U",
       "is_local": false,
-      "name": "Mirando a las muchachas",
-      "popularity": 41,
-      "preview_url": "https://p.scdn.co/mp3-preview/5653f61b22f737f2db1a845ff84696d712faa41a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
+      "name": "Waze",
+      "popularity": 45,
+      "preview_url": "https://p.scdn.co/mp3-preview/184114ef0041b440e5ec570f13270ff1e6ab9f3f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:00Z3s0Xw7oE3fgTSZVjEFs"
+      "uri": "spotify:track:7DxHxVvZkeW2UUrXYGmn3U"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=short_term",
+  "previous": null,
   "next": null
 }
