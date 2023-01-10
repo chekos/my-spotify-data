@@ -269,42 +269,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-      },
-      "followers": {
-        "href": null,
-        "total": 504251
-      },
-      "genres": [
-        "trap venezolano",
-        "venezuelan hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-      "id": "6fMZytDgX1Q9OV6ndSugym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09c68a8336b98ac8f9a973bd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409c68a8336b98ac8f9a973bd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809c68a8336b98ac8f9a973bd",
-          "width": 160
-        }
-      ],
-      "name": "Akapellah",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
@@ -339,6 +303,42 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+      },
+      "followers": {
+        "href": null,
+        "total": 504251
+      },
+      "genres": [
+        "trap venezolano",
+        "venezuelan hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+      "id": "6fMZytDgX1Q9OV6ndSugym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09c68a8336b98ac8f9a973bd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409c68a8336b98ac8f9a973bd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809c68a8336b98ac8f9a973bd",
+          "width": 160
+        }
+      ],
+      "name": "Akapellah",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
     {
       "external_urls": {
@@ -634,6 +634,42 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 24830
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbaaf11d94da66eee2c0105da",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174baaf11d94da66eee2c0105da",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178baaf11d94da66eee2c0105da",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -966,10 +1002,10 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 26,
+  "total": 27,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
+  "previous": null,
   "next": null
 }
