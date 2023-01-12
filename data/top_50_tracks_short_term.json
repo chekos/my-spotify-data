@@ -6,97 +6,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "id": "6zGGjiyCeY36tgNrxsFrK9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-            "width": 64
-          }
-        ],
-        "name": "En Vivo",
-        "release_date": "2004-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-          "id": "4TK1gDgb7QKoPFlzRrBRgR",
-          "name": "Los Enanitos Verdes",
-          "type": "artist",
-          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "CO",
-        "CR",
-        "ES",
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 350186,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF110400437"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
-      "id": "25hiY8kewc9ytxr9cEgbHZ",
-      "is_local": false,
-      "name": "Amores Lejanos - En Vivo",
-      "popularity": 41,
-      "preview_url": "https://p.scdn.co/mp3-preview/e8d771f48a5ee6448bf567565e50fde3c5eca940?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
             },
             "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
@@ -1088,6 +997,97 @@
       "track_number": 3,
       "type": "track",
       "uri": "spotify:track:0F474liaweEFCAavvqZHiu"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 350186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
+      "id": "25hiY8kewc9ytxr9cEgbHZ",
+      "is_local": false,
+      "name": "Amores Lejanos - En Vivo",
+      "popularity": 41,
+      "preview_url": "https://p.scdn.co/mp3-preview/e8d771f48a5ee6448bf567565e50fde3c5eca940?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
     },
     {
       "album": {
@@ -8956,243 +8956,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-            },
-            "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
-            "id": "6qhOH2mrlqUDod9sWA5kR2",
-            "name": "Leo Dan",
-            "type": "artist",
-            "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
-        },
-        "href": "https://api.spotify.com/v1/albums/4Zu8MMEmfN8UKLj2NwSHNj",
-        "id": "4Zu8MMEmfN8UKLj2NwSHNj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273560b820e862292dbca9c9404",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02560b820e862292dbca9c9404",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851560b820e862292dbca9c9404",
-            "width": 64
-          }
-        ],
-        "name": "Mis Favoritas",
-        "release_date": "2011-09-05",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:4Zu8MMEmfN8UKLj2NwSHNj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-          },
-          "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
-          "id": "6qhOH2mrlqUDod9sWA5kR2",
-          "name": "Leo Dan",
-          "type": "artist",
-          "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 224680,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF147500033"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2abKcsIsagDgFtOE0xSv0r"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2abKcsIsagDgFtOE0xSv0r",
-      "id": "2abKcsIsagDgFtOE0xSv0r",
-      "is_local": false,
-      "name": "Siempre Estoy Pensando en Ella",
-      "popularity": 43,
-      "preview_url": "https://p.scdn.co/mp3-preview/ed62cfda982eb8af32309f3bc27952fd1b779e87?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:2abKcsIsagDgFtOE0xSv0r"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -11751,6 +11514,243 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:5GkArSRoxpRj7EuVxG4jCz"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
+            "type": "artist",
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
+        },
+        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
+        "id": "6pV6SSMwxUzqGRC5OZjrCi",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
+            "width": 64
+          }
+        ],
+        "name": "Degeneraci\u00f3n Nacional",
+        "release_date": "2022-08-19",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 205146,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QMBZ92263775"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XEVGtwVfLVHrgZURRlLPy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XEVGtwVfLVHrgZURRlLPy",
+      "id": "5XEVGtwVfLVHrgZURRlLPy",
+      "is_local": false,
+      "name": "Degeneraci\u00f3n Nacional",
+      "popularity": 38,
+      "preview_url": "https://p.scdn.co/mp3-preview/ecefd7f3603bcc07a931a5ec4601f871ec0740d2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5XEVGtwVfLVHrgZURRlLPy"
     }
   ],
   "total": 50,
