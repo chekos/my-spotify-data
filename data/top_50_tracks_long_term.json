@@ -8856,243 +8856,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
-            },
-            "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
-            "id": "171953d8wJbRvl2f36uLDd",
-            "name": "King Zoo",
-            "type": "artist",
-            "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0SWr5Egie3SfPmUqxKEev2"
-        },
-        "href": "https://api.spotify.com/v1/albums/0SWr5Egie3SfPmUqxKEev2",
-        "id": "0SWr5Egie3SfPmUqxKEev2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c89bd1d830439f0027dec65d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c89bd1d830439f0027dec65d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c89bd1d830439f0027dec65d",
-            "width": 64
-          }
-        ],
-        "name": "One 4 Da Good Times",
-        "release_date": "2015-12-08",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:0SWr5Egie3SfPmUqxKEev2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
-          },
-          "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
-          "id": "171953d8wJbRvl2f36uLDd",
-          "name": "King Zoo",
-          "type": "artist",
-          "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 188891,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHN61994317"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5pgUjfky2Gj1DoO1VvVgMV"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5pgUjfky2Gj1DoO1VvVgMV",
-      "id": "5pgUjfky2Gj1DoO1VvVgMV",
-      "is_local": false,
-      "name": "Beng Beng",
-      "popularity": 15,
-      "preview_url": "https://p.scdn.co/mp3-preview/c5c500d1be7798274da6a8a55586e220581ca492?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:5pgUjfky2Gj1DoO1VvVgMV"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
             "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
@@ -10187,93 +9950,6 @@
             "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
           }
         ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3brzmaUwnNKFIB6pDzKcjC"
-        },
-        "href": "https://api.spotify.com/v1/albums/3brzmaUwnNKFIB6pDzKcjC",
-        "id": "3brzmaUwnNKFIB6pDzKcjC",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27393e44cc1682f9024e2f85670",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0293e44cc1682f9024e2f85670",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485193e44cc1682f9024e2f85670",
-            "width": 64
-          }
-        ],
-        "name": "ETC\u00c97ERA",
-        "release_date": "2019-06-21",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:3brzmaUwnNKFIB6pDzKcjC"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-          },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
-          "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-          },
-          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-          "id": "7I85Ma5xjAo6nlvqOCIiWx",
-          "name": "Fntxy",
-          "type": "artist",
-          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 260631,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZGLM1921535"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1GaXf2Nj1OrWcu7FEL60bb"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1GaXf2Nj1OrWcu7FEL60bb",
-      "id": "1GaXf2Nj1OrWcu7FEL60bb",
-      "is_local": false,
-      "name": "Roberto G\u00f3mez Bola\u00f1os",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:1GaXf2Nj1OrWcu7FEL60bb"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-            },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
-            "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-          }
-        ],
         "available_markets": [
           "AD",
           "AE",
@@ -10495,6 +10171,93 @@
       "track_number": 13,
       "type": "track",
       "uri": "spotify:track:5XEVGtwVfLVHrgZURRlLPy"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
+            "type": "artist",
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3brzmaUwnNKFIB6pDzKcjC"
+        },
+        "href": "https://api.spotify.com/v1/albums/3brzmaUwnNKFIB6pDzKcjC",
+        "id": "3brzmaUwnNKFIB6pDzKcjC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27393e44cc1682f9024e2f85670",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0293e44cc1682f9024e2f85670",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485193e44cc1682f9024e2f85670",
+            "width": 64
+          }
+        ],
+        "name": "ETC\u00c97ERA",
+        "release_date": "2019-06-21",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:3brzmaUwnNKFIB6pDzKcjC"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
+          "type": "artist",
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 260631,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZGLM1921535"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GaXf2Nj1OrWcu7FEL60bb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GaXf2Nj1OrWcu7FEL60bb",
+      "id": "1GaXf2Nj1OrWcu7FEL60bb",
+      "is_local": false,
+      "name": "Roberto G\u00f3mez Bola\u00f1os",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1GaXf2Nj1OrWcu7FEL60bb"
     },
     {
       "album": {
@@ -10732,6 +10495,243 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
+            },
+            "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
+            "id": "171953d8wJbRvl2f36uLDd",
+            "name": "King Zoo",
+            "type": "artist",
+            "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0SWr5Egie3SfPmUqxKEev2"
+        },
+        "href": "https://api.spotify.com/v1/albums/0SWr5Egie3SfPmUqxKEev2",
+        "id": "0SWr5Egie3SfPmUqxKEev2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c89bd1d830439f0027dec65d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c89bd1d830439f0027dec65d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c89bd1d830439f0027dec65d",
+            "width": 64
+          }
+        ],
+        "name": "One 4 Da Good Times",
+        "release_date": "2015-12-08",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:0SWr5Egie3SfPmUqxKEev2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
+          },
+          "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
+          "id": "171953d8wJbRvl2f36uLDd",
+          "name": "King Zoo",
+          "type": "artist",
+          "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 188891,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHN61994317"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pgUjfky2Gj1DoO1VvVgMV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5pgUjfky2Gj1DoO1VvVgMV",
+      "id": "5pgUjfky2Gj1DoO1VvVgMV",
+      "is_local": false,
+      "name": "Beng Beng",
+      "popularity": 15,
+      "preview_url": "https://p.scdn.co/mp3-preview/c5c500d1be7798274da6a8a55586e220581ca492?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5pgUjfky2Gj1DoO1VvVgMV"
     },
     {
       "album": {
@@ -10994,7 +10994,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
   "next": null
 }
