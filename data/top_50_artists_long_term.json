@@ -405,42 +405,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 1977977
-      },
-      "genres": [
-        "colombian hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
-      "id": "1cUpGtXcSQsovNYEZOQgOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16d26d3bf9db1bdf8781ebf2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416d26d3bf9db1bdf8781ebf2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816d26d3bf9db1bdf8781ebf2",
-          "width": 160
-        }
-      ],
-      "name": "Nanpa B\u00e1sico",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -662,6 +626,42 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 1977977
+      },
+      "genres": [
+        "colombian hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+      "id": "1cUpGtXcSQsovNYEZOQgOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16d26d3bf9db1bdf8781ebf2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517416d26d3bf9db1bdf8781ebf2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17816d26d3bf9db1bdf8781ebf2",
+          "width": 160
+        }
+      ],
+      "name": "Nanpa B\u00e1sico",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
     {
       "external_urls": {
@@ -1844,7 +1844,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
