@@ -406,43 +406,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-      },
-      "followers": {
-        "href": null,
-        "total": 81203
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-      "id": "4H3ePoFDdsl36QwB96jZzg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb978014f9b77a3678fe010658",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174978014f9b77a3678fe010658",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178978014f9b77a3678fe010658",
-          "width": 160
-        }
-      ],
-      "name": "Leyruk",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -478,6 +441,43 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+      },
+      "followers": {
+        "href": null,
+        "total": 81203
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb978014f9b77a3678fe010658",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174978014f9b77a3678fe010658",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178978014f9b77a3678fe010658",
+          "width": 160
+        }
+      ],
+      "name": "Leyruk",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
     {
       "external_urls": {
@@ -768,45 +768,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 1315764
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "perreo",
-        "rap conciencia",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
       },
       "followers": {
@@ -954,10 +915,10 @@
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     }
   ],
-  "total": 26,
+  "total": 25,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "next": null
 }
