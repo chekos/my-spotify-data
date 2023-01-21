@@ -847,42 +847,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-      },
-      "followers": {
-        "href": null,
-        "total": 135411
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-      "id": "2Gcx4c9rFAAloAYV2cMGUd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfa045a7a8bd7002ae8d3cbfc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fa045a7a8bd7002ae8d3cbfc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fa045a7a8bd7002ae8d3cbfc",
-          "width": 160
-        }
-      ],
-      "name": "Proof",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -916,6 +880,42 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+      },
+      "followers": {
+        "href": null,
+        "total": 135411
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+      "id": "2Gcx4c9rFAAloAYV2cMGUd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfa045a7a8bd7002ae8d3cbfc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fa045a7a8bd7002ae8d3cbfc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fa045a7a8bd7002ae8d3cbfc",
+          "width": 160
+        }
+      ],
+      "name": "Proof",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
     },
     {
       "external_urls": {
@@ -1829,7 +1829,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
+  "previous": null,
   "next": null
 }

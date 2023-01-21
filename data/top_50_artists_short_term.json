@@ -39,6 +39,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 356920
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "perreo",
+        "rap underground mexicano",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -145,45 +184,6 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-      },
-      "followers": {
-        "href": null,
-        "total": 356920
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "perreo",
-        "rap underground mexicano",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
-          "width": 160
-        }
-      ],
-      "name": "La Banda Baston",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
     {
       "external_urls": {
@@ -696,42 +696,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 1987340
-      },
-      "genres": [
-        "colombian hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
-      "id": "1cUpGtXcSQsovNYEZOQgOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16d26d3bf9db1bdf8781ebf2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416d26d3bf9db1bdf8781ebf2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816d26d3bf9db1bdf8781ebf2",
-          "width": 160
-        }
-      ],
-      "name": "Nanpa B\u00e1sico",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -765,6 +729,42 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 1987340
+      },
+      "genres": [
+        "colombian hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+      "id": "1cUpGtXcSQsovNYEZOQgOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16d26d3bf9db1bdf8781ebf2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517416d26d3bf9db1bdf8781ebf2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17816d26d3bf9db1bdf8781ebf2",
+          "width": 160
+        }
+      ],
+      "name": "Nanpa B\u00e1sico",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
     {
       "external_urls": {
