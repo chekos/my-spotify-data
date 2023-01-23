@@ -48,7 +48,6 @@
         "total": 100146
       },
       "genres": [
-        "rap underground mexicano",
         "trap mexicano",
         "urbano mexicano"
       ],
@@ -217,7 +216,7 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
@@ -781,8 +780,7 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "trap mexicano",
-        "urbano mexicano"
+        "trap mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
       "id": "6viZnVSHavFUcW0blu6Mvw",
@@ -1829,7 +1827,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "next": null
 }
