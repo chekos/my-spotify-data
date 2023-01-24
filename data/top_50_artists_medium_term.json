@@ -1613,8 +1613,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap femenino mexicano",
-        "urbano mexicano"
+        "rap femenino mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
       "id": "0SmgVe3giVHaJjGmIz8xA4",
@@ -1826,7 +1825,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "next": null
 }
