@@ -697,6 +697,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+      },
+      "followers": {
+        "href": null,
+        "total": 763097
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+      "id": "3L7OHIT4kfdcDSnnGM0TKN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
+          "width": 160
+        }
+      ],
+      "name": "El Pinche Mara",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
       },
       "followers": {
@@ -734,44 +772,6 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-      },
-      "followers": {
-        "href": null,
-        "total": 763097
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-      "id": "3L7OHIT4kfdcDSnnGM0TKN",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
-          "width": 160
-        }
-      ],
-      "name": "El Pinche Mara",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     },
     {
       "external_urls": {
@@ -1325,41 +1325,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-      },
-      "followers": {
-        "href": null,
-        "total": 4272042
-      },
-      "genres": [
-        "norteno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3hYtANQYrE6pd2PbtEyTIy",
-      "id": "3hYtANQYrE6pd2PbtEyTIy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ba215e27391c00f8b6ca824",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ba215e27391c00f8b6ca824",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ba215e27391c00f8b6ca824",
-          "width": 160
-        }
-      ],
-      "name": "Los Tigres Del Norte",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:3hYtANQYrE6pd2PbtEyTIy"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -1393,6 +1358,41 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+      },
+      "followers": {
+        "href": null,
+        "total": 4272042
+      },
+      "genres": [
+        "norteno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3hYtANQYrE6pd2PbtEyTIy",
+      "id": "3hYtANQYrE6pd2PbtEyTIy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ba215e27391c00f8b6ca824",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ba215e27391c00f8b6ca824",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ba215e27391c00f8b6ca824",
+          "width": 160
+        }
+      ],
+      "name": "Los Tigres Del Norte",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:3hYtANQYrE6pd2PbtEyTIy"
     },
     {
       "external_urls": {
