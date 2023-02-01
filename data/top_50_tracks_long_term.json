@@ -2526,263 +2526,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4jnB4QyiBpfahiW8PRXMfE"
-        },
-        "href": "https://api.spotify.com/v1/albums/4jnB4QyiBpfahiW8PRXMfE",
-        "id": "4jnB4QyiBpfahiW8PRXMfE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734bec7265c7676496811d1209",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024bec7265c7676496811d1209",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514bec7265c7676496811d1209",
-            "width": 64
-          }
-        ],
-        "name": "Con Cuantos Voy a Contar",
-        "release_date": "2019-10-01",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4jnB4QyiBpfahiW8PRXMfE"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-          },
-          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-          "id": "6tJRAxu0HwB2GI9GueEj4l",
-          "name": "Faruz Feet",
-          "type": "artist",
-          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-          },
-          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-          "id": "4V2V4PaSblStayYVWTGDbZ",
-          "name": "Geassassin",
-          "type": "artist",
-          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 346000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ31998110"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2HYoYZOIy4OYXEv55LCOOZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2HYoYZOIy4OYXEv55LCOOZ",
-      "id": "2HYoYZOIy4OYXEv55LCOOZ",
-      "is_local": false,
-      "name": "Con Cuantos Voy a Contar",
-      "popularity": 51,
-      "preview_url": "https://p.scdn.co/mp3-preview/df27dd213e5de0657ba71a4e83911582d2b08938?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2HYoYZOIy4OYXEv55LCOOZ"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
             },
             "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
@@ -3260,6 +3003,263 @@
       "track_number": 7,
       "type": "track",
       "uri": "spotify:track:6UYiF4Gtk7HQe37BhP8R2A"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4jnB4QyiBpfahiW8PRXMfE"
+        },
+        "href": "https://api.spotify.com/v1/albums/4jnB4QyiBpfahiW8PRXMfE",
+        "id": "4jnB4QyiBpfahiW8PRXMfE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bec7265c7676496811d1209",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024bec7265c7676496811d1209",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514bec7265c7676496811d1209",
+            "width": 64
+          }
+        ],
+        "name": "Con Cuantos Voy a Contar",
+        "release_date": "2019-10-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4jnB4QyiBpfahiW8PRXMfE"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+          "id": "6tJRAxu0HwB2GI9GueEj4l",
+          "name": "Faruz Feet",
+          "type": "artist",
+          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+          "id": "4V2V4PaSblStayYVWTGDbZ",
+          "name": "Geassassin",
+          "type": "artist",
+          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 346000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ31998110"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2HYoYZOIy4OYXEv55LCOOZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2HYoYZOIy4OYXEv55LCOOZ",
+      "id": "2HYoYZOIy4OYXEv55LCOOZ",
+      "is_local": false,
+      "name": "Con Cuantos Voy a Contar",
+      "popularity": 51,
+      "preview_url": "https://p.scdn.co/mp3-preview/df27dd213e5de0657ba71a4e83911582d2b08938?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2HYoYZOIy4OYXEv55LCOOZ"
     },
     {
       "album": {
@@ -9103,263 +9103,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-            },
-            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-            "id": "6tJRAxu0HwB2GI9GueEj4l",
-            "name": "Faruz Feet",
-            "type": "artist",
-            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-            },
-            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-            "id": "2Gcx4c9rFAAloAYV2cMGUd",
-            "name": "Proof",
-            "type": "artist",
-            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
-        },
-        "href": "https://api.spotify.com/v1/albums/4f0iuEJ66gNenOENDbjva8",
-        "id": "4f0iuEJ66gNenOENDbjva8",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273356b1bae0dd78e739cb78610",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02356b1bae0dd78e739cb78610",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851356b1bae0dd78e739cb78610",
-            "width": 64
-          }
-        ],
-        "name": "Faruz Vs. Proof",
-        "release_date": "2020-01-17",
-        "release_date_precision": "day",
-        "total_tracks": 4,
-        "type": "album",
-        "uri": "spotify:album:4f0iuEJ66gNenOENDbjva8"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-          },
-          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-          "id": "6tJRAxu0HwB2GI9GueEj4l",
-          "name": "Faruz Feet",
-          "type": "artist",
-          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-          },
-          "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-          "id": "2Gcx4c9rFAAloAYV2cMGUd",
-          "name": "Proof",
-          "type": "artist",
-          "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 283153,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ51970929"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/61m9xMLI9DphxiSxdkagYH"
-      },
-      "href": "https://api.spotify.com/v1/tracks/61m9xMLI9DphxiSxdkagYH",
-      "id": "61m9xMLI9DphxiSxdkagYH",
-      "is_local": false,
-      "name": "Nocivos - Remix",
-      "popularity": 39,
-      "preview_url": "https://p.scdn.co/mp3-preview/16f9bc7dd486af12619151afc5fe0943facdddd8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:61m9xMLI9DphxiSxdkagYH"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
             },
             "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
@@ -9924,6 +9667,263 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+            "id": "6tJRAxu0HwB2GI9GueEj4l",
+            "name": "Faruz Feet",
+            "type": "artist",
+            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+            "id": "2Gcx4c9rFAAloAYV2cMGUd",
+            "name": "Proof",
+            "type": "artist",
+            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+        },
+        "href": "https://api.spotify.com/v1/albums/4f0iuEJ66gNenOENDbjva8",
+        "id": "4f0iuEJ66gNenOENDbjva8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273356b1bae0dd78e739cb78610",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02356b1bae0dd78e739cb78610",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851356b1bae0dd78e739cb78610",
+            "width": 64
+          }
+        ],
+        "name": "Faruz Vs. Proof",
+        "release_date": "2020-01-17",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:4f0iuEJ66gNenOENDbjva8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+          "id": "6tJRAxu0HwB2GI9GueEj4l",
+          "name": "Faruz Feet",
+          "type": "artist",
+          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+          "id": "2Gcx4c9rFAAloAYV2cMGUd",
+          "name": "Proof",
+          "type": "artist",
+          "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 283153,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ51970929"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61m9xMLI9DphxiSxdkagYH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61m9xMLI9DphxiSxdkagYH",
+      "id": "61m9xMLI9DphxiSxdkagYH",
+      "is_local": false,
+      "name": "Nocivos - Remix",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/16f9bc7dd486af12619151afc5fe0943facdddd8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:61m9xMLI9DphxiSxdkagYH"
     },
     {
       "album": {
@@ -10745,17 +10745,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+              "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
             },
-            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-            "id": "6tJRAxu0HwB2GI9GueEj4l",
-            "name": "Faruz Feet",
+            "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+            "id": "0elWFr7TW8piilVRYJUe4P",
+            "name": "Natanael Cano",
             "type": "artist",
-            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+            "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
           }
         ],
         "available_markets": [
@@ -10840,54 +10840,54 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4Y5NDfAmeGvx7UIq6U22iK"
+          "spotify": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
         },
-        "href": "https://api.spotify.com/v1/albums/4Y5NDfAmeGvx7UIq6U22iK",
-        "id": "4Y5NDfAmeGvx7UIq6U22iK",
+        "href": "https://api.spotify.com/v1/albums/6xO4H08B7Ps67z9wuPExZb",
+        "id": "6xO4H08B7Ps67z9wuPExZb",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d51a008fc31a83f91fa50937",
+            "url": "https://i.scdn.co/image/ab67616d0000b273786e271f0fb5c25125333e4d",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d51a008fc31a83f91fa50937",
+            "url": "https://i.scdn.co/image/ab67616d00001e02786e271f0fb5c25125333e4d",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d51a008fc31a83f91fa50937",
+            "url": "https://i.scdn.co/image/ab67616d00004851786e271f0fb5c25125333e4d",
             "width": 64
           }
         ],
-        "name": "+18",
-        "release_date": "2019-08-13",
+        "name": "Trap Tumbado",
+        "release_date": "2020-06-26",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 8,
         "type": "album",
-        "uri": "spotify:album:4Y5NDfAmeGvx7UIq6U22iK"
+        "uri": "spotify:album:6xO4H08B7Ps67z9wuPExZb"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
           },
-          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-          "id": "6tJRAxu0HwB2GI9GueEj4l",
-          "name": "Faruz Feet",
+          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+          "id": "0elWFr7TW8piilVRYJUe4P",
+          "name": "Natanael Cano",
           "type": "artist",
-          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
           },
-          "href": "https://api.spotify.com/v1/artists/1txbs9MMkT4FszkaA96atm",
-          "id": "1txbs9MMkT4FszkaA96atm",
-          "name": "Coko Yamasaki",
+          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+          "id": "30CTTIqrcr82nS6B40j975",
+          "name": "Robot95",
           "type": "artist",
-          "uri": "spotify:artist:1txbs9MMkT4FszkaA96atm"
+          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
         }
       ],
       "available_markets": [
@@ -10972,23 +10972,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 178544,
+      "duration_ms": 182827,
       "explicit": true,
       "external_ids": {
-        "isrc": "QZHZ31914916"
+        "isrc": "USA2P2024266"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2JQqONJFxrN5ahe3WDOmx5"
+        "spotify": "https://open.spotify.com/track/3HMU4uF7vo1Cohe0ohFvbW"
       },
-      "href": "https://api.spotify.com/v1/tracks/2JQqONJFxrN5ahe3WDOmx5",
-      "id": "2JQqONJFxrN5ahe3WDOmx5",
+      "href": "https://api.spotify.com/v1/tracks/3HMU4uF7vo1Cohe0ohFvbW",
+      "id": "3HMU4uF7vo1Cohe0ohFvbW",
       "is_local": false,
-      "name": "+18",
-      "popularity": 41,
-      "preview_url": "https://p.scdn.co/mp3-preview/e459d5bb32bfecaa7f6b2382c56ef7e8dacae57c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Tumbado",
+      "popularity": 38,
+      "preview_url": "https://p.scdn.co/mp3-preview/bd96fc37dcf6ef9b5e60bed5863bb83158e1f70d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 6,
       "type": "track",
-      "uri": "spotify:track:2JQqONJFxrN5ahe3WDOmx5"
+      "uri": "spotify:track:3HMU4uF7vo1Cohe0ohFvbW"
     }
   ],
   "total": 50,
