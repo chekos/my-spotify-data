@@ -472,6 +472,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
+      },
+      "followers": {
+        "href": null,
+        "total": 55595
+      },
+      "genres": [
+        "indie campechano",
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+      "id": "7BQJLHBNVvz4O2JHmls4Ef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb70edc0231763dc090338a51d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517470edc0231763dc090338a51d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17870edc0231763dc090338a51d",
+          "width": 160
+        }
+      ],
+      "name": "Wk",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -577,6 +614,42 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 126254
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
     {
       "external_urls": {
@@ -757,7 +830,7 @@
       "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
     }
   ],
-  "total": 21,
+  "total": 23,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
