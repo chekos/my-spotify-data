@@ -3006,6 +3006,243 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
+        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "width": 64
+          }
+        ],
+        "name": "De Lo M\u00e1s Solicitado",
+        "release_date": "2019-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 145445,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "US7VG1935342"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lBE9JV5hOgiJhJrpDslzI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lBE9JV5hOgiJhJrpDslzI",
+      "id": "7lBE9JV5hOgiJhJrpDslzI",
+      "is_local": false,
+      "name": "Placoseo Como Se Debe",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/0efb16cabf0e9bfec3ef0de0d2c4052c913a694f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7lBE9JV5hOgiJhJrpDslzI"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -3263,243 +3500,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
-        },
-        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
-        "id": "6GPiGDV1SQaZJPuUSXmeKF",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
-            "width": 64
-          }
-        ],
-        "name": "De Lo M\u00e1s Solicitado",
-        "release_date": "2019-05-09",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 145445,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG1935342"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7lBE9JV5hOgiJhJrpDslzI"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7lBE9JV5hOgiJhJrpDslzI",
-      "id": "7lBE9JV5hOgiJhJrpDslzI",
-      "is_local": false,
-      "name": "Placoseo Como Se Debe",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/0efb16cabf0e9bfec3ef0de0d2c4052c913a694f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:7lBE9JV5hOgiJhJrpDslzI"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -3594,93 +3594,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1oS0MgWyh7KRMvKclAAHBq"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
-        },
-        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
-        "id": "0mIpceBen3APHHKsAe5SfK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
-            "width": 64
-          }
-        ],
-        "name": "Terremotos",
-        "release_date": "2016-11-09",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-          },
-          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
-          "id": "5ET6v0l25osw5BzztPsMvD",
-          "name": "Muelas De Gallo",
-          "type": "artist",
-          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 225882,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ5AB1628146"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
-      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
-      "is_local": false,
-      "name": "Terremotos",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
     },
     {
       "album": {
@@ -4065,6 +3978,93 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:3RfIrOvpmccRC4Z98DlLJm"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
+        },
+        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
+        "id": "0mIpceBen3APHHKsAe5SfK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
+            "width": 64
+          }
+        ],
+        "name": "Terremotos",
+        "release_date": "2016-11-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+          "id": "5ET6v0l25osw5BzztPsMvD",
+          "name": "Muelas De Gallo",
+          "type": "artist",
+          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 225882,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB1628146"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
+      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
+      "is_local": false,
+      "name": "Terremotos",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
     },
     {
       "album": {
@@ -4659,6 +4659,253 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+            },
+            "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+            "id": "231yQfVjg9sGhTNsaym9ck",
+            "name": "C\u00f3digo KM",
+            "type": "artist",
+            "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4XssST6ZjeUKutADRKOQHX"
+        },
+        "href": "https://api.spotify.com/v1/albums/4XssST6ZjeUKutADRKOQHX",
+        "id": "4XssST6ZjeUKutADRKOQHX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+            "width": 64
+          }
+        ],
+        "name": "El Fin Del Mundo",
+        "release_date": "2020-12-18",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4XssST6ZjeUKutADRKOQHX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+          },
+          "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+          "id": "231yQfVjg9sGhTNsaym9ck",
+          "name": "C\u00f3digo KM",
+          "type": "artist",
+          "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          },
+          "href": "https://api.spotify.com/v1/artists/7IUaYyqcGB3aU2Tm4s5JY8",
+          "id": "7IUaYyqcGB3aU2Tm4s5JY8",
+          "name": "Zxmyr",
+          "type": "artist",
+          "uri": "spotify:artist:7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 210463,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZNWY2020665"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1OUNvwxWLqZmScD3G2gP1G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1OUNvwxWLqZmScD3G2gP1G",
+      "id": "1OUNvwxWLqZmScD3G2gP1G",
+      "is_local": false,
+      "name": "J\u00f3ven Riko",
+      "popularity": 6,
+      "preview_url": "https://p.scdn.co/mp3-preview/0807fc9f42b5219baaa0fb6e68169fbebfcd98c1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1OUNvwxWLqZmScD3G2gP1G"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -4913,253 +5160,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0ZMd3vx4pIcQyKAMWWvE8i"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-            },
-            "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-            "id": "231yQfVjg9sGhTNsaym9ck",
-            "name": "C\u00f3digo KM",
-            "type": "artist",
-            "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4XssST6ZjeUKutADRKOQHX"
-        },
-        "href": "https://api.spotify.com/v1/albums/4XssST6ZjeUKutADRKOQHX",
-        "id": "4XssST6ZjeUKutADRKOQHX",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
-            "width": 64
-          }
-        ],
-        "name": "El Fin Del Mundo",
-        "release_date": "2020-12-18",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:4XssST6ZjeUKutADRKOQHX"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-          },
-          "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-          "id": "231yQfVjg9sGhTNsaym9ck",
-          "name": "C\u00f3digo KM",
-          "type": "artist",
-          "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-          },
-          "href": "https://api.spotify.com/v1/artists/7IUaYyqcGB3aU2Tm4s5JY8",
-          "id": "7IUaYyqcGB3aU2Tm4s5JY8",
-          "name": "Zxmyr",
-          "type": "artist",
-          "uri": "spotify:artist:7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 210463,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZNWY2020665"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1OUNvwxWLqZmScD3G2gP1G"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1OUNvwxWLqZmScD3G2gP1G",
-      "id": "1OUNvwxWLqZmScD3G2gP1G",
-      "is_local": false,
-      "name": "J\u00f3ven Riko",
-      "popularity": 6,
-      "preview_url": "https://p.scdn.co/mp3-preview/0807fc9f42b5219baaa0fb6e68169fbebfcd98c1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1OUNvwxWLqZmScD3G2gP1G"
     },
     {
       "album": {
@@ -8775,93 +8775,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
-        },
-        "href": "https://api.spotify.com/v1/albums/20q5j9oFR1Ax38kogUuGiq",
-        "id": "20q5j9oFR1Ax38kogUuGiq",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d0f0949b68a1bddd254c5658",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d0f0949b68a1bddd254c5658",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d0f0949b68a1bddd254c5658",
-            "width": 64
-          }
-        ],
-        "name": "El Vicio y la Fama",
-        "release_date": "2019-07-15",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:20q5j9oFR1Ax38kogUuGiq"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/53QLtXsBANuv2bQuaTD4t0"
-          },
-          "href": "https://api.spotify.com/v1/artists/53QLtXsBANuv2bQuaTD4t0",
-          "id": "53QLtXsBANuv2bQuaTD4t0",
-          "name": "King Lil G",
-          "type": "artist",
-          "uri": "spotify:artist:53QLtXsBANuv2bQuaTD4t0"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 258077,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZGLM1912250"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3HvItAQaInmvJVu7XJcP4X"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3HvItAQaInmvJVu7XJcP4X",
-      "id": "3HvItAQaInmvJVu7XJcP4X",
-      "is_local": false,
-      "name": "Con Mi F\u00e9",
-      "popularity": 27,
-      "preview_url": null,
-      "track_number": 8,
-      "type": "track",
-      "uri": "spotify:track:3HvItAQaInmvJVu7XJcP4X"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -9423,250 +9336,90 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
             },
-            "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-            "id": "30CTTIqrcr82nS6B40j975",
-            "name": "Robot95",
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
             "type": "artist",
-            "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
           }
         ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
+        "available_markets": [],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
+          "spotify": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
         },
-        "href": "https://api.spotify.com/v1/albums/7BAQx3vrxCF02TU4wpK7Te",
-        "id": "7BAQx3vrxCF02TU4wpK7Te",
+        "href": "https://api.spotify.com/v1/albums/20q5j9oFR1Ax38kogUuGiq",
+        "id": "20q5j9oFR1Ax38kogUuGiq",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a8278d246656160cb0095db8",
+            "url": "https://i.scdn.co/image/ab67616d0000b273d0f0949b68a1bddd254c5658",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a8278d246656160cb0095db8",
+            "url": "https://i.scdn.co/image/ab67616d00001e02d0f0949b68a1bddd254c5658",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a8278d246656160cb0095db8",
+            "url": "https://i.scdn.co/image/ab67616d00004851d0f0949b68a1bddd254c5658",
             "width": 64
           }
         ],
-        "name": "Love & Money",
-        "release_date": "2019-07-12",
+        "name": "El Vicio y la Fama",
+        "release_date": "2019-07-15",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 16,
         "type": "album",
-        "uri": "spotify:album:7BAQx3vrxCF02TU4wpK7Te"
+        "uri": "spotify:album:20q5j9oFR1Ax38kogUuGiq"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
           },
-          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-          "id": "30CTTIqrcr82nS6B40j975",
-          "name": "Robot95",
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
           "type": "artist",
-          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+            "spotify": "https://open.spotify.com/artist/53QLtXsBANuv2bQuaTD4t0"
           },
-          "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-          "id": "6fMZytDgX1Q9OV6ndSugym",
-          "name": "Akapellah",
+          "href": "https://api.spotify.com/v1/artists/53QLtXsBANuv2bQuaTD4t0",
+          "id": "53QLtXsBANuv2bQuaTD4t0",
+          "name": "King Lil G",
           "type": "artist",
-          "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
+          "uri": "spotify:artist:53QLtXsBANuv2bQuaTD4t0"
         }
       ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
+      "available_markets": [],
       "disc_number": 1,
-      "duration_ms": 216024,
-      "explicit": false,
+      "duration_ms": 258077,
+      "explicit": true,
       "external_ids": {
-        "isrc": "FR59R1967473"
+        "isrc": "QZGLM1912250"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+        "spotify": "https://open.spotify.com/track/3HvItAQaInmvJVu7XJcP4X"
       },
-      "href": "https://api.spotify.com/v1/tracks/4JYVHokdjqjArnqmqTfaUZ",
-      "id": "4JYVHokdjqjArnqmqTfaUZ",
+      "href": "https://api.spotify.com/v1/tracks/3HvItAQaInmvJVu7XJcP4X",
+      "id": "3HvItAQaInmvJVu7XJcP4X",
       "is_local": false,
-      "name": "Love & Money",
-      "popularity": 53,
-      "preview_url": "https://p.scdn.co/mp3-preview/3959c59ad969bd022b8f77291254ddbc5f924b72?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Con Mi F\u00e9",
+      "popularity": 27,
+      "preview_url": null,
+      "track_number": 8,
       "type": "track",
-      "uri": "spotify:track:4JYVHokdjqjArnqmqTfaUZ"
+      "uri": "spotify:track:3HvItAQaInmvJVu7XJcP4X"
     },
     {
       "album": {
@@ -9998,23 +9751,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+              "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
             },
-            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-            "id": "6tJRAxu0HwB2GI9GueEj4l",
-            "name": "Faruz Feet",
+            "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+            "id": "30CTTIqrcr82nS6B40j975",
+            "name": "Robot95",
             "type": "artist",
-            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-            },
-            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-            "id": "2Gcx4c9rFAAloAYV2cMGUd",
-            "name": "Proof",
-            "type": "artist",
-            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+            "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
           }
         ],
         "available_markets": [
@@ -10099,54 +9842,54 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+          "spotify": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
         },
-        "href": "https://api.spotify.com/v1/albums/4f0iuEJ66gNenOENDbjva8",
-        "id": "4f0iuEJ66gNenOENDbjva8",
+        "href": "https://api.spotify.com/v1/albums/7BAQx3vrxCF02TU4wpK7Te",
+        "id": "7BAQx3vrxCF02TU4wpK7Te",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273356b1bae0dd78e739cb78610",
+            "url": "https://i.scdn.co/image/ab67616d0000b273a8278d246656160cb0095db8",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02356b1bae0dd78e739cb78610",
+            "url": "https://i.scdn.co/image/ab67616d00001e02a8278d246656160cb0095db8",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851356b1bae0dd78e739cb78610",
+            "url": "https://i.scdn.co/image/ab67616d00004851a8278d246656160cb0095db8",
             "width": 64
           }
         ],
-        "name": "Faruz Vs. Proof",
-        "release_date": "2020-01-17",
+        "name": "Love & Money",
+        "release_date": "2019-07-12",
         "release_date_precision": "day",
-        "total_tracks": 4,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:4f0iuEJ66gNenOENDbjva8"
+        "uri": "spotify:album:7BAQx3vrxCF02TU4wpK7Te"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
           },
-          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-          "id": "6tJRAxu0HwB2GI9GueEj4l",
-          "name": "Faruz Feet",
+          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+          "id": "30CTTIqrcr82nS6B40j975",
+          "name": "Robot95",
           "type": "artist",
-          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+            "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
           },
-          "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-          "id": "2Gcx4c9rFAAloAYV2cMGUd",
-          "name": "Proof",
+          "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+          "id": "6fMZytDgX1Q9OV6ndSugym",
+          "name": "Akapellah",
           "type": "artist",
-          "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+          "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
         }
       ],
       "available_markets": [
@@ -10231,23 +9974,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 283153,
-      "explicit": true,
+      "duration_ms": 216024,
+      "explicit": false,
       "external_ids": {
-        "isrc": "QZHZ51970929"
+        "isrc": "FR59R1967473"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/61m9xMLI9DphxiSxdkagYH"
+        "spotify": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
       },
-      "href": "https://api.spotify.com/v1/tracks/61m9xMLI9DphxiSxdkagYH",
-      "id": "61m9xMLI9DphxiSxdkagYH",
+      "href": "https://api.spotify.com/v1/tracks/4JYVHokdjqjArnqmqTfaUZ",
+      "id": "4JYVHokdjqjArnqmqTfaUZ",
       "is_local": false,
-      "name": "Nocivos - Remix",
-      "popularity": 39,
-      "preview_url": "https://p.scdn.co/mp3-preview/16f9bc7dd486af12619151afc5fe0943facdddd8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
+      "name": "Love & Money",
+      "popularity": 53,
+      "preview_url": "https://p.scdn.co/mp3-preview/3959c59ad969bd022b8f77291254ddbc5f924b72?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:61m9xMLI9DphxiSxdkagYH"
+      "uri": "spotify:track:4JYVHokdjqjArnqmqTfaUZ"
     },
     {
       "album": {
@@ -10742,6 +10485,263 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:4awFUpxIo94l8m7DpQwD8e"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+            "id": "6tJRAxu0HwB2GI9GueEj4l",
+            "name": "Faruz Feet",
+            "type": "artist",
+            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+            "id": "2Gcx4c9rFAAloAYV2cMGUd",
+            "name": "Proof",
+            "type": "artist",
+            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+        },
+        "href": "https://api.spotify.com/v1/albums/4f0iuEJ66gNenOENDbjva8",
+        "id": "4f0iuEJ66gNenOENDbjva8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273356b1bae0dd78e739cb78610",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02356b1bae0dd78e739cb78610",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851356b1bae0dd78e739cb78610",
+            "width": 64
+          }
+        ],
+        "name": "Faruz Vs. Proof",
+        "release_date": "2020-01-17",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:4f0iuEJ66gNenOENDbjva8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+          "id": "6tJRAxu0HwB2GI9GueEj4l",
+          "name": "Faruz Feet",
+          "type": "artist",
+          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+          "id": "2Gcx4c9rFAAloAYV2cMGUd",
+          "name": "Proof",
+          "type": "artist",
+          "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 283153,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ51970929"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61m9xMLI9DphxiSxdkagYH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61m9xMLI9DphxiSxdkagYH",
+      "id": "61m9xMLI9DphxiSxdkagYH",
+      "is_local": false,
+      "name": "Nocivos - Remix",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/16f9bc7dd486af12619151afc5fe0943facdddd8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:61m9xMLI9DphxiSxdkagYH"
     },
     {
       "album": {

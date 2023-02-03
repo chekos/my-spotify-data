@@ -75,42 +75,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1035574
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -183,6 +147,42 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1035574
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
     {
       "external_urls": {
@@ -690,43 +690,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
-      },
-      "followers": {
-        "href": null,
-        "total": 231072
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
-      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26fbbd337252c3e97c118",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409d26fbbd337252c3e97c118",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809d26fbbd337252c3e97c118",
-          "width": 160
-        }
-      ],
-      "name": "Iluminatik",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
@@ -830,7 +793,7 @@
       "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
     }
   ],
-  "total": 23,
+  "total": 22,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
