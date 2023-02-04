@@ -3254,6 +3254,103 @@
             "name": "Gera MX",
             "type": "artist",
             "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+            },
+            "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+            "id": "30CTTIqrcr82nS6B40j975",
+            "name": "Robot95",
+            "type": "artist",
+            "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4AJiTHuV9o2q73VKfFNJ8Y"
+        },
+        "href": "https://api.spotify.com/v1/albums/4AJiTHuV9o2q73VKfFNJ8Y",
+        "id": "4AJiTHuV9o2q73VKfFNJ8Y",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735103cfb94ff7a57f347023d4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025103cfb94ff7a57f347023d4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515103cfb94ff7a57f347023d4",
+            "width": 64
+          }
+        ],
+        "name": "A Lo Mexicano",
+        "release_date": "2020-02-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4AJiTHuV9o2q73VKfFNJ8Y"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          },
+          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+          "id": "30CTTIqrcr82nS6B40j975",
+          "name": "Robot95",
+          "type": "artist",
+          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 216500,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "US7VG2070242"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1oS0MgWyh7KRMvKclAAHBq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1oS0MgWyh7KRMvKclAAHBq",
+      "id": "1oS0MgWyh7KRMvKclAAHBq",
+      "is_local": false,
+      "name": "A Lo Mexicano",
+      "popularity": 28,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1oS0MgWyh7KRMvKclAAHBq"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
           }
         ],
         "available_markets": [
@@ -3497,103 +3594,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:2HYoYZOIy4OYXEv55LCOOZ"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-            },
-            "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-            "id": "30CTTIqrcr82nS6B40j975",
-            "name": "Robot95",
-            "type": "artist",
-            "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4AJiTHuV9o2q73VKfFNJ8Y"
-        },
-        "href": "https://api.spotify.com/v1/albums/4AJiTHuV9o2q73VKfFNJ8Y",
-        "id": "4AJiTHuV9o2q73VKfFNJ8Y",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735103cfb94ff7a57f347023d4",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025103cfb94ff7a57f347023d4",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515103cfb94ff7a57f347023d4",
-            "width": 64
-          }
-        ],
-        "name": "A Lo Mexicano",
-        "release_date": "2020-02-21",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4AJiTHuV9o2q73VKfFNJ8Y"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-          },
-          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-          "id": "30CTTIqrcr82nS6B40j975",
-          "name": "Robot95",
-          "type": "artist",
-          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 216500,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG2070242"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1oS0MgWyh7KRMvKclAAHBq"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1oS0MgWyh7KRMvKclAAHBq",
-      "id": "1oS0MgWyh7KRMvKclAAHBq",
-      "is_local": false,
-      "name": "A Lo Mexicano",
-      "popularity": 28,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1oS0MgWyh7KRMvKclAAHBq"
     },
     {
       "album": {
@@ -3981,93 +3981,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
-        },
-        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
-        "id": "0mIpceBen3APHHKsAe5SfK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
-            "width": 64
-          }
-        ],
-        "name": "Terremotos",
-        "release_date": "2016-11-09",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-          },
-          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
-          "id": "5ET6v0l25osw5BzztPsMvD",
-          "name": "Muelas De Gallo",
-          "type": "artist",
-          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 225882,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ5AB1628146"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
-      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
-      "is_local": false,
-      "name": "Terremotos",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -4302,6 +4215,93 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:01CASOFogcu3yZaARvxtAc"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
+        },
+        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
+        "id": "0mIpceBen3APHHKsAe5SfK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
+            "width": 64
+          }
+        ],
+        "name": "Terremotos",
+        "release_date": "2016-11-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+          "id": "5ET6v0l25osw5BzztPsMvD",
+          "name": "Muelas De Gallo",
+          "type": "artist",
+          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 225882,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB1628146"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
+      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
+      "is_local": false,
+      "name": "Terremotos",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
     },
     {
       "album": {
@@ -4910,263 +4910,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-            },
-            "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-            "id": "1gPiNBRjOB9XochAAFR3iM",
-            "name": "West Gold",
-            "type": "artist",
-            "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
-            },
-            "href": "https://api.spotify.com/v1/artists/1P184E1yqU3hzj71d1oOzb",
-            "id": "1P184E1yqU3hzj71d1oOzb",
-            "name": "Smoky",
-            "type": "artist",
-            "uri": "spotify:artist:1P184E1yqU3hzj71d1oOzb"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3WIrwWGCUK2vbGRVE1LbET"
-        },
-        "href": "https://api.spotify.com/v1/albums/3WIrwWGCUK2vbGRVE1LbET",
-        "id": "3WIrwWGCUK2vbGRVE1LbET",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731d3ef5a64703c75bddb01646",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021d3ef5a64703c75bddb01646",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511d3ef5a64703c75bddb01646",
-            "width": 64
-          }
-        ],
-        "name": "De Donde Vengo",
-        "release_date": "2019-11-21",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3WIrwWGCUK2vbGRVE1LbET"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-          },
-          "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-          "id": "1gPiNBRjOB9XochAAFR3iM",
-          "name": "West Gold",
-          "type": "artist",
-          "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
-          },
-          "href": "https://api.spotify.com/v1/artists/1P184E1yqU3hzj71d1oOzb",
-          "id": "1P184E1yqU3hzj71d1oOzb",
-          "name": "Smoky",
-          "type": "artist",
-          "uri": "spotify:artist:1P184E1yqU3hzj71d1oOzb"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 200800,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXUM71903304"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0ZMd3vx4pIcQyKAMWWvE8i"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0ZMd3vx4pIcQyKAMWWvE8i",
-      "id": "0ZMd3vx4pIcQyKAMWWvE8i",
-      "is_local": false,
-      "name": "De Donde Vengo",
-      "popularity": 25,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0ZMd3vx4pIcQyKAMWWvE8i"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
             },
             "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
@@ -5674,6 +5417,263 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:6xe2EUOW5eT7ZP4nHAaP5M"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+            "id": "1gPiNBRjOB9XochAAFR3iM",
+            "name": "West Gold",
+            "type": "artist",
+            "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
+            },
+            "href": "https://api.spotify.com/v1/artists/1P184E1yqU3hzj71d1oOzb",
+            "id": "1P184E1yqU3hzj71d1oOzb",
+            "name": "Smoky",
+            "type": "artist",
+            "uri": "spotify:artist:1P184E1yqU3hzj71d1oOzb"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3WIrwWGCUK2vbGRVE1LbET"
+        },
+        "href": "https://api.spotify.com/v1/albums/3WIrwWGCUK2vbGRVE1LbET",
+        "id": "3WIrwWGCUK2vbGRVE1LbET",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731d3ef5a64703c75bddb01646",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021d3ef5a64703c75bddb01646",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511d3ef5a64703c75bddb01646",
+            "width": 64
+          }
+        ],
+        "name": "De Donde Vengo",
+        "release_date": "2019-11-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3WIrwWGCUK2vbGRVE1LbET"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+          "id": "1gPiNBRjOB9XochAAFR3iM",
+          "name": "West Gold",
+          "type": "artist",
+          "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
+          },
+          "href": "https://api.spotify.com/v1/artists/1P184E1yqU3hzj71d1oOzb",
+          "id": "1P184E1yqU3hzj71d1oOzb",
+          "name": "Smoky",
+          "type": "artist",
+          "uri": "spotify:artist:1P184E1yqU3hzj71d1oOzb"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 200800,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXUM71903304"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZMd3vx4pIcQyKAMWWvE8i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ZMd3vx4pIcQyKAMWWvE8i",
+      "id": "0ZMd3vx4pIcQyKAMWWvE8i",
+      "is_local": false,
+      "name": "De Donde Vengo",
+      "popularity": 25,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0ZMd3vx4pIcQyKAMWWvE8i"
     },
     {
       "album": {
@@ -10488,6 +10488,253 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+            },
+            "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+            "id": "0elWFr7TW8piilVRYJUe4P",
+            "name": "Natanael Cano",
+            "type": "artist",
+            "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
+        },
+        "href": "https://api.spotify.com/v1/albums/6xO4H08B7Ps67z9wuPExZb",
+        "id": "6xO4H08B7Ps67z9wuPExZb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273786e271f0fb5c25125333e4d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02786e271f0fb5c25125333e4d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851786e271f0fb5c25125333e4d",
+            "width": 64
+          }
+        ],
+        "name": "Trap Tumbado",
+        "release_date": "2020-06-26",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:6xO4H08B7Ps67z9wuPExZb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          },
+          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+          "id": "0elWFr7TW8piilVRYJUe4P",
+          "name": "Natanael Cano",
+          "type": "artist",
+          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          },
+          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+          "id": "30CTTIqrcr82nS6B40j975",
+          "name": "Robot95",
+          "type": "artist",
+          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 182827,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USA2P2024266"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HMU4uF7vo1Cohe0ohFvbW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HMU4uF7vo1Cohe0ohFvbW",
+      "id": "3HMU4uF7vo1Cohe0ohFvbW",
+      "is_local": false,
+      "name": "Tumbado",
+      "popularity": 38,
+      "preview_url": "https://p.scdn.co/mp3-preview/bd96fc37dcf6ef9b5e60bed5863bb83158e1f70d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3HMU4uF7vo1Cohe0ohFvbW"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -10742,253 +10989,6 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:61m9xMLI9DphxiSxdkagYH"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-            },
-            "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
-            "id": "0elWFr7TW8piilVRYJUe4P",
-            "name": "Natanael Cano",
-            "type": "artist",
-            "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
-        },
-        "href": "https://api.spotify.com/v1/albums/6xO4H08B7Ps67z9wuPExZb",
-        "id": "6xO4H08B7Ps67z9wuPExZb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273786e271f0fb5c25125333e4d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02786e271f0fb5c25125333e4d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851786e271f0fb5c25125333e4d",
-            "width": 64
-          }
-        ],
-        "name": "Trap Tumbado",
-        "release_date": "2020-06-26",
-        "release_date_precision": "day",
-        "total_tracks": 8,
-        "type": "album",
-        "uri": "spotify:album:6xO4H08B7Ps67z9wuPExZb"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-          },
-          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
-          "id": "0elWFr7TW8piilVRYJUe4P",
-          "name": "Natanael Cano",
-          "type": "artist",
-          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-          },
-          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-          "id": "30CTTIqrcr82nS6B40j975",
-          "name": "Robot95",
-          "type": "artist",
-          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 182827,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USA2P2024266"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3HMU4uF7vo1Cohe0ohFvbW"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3HMU4uF7vo1Cohe0ohFvbW",
-      "id": "3HMU4uF7vo1Cohe0ohFvbW",
-      "is_local": false,
-      "name": "Tumbado",
-      "popularity": 38,
-      "preview_url": "https://p.scdn.co/mp3-preview/bd96fc37dcf6ef9b5e60bed5863bb83158e1f70d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 6,
-      "type": "track",
-      "uri": "spotify:track:3HMU4uF7vo1Cohe0ohFvbW"
     }
   ],
   "total": 50,
