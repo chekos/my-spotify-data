@@ -3344,263 +3344,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4jnB4QyiBpfahiW8PRXMfE"
-        },
-        "href": "https://api.spotify.com/v1/albums/4jnB4QyiBpfahiW8PRXMfE",
-        "id": "4jnB4QyiBpfahiW8PRXMfE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734bec7265c7676496811d1209",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024bec7265c7676496811d1209",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514bec7265c7676496811d1209",
-            "width": 64
-          }
-        ],
-        "name": "Con Cuantos Voy a Contar",
-        "release_date": "2019-10-01",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4jnB4QyiBpfahiW8PRXMfE"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-          },
-          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-          "id": "6tJRAxu0HwB2GI9GueEj4l",
-          "name": "Faruz Feet",
-          "type": "artist",
-          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-          },
-          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-          "id": "4V2V4PaSblStayYVWTGDbZ",
-          "name": "Geassassin",
-          "type": "artist",
-          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 346000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ31998110"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2HYoYZOIy4OYXEv55LCOOZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2HYoYZOIy4OYXEv55LCOOZ",
-      "id": "2HYoYZOIy4OYXEv55LCOOZ",
-      "is_local": false,
-      "name": "Con Cuantos Voy a Contar",
-      "popularity": 51,
-      "preview_url": "https://p.scdn.co/mp3-preview/51ce2dd6508c47c08a6655aa61f709360173144f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2HYoYZOIy4OYXEv55LCOOZ"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
             },
             "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
@@ -3978,6 +3721,263 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:3RfIrOvpmccRC4Z98DlLJm"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4jnB4QyiBpfahiW8PRXMfE"
+        },
+        "href": "https://api.spotify.com/v1/albums/4jnB4QyiBpfahiW8PRXMfE",
+        "id": "4jnB4QyiBpfahiW8PRXMfE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bec7265c7676496811d1209",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024bec7265c7676496811d1209",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514bec7265c7676496811d1209",
+            "width": 64
+          }
+        ],
+        "name": "Con Cuantos Voy a Contar",
+        "release_date": "2019-10-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4jnB4QyiBpfahiW8PRXMfE"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+          "id": "6tJRAxu0HwB2GI9GueEj4l",
+          "name": "Faruz Feet",
+          "type": "artist",
+          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+          "id": "4V2V4PaSblStayYVWTGDbZ",
+          "name": "Geassassin",
+          "type": "artist",
+          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 346000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ31998110"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2HYoYZOIy4OYXEv55LCOOZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2HYoYZOIy4OYXEv55LCOOZ",
+      "id": "2HYoYZOIy4OYXEv55LCOOZ",
+      "is_local": false,
+      "name": "Con Cuantos Voy a Contar",
+      "popularity": 51,
+      "preview_url": "https://p.scdn.co/mp3-preview/51ce2dd6508c47c08a6655aa61f709360173144f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2HYoYZOIy4OYXEv55LCOOZ"
     },
     {
       "album": {
@@ -6652,6 +6652,253 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
+        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "width": 64
+          }
+        ],
+        "name": "De Lo M\u00e1s Solicitado",
+        "release_date": "2019-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
+          },
+          "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
+          "id": "30XfbCbtW4PAJ5mvhoajY2",
+          "name": "Maxx Gallo",
+          "type": "artist",
+          "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 210926,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ31954890"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1sbQ6LqLRtUXu6El1QgGYO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1sbQ6LqLRtUXu6El1QgGYO",
+      "id": "1sbQ6LqLRtUXu6El1QgGYO",
+      "is_local": false,
+      "name": "100 K",
+      "popularity": 23,
+      "preview_url": "https://p.scdn.co/mp3-preview/66b38d62bd67e2099d26033ae0731ed9c5d0143b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1sbQ6LqLRtUXu6El1QgGYO"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -6906,253 +7153,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0ZMd3vx4pIcQyKAMWWvE8i"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
-        },
-        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
-        "id": "6GPiGDV1SQaZJPuUSXmeKF",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
-            "width": 64
-          }
-        ],
-        "name": "De Lo M\u00e1s Solicitado",
-        "release_date": "2019-05-09",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-          },
-          "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-          "id": "30XfbCbtW4PAJ5mvhoajY2",
-          "name": "Maxx Gallo",
-          "type": "artist",
-          "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 210926,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ31954890"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1sbQ6LqLRtUXu6El1QgGYO"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1sbQ6LqLRtUXu6El1QgGYO",
-      "id": "1sbQ6LqLRtUXu6El1QgGYO",
-      "is_local": false,
-      "name": "100 K",
-      "popularity": 23,
-      "preview_url": "https://p.scdn.co/mp3-preview/66b38d62bd67e2099d26033ae0731ed9c5d0143b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:1sbQ6LqLRtUXu6El1QgGYO"
     },
     {
       "album": {
@@ -10401,93 +10401,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
-        },
-        "href": "https://api.spotify.com/v1/albums/20q5j9oFR1Ax38kogUuGiq",
-        "id": "20q5j9oFR1Ax38kogUuGiq",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d0f0949b68a1bddd254c5658",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d0f0949b68a1bddd254c5658",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d0f0949b68a1bddd254c5658",
-            "width": 64
-          }
-        ],
-        "name": "El Vicio y la Fama",
-        "release_date": "2019-07-15",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:20q5j9oFR1Ax38kogUuGiq"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/53QLtXsBANuv2bQuaTD4t0"
-          },
-          "href": "https://api.spotify.com/v1/artists/53QLtXsBANuv2bQuaTD4t0",
-          "id": "53QLtXsBANuv2bQuaTD4t0",
-          "name": "King Lil G",
-          "type": "artist",
-          "uri": "spotify:artist:53QLtXsBANuv2bQuaTD4t0"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 258077,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZGLM1912250"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3HvItAQaInmvJVu7XJcP4X"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3HvItAQaInmvJVu7XJcP4X",
-      "id": "3HvItAQaInmvJVu7XJcP4X",
-      "is_local": false,
-      "name": "Con Mi F\u00e9",
-      "popularity": 25,
-      "preview_url": null,
-      "track_number": 8,
-      "type": "track",
-      "uri": "spotify:track:3HvItAQaInmvJVu7XJcP4X"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -10732,6 +10645,93 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:2ZBlDOQlq043eg34LwW54c"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
+        },
+        "href": "https://api.spotify.com/v1/albums/20q5j9oFR1Ax38kogUuGiq",
+        "id": "20q5j9oFR1Ax38kogUuGiq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d0f0949b68a1bddd254c5658",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d0f0949b68a1bddd254c5658",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d0f0949b68a1bddd254c5658",
+            "width": 64
+          }
+        ],
+        "name": "El Vicio y la Fama",
+        "release_date": "2019-07-15",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:20q5j9oFR1Ax38kogUuGiq"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53QLtXsBANuv2bQuaTD4t0"
+          },
+          "href": "https://api.spotify.com/v1/artists/53QLtXsBANuv2bQuaTD4t0",
+          "id": "53QLtXsBANuv2bQuaTD4t0",
+          "name": "King Lil G",
+          "type": "artist",
+          "uri": "spotify:artist:53QLtXsBANuv2bQuaTD4t0"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 258077,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZGLM1912250"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HvItAQaInmvJVu7XJcP4X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HvItAQaInmvJVu7XJcP4X",
+      "id": "3HvItAQaInmvJVu7XJcP4X",
+      "is_local": false,
+      "name": "Con Mi F\u00e9",
+      "popularity": 25,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3HvItAQaInmvJVu7XJcP4X"
     },
     {
       "album": {
