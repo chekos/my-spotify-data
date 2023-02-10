@@ -7342,6 +7342,273 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
+            "id": "7psBfCiJgjoSL9JMbTxqGU",
+            "name": "Kamaro",
+            "type": "artist",
+            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0sWe9dI7ATIJcGmTVeeHv3"
+        },
+        "href": "https://api.spotify.com/v1/albums/0sWe9dI7ATIJcGmTVeeHv3",
+        "id": "0sWe9dI7ATIJcGmTVeeHv3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d9d1e251465d6802394db91",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022d9d1e251465d6802394db91",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512d9d1e251465d6802394db91",
+            "width": 64
+          }
+        ],
+        "name": "Mill\u00f3n",
+        "release_date": "2022-06-03",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0sWe9dI7ATIJcGmTVeeHv3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
+          "id": "7psBfCiJgjoSL9JMbTxqGU",
+          "name": "Kamaro",
+          "type": "artist",
+          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
+          "id": "1jVhcHIGJuk16eqY1Mdtuk",
+          "name": "Dee",
+          "type": "artist",
+          "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 183512,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6N22219503"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/64WAtGEW18TZJypuDepkxe",
+      "id": "64WAtGEW18TZJypuDepkxe",
+      "is_local": false,
+      "name": "Mill\u00f3n",
+      "popularity": 19,
+      "preview_url": "https://p.scdn.co/mp3-preview/98f54e59839dc379061db2e1390c6c879096e1e8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:64WAtGEW18TZJypuDepkxe"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -8627,27 +8894,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
             },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
             "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-            },
-            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-            "id": "7psBfCiJgjoSL9JMbTxqGU",
-            "name": "Kamaro",
-            "type": "artist",
-            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
           }
         ],
         "available_markets": [
@@ -8732,35 +8989,45 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/0sWe9dI7ATIJcGmTVeeHv3"
+          "spotify": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
         },
-        "href": "https://api.spotify.com/v1/albums/0sWe9dI7ATIJcGmTVeeHv3",
-        "id": "0sWe9dI7ATIJcGmTVeeHv3",
+        "href": "https://api.spotify.com/v1/albums/0gzZ8kGuKfDlVtBVmDLNJj",
+        "id": "0gzZ8kGuKfDlVtBVmDLNJj",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732d9d1e251465d6802394db91",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ea0491bc9ee424cac4295c68",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022d9d1e251465d6802394db91",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ea0491bc9ee424cac4295c68",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512d9d1e251465d6802394db91",
+            "url": "https://i.scdn.co/image/ab67616d00004851ea0491bc9ee424cac4295c68",
             "width": 64
           }
         ],
-        "name": "Mill\u00f3n",
-        "release_date": "2022-06-03",
+        "name": "Luces Fantasma",
+        "release_date": "2017-02-17",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 18,
         "type": "album",
-        "uri": "spotify:album:0sWe9dI7ATIJcGmTVeeHv3"
+        "uri": "spotify:album:0gzZ8kGuKfDlVtBVmDLNJj"
       },
       "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        },
         {
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
@@ -8773,23 +9040,13 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
           },
-          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-          "id": "7psBfCiJgjoSL9JMbTxqGU",
-          "name": "Kamaro",
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
           "type": "artist",
-          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-          },
-          "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
-          "id": "1jVhcHIGJuk16eqY1Mdtuk",
-          "name": "Dee",
-          "type": "artist",
-          "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
       "available_markets": [
@@ -8874,23 +9131,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 183512,
+      "duration_ms": 249150,
       "explicit": true,
       "external_ids": {
-        "isrc": "QM6N22219503"
+        "isrc": "US7VG1706589"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe"
+        "spotify": "https://open.spotify.com/track/2yvyvp3VItCHhMTEWYVh5K"
       },
-      "href": "https://api.spotify.com/v1/tracks/64WAtGEW18TZJypuDepkxe",
-      "id": "64WAtGEW18TZJypuDepkxe",
+      "href": "https://api.spotify.com/v1/tracks/2yvyvp3VItCHhMTEWYVh5K",
+      "id": "2yvyvp3VItCHhMTEWYVh5K",
       "is_local": false,
-      "name": "Mill\u00f3n",
-      "popularity": 19,
-      "preview_url": "https://p.scdn.co/mp3-preview/98f54e59839dc379061db2e1390c6c879096e1e8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Barriobajeros",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/a7975e1c0ea2c691b5b5a1f20f5ecf461266e5db?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 11,
       "type": "track",
-      "uri": "spotify:track:64WAtGEW18TZJypuDepkxe"
+      "uri": "spotify:track:2yvyvp3VItCHhMTEWYVh5K"
     },
     {
       "album": {
@@ -9649,263 +9906,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-            },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
-            "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
-        },
-        "href": "https://api.spotify.com/v1/albums/0gzZ8kGuKfDlVtBVmDLNJj",
-        "id": "0gzZ8kGuKfDlVtBVmDLNJj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ea0491bc9ee424cac4295c68",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ea0491bc9ee424cac4295c68",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ea0491bc9ee424cac4295c68",
-            "width": 64
-          }
-        ],
-        "name": "Luces Fantasma",
-        "release_date": "2017-02-17",
-        "release_date_precision": "day",
-        "total_tracks": 18,
-        "type": "album",
-        "uri": "spotify:album:0gzZ8kGuKfDlVtBVmDLNJj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-          },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
-          "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-          },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
-          "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 249150,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG1706589"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2yvyvp3VItCHhMTEWYVh5K"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2yvyvp3VItCHhMTEWYVh5K",
-      "id": "2yvyvp3VItCHhMTEWYVh5K",
-      "is_local": false,
-      "name": "Barriobajeros",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/a7975e1c0ea2c691b5b5a1f20f5ecf461266e5db?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 11,
-      "type": "track",
-      "uri": "spotify:track:2yvyvp3VItCHhMTEWYVh5K"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
             "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
@@ -10373,6 +10373,243 @@
       "track_number": 14,
       "type": "track",
       "uri": "spotify:track:77zBQ9qB6F8LKozVDMZXPp"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
+            "type": "artist",
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
+        },
+        "href": "https://api.spotify.com/v1/albums/0gzZ8kGuKfDlVtBVmDLNJj",
+        "id": "0gzZ8kGuKfDlVtBVmDLNJj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ea0491bc9ee424cac4295c68",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ea0491bc9ee424cac4295c68",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ea0491bc9ee424cac4295c68",
+            "width": 64
+          }
+        ],
+        "name": "Luces Fantasma",
+        "release_date": "2017-02-17",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:0gzZ8kGuKfDlVtBVmDLNJj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 254492,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "US7VG1706581"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3sSTvHWAx647IcruzgB80p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3sSTvHWAx647IcruzgB80p",
+      "id": "3sSTvHWAx647IcruzgB80p",
+      "is_local": false,
+      "name": "Loco",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/004f688424663dd773bf7d771eb8a0e1a9047b18?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3sSTvHWAx647IcruzgB80p"
     },
     {
       "album": {
@@ -10877,243 +11114,6 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:1nR9xvzMPVrEJZPbpotmwl"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-            },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
-            "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
-        },
-        "href": "https://api.spotify.com/v1/albums/0gzZ8kGuKfDlVtBVmDLNJj",
-        "id": "0gzZ8kGuKfDlVtBVmDLNJj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ea0491bc9ee424cac4295c68",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ea0491bc9ee424cac4295c68",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ea0491bc9ee424cac4295c68",
-            "width": 64
-          }
-        ],
-        "name": "Luces Fantasma",
-        "release_date": "2017-02-17",
-        "release_date_precision": "day",
-        "total_tracks": 18,
-        "type": "album",
-        "uri": "spotify:album:0gzZ8kGuKfDlVtBVmDLNJj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-          },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
-          "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 254492,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG1706581"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3sSTvHWAx647IcruzgB80p"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3sSTvHWAx647IcruzgB80p",
-      "id": "3sSTvHWAx647IcruzgB80p",
-      "is_local": false,
-      "name": "Loco",
-      "popularity": 43,
-      "preview_url": "https://p.scdn.co/mp3-preview/004f688424663dd773bf7d771eb8a0e1a9047b18?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:3sSTvHWAx647IcruzgB80p"
     },
     {
       "album": {
@@ -12085,17 +12085,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
-            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-            "id": "4QFG9KrGWEbr6hNA58CAqE",
-            "name": "Aleman",
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
             "type": "artist",
-            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
           }
         ],
         "available_markets": [
@@ -12180,54 +12180,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/0vLm7gKprc7ICT2808OpKR"
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
         },
-        "href": "https://api.spotify.com/v1/albums/0vLm7gKprc7ICT2808OpKR",
-        "id": "0vLm7gKprc7ICT2808OpKR",
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d54884b8675bd9e635bb5aaa",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d54884b8675bd9e635bb5aaa",
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d54884b8675bd9e635bb5aaa",
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
             "width": 64
           }
         ],
-        "name": "Un Minutito",
-        "release_date": "2019-07-08",
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 17,
         "type": "album",
-        "uri": "spotify:album:0vLm7gKprc7ICT2808OpKR"
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
           },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
           "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-          },
-          "href": "https://api.spotify.com/v1/artists/7fT2Me47PQ8T7954PKrcwR",
-          "id": "7fT2Me47PQ8T7954PKrcwR",
-          "name": "Bhavi",
-          "type": "artist",
-          "uri": "spotify:artist:7fT2Me47PQ8T7954PKrcwR"
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
       "available_markets": [
@@ -12312,23 +12302,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 186776,
+      "duration_ms": 238306,
       "explicit": true,
       "external_ids": {
-        "isrc": "QZGLM1993088"
+        "isrc": "QM6P42209723"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1Z5Xm3PW0tsMOLE1tpIpwE"
+        "spotify": "https://open.spotify.com/track/3ruIZmpltDy6Y1NyU2zr2U"
       },
-      "href": "https://api.spotify.com/v1/tracks/1Z5Xm3PW0tsMOLE1tpIpwE",
-      "id": "1Z5Xm3PW0tsMOLE1tpIpwE",
+      "href": "https://api.spotify.com/v1/tracks/3ruIZmpltDy6Y1NyU2zr2U",
+      "id": "3ruIZmpltDy6Y1NyU2zr2U",
       "is_local": false,
-      "name": "Un Minutito",
-      "popularity": 19,
-      "preview_url": "https://p.scdn.co/mp3-preview/ae23a24ebab377a1fdd0a955ef633a5976f03fc3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Tumbado Freestyle",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/3cd5577fddf70637f046f0daaae96a27526ce5ff?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 16,
       "type": "track",
-      "uri": "spotify:track:1Z5Xm3PW0tsMOLE1tpIpwE"
+      "uri": "spotify:track:3ruIZmpltDy6Y1NyU2zr2U"
     }
   ],
   "total": 50,
