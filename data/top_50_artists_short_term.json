@@ -1026,9 +1026,46 @@
       "popularity": 99,
       "type": "artist",
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+      },
+      "followers": {
+        "href": null,
+        "total": 2619658
+      },
+      "genres": [
+        "hip hop",
+        "kansas city hip hop",
+        "pop rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+      "id": "6UBA15slIuadJ8h2lPRPos",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf2f6845f7e0187bb82cca89f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f2f6845f7e0187bb82cca89f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f2f6845f7e0187bb82cca89f",
+          "width": 160
+        }
+      ],
+      "name": "Tech N9ne",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
     }
   ],
-  "total": 28,
+  "total": 29,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
