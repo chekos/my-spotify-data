@@ -733,6 +733,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+      },
+      "followers": {
+        "href": null,
+        "total": 3358407
+      },
+      "genres": [
+        "banda",
+        "banda sinaloense",
+        "musica mexicana",
+        "ranchera"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
+      "id": "6AcOTCYBMvjKYy4zms0kaC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2de8a704feecf3bc5c4bce98",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742de8a704feecf3bc5c4bce98",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782de8a704feecf3bc5c4bce98",
+          "width": 160
+        }
+      ],
+      "name": "Banda El Recodo",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:6AcOTCYBMvjKYy4zms0kaC"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
       },
       "followers": {
@@ -1063,7 +1101,7 @@
       "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
     }
   ],
-  "total": 29,
+  "total": 30,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
