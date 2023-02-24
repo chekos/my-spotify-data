@@ -1068,6 +1068,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 120522
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba82ebb0fa3fb550ee398065c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a82ebb0fa3fb550ee398065c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a82ebb0fa3fb550ee398065c",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
       "followers": {
@@ -1218,7 +1254,7 @@
       "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
     }
   ],
-  "total": 33,
+  "total": 34,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
