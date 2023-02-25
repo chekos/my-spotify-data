@@ -1545,41 +1545,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-      },
-      "followers": {
-        "href": null,
-        "total": 4335528
-      },
-      "genres": [
-        "norteno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3hYtANQYrE6pd2PbtEyTIy",
-      "id": "3hYtANQYrE6pd2PbtEyTIy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ba215e27391c00f8b6ca824",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ba215e27391c00f8b6ca824",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ba215e27391c00f8b6ca824",
-          "width": 160
-        }
-      ],
-      "name": "Los Tigres Del Norte",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:3hYtANQYrE6pd2PbtEyTIy"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       "followers": {
@@ -1837,6 +1802,41 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
+      },
+      "followers": {
+        "href": null,
+        "total": 15641
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
+      "id": "2ai0soTBUbXpAdBZBEKkmh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb830d90d832105399c23c810",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b830d90d832105399c23c810",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b830d90d832105399c23c810",
+          "width": 160
+        }
+      ],
+      "name": "Pistola Bang",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
     }
   ],
   "total": 50,
