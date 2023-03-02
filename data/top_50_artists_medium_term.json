@@ -12,7 +12,8 @@
         "latin hip hop",
         "mexican hip hop",
         "perreo",
-        "rap underground mexicano"
+        "rap underground mexicano",
+        "rock en espanol"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -521,6 +522,7 @@
         "total": 0
       },
       "genres": [
+        "latin hip hop",
         "mexican hip hop",
         "rap underground mexicano"
       ],
@@ -884,8 +886,7 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "trap mexicano",
-        "urbano mexicano"
+        "trap mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
       "id": "6viZnVSHavFUcW0blu6Mvw",
@@ -1362,8 +1363,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap underground mexicano",
-        "urbano mexicano"
+        "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
       "id": "6JG2QQcaQBzinELNvu9PRk",
@@ -1435,8 +1435,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap femenino mexicano",
-        "urbano mexicano"
+        "rap femenino mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
       "id": "0SmgVe3giVHaJjGmIz8xA4",
@@ -1833,6 +1832,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
