@@ -995,6 +995,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "trap mexicano",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
+      "id": "2tU377oBzcCBbRNeVve8FC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb58a1ca2304fddc5505f4596d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517458a1ca2304fddc5505f4596d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17858a1ca2304fddc5505f4596d",
+          "width": 160
+        }
+      ],
+      "name": "Go Golden Junk",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
       },
       "followers": {
@@ -1290,7 +1326,7 @@
       "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
     }
   ],
-  "total": 35,
+  "total": 36,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
