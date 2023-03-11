@@ -994,344 +994,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-            },
-            "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
-            "id": "6qhOH2mrlqUDod9sWA5kR2",
-            "name": "Leo Dan",
-            "type": "artist",
-            "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
-        },
-        "href": "https://api.spotify.com/v1/albums/0Cq5RogZ5q5WfXRYGOIN98",
-        "id": "0Cq5RogZ5q5WfXRYGOIN98",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27383d00ea59ca863bb565834f6",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0283d00ea59ca863bb565834f6",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485183d00ea59ca863bb565834f6",
-            "width": 64
-          }
-        ],
-        "name": "Celebrando a una Leyenda (En Vivo)",
-        "release_date": "2018-03-23",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:0Cq5RogZ5q5WfXRYGOIN98"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-          },
-          "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
-          "id": "6qhOH2mrlqUDod9sWA5kR2",
-          "name": "Leo Dan",
-          "type": "artist",
-          "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-          },
-          "href": "https://api.spotify.com/v1/artists/7M75Am5m6J934JSviUOGz0",
-          "id": "7M75Am5m6J934JSviUOGz0",
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "type": "artist",
-          "uri": "spotify:artist:7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 195800,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF011800155"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4KTSH9v9nm4e2oiXa699aC",
-      "id": "4KTSH9v9nm4e2oiXa699aC",
-      "is_local": false,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
-      "popularity": 56,
-      "preview_url": "https://p.scdn.co/mp3-preview/d9e42c8de2d9a68c84b1cb446d651069f1217355?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:4KTSH9v9nm4e2oiXa699aC"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "id": "6zGGjiyCeY36tgNrxsFrK9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-            "width": 64
-          }
-        ],
-        "name": "En Vivo",
-        "release_date": "2004-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-          "id": "4TK1gDgb7QKoPFlzRrBRgR",
-          "name": "Los Enanitos Verdes",
-          "type": "artist",
-          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "CO",
-        "CR",
-        "ES",
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 350186,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF110400437"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
-      "id": "25hiY8kewc9ytxr9cEgbHZ",
-      "is_local": false,
-      "name": "Amores Lejanos - En Vivo",
-      "popularity": 36,
-      "preview_url": "https://p.scdn.co/mp3-preview/e16c9619521437ef9caf5e59f1ed37e3c88754ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
             },
             "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
@@ -2096,6 +1758,97 @@
       "track_number": 14,
       "type": "track",
       "uri": "spotify:track:2O8aEi9SpwobvFLvKHvIl3"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 350186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
+      "id": "25hiY8kewc9ytxr9cEgbHZ",
+      "is_local": false,
+      "name": "Amores Lejanos - En Vivo",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/e16c9619521437ef9caf5e59f1ed37e3c88754ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
     },
     {
       "album": {
@@ -7592,87 +7345,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-            },
-            "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-            "id": "7An4yvF7hDYDolN4m5zKBp",
-            "name": "Soda Stereo",
-            "type": "artist",
-            "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
-          }
-        ],
-        "available_markets": [
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-        },
-        "href": "https://api.spotify.com/v1/albums/75LbseLsPdTkMO9oUD9J8n",
-        "id": "75LbseLsPdTkMO9oUD9J8n",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851017ed8a01b6648a9d1fe2f58",
-            "width": 64
-          }
-        ],
-        "name": "Originales - 20 Exitos",
-        "release_date": "1983",
-        "release_date_precision": "year",
-        "total_tracks": 20,
-        "type": "album",
-        "uri": "spotify:album:75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-          },
-          "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-          "id": "7An4yvF7hDYDolN4m5zKBp",
-          "name": "Soda Stereo",
-          "type": "artist",
-          "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "available_markets": [
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 212893,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "ARF109600710"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2WD9ggmpZE7Wodh3qVVCgg",
-      "id": "2WD9ggmpZE7Wodh3qVVCgg",
-      "is_local": false,
-      "name": "De M\u00fasica Ligera",
-      "popularity": 54,
-      "preview_url": "https://p.scdn.co/mp3-preview/4d59bb525047253326bd96cddc0aa76a30b7bcab?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:2WD9ggmpZE7Wodh3qVVCgg"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
             },
             "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
@@ -11811,6 +11483,480 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0gsXBDtQMWBJPpl58X2fNO"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+            },
+            "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
+            "id": "1iIxNEvPPmdFIIP0tdpw6G",
+            "name": "Los Cadetes De Linares",
+            "type": "artist",
+            "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+        },
+        "href": "https://api.spotify.com/v1/albums/2asPHwYLmWPVhS0VA6Uu6N",
+        "id": "2asPHwYLmWPVhS0VA6Uu6N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273716a0f6b3cffeaf0bb1e2d03",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02716a0f6b3cffeaf0bb1e2d03",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851716a0f6b3cffeaf0bb1e2d03",
+            "width": 64
+          }
+        ],
+        "name": "4 Decadas 20 Boleros",
+        "release_date": "2012-04-24",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          },
+          "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
+          "id": "1iIxNEvPPmdFIIP0tdpw6G",
+          "name": "Los Cadetes De Linares",
+          "type": "artist",
+          "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 162280,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QM6DC1673424"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0jRHGnHLCS0d0uIEmwvfqN",
+      "id": "0jRHGnHLCS0d0uIEmwvfqN",
+      "is_local": false,
+      "name": "Tengo Un Amor Escondido",
+      "popularity": 29,
+      "preview_url": "https://p.scdn.co/mp3-preview/28a8e15d17730ae03c698f7250125a4cfe9654f7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:0jRHGnHLCS0d0uIEmwvfqN"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+            },
+            "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
+            "id": "1iIxNEvPPmdFIIP0tdpw6G",
+            "name": "Los Cadetes De Linares",
+            "type": "artist",
+            "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+        },
+        "href": "https://api.spotify.com/v1/albums/7Gg9HwOnLZWtNHjxhq3s7m",
+        "id": "7Gg9HwOnLZWtNHjxhq3s7m",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b9055b76675a76270ed4d218",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b9055b76675a76270ed4d218",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b9055b76675a76270ed4d218",
+            "width": 64
+          }
+        ],
+        "name": "4 Decadas de Exitos",
+        "release_date": "2012-04-24",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          },
+          "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
+          "id": "1iIxNEvPPmdFIIP0tdpw6G",
+          "name": "Los Cadetes De Linares",
+          "type": "artist",
+          "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 198200,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QM6DC1673316"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0qjKG2VxquPgZMh2pyxra8",
+      "id": "0qjKG2VxquPgZMh2pyxra8",
+      "is_local": false,
+      "name": "El Palomito",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/aebe71b542b4db26be91fe5a142ae91e03aaa551?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0qjKG2VxquPgZMh2pyxra8"
     }
   ],
   "total": 50,
