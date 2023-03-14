@@ -1528,97 +1528,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "id": "6zGGjiyCeY36tgNrxsFrK9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-            "width": 64
-          }
-        ],
-        "name": "En Vivo",
-        "release_date": "2004-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-          "id": "4TK1gDgb7QKoPFlzRrBRgR",
-          "name": "Los Enanitos Verdes",
-          "type": "artist",
-          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "CO",
-        "CR",
-        "ES",
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 350186,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF110400437"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
-      "id": "25hiY8kewc9ytxr9cEgbHZ",
-      "is_local": false,
-      "name": "Amores Lejanos - En Vivo",
-      "popularity": 36,
-      "preview_url": "https://p.scdn.co/mp3-preview/e16c9619521437ef9caf5e59f1ed37e3c88754ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
             },
             "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
@@ -2820,243 +2729,6 @@
     },
     {
       "album": {
-        "album_type": "COMPILATION",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-            },
-            "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-            "id": "7An4yvF7hDYDolN4m5zKBp",
-            "name": "Soda Stereo",
-            "type": "artist",
-            "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2Bd03Vcmh8Sl4aCuyTQwex"
-        },
-        "href": "https://api.spotify.com/v1/albums/2Bd03Vcmh8Sl4aCuyTQwex",
-        "id": "2Bd03Vcmh8Sl4aCuyTQwex",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735b41c0e7add793dde3b0af4f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025b41c0e7add793dde3b0af4f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515b41c0e7add793dde3b0af4f",
-            "width": 64
-          }
-        ],
-        "name": "Comfort y M\u00fasica Para Volar",
-        "release_date": "2008-01-22",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:2Bd03Vcmh8Sl4aCuyTQwex"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-          },
-          "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-          "id": "7An4yvF7hDYDolN4m5zKBp",
-          "name": "Soda Stereo",
-          "type": "artist",
-          "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 294306,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "ARF039600766"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/09gDnqdv7qrIYKAmdeHx7r"
-      },
-      "href": "https://api.spotify.com/v1/tracks/09gDnqdv7qrIYKAmdeHx7r",
-      "id": "09gDnqdv7qrIYKAmdeHx7r",
-      "is_local": false,
-      "name": "Entre Canibales - MTV Unplugged",
-      "popularity": 33,
-      "preview_url": "https://p.scdn.co/mp3-preview/901dda40e75ad22d3ad3be0a4880bc1b88da494f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:09gDnqdv7qrIYKAmdeHx7r"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -3924,6 +3596,97 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1crk0MXXyFQ1zVow6YTJOo"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 350186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
+      "id": "25hiY8kewc9ytxr9cEgbHZ",
+      "is_local": false,
+      "name": "Amores Lejanos - En Vivo",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/e16c9619521437ef9caf5e59f1ed37e3c88754ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
     },
     {
       "album": {
@@ -5660,6 +5423,253 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/70n07qVrWCKKf7S0Nq6iNV"
+        },
+        "href": "https://api.spotify.com/v1/albums/70n07qVrWCKKf7S0Nq6iNV",
+        "id": "70n07qVrWCKKf7S0Nq6iNV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737176e9065dd6fbc894bdaa0a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027176e9065dd6fbc894bdaa0a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517176e9065dd6fbc894bdaa0a",
+            "width": 64
+          }
+        ],
+        "name": "Maria",
+        "release_date": "2017-09-13",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:70n07qVrWCKKf7S0Nq6iNV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TH5DHRtzUUijYshUgKdby",
+          "id": "4TH5DHRtzUUijYshUgKdby",
+          "name": "B-RASTER",
+          "type": "artist",
+          "uri": "spotify:artist:4TH5DHRtzUUijYshUgKdby"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 184138,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "ushm81762950"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4TWBPTTlvde0a8M42NpG5E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4TWBPTTlvde0a8M42NpG5E",
+      "id": "4TWBPTTlvde0a8M42NpG5E",
+      "is_local": false,
+      "name": "Smoking Desmadre",
+      "popularity": 35,
+      "preview_url": "https://p.scdn.co/mp3-preview/8f9512fe6b7857c9aca4e372f212ccb39236db1a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4TWBPTTlvde0a8M42NpG5E"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
             "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
@@ -6144,23 +6154,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+              "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
             },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
+            "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+            "id": "31l8FA2bO5qxpqf8uhV5eZ",
+            "name": "Millonario & W. Corona",
             "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-            },
-            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-            "id": "7psBfCiJgjoSL9JMbTxqGU",
-            "name": "Kamaro",
-            "type": "artist",
-            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+            "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
           }
         ],
         "available_markets": [
@@ -6245,54 +6245,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
+          "spotify": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
         },
-        "href": "https://api.spotify.com/v1/albums/4lgrPArcFGHMKgqxmTeSMA",
-        "id": "4lgrPArcFGHMKgqxmTeSMA",
+        "href": "https://api.spotify.com/v1/albums/7I1mThh5NCgS2BqrAWcMdi",
+        "id": "7I1mThh5NCgS2BqrAWcMdi",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27301e2981ec91b99ae33cce9bb",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0201e2981ec91b99ae33cce9bb",
+            "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485101e2981ec91b99ae33cce9bb",
+            "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
             "width": 64
           }
         ],
-        "name": "M\u00fasica Prohibida",
-        "release_date": "2022-06-24",
+        "name": "As\u00ed Soy Yo",
+        "release_date": "2012-01-17",
         "release_date_precision": "day",
-        "total_tracks": 15,
+        "total_tracks": 12,
         "type": "album",
-        "uri": "spotify:album:4lgrPArcFGHMKgqxmTeSMA"
+        "uri": "spotify:album:7I1mThh5NCgS2BqrAWcMdi"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
           },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
+          "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+          "id": "31l8FA2bO5qxpqf8uhV5eZ",
+          "name": "Millonario & W. Corona",
           "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-          },
-          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-          "id": "7psBfCiJgjoSL9JMbTxqGU",
-          "name": "Kamaro",
-          "type": "artist",
-          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+          "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
         }
       ],
       "available_markets": [
@@ -6377,23 +6367,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 198000,
-      "explicit": false,
+      "duration_ms": 209386,
+      "explicit": true,
       "external_ids": {
-        "isrc": "QM6N22252155"
+        "isrc": "MX3601100005"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2cVoGmkncZmNXK5WL8H17N"
+        "spotify": "https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew"
       },
-      "href": "https://api.spotify.com/v1/tracks/2cVoGmkncZmNXK5WL8H17N",
-      "id": "2cVoGmkncZmNXK5WL8H17N",
+      "href": "https://api.spotify.com/v1/tracks/47zBGuVCeAzjFEPnRQQBew",
+      "id": "47zBGuVCeAzjFEPnRQQBew",
       "is_local": false,
-      "name": "Dile al Que Te Cuida",
-      "popularity": 18,
-      "preview_url": "https://p.scdn.co/mp3-preview/3b88a75df13edba859c2ea311c02dc551d72ddd2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 8,
+      "name": "M\u00e1s Flow M\u00e1s Cash",
+      "popularity": 60,
+      "preview_url": "https://p.scdn.co/mp3-preview/d9cf92464d171d4f94a0502aa850ca4b30d52453?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 5,
       "type": "track",
-      "uri": "spotify:track:2cVoGmkncZmNXK5WL8H17N"
+      "uri": "spotify:track:47zBGuVCeAzjFEPnRQQBew"
     },
     {
       "album": {
