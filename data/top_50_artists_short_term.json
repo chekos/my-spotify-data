@@ -186,43 +186,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "indie campechano",
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
-      "id": "7BQJLHBNVvz4O2JHmls4Ef",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb70edc0231763dc090338a51d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517470edc0231763dc090338a51d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17870edc0231763dc090338a51d",
-          "width": 160
-        }
-      ],
-      "name": "Wk",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -593,42 +556,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb103b2a7392c49a7474205ad4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174103b2a7392c49a7474205ad4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178103b2a7392c49a7474205ad4",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -661,45 +588,9 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-      "id": "2Gcx4c9rFAAloAYV2cMGUd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb4494c3c74fd9d69f420cff1",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b4494c3c74fd9d69f420cff1",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b4494c3c74fd9d69f420cff1",
-          "width": 160
-        }
-      ],
-      "name": "Proof",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
     }
   ],
-  "total": 19,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
