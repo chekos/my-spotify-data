@@ -3551,6 +3551,127 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZCO8oVkMj897cKgFH7fRW",
+            "id": "0ZCO8oVkMj897cKgFH7fRW",
+            "name": "Los \u00c1ngeles Azules",
+            "type": "artist",
+            "uri": "spotify:artist:0ZCO8oVkMj897cKgFH7fRW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6w3SkAHYPsQ1bxV7VDlG5y",
+            "id": "6w3SkAHYPsQ1bxV7VDlG5y",
+            "name": "Cazzu",
+            "type": "artist",
+            "uri": "spotify:artist:6w3SkAHYPsQ1bxV7VDlG5y"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+            "name": "Santa Fe Klan",
+            "type": "artist",
+            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp"
+        },
+        "href": "https://api.spotify.com/v1/albums/4kWBOGoMzrHdXf4dGzBPXp",
+        "id": "4kWBOGoMzrHdXf4dGzBPXp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f02f5de05795e5a2a61518e8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f02f5de05795e5a2a61518e8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f02f5de05795e5a2a61518e8",
+            "width": 64
+          }
+        ],
+        "name": "T\u00fa Y T\u00fa",
+        "release_date": "2023-03-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4kWBOGoMzrHdXf4dGzBPXp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZCO8oVkMj897cKgFH7fRW",
+          "id": "0ZCO8oVkMj897cKgFH7fRW",
+          "name": "Los \u00c1ngeles Azules",
+          "type": "artist",
+          "uri": "spotify:artist:0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w3SkAHYPsQ1bxV7VDlG5y",
+          "id": "6w3SkAHYPsQ1bxV7VDlG5y",
+          "name": "Cazzu",
+          "type": "artist",
+          "uri": "spotify:artist:6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
+          "type": "artist",
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "available_markets": [
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 216666,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MX1722301628"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6gnbz54mNEfB82Tl9pv5Z1",
+      "id": "6gnbz54mNEfB82Tl9pv5Z1",
+      "is_local": false,
+      "name": "T\u00fa Y T\u00fa",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/27c27f6dac1dbae2f7576abcfb60603e54ce4adf?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6gnbz54mNEfB82Tl9pv5Z1"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -11818,243 +11939,6 @@
       "track_number": 15,
       "type": "track",
       "uri": "spotify:track:1YLq4NBrgap5hJR1I1uvzl"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-            },
-            "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
-            "id": "1iIxNEvPPmdFIIP0tdpw6G",
-            "name": "Los Cadetes De Linares",
-            "type": "artist",
-            "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-        },
-        "href": "https://api.spotify.com/v1/albums/2asPHwYLmWPVhS0VA6Uu6N",
-        "id": "2asPHwYLmWPVhS0VA6Uu6N",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273716a0f6b3cffeaf0bb1e2d03",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02716a0f6b3cffeaf0bb1e2d03",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851716a0f6b3cffeaf0bb1e2d03",
-            "width": 64
-          }
-        ],
-        "name": "4 Decadas 20 Boleros",
-        "release_date": "2012-04-24",
-        "release_date_precision": "day",
-        "total_tracks": 20,
-        "type": "album",
-        "uri": "spotify:album:2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-          },
-          "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
-          "id": "1iIxNEvPPmdFIIP0tdpw6G",
-          "name": "Los Cadetes De Linares",
-          "type": "artist",
-          "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 121280,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QM6DC1673410"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1mfcbXmjuLtf4MnSdNBJTZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1mfcbXmjuLtf4MnSdNBJTZ",
-      "id": "1mfcbXmjuLtf4MnSdNBJTZ",
-      "is_local": false,
-      "name": "Amor Ausente",
-      "popularity": 29,
-      "preview_url": "https://p.scdn.co/mp3-preview/a280f8e0435c24c58e27b151f43a2d5a6778cbe0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 6,
-      "type": "track",
-      "uri": "spotify:track:1mfcbXmjuLtf4MnSdNBJTZ"
     }
   ],
   "total": 50,
