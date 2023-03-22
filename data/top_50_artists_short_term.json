@@ -401,7 +401,7 @@
         }
       ],
       "name": "Millonario & W. Corona",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
@@ -418,6 +418,7 @@
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
+        "rock en espanol",
         "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
@@ -522,6 +523,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
