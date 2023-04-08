@@ -585,7 +585,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 47,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -666,6 +666,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb103b2a7392c49a7474205ad4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174103b2a7392c49a7474205ad4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178103b2a7392c49a7474205ad4",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
       "followers": {
@@ -736,42 +772,6 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb103b2a7392c49a7474205ad4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174103b2a7392c49a7474205ad4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178103b2a7392c49a7474205ad4",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -1108,7 +1108,7 @@
         }
       ],
       "name": "Nanpa B\u00e1sico",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
@@ -1505,7 +1505,7 @@
         }
       ],
       "name": "Yoss Bones",
-      "popularity": 66,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
     },
@@ -1808,39 +1808,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "trap mexicano",
-        "urbano mexicano"
+        "chicano rap",
+        "latin hip hop",
+        "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
-      "id": "2tU377oBzcCBbRNeVve8FC",
+      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
+      "id": "3mYFuz6iY7D9X78rOXg5CG",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb58a1ca2304fddc5505f4596d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb10878c506a126c91402b4be6",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517458a1ca2304fddc5505f4596d",
+          "url": "https://i.scdn.co/image/ab6761610000517410878c506a126c91402b4be6",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17858a1ca2304fddc5505f4596d",
+          "url": "https://i.scdn.co/image/ab6761610000f17810878c506a126c91402b4be6",
           "width": 160
         }
       ],
-      "name": "Go Golden Junk",
-      "popularity": 49,
+      "name": "Akwid",
+      "popularity": 62,
       "type": "artist",
-      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
+      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
     }
   ],
   "total": 50,
