@@ -6989,6 +6989,253 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+        },
+        "href": "https://api.spotify.com/v1/albums/1jY2gqdDwbRbtwIIwmcxqI",
+        "id": "1jY2gqdDwbRbtwIIwmcxqI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273303ebbc17742293665e0440f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02303ebbc17742293665e0440f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851303ebbc17742293665e0440f",
+            "width": 64
+          }
+        ],
+        "name": "El Vicio y la Fama",
+        "release_date": "2019-07-15",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          },
+          "href": "https://api.spotify.com/v1/artists/6PmfbeAL7jAauFPNyQ5UPi",
+          "id": "6PmfbeAL7jAauFPNyQ5UPi",
+          "name": "Celso Pi\u00f1a",
+          "type": "artist",
+          "uri": "spotify:artist:6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 200260,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZGLM1912248"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SGSmlO6khOtjZtMBw67Da"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4SGSmlO6khOtjZtMBw67Da",
+      "id": "4SGSmlO6khOtjZtMBw67Da",
+      "is_local": false,
+      "name": "Qu\u00e9 Chula Mi Ciudad (feat. Celso Pi\u00f1a)",
+      "popularity": 50,
+      "preview_url": "https://p.scdn.co/mp3-preview/d998bd565072a2ccfe99b4d7bcca2fb461f1d1f5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4SGSmlO6khOtjZtMBw67Da"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -7964,6 +8211,243 @@
       "track_number": 14,
       "type": "track",
       "uri": "spotify:track:2O8aEi9SpwobvFLvKHvIl3"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
+        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "width": 64
+          }
+        ],
+        "name": "De Lo M\u00e1s Solicitado",
+        "release_date": "2019-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 156161,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB2088208"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6UYiF4Gtk7HQe37BhP8R2A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6UYiF4Gtk7HQe37BhP8R2A",
+      "id": "6UYiF4Gtk7HQe37BhP8R2A",
+      "is_local": false,
+      "name": "La Galliza",
+      "popularity": 48,
+      "preview_url": "https://p.scdn.co/mp3-preview/ea4280b4d13b57ed1e5864673c9648eb131801a8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6UYiF4Gtk7HQe37BhP8R2A"
     },
     {
       "album": {
@@ -11449,152 +11933,33 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+              "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
             },
-            "href": "https://api.spotify.com/v1/artists/2d9LRvQJnAXRijqIJDDs2K",
-            "id": "2d9LRvQJnAXRijqIJDDs2K",
-            "name": "Emicida",
+            "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+            "id": "1FCItwxfRieMGhR0eRxotU",
+            "name": "Rich Vagos",
             "type": "artist",
-            "uri": "spotify:artist:2d9LRvQJnAXRijqIJDDs2K"
-          }
-        ],
-        "available_markets": [
-          "AE",
-          "AU",
-          "BH",
-          "CA",
-          "CY",
-          "DZ",
-          "EG",
-          "HK",
-          "ID",
-          "IL",
-          "IN",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "MA",
-          "MY",
-          "NZ",
-          "OM",
-          "PH",
-          "PS",
-          "QA",
-          "SA",
-          "SG",
-          "TH",
-          "TN",
-          "TW",
-          "US",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3yDU0fUW1GTcFfQ3yQOrNP"
-        },
-        "href": "https://api.spotify.com/v1/albums/3yDU0fUW1GTcFfQ3yQOrNP",
-        "id": "3yDU0fUW1GTcFfQ3yQOrNP",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737686fe2ceff36cc44b7d3278",
-            "width": 640
+            "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
           },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027686fe2ceff36cc44b7d3278",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517686fe2ceff36cc44b7d3278",
-            "width": 64
-          }
-        ],
-        "name": "Emicida",
-        "release_date": "2022-04-29",
-        "release_date_precision": "day",
-        "total_tracks": 6,
-        "type": "album",
-        "uri": "spotify:album:3yDU0fUW1GTcFfQ3yQOrNP"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-          },
-          "href": "https://api.spotify.com/v1/artists/2d9LRvQJnAXRijqIJDDs2K",
-          "id": "2d9LRvQJnAXRijqIJDDs2K",
-          "name": "Emicida",
-          "type": "artist",
-          "uri": "spotify:artist:2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "available_markets": [
-        "AE",
-        "AU",
-        "BH",
-        "CA",
-        "CY",
-        "DZ",
-        "EG",
-        "HK",
-        "ID",
-        "IL",
-        "IN",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "MA",
-        "MY",
-        "NZ",
-        "OM",
-        "PH",
-        "PS",
-        "QA",
-        "SA",
-        "SG",
-        "TH",
-        "TN",
-        "TW",
-        "US",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 151146,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "BRX6F2200014"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/33Qhpncy05n4JydIFfy3N3"
-      },
-      "href": "https://api.spotify.com/v1/tracks/33Qhpncy05n4JydIFfy3N3",
-      "id": "33Qhpncy05n4JydIFfy3N3",
-      "is_local": false,
-      "name": "Triunfo",
-      "popularity": 16,
-      "preview_url": "https://p.scdn.co/mp3-preview/af116fcdbffc934b1aa240438dce03dcbfae86d4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:33Qhpncy05n4JydIFfy3N3"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+              "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
             },
-            "href": "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
-            "id": "4sb7rZNN93BSS6Gqgepo4v",
-            "name": "Too $hort",
+            "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+            "id": "4V2V4PaSblStayYVWTGDbZ",
+            "name": "Geassassin",
             "type": "artist",
-            "uri": "spotify:artist:4sb7rZNN93BSS6Gqgepo4v"
+            "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+            },
+            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+            "id": "0U8dIwzBn17JkhYxmznp6T",
+            "name": "Jayrick",
+            "type": "artist",
+            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
           }
         ],
         "available_markets": [
@@ -11679,301 +12044,64 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/6pcqEZLPD0dBb3JjjrgyCO"
+          "spotify": "https://open.spotify.com/album/2AReAgLcrEbxmT8PZacdy2"
         },
-        "href": "https://api.spotify.com/v1/albums/6pcqEZLPD0dBb3JjjrgyCO",
-        "id": "6pcqEZLPD0dBb3JjjrgyCO",
+        "href": "https://api.spotify.com/v1/albums/2AReAgLcrEbxmT8PZacdy2",
+        "id": "2AReAgLcrEbxmT8PZacdy2",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27382b10338f0a3c0bf79c2cf24",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d9d2f7dcccaa3b3a80ff3db",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0282b10338f0a3c0bf79c2cf24",
+            "url": "https://i.scdn.co/image/ab67616d00001e025d9d2f7dcccaa3b3a80ff3db",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485182b10338f0a3c0bf79c2cf24",
+            "url": "https://i.scdn.co/image/ab67616d000048515d9d2f7dcccaa3b3a80ff3db",
             "width": 64
           }
         ],
-        "name": "The Pimp Tape",
-        "release_date": "2018-11-09",
-        "release_date_precision": "day",
-        "total_tracks": 20,
-        "type": "album",
-        "uri": "spotify:album:6pcqEZLPD0dBb3JjjrgyCO"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-          },
-          "href": "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
-          "id": "4sb7rZNN93BSS6Gqgepo4v",
-          "name": "Too $hort",
-          "type": "artist",
-          "uri": "spotify:artist:4sb7rZNN93BSS6Gqgepo4v"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-          },
-          "href": "https://api.spotify.com/v1/artists/7yCGrS6Xh3UngvY6Ad5sMJ",
-          "id": "7yCGrS6Xh3UngvY6Ad5sMJ",
-          "name": "LEGADO 7",
-          "type": "artist",
-          "uri": "spotify:artist:7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-          },
-          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
-          "id": "0QHgL1lAIqAw0HtD7YldmP",
-          "name": "DJ Khaled",
-          "type": "artist",
-          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 226145,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USUYG1124286"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3Aj8B05GjCjeIhXZjrvzTG"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3Aj8B05GjCjeIhXZjrvzTG",
-      "id": "3Aj8B05GjCjeIhXZjrvzTG",
-      "is_local": false,
-      "name": "Sexy Dancer (feat. Legado 7 & DJ Khaled)",
-      "popularity": 26,
-      "preview_url": "https://p.scdn.co/mp3-preview/a636fe9d6b7977e7e25cd91c60033d2712d901a5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 15,
-      "type": "track",
-      "uri": "spotify:track:3Aj8B05GjCjeIhXZjrvzTG"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-            "id": "3ScIigEm9KZUrUQtXzBmKJ",
-            "name": "Cozy Cuz",
-            "type": "artist",
-            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7r2OIMrfbltUOljVMs4oph"
-        },
-        "href": "https://api.spotify.com/v1/albums/7r2OIMrfbltUOljVMs4oph",
-        "id": "7r2OIMrfbltUOljVMs4oph",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273cbf4ccfeca00e2d229c2b71a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02cbf4ccfeca00e2d229c2b71a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851cbf4ccfeca00e2d229c2b71a",
-            "width": 64
-          }
-        ],
-        "name": "100-0-100",
-        "release_date": "2022-10-31",
+        "name": "Seasson 1: Geassassin (Cap. 5)",
+        "release_date": "2020-06-26",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:7r2OIMrfbltUOljVMs4oph"
+        "uri": "spotify:album:2AReAgLcrEbxmT8PZacdy2"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+            "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
           },
-          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-          "id": "3ScIigEm9KZUrUQtXzBmKJ",
-          "name": "Cozy Cuz",
+          "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+          "id": "1FCItwxfRieMGhR0eRxotU",
+          "name": "Rich Vagos",
           "type": "artist",
-          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+          "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+          "id": "4V2V4PaSblStayYVWTGDbZ",
+          "name": "Geassassin",
+          "type": "artist",
+          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+          "id": "0U8dIwzBn17JkhYxmznp6T",
+          "name": "Jayrick",
+          "type": "artist",
+          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
         }
       ],
       "available_markets": [
@@ -12058,23 +12186,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 192408,
+      "duration_ms": 127000,
       "explicit": true,
       "external_ids": {
-        "isrc": "QMDA72213495"
+        "isrc": "QZHZ42096309"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3qfPyQHjR0UShH7cBEfmTa"
+        "spotify": "https://open.spotify.com/track/20LvSzn2q8jwUohHv3hGO0"
       },
-      "href": "https://api.spotify.com/v1/tracks/3qfPyQHjR0UShH7cBEfmTa",
-      "id": "3qfPyQHjR0UShH7cBEfmTa",
+      "href": "https://api.spotify.com/v1/tracks/20LvSzn2q8jwUohHv3hGO0",
+      "id": "20LvSzn2q8jwUohHv3hGO0",
       "is_local": false,
-      "name": "100-0-100",
-      "popularity": 13,
-      "preview_url": "https://p.scdn.co/mp3-preview/583c0bde48a96050970e85d666a9b0109f8ed231?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "name": "Seasson 1: Geassassin (Cap. 5)",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/6a170001c9b4d5aa12a30afd2505f29305b1a4d1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:3qfPyQHjR0UShH7cBEfmTa"
+      "uri": "spotify:track:20LvSzn2q8jwUohHv3hGO0"
     }
   ],
   "total": 50,
