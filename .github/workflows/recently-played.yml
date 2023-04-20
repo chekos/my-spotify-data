@@ -43,11 +43,7 @@ jobs:
         playwright install chromium
     - name: Get tracks played in the last hour
       run: |-
-        esporifai get-recently-played after \
-        "$(jq -r '.cursors.after|tonumber/1000 | strftime("%Y-%m-%d %T")' data/recently_played.json)" \
-        --limit 50 \
-        --time-zone UTC \
-        --output data/recently_played.json
+        esporifai get-recently-played before "$(date +"%Y-%m-%d %T")" --limit 50 --time-zone UTC --output data/recently_played.json --trim
     - name: Commit and push if it changed 
       run: |-
         git config user.name "Automated"
