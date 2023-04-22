@@ -1447,6 +1447,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "bases de freestyle",
+        "mexican hip hop",
+        "peruvian hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+      "id": "4r1ZDYKzPt3iIjuq8LbT6X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe025eda5d1d57d6d12df03ce",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e025eda5d1d57d6d12df03ce",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e025eda5d1d57d6d12df03ce",
+          "width": 160
+        }
+      ],
+      "name": "Aczino",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
       },
       "followers": {
@@ -1765,43 +1802,6 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "bases de freestyle",
-        "mexican hip hop",
-        "peruvian hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-      "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe025eda5d1d57d6d12df03ce",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e025eda5d1d57d6d12df03ce",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e025eda5d1d57d6d12df03ce",
-          "width": 160
-        }
-      ],
-      "name": "Aczino",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     }
   ],
   "total": 50,
