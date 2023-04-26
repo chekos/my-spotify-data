@@ -6462,243 +6462,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-            },
-            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-            "id": "7I85Ma5xjAo6nlvqOCIiWx",
-            "name": "Fntxy",
-            "type": "artist",
-            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
-        },
-        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
-        "id": "7cftuQ1mezvQCWSHtP7eA9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
-            "width": 64
-          }
-        ],
-        "name": "Homie Alone",
-        "release_date": "2022-07-29",
-        "release_date_precision": "day",
-        "total_tracks": 17,
-        "type": "album",
-        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-          },
-          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-          "id": "7I85Ma5xjAo6nlvqOCIiWx",
-          "name": "Fntxy",
-          "type": "artist",
-          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 181969,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6P42209677"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7DxHxVvZkeW2UUrXYGmn3U",
-      "id": "7DxHxVvZkeW2UUrXYGmn3U",
-      "is_local": false,
-      "name": "Waze",
-      "popularity": 45,
-      "preview_url": "https://p.scdn.co/mp3-preview/6f747913e98693d33cb50cda5aeaf3359dbcce77?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:7DxHxVvZkeW2UUrXYGmn3U"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
             },
             "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
@@ -6939,6 +6702,243 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:4Zs49a8sp1KbFbqJFZhY0N"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            },
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
+            "type": "artist",
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
+            "width": 64
+          }
+        ],
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
+          "type": "artist",
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 181969,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6P42209677"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DxHxVvZkeW2UUrXYGmn3U",
+      "id": "7DxHxVvZkeW2UUrXYGmn3U",
+      "is_local": false,
+      "name": "Waze",
+      "popularity": 45,
+      "preview_url": "https://p.scdn.co/mp3-preview/6f747913e98693d33cb50cda5aeaf3359dbcce77?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7DxHxVvZkeW2UUrXYGmn3U"
     },
     {
       "album": {
@@ -9025,103 +9025,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-            },
-            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-            "id": "716NhGYqD1jl2wI1Qkgq36",
-            "name": "Bizarrap",
-            "type": "artist",
-            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-            },
-            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-            "id": "3p3jPcp8b7WL9XYj4xlsWj",
-            "name": "Snow Tha Product",
-            "type": "artist",
-            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
-        },
-        "href": "https://api.spotify.com/v1/albums/3GN1tT5enSZQ6lMDtls3an",
-        "id": "3GN1tT5enSZQ6lMDtls3an",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730427a473bc9cec1a1df4d14b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020427a473bc9cec1a1df4d14b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510427a473bc9cec1a1df4d14b",
-            "width": 64
-          }
-        ],
-        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-        "release_date": "2021-04-28",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3GN1tT5enSZQ6lMDtls3an"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-          },
-          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-          "id": "716NhGYqD1jl2wI1Qkgq36",
-          "name": "Bizarrap",
-          "type": "artist",
-          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-          },
-          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-          "id": "3p3jPcp8b7WL9XYj4xlsWj",
-          "name": "Snow Tha Product",
-          "type": "artist",
-          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 177442,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "UYB282101015"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3ke6it1vTmHtz2ApcIVUz5",
-      "id": "3ke6it1vTmHtz2ApcIVUz5",
-      "is_local": false,
-      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-      "popularity": 9,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3ke6it1vTmHtz2ApcIVUz5"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -9386,6 +9289,103 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:7DOSYQOd5m0e6e3YKd1TH7"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+            },
+            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+            "id": "716NhGYqD1jl2wI1Qkgq36",
+            "name": "Bizarrap",
+            "type": "artist",
+            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+            "id": "3p3jPcp8b7WL9XYj4xlsWj",
+            "name": "Snow Tha Product",
+            "type": "artist",
+            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
+        },
+        "href": "https://api.spotify.com/v1/albums/3GN1tT5enSZQ6lMDtls3an",
+        "id": "3GN1tT5enSZQ6lMDtls3an",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730427a473bc9cec1a1df4d14b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020427a473bc9cec1a1df4d14b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510427a473bc9cec1a1df4d14b",
+            "width": 64
+          }
+        ],
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "release_date": "2021-04-28",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3GN1tT5enSZQ6lMDtls3an"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          },
+          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+          "id": "716NhGYqD1jl2wI1Qkgq36",
+          "name": "Bizarrap",
+          "type": "artist",
+          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+          "id": "3p3jPcp8b7WL9XYj4xlsWj",
+          "name": "Snow Tha Product",
+          "type": "artist",
+          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 177442,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "UYB282101015"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ke6it1vTmHtz2ApcIVUz5",
+      "id": "3ke6it1vTmHtz2ApcIVUz5",
+      "is_local": false,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "popularity": 9,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3ke6it1vTmHtz2ApcIVUz5"
     },
     {
       "album": {
