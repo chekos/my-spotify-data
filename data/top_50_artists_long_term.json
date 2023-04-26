@@ -1260,7 +1260,7 @@
         }
       ],
       "name": "Ballin",
-      "popularity": 26,
+      "popularity": 25,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
     },
@@ -1817,6 +1817,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
