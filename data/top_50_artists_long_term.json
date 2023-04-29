@@ -396,6 +396,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -431,42 +467,6 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
     {
       "external_urls": {
@@ -1009,41 +1009,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
       },
       "followers": {
@@ -1076,6 +1041,41 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
     {
       "external_urls": {
@@ -1155,42 +1155,6 @@
       "popularity": 40,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap venezolano",
-        "venezuelan hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-      "id": "6fMZytDgX1Q9OV6ndSugym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09c68a8336b98ac8f9a973bd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409c68a8336b98ac8f9a973bd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809c68a8336b98ac8f9a973bd",
-          "width": 160
-        }
-      ],
-      "name": "Akapellah",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
     {
       "external_urls": {
@@ -1298,6 +1262,42 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "trap venezolano",
+        "venezuelan hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+      "id": "6fMZytDgX1Q9OV6ndSugym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09c68a8336b98ac8f9a973bd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409c68a8336b98ac8f9a973bd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809c68a8336b98ac8f9a973bd",
+          "width": 160
+        }
+      ],
+      "name": "Akapellah",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
     {
       "external_urls": {
@@ -1585,6 +1585,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
+      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
+          "width": 160
+        }
+      ],
+      "name": "Millonario",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
       },
       "followers": {
@@ -1621,41 +1656,6 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
-          "width": 160
-        }
-      ],
-      "name": "Millonario",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
     },
     {
       "external_urls": {
