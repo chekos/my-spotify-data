@@ -11963,13 +11963,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+              "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
             },
-            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-            "name": "Santa Fe Klan",
+            "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
+            "id": "35BPWrbRCzHa7yWWvCi8BI",
+            "name": "Ballin",
             "type": "artist",
-            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+            "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
           }
         ],
         "available_markets": [
@@ -12054,44 +12054,54 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+          "spotify": "https://open.spotify.com/album/4S9AgwIwzNCbmqb1fngvm0"
         },
-        "href": "https://api.spotify.com/v1/albums/5t6smstXej1mG4yeh2Rgn0",
-        "id": "5t6smstXej1mG4yeh2Rgn0",
+        "href": "https://api.spotify.com/v1/albums/4S9AgwIwzNCbmqb1fngvm0",
+        "id": "4S9AgwIwzNCbmqb1fngvm0",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273be83d1e73024eb98201c0f7e",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f7b170137594ff85885a2dc0",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02be83d1e73024eb98201c0f7e",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f7b170137594ff85885a2dc0",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851be83d1e73024eb98201c0f7e",
+            "url": "https://i.scdn.co/image/ab67616d00004851f7b170137594ff85885a2dc0",
             "width": 64
           }
         ],
-        "name": "Bendecido",
-        "release_date": "2019-06-26",
+        "name": "Ahora Yo",
+        "release_date": "2021-05-14",
         "release_date_precision": "day",
-        "total_tracks": 10,
+        "total_tracks": 15,
         "type": "album",
-        "uri": "spotify:album:5t6smstXej1mG4yeh2Rgn0"
+        "uri": "spotify:album:4S9AgwIwzNCbmqb1fngvm0"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+            "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
           },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
+          "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
+          "id": "35BPWrbRCzHa7yWWvCi8BI",
+          "name": "Ballin",
           "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+          "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+          },
+          "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+          "id": "3L7OHIT4kfdcDSnnGM0TKN",
+          "name": "El Pinche Mara",
+          "type": "artist",
+          "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
         }
       ],
       "available_markets": [
@@ -12176,23 +12186,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 200547,
+      "duration_ms": 190989,
       "explicit": true,
       "external_ids": {
-        "isrc": "USHM21906943"
+        "isrc": "QZHZ32159747"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE"
+        "spotify": "https://open.spotify.com/track/72NhlAd9kVy3VXAo4ctdZf"
       },
-      "href": "https://api.spotify.com/v1/tracks/7nlwjDDc7jNvb9sy8EcQCE",
-      "id": "7nlwjDDc7jNvb9sy8EcQCE",
+      "href": "https://api.spotify.com/v1/tracks/72NhlAd9kVy3VXAo4ctdZf",
+      "id": "72NhlAd9kVy3VXAo4ctdZf",
       "is_local": false,
-      "name": "Familia",
-      "popularity": 58,
-      "preview_url": "https://p.scdn.co/mp3-preview/98c548fdfdac99ca7d0cec5a14a57f6dc505814b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Tristes",
+      "popularity": 2,
+      "preview_url": "https://p.scdn.co/mp3-preview/cc192b94b7943476ebc9212032fd542082a5d569?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 6,
       "type": "track",
-      "uri": "spotify:track:7nlwjDDc7jNvb9sy8EcQCE"
+      "uri": "spotify:track:72NhlAd9kVy3VXAo4ctdZf"
     }
   ],
   "total": 50,
