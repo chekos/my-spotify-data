@@ -931,6 +931,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
+      "id": "3fo4UvMNzZUCFS90Roh5iK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf12416008a1055653fe39474",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f12416008a1055653fe39474",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f12416008a1055653fe39474",
+          "width": 160
+        }
+      ],
+      "name": "Eptos Uno",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:3fo4UvMNzZUCFS90Roh5iK"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
       },
       "followers": {
@@ -1086,43 +1123,6 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
-      "id": "3fo4UvMNzZUCFS90Roh5iK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf12416008a1055653fe39474",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f12416008a1055653fe39474",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f12416008a1055653fe39474",
-          "width": 160
-        }
-      ],
-      "name": "Eptos Uno",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:3fo4UvMNzZUCFS90Roh5iK"
     },
     {
       "external_urls": {
@@ -1766,38 +1766,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican hip hop"
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
-      "id": "6JG2QQcaQBzinELNvu9PRk",
+      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+      "id": "645xd9cHiiLqqehoLzLMDR",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb59c7da4c714a2a44e6ad8fea",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe8d667e7d4d5d61280fa00f5",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517459c7da4c714a2a44e6ad8fea",
+          "url": "https://i.scdn.co/image/ab67616100005174e8d667e7d4d5d61280fa00f5",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17859c7da4c714a2a44e6ad8fea",
+          "url": "https://i.scdn.co/image/ab6761610000f178e8d667e7d4d5d61280fa00f5",
           "width": 160
         }
       ],
-      "name": "Bipo Montana",
-      "popularity": 53,
+      "name": "Ad\u00e1n Cruz",
+      "popularity": 60,
       "type": "artist",
-      "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
+      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
     }
   ],
   "total": 50,
