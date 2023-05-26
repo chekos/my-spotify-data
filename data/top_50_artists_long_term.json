@@ -215,6 +215,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd7e871a9619f17ccb44cfc40",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d7e871a9619f17ccb44cfc40",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d7e871a9619f17ccb44cfc40",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
       "followers": {
@@ -252,38 +287,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "nueva musica mexicana"
       ],
-      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd7e871a9619f17ccb44cfc40",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0004348a7c5517eab6e0729f",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d7e871a9619f17ccb44cfc40",
+          "url": "https://i.scdn.co/image/ab676161000051740004348a7c5517eab6e0729f",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d7e871a9619f17ccb44cfc40",
+          "url": "https://i.scdn.co/image/ab6761610000f1780004348a7c5517eab6e0729f",
           "width": 160
         }
       ],
-      "name": "Faruz Feet",
-      "popularity": 58,
+      "name": "Santa Fe Klan",
+      "popularity": 77,
       "type": "artist",
-      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -320,42 +356,6 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
     {
       "external_urls": {
@@ -434,7 +434,7 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
         "href": null,
@@ -442,31 +442,66 @@
       },
       "genres": [
         "mexican hip hop",
-        "nueva musica mexicana"
+        "rap conciencia"
       ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0004348a7c5517eab6e0729f",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740004348a7c5517eab6e0729f",
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780004348a7c5517eab6e0729f",
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
           "width": 160
         }
       ],
-      "name": "Santa Fe Klan",
-      "popularity": 77,
+      "name": "Charles Ans",
+      "popularity": 69,
       "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
     {
       "external_urls": {
@@ -541,77 +576,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
-          "width": 160
-        }
-      ],
-      "name": "West Gold",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "colombian hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
-      "id": "1cUpGtXcSQsovNYEZOQgOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfecb1476b29533fd86de6ebb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fecb1476b29533fd86de6ebb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fecb1476b29533fd86de6ebb",
-          "width": 160
-        }
-      ],
-      "name": "Nanpa B\u00e1sico",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
       },
       "followers": {
@@ -652,38 +616,75 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+      "id": "3L7OHIT4kfdcDSnnGM0TKN",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebed45def8eee9a37ee708a788",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ed45def8eee9a37ee708a788",
+          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ed45def8eee9a37ee708a788",
+          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
           "width": 160
         }
       ],
-      "name": "Geassassin",
+      "name": "El Pinche Mara",
       "popularity": 52,
       "type": "artist",
-      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "colombian hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+      "id": "1cUpGtXcSQsovNYEZOQgOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfecb1476b29533fd86de6ebb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fecb1476b29533fd86de6ebb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fecb1476b29533fd86de6ebb",
+          "width": 160
+        }
+      ],
+      "name": "Nanpa B\u00e1sico",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
     {
       "external_urls": {
@@ -724,42 +725,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-      "id": "3L7OHIT4kfdcDSnnGM0TKN",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
-          "width": 160
-        }
-      ],
-      "name": "El Pinche Mara",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
@@ -795,6 +760,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebed45def8eee9a37ee708a788",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ed45def8eee9a37ee708a788",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ed45def8eee9a37ee708a788",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
       },
       "followers": {
@@ -827,6 +827,45 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "argentine hip hop",
+        "pop venezolano",
+        "trap argentino",
+        "trap latino",
+        "urbano latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id": "716NhGYqD1jl2wI1Qkgq36",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
+          "width": 160
+        }
+      ],
+      "name": "Bizarrap",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     },
     {
       "external_urls": {
@@ -935,80 +974,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "argentine hip hop",
-        "pop venezolano",
-        "trap argentino",
-        "trap latino",
-        "urbano latino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-      "id": "716NhGYqD1jl2wI1Qkgq36",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
-          "width": 160
-        }
-      ],
-      "name": "Bizarrap",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-      "id": "30CTTIqrcr82nS6B40j975",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb31cfcbd9e4a7daefd997c46a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517431cfcbd9e4a7daefd997c46a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17831cfcbd9e4a7daefd997c46a",
-          "width": 160
-        }
-      ],
-      "name": "Robot95",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
       },
       "followers": {
@@ -1055,41 +1020,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
       },
       "followers": {
@@ -1125,43 +1055,42 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
+      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+      "id": "30CTTIqrcr82nS6B40j975",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb103b2a7392c49a7474205ad4",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb31cfcbd9e4a7daefd997c46a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174103b2a7392c49a7474205ad4",
+          "url": "https://i.scdn.co/image/ab6761610000517431cfcbd9e4a7daefd997c46a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178103b2a7392c49a7474205ad4",
+          "url": "https://i.scdn.co/image/ab6761610000f17831cfcbd9e4a7daefd997c46a",
           "width": 160
         }
       ],
-      "name": "Denilson",
-      "popularity": 45,
+      "name": "Robot95",
+      "popularity": 60,
       "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
@@ -1170,29 +1099,29 @@
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
           "width": 160
         }
       ],
-      "name": "Lefty Sm",
+      "name": "Neto Pe\u00f1a",
       "popularity": 68,
       "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
     {
       "external_urls": {
@@ -1232,6 +1161,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
+      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "width": 160
+        }
+      ],
+      "name": "Nortec: Bostich + Fussible",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
       },
       "followers": {
@@ -1268,36 +1230,108 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
         "total": 0
       },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
-      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
           "width": 160
         }
       ],
-      "name": "Nortec: Bostich + Fussible",
-      "popularity": 40,
+      "name": "Lefty Sm",
+      "popularity": 68,
       "type": "artist",
-      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+      "id": "645xd9cHiiLqqehoLzLMDR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe8d667e7d4d5d61280fa00f5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e8d667e7d4d5d61280fa00f5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e8d667e7d4d5d61280fa00f5",
+          "width": 160
+        }
+      ],
+      "name": "Ad\u00e1n Cruz",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+      "id": "6DjBv6gyR1HLsvwGUOD5V9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
+          "width": 160
+        }
+      ],
+      "name": "TREN LOKOTE",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
     },
     {
       "external_urls": {
@@ -1336,7 +1370,43 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb103b2a7392c49a7474205ad4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174103b2a7392c49a7474205ad4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178103b2a7392c49a7474205ad4",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
         "href": null,
@@ -1345,29 +1415,29 @@
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-      "id": "2Gcx4c9rFAAloAYV2cMGUd",
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc299552f27fb0c9484ff73f2",
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c299552f27fb0c9484ff73f2",
-          "width": 320
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c299552f27fb0c9484ff73f2",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
         }
       ],
-      "name": "Proof",
-      "popularity": 56,
+      "name": "Millonario & W. Corona",
+      "popularity": 59,
       "type": "artist",
-      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
     {
       "external_urls": {
@@ -1407,7 +1477,7 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
       },
       "followers": {
         "href": null,
@@ -1416,29 +1486,67 @@
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-      "id": "6DjBv6gyR1HLsvwGUOD5V9",
+      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+      "id": "2Gcx4c9rFAAloAYV2cMGUd",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc299552f27fb0c9484ff73f2",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
+          "url": "https://i.scdn.co/image/ab67616100005174c299552f27fb0c9484ff73f2",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
+          "url": "https://i.scdn.co/image/ab6761610000f178c299552f27fb0c9484ff73f2",
           "width": 160
         }
       ],
-      "name": "TREN LOKOTE",
-      "popularity": 61,
+      "name": "Proof",
+      "popularity": 56,
       "type": "artist",
-      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "conscious hip hop",
+        "hip hop",
+        "rap",
+        "west coast rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
+          "width": 160
+        }
+      ],
+      "name": "Kendrick Lamar",
+      "popularity": 89,
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
     {
       "external_urls": {
@@ -1481,45 +1589,7 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "conscious hip hop",
-        "hip hop",
-        "rap",
-        "west coast rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
-      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
-          "width": 160
-        }
-      ],
-      "name": "Kendrick Lamar",
-      "popularity": 89,
-      "type": "artist",
-      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        "spotify": "https://open.spotify.com/artist/0XVOL55Wa1lbWs1tAsv5nf"
       },
       "followers": {
         "href": null,
@@ -1528,29 +1598,103 @@
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "href": "https://api.spotify.com/v1/artists/0XVOL55Wa1lbWs1tAsv5nf",
+      "id": "0XVOL55Wa1lbWs1tAsv5nf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb497d8eb09e5bb9004404386e",
           "width": 640
         },
         {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174497d8eb09e5bb9004404386e",
+          "width": 320
         },
         {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178497d8eb09e5bb9004404386e",
+          "width": 160
         }
       ],
-      "name": "Millonario & W. Corona",
-      "popularity": 59,
+      "name": "Berbal La 4 Verde",
+      "popularity": 34,
       "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+      "uri": "spotify:artist:0XVOL55Wa1lbWs1tAsv5nf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
+      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
+          "width": 160
+        }
+      ],
+      "name": "Millonario",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "latin alternative",
+        "latin rock",
+        "mexican rock",
+        "morelos indie",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
+      "id": "6IdtcAwaNVAggwd6sCKgTI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742a7f6c818d24ac776151aefc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782a7f6c818d24ac776151aefc",
+          "width": 160
+        }
+      ],
+      "name": "Zo\u00e9",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
     },
     {
       "external_urls": {
@@ -1600,185 +1744,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
-      "id": "2ai0soTBUbXpAdBZBEKkmh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb830d90d832105399c23c810",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b830d90d832105399c23c810",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b830d90d832105399c23c810",
-          "width": 160
-        }
-      ],
-      "name": "Pistola Bang",
-      "popularity": 27,
-      "type": "artist",
-      "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "latin alternative",
-        "latin rock",
-        "mexican rock",
-        "morelos indie",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
-      "id": "6IdtcAwaNVAggwd6sCKgTI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742a7f6c818d24ac776151aefc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782a7f6c818d24ac776151aefc",
-          "width": 160
-        }
-      ],
-      "name": "Zo\u00e9",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
-          "width": 160
-        }
-      ],
-      "name": "Millonario",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
-      "id": "645xd9cHiiLqqehoLzLMDR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe8d667e7d4d5d61280fa00f5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e8d667e7d4d5d61280fa00f5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e8d667e7d4d5d61280fa00f5",
-          "width": 160
-        }
-      ],
-      "name": "Ad\u00e1n Cruz",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0XVOL55Wa1lbWs1tAsv5nf"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0XVOL55Wa1lbWs1tAsv5nf",
-      "id": "0XVOL55Wa1lbWs1tAsv5nf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb497d8eb09e5bb9004404386e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174497d8eb09e5bb9004404386e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178497d8eb09e5bb9004404386e",
-          "width": 160
-        }
-      ],
-      "name": "Berbal La 4 Verde",
-      "popularity": 34,
-      "type": "artist",
-      "uri": "spotify:artist:0XVOL55Wa1lbWs1tAsv5nf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
       },
       "followers": {
@@ -1813,6 +1778,41 @@
       "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:5pR3pEU0bCMZhhAzag3DUz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6pu8qjuOYZRBYc1hiHEVL5",
+      "id": "6pu8qjuOYZRBYc1hiHEVL5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb36b0875e66a1adbfdb41640",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b36b0875e66a1adbfdb41640",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b36b0875e66a1adbfdb41640",
+          "width": 160
+        }
+      ],
+      "name": "Primero Company",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
     }
   ],
   "total": 50,
