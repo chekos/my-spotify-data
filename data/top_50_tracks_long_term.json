@@ -4188,253 +4188,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5huUeSyl92U55yMr8WKvYv"
-        },
-        "href": "https://api.spotify.com/v1/albums/5huUeSyl92U55yMr8WKvYv",
-        "id": "5huUeSyl92U55yMr8WKvYv",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734870f1774d6ccdb458f8c47d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024870f1774d6ccdb458f8c47d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514870f1774d6ccdb458f8c47d",
-            "width": 64
-          }
-        ],
-        "name": "Perro Sin Cadena",
-        "release_date": "2019-12-13",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:5huUeSyl92U55yMr8WKvYv"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
-          },
-          "href": "https://api.spotify.com/v1/artists/4VECwDIJ0DYczPqCyP85kQ",
-          "id": "4VECwDIJ0DYczPqCyP85kQ",
-          "name": "Jay Romero",
-          "type": "artist",
-          "uri": "spotify:artist:4VECwDIJ0DYczPqCyP85kQ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 167500,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ51954098"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/14caNW7a2eNEjUChgcDG01"
-      },
-      "href": "https://api.spotify.com/v1/tracks/14caNW7a2eNEjUChgcDG01",
-      "id": "14caNW7a2eNEjUChgcDG01",
-      "is_local": false,
-      "name": "Pinche Vago",
-      "popularity": 18,
-      "preview_url": "https://p.scdn.co/mp3-preview/a6a174fe1aefe90413d8aba79b0cd432a9e72f0a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 12,
-      "type": "track",
-      "uri": "spotify:track:14caNW7a2eNEjUChgcDG01"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -5063,6 +4816,253 @@
       "track_number": 3,
       "type": "track",
       "uri": "spotify:track:1sbQ6LqLRtUXu6El1QgGYO"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5huUeSyl92U55yMr8WKvYv"
+        },
+        "href": "https://api.spotify.com/v1/albums/5huUeSyl92U55yMr8WKvYv",
+        "id": "5huUeSyl92U55yMr8WKvYv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734870f1774d6ccdb458f8c47d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024870f1774d6ccdb458f8c47d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514870f1774d6ccdb458f8c47d",
+            "width": 64
+          }
+        ],
+        "name": "Perro Sin Cadena",
+        "release_date": "2019-12-13",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:5huUeSyl92U55yMr8WKvYv"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VECwDIJ0DYczPqCyP85kQ",
+          "id": "4VECwDIJ0DYczPqCyP85kQ",
+          "name": "Jay Romero",
+          "type": "artist",
+          "uri": "spotify:artist:4VECwDIJ0DYczPqCyP85kQ"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 167500,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ51954098"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14caNW7a2eNEjUChgcDG01"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14caNW7a2eNEjUChgcDG01",
+      "id": "14caNW7a2eNEjUChgcDG01",
+      "is_local": false,
+      "name": "Pinche Vago",
+      "popularity": 18,
+      "preview_url": "https://p.scdn.co/mp3-preview/a6a174fe1aefe90413d8aba79b0cd432a9e72f0a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:14caNW7a2eNEjUChgcDG01"
     },
     {
       "album": {
@@ -5827,380 +5827,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-            },
-            "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-            "id": "3L7OHIT4kfdcDSnnGM0TKN",
-            "name": "El Pinche Mara",
-            "type": "artist",
-            "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-            },
-            "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-            "id": "6DjBv6gyR1HLsvwGUOD5V9",
-            "name": "TREN LOKOTE",
-            "type": "artist",
-            "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/63gEiLJJ5ysDck1VdbIeUM"
-        },
-        "href": "https://api.spotify.com/v1/albums/63gEiLJJ5ysDck1VdbIeUM",
-        "id": "63gEiLJJ5ysDck1VdbIeUM",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731cb33e4018adeafd427d8260",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021cb33e4018adeafd427d8260",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511cb33e4018adeafd427d8260",
-            "width": 64
-          }
-        ],
-        "name": "Yo Pienso en el Hoy",
-        "release_date": "2020-05-14",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:63gEiLJJ5ysDck1VdbIeUM"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-          },
-          "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-          "id": "3L7OHIT4kfdcDSnnGM0TKN",
-          "name": "El Pinche Mara",
-          "type": "artist",
-          "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-          },
-          "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-          "id": "6DjBv6gyR1HLsvwGUOD5V9",
-          "name": "TREN LOKOTE",
-          "type": "artist",
-          "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 218567,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ32079878"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/42iCfOJuRtO10XUoCs09cR"
-      },
-      "href": "https://api.spotify.com/v1/tracks/42iCfOJuRtO10XUoCs09cR",
-      "id": "42iCfOJuRtO10XUoCs09cR",
-      "is_local": false,
-      "name": "Yo Pienso en el Hoy",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:42iCfOJuRtO10XUoCs09cR"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-            },
-            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-            "id": "66RfYVdftqnuHRicyClgL0",
-            "name": "Dharius",
-            "type": "artist",
-            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/49Ho2eNgf3og9XwY6lBQvW"
-        },
-        "href": "https://api.spotify.com/v1/albums/49Ho2eNgf3og9XwY6lBQvW",
-        "id": "49Ho2eNgf3og9XwY6lBQvW",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ec1a4c9f45c6ff6699b61d7c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ec1a4c9f45c6ff6699b61d7c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ec1a4c9f45c6ff6699b61d7c",
-            "width": 64
-          }
-        ],
-        "name": "Todos en la Cuadra Bien Locos (feat. C-Kan, Gera MX, Santa Fe Klan y Neto Pe\u00f1a)",
-        "release_date": "2020-05-15",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:49Ho2eNgf3og9XwY6lBQvW"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-          },
-          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-          "id": "66RfYVdftqnuHRicyClgL0",
-          "name": "Dharius",
-          "type": "artist",
-          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-          },
-          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-          "id": "1QhaqxeqF9sipS2gwbEKpu",
-          "name": "C-Kan",
-          "type": "artist",
-          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
-          "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-          "id": "0U5RYP2HMdGv2GhicLhkOI",
-          "name": "Neto Pe\u00f1a",
-          "type": "artist",
-          "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 349297,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6MZ2095271"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2QP6HI4BxBrdQdIOA75RSc"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2QP6HI4BxBrdQdIOA75RSc",
-      "id": "2QP6HI4BxBrdQdIOA75RSc",
-      "is_local": false,
-      "name": "Todos en la Cuadra Bien Locos",
-      "popularity": 60,
-      "preview_url": "https://p.scdn.co/mp3-preview/8b1deda7e3ccbfb11cec4a2a96578df2b415d7fd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2QP6HI4BxBrdQdIOA75RSc"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -6445,6 +6071,103 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:4Zs49a8sp1KbFbqJFZhY0N"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+            "id": "3L7OHIT4kfdcDSnnGM0TKN",
+            "name": "El Pinche Mara",
+            "type": "artist",
+            "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+            "id": "6DjBv6gyR1HLsvwGUOD5V9",
+            "name": "TREN LOKOTE",
+            "type": "artist",
+            "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/63gEiLJJ5ysDck1VdbIeUM"
+        },
+        "href": "https://api.spotify.com/v1/albums/63gEiLJJ5ysDck1VdbIeUM",
+        "id": "63gEiLJJ5ysDck1VdbIeUM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731cb33e4018adeafd427d8260",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021cb33e4018adeafd427d8260",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511cb33e4018adeafd427d8260",
+            "width": 64
+          }
+        ],
+        "name": "Yo Pienso en el Hoy",
+        "release_date": "2020-05-14",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:63gEiLJJ5ysDck1VdbIeUM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+          },
+          "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+          "id": "3L7OHIT4kfdcDSnnGM0TKN",
+          "name": "El Pinche Mara",
+          "type": "artist",
+          "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+          "id": "6DjBv6gyR1HLsvwGUOD5V9",
+          "name": "TREN LOKOTE",
+          "type": "artist",
+          "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 218567,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ32079878"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/42iCfOJuRtO10XUoCs09cR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/42iCfOJuRtO10XUoCs09cR",
+      "id": "42iCfOJuRtO10XUoCs09cR",
+      "is_local": false,
+      "name": "Yo Pienso en el Hoy",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:42iCfOJuRtO10XUoCs09cR"
     },
     {
       "album": {
@@ -6959,6 +6682,283 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:64ImcY4fJhY243wr20SR3e"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+            },
+            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+            "id": "66RfYVdftqnuHRicyClgL0",
+            "name": "Dharius",
+            "type": "artist",
+            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/49Ho2eNgf3og9XwY6lBQvW"
+        },
+        "href": "https://api.spotify.com/v1/albums/49Ho2eNgf3og9XwY6lBQvW",
+        "id": "49Ho2eNgf3og9XwY6lBQvW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec1a4c9f45c6ff6699b61d7c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec1a4c9f45c6ff6699b61d7c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec1a4c9f45c6ff6699b61d7c",
+            "width": 64
+          }
+        ],
+        "name": "Todos en la Cuadra Bien Locos (feat. C-Kan, Gera MX, Santa Fe Klan y Neto Pe\u00f1a)",
+        "release_date": "2020-05-15",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:49Ho2eNgf3og9XwY6lBQvW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          },
+          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+          "id": "66RfYVdftqnuHRicyClgL0",
+          "name": "Dharius",
+          "type": "artist",
+          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+          "id": "1QhaqxeqF9sipS2gwbEKpu",
+          "name": "C-Kan",
+          "type": "artist",
+          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
+          "type": "artist",
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+          "id": "0U5RYP2HMdGv2GhicLhkOI",
+          "name": "Neto Pe\u00f1a",
+          "type": "artist",
+          "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 349297,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6MZ2095271"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2QP6HI4BxBrdQdIOA75RSc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2QP6HI4BxBrdQdIOA75RSc",
+      "id": "2QP6HI4BxBrdQdIOA75RSc",
+      "is_local": false,
+      "name": "Todos en la Cuadra Bien Locos",
+      "popularity": 60,
+      "preview_url": "https://p.scdn.co/mp3-preview/8b1deda7e3ccbfb11cec4a2a96578df2b415d7fd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2QP6HI4BxBrdQdIOA75RSc"
     },
     {
       "album": {
@@ -8174,93 +8174,6 @@
       "track_number": 6,
       "type": "track",
       "uri": "spotify:track:3HMU4uF7vo1Cohe0ohFvbW"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-            },
-            "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-            "id": "0U5RYP2HMdGv2GhicLhkOI",
-            "name": "Neto Pe\u00f1a",
-            "type": "artist",
-            "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5be0oCoBFtocxL34qp3VjQ"
-        },
-        "href": "https://api.spotify.com/v1/albums/5be0oCoBFtocxL34qp3VjQ",
-        "id": "5be0oCoBFtocxL34qp3VjQ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273777b07460e669c28f3b19704",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02777b07460e669c28f3b19704",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851777b07460e669c28f3b19704",
-            "width": 64
-          }
-        ],
-        "name": "Locos Eternos",
-        "release_date": "2020-05-19",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:5be0oCoBFtocxL34qp3VjQ"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-          "id": "0U5RYP2HMdGv2GhicLhkOI",
-          "name": "Neto Pe\u00f1a",
-          "type": "artist",
-          "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-          },
-          "href": "https://api.spotify.com/v1/artists/5HSROvpnFBzRENwjZ30RNx",
-          "id": "5HSROvpnFBzRENwjZ30RNx",
-          "name": "Turek Hem",
-          "type": "artist",
-          "uri": "spotify:artist:5HSROvpnFBzRENwjZ30RNx"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 179250,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "ushm22002919"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0Zrg8Xfyz8iGL6ucjdN7fC"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0Zrg8Xfyz8iGL6ucjdN7fC",
-      "id": "0Zrg8Xfyz8iGL6ucjdN7fC",
-      "is_local": false,
-      "name": "Locos Eternos",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0Zrg8Xfyz8iGL6ucjdN7fC"
     },
     {
       "album": {
@@ -11372,6 +11285,93 @@
       "track_number": 10,
       "type": "track",
       "uri": "spotify:track:584peG6yLQWVcv8MjAOqT6"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+            },
+            "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+            "id": "0U5RYP2HMdGv2GhicLhkOI",
+            "name": "Neto Pe\u00f1a",
+            "type": "artist",
+            "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5be0oCoBFtocxL34qp3VjQ"
+        },
+        "href": "https://api.spotify.com/v1/albums/5be0oCoBFtocxL34qp3VjQ",
+        "id": "5be0oCoBFtocxL34qp3VjQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273777b07460e669c28f3b19704",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02777b07460e669c28f3b19704",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851777b07460e669c28f3b19704",
+            "width": 64
+          }
+        ],
+        "name": "Locos Eternos",
+        "release_date": "2020-05-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5be0oCoBFtocxL34qp3VjQ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+          "id": "0U5RYP2HMdGv2GhicLhkOI",
+          "name": "Neto Pe\u00f1a",
+          "type": "artist",
+          "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HSROvpnFBzRENwjZ30RNx",
+          "id": "5HSROvpnFBzRENwjZ30RNx",
+          "name": "Turek Hem",
+          "type": "artist",
+          "uri": "spotify:artist:5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 179250,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "ushm22002919"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Zrg8Xfyz8iGL6ucjdN7fC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Zrg8Xfyz8iGL6ucjdN7fC",
+      "id": "0Zrg8Xfyz8iGL6ucjdN7fC",
+      "is_local": false,
+      "name": "Locos Eternos",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0Zrg8Xfyz8iGL6ucjdN7fC"
     },
     {
       "album": {
