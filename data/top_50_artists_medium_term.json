@@ -1630,6 +1630,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
+      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "width": 160
+        }
+      ],
+      "name": "Nortec: Bostich + Fussible",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
       },
       "followers": {
@@ -1769,47 +1802,12 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
-      "id": "2tU377oBzcCBbRNeVve8FC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb58a1ca2304fddc5505f4596d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517458a1ca2304fddc5505f4596d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17858a1ca2304fddc5505f4596d",
-          "width": 160
-        }
-      ],
-      "name": "Go Golden Junk",
-      "popularity": 47,
-      "type": "artist",
-      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
