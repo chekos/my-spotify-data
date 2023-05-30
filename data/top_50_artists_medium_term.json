@@ -1041,6 +1041,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "banda",
+        "corridos clasicos",
+        "musica mexicana",
+        "norteno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
+      "id": "1iIxNEvPPmdFIIP0tdpw6G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27378fddb1b8e9f2b07f6601db8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026a06cf990543547311a0080e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516a06cf990543547311a0080e",
+          "width": 64
+        }
+      ],
+      "name": "Los Cadetes De Linares",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
       },
       "followers": {
@@ -1158,44 +1196,6 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "banda",
-        "corridos clasicos",
-        "musica mexicana",
-        "norteno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1iIxNEvPPmdFIIP0tdpw6G",
-      "id": "1iIxNEvPPmdFIIP0tdpw6G",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27378fddb1b8e9f2b07f6601db8",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026a06cf990543547311a0080e",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516a06cf990543547311a0080e",
-          "width": 64
-        }
-      ],
-      "name": "Los Cadetes De Linares",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:1iIxNEvPPmdFIIP0tdpw6G"
     },
     {
       "external_urls": {
