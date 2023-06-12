@@ -1512,45 +1512,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "boom bap espanol",
-        "pop venezolano",
-        "rap conciencia",
-        "trap venezolano",
-        "venezuelan hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0qHbO3z6lgLE6ZYCkQBo1K",
-      "id": "0qHbO3z6lgLE6ZYCkQBo1K",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6607d0f8cada17833a3e74dd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746607d0f8cada17833a3e74dd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786607d0f8cada17833a3e74dd",
-          "width": 160
-        }
-      ],
-      "name": "Lil Supa",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       "followers": {
@@ -1811,6 +1772,46 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "chicano rap",
+        "latin alternative",
+        "mexican hip hop",
+        "mexican rock",
+        "rap underground mexicano",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/628gUkswCfCS1hIOOHmIpK",
+      "id": "628gUkswCfCS1hIOOHmIpK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6a39d80d964e3c4ad7fbff9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746a39d80d964e3c4ad7fbff9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786a39d80d964e3c4ad7fbff9f",
+          "width": 160
+        }
+      ],
+      "name": "Control Machete",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:628gUkswCfCS1hIOOHmIpK"
     }
   ],
   "total": 50,
