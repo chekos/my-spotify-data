@@ -1780,45 +1780,48 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican indie",
-        "nuevo folklore mexicano"
+        "boom bap espanol",
+        "pop venezolano",
+        "rap conciencia",
+        "trap venezolano",
+        "venezuelan hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-      "id": "51yyeVxyvecgePAWXmeLUE",
+      "href": "https://api.spotify.com/v1/artists/0qHbO3z6lgLE6ZYCkQBo1K",
+      "id": "0qHbO3z6lgLE6ZYCkQBo1K",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64344dba219645737a9b1262",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6607d0f8cada17833a3e74dd",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464344dba219645737a9b1262",
+          "url": "https://i.scdn.co/image/ab676161000051746607d0f8cada17833a3e74dd",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864344dba219645737a9b1262",
+          "url": "https://i.scdn.co/image/ab6761610000f1786607d0f8cada17833a3e74dd",
           "width": 160
         }
       ],
-      "name": "Daniel, Me Est\u00e1s Matando",
-      "popularity": 62,
+      "name": "Lil Supa",
+      "popularity": 52,
       "type": "artist",
-      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+      "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
