@@ -2,42 +2,6 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican indie",
-        "nuevo folklore mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-      "id": "51yyeVxyvecgePAWXmeLUE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64344dba219645737a9b1262",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464344dba219645737a9b1262",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864344dba219645737a9b1262",
-          "width": 160
-        }
-      ],
-      "name": "Daniel, Me Est\u00e1s Matando",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
       },
       "followers": {
@@ -398,7 +362,7 @@
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     }
   ],
-  "total": 11,
+  "total": 10,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
