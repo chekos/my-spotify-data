@@ -327,6 +327,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
+      "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0bb29b483ae7108ccfc9b1b4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740bb29b483ae7108ccfc9b1b4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780bb29b483ae7108ccfc9b1b4",
+          "width": 160
+        }
+      ],
+      "name": "Desert Ni\u00f1os",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -362,10 +397,10 @@
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     }
   ],
-  "total": 10,
+  "total": 11,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
