@@ -249,7 +249,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 45,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -379,22 +379,22 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0e5070dc0475ec0fb112a5ea",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb613da68db68420557c2ba557",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740e5070dc0475ec0fb112a5ea",
+          "url": "https://i.scdn.co/image/ab67616100005174613da68db68420557c2ba557",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780e5070dc0475ec0fb112a5ea",
+          "url": "https://i.scdn.co/image/ab6761610000f178613da68db68420557c2ba557",
           "width": 160
         }
       ],
       "name": "South Park Mexican",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:4kKaAWGdu6WW0W415RWaQA"
     },
@@ -429,7 +429,7 @@
         }
       ],
       "name": "Go Golden Junk",
-      "popularity": 48,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
     },
@@ -648,7 +648,7 @@
         }
       ],
       "name": "C-Kan",
-      "popularity": 68,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
@@ -905,6 +905,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
