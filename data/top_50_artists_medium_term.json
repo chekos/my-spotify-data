@@ -504,39 +504,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican hip hop",
         "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-      "id": "4RtYPfT9hi1qBolEuVArOG",
+      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+      "id": "30CTTIqrcr82nS6B40j975",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb31cfcbd9e4a7daefd997c46a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
+          "url": "https://i.scdn.co/image/ab6761610000517431cfcbd9e4a7daefd997c46a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
+          "url": "https://i.scdn.co/image/ab6761610000f17831cfcbd9e4a7daefd997c46a",
           "width": 160
         }
       ],
-      "name": "La Plebada",
-      "popularity": 35,
+      "name": "Robot95",
+      "popularity": 59,
       "type": "artist",
-      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
     {
       "external_urls": {
@@ -610,38 +609,75 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "trap mexicano"
+        "mexican hip hop",
+        "urbano mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-      "id": "30CTTIqrcr82nS6B40j975",
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb31cfcbd9e4a7daefd997c46a",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe92128b535bd2a7c7f892202",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517431cfcbd9e4a7daefd997c46a",
+          "url": "https://i.scdn.co/image/ab67616100005174e92128b535bd2a7c7f892202",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17831cfcbd9e4a7daefd997c46a",
+          "url": "https://i.scdn.co/image/ab6761610000f178e92128b535bd2a7c7f892202",
           "width": 160
         }
       ],
-      "name": "Robot95",
-      "popularity": 59,
+      "name": "Denilson",
+      "popularity": 44,
       "type": "artist",
-      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+      "id": "4RtYPfT9hi1qBolEuVArOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
+          "width": 160
+        }
+      ],
+      "name": "La Plebada",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     },
     {
       "external_urls": {
@@ -677,42 +713,6 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe92128b535bd2a7c7f892202",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e92128b535bd2a7c7f892202",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e92128b535bd2a7c7f892202",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 44,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -862,42 +862,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-      "id": "6viZnVSHavFUcW0blu6Mvw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5c29de06f5eb7f5d3b732270",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745c29de06f5eb7f5d3b732270",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785c29de06f5eb7f5d3b732270",
-          "width": 160
-        }
-      ],
-      "name": "Simpson Ahuevo",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
       },
       "followers": {
@@ -932,6 +896,42 @@
       "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+      "id": "6viZnVSHavFUcW0blu6Mvw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5c29de06f5eb7f5d3b732270",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745c29de06f5eb7f5d3b732270",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785c29de06f5eb7f5d3b732270",
+          "width": 160
+        }
+      ],
+      "name": "Simpson Ahuevo",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
     },
     {
       "external_urls": {
@@ -1370,6 +1370,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
+      "id": "2tU377oBzcCBbRNeVve8FC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb58a1ca2304fddc5505f4596d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517458a1ca2304fddc5505f4596d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17858a1ca2304fddc5505f4596d",
+          "width": 160
+        }
+      ],
+      "name": "Go Golden Junk",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
@@ -1598,6 +1633,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+      "id": "3L7OHIT4kfdcDSnnGM0TKN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
+          "width": 160
+        }
+      ],
+      "name": "El Pinche Mara",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
@@ -1631,41 +1702,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
-      "id": "2tU377oBzcCBbRNeVve8FC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb58a1ca2304fddc5505f4596d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517458a1ca2304fddc5505f4596d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17858a1ca2304fddc5505f4596d",
-          "width": 160
-        }
-      ],
-      "name": "Go Golden Junk",
-      "popularity": 47,
-      "type": "artist",
-      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
     },
     {
       "external_urls": {
@@ -1771,42 +1807,6 @@
       "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "nueva musica mexicana",
-        "sad sierreno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb78198798bf52ec66aaf186a8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517478198798bf52ec66aaf186a8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17878198798bf52ec66aaf186a8",
-          "width": 160
-        }
-      ],
-      "name": "Peso Pluma",
-      "popularity": 94,
-      "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
     }
   ],
   "total": 50,
