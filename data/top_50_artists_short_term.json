@@ -1113,43 +1113,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4kKaAWGdu6WW0W415RWaQA"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "chicano rap",
-        "latin hip hop",
-        "texas latin rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4kKaAWGdu6WW0W415RWaQA",
-      "id": "4kKaAWGdu6WW0W415RWaQA",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb613da68db68420557c2ba557",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174613da68db68420557c2ba557",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178613da68db68420557c2ba557",
-          "width": 160
-        }
-      ],
-      "name": "South Park Mexican",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:4kKaAWGdu6WW0W415RWaQA"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -1186,7 +1149,7 @@
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     }
   ],
-  "total": 33,
+  "total": 32,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
