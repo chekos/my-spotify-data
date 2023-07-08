@@ -10,8 +10,7 @@
       },
       "genres": [
         "latin hip hop",
-        "mexican hip hop",
-        "nueva musica mexicana"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
       "id": "07PdYoE4jVRF6Ut40GgVSP",
@@ -726,8 +725,7 @@
         "total": 0
       },
       "genres": [
-        "mexican hip hop",
-        "nueva musica mexicana"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
       "id": "4tm8CEdm4pkQsEh4jIr9Yp",
@@ -1023,17 +1021,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebed1ddfb1d383187601567d1c",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4184922f4e8ee189639d9eed",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ed1ddfb1d383187601567d1c",
+          "url": "https://i.scdn.co/image/ab676161000051744184922f4e8ee189639d9eed",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ed1ddfb1d383187601567d1c",
+          "url": "https://i.scdn.co/image/ab6761610000f1784184922f4e8ee189639d9eed",
           "width": 160
         }
       ],
@@ -1434,7 +1432,7 @@
         }
       ],
       "name": "Millonario",
-      "popularity": 66,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
     },
@@ -1783,7 +1781,6 @@
         "total": 0
       },
       "genres": [
-        "nueva musica mexicana",
         "sad sierreno"
       ],
       "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
@@ -1791,17 +1788,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb78198798bf52ec66aaf186a8",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517478198798bf52ec66aaf186a8",
+          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17878198798bf52ec66aaf186a8",
+          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
           "width": 160
         }
       ],
@@ -1815,6 +1812,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
