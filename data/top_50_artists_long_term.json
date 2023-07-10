@@ -1042,6 +1042,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
+      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "width": 160
+        }
+      ],
+      "name": "Nortec: Bostich + Fussible",
+      "popularity": 38,
+      "type": "artist",
+      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -1074,39 +1107,6 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
-      "id": "3Jarv4dvk7d9k6AkqDUVJg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
-          "width": 160
-        }
-      ],
-      "name": "Nortec: Bostich + Fussible",
-      "popularity": 38,
-      "type": "artist",
-      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
     {
       "external_urls": {
