@@ -357,7 +357,7 @@
         }
       ],
       "name": "Aleman",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -603,7 +603,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -708,7 +708,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 44,
+      "popularity": 43,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -1138,7 +1138,7 @@
         }
       ],
       "name": "Eddie Zuko",
-      "popularity": 46,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
     },
@@ -1319,7 +1319,7 @@
         }
       ],
       "name": "Proof",
-      "popularity": 55,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
     },
@@ -1355,7 +1355,7 @@
         }
       ],
       "name": "Santa RM",
-      "popularity": 55,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
     },
@@ -1392,15 +1392,48 @@
         }
       ],
       "name": "Akwid",
-      "popularity": 60,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+      "id": "231yQfVjg9sGhTNsaym9ck",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+          "width": 64
+        }
+      ],
+      "name": "C\u00f3digo KM",
+      "popularity": 5,
+      "type": "artist",
+      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     }
   ],
-  "total": 39,
+  "total": 40,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
