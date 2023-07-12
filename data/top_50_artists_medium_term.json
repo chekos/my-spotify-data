@@ -146,6 +146,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican indie",
+        "nuevo folklore mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
+      "id": "51yyeVxyvecgePAWXmeLUE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb938fea05b2ae431c0521e67b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174938fea05b2ae431c0521e67b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178938fea05b2ae431c0521e67b",
+          "width": 160
+        }
+      ],
+      "name": "Daniel, Me Est\u00e1s Matando",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
       },
       "followers": {
@@ -213,42 +249,6 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican indie",
-        "nuevo folklore mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-      "id": "51yyeVxyvecgePAWXmeLUE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb938fea05b2ae431c0521e67b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174938fea05b2ae431c0521e67b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178938fea05b2ae431c0521e67b",
-          "width": 160
-        }
-      ],
-      "name": "Daniel, Me Est\u00e1s Matando",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
     },
     {
       "external_urls": {
