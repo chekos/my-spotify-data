@@ -362,6 +362,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
+      "id": "1jVhcHIGJuk16eqY1Mdtuk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cae7235b4e04cb00337e0c32",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cae7235b4e04cb00337e0c32",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cae7235b4e04cb00337e0c32",
+          "width": 64
+        }
+      ],
+      "name": "Dee",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
       },
       "followers": {
@@ -429,42 +465,6 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
-      "id": "1jVhcHIGJuk16eqY1Mdtuk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273cae7235b4e04cb00337e0c32",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02cae7235b4e04cb00337e0c32",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851cae7235b4e04cb00337e0c32",
-          "width": 64
-        }
-      ],
-      "name": "Dee",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
     },
     {
       "external_urls": {
