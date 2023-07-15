@@ -231,7 +231,7 @@
       "id": "4qeYs6wWVkTTHbGkJQjmHX",
       "is_local": false,
       "name": "Mezcal",
-      "popularity": 17,
+      "popularity": 16,
       "preview_url": "https://p.scdn.co/mp3-preview/1f4d1607e60dc35dbe6e9932a9c22a811736e60b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -488,7 +488,7 @@
       "id": "7E1ng1KZX5MoSU0MypeASZ",
       "is_local": false,
       "name": "Rango",
-      "popularity": 46,
+      "popularity": 47,
       "preview_url": "https://p.scdn.co/mp3-preview/48a4eaa79e073724c0207a4656ed2be4482c2f30?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 5,
       "type": "track",
@@ -2980,6 +2980,253 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
+        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "width": 64
+          }
+        ],
+        "name": "De Lo M\u00e1s Solicitado",
+        "release_date": "2019-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WOIfFwyvx22jM0eg2fpKv",
+          "id": "4WOIfFwyvx22jM0eg2fpKv",
+          "name": "Kinky",
+          "type": "artist",
+          "uri": "spotify:artist:4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 199266,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ31954894"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ZAvXkfPFlSKpnZ4Q3RRVV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ZAvXkfPFlSKpnZ4Q3RRVV",
+      "id": "3ZAvXkfPFlSKpnZ4Q3RRVV",
+      "is_local": false,
+      "name": "Me Gusta",
+      "popularity": 30,
+      "preview_url": "https://p.scdn.co/mp3-preview/48cfb11016e85dfa5483f9763b9826ddc707cc23?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3ZAvXkfPFlSKpnZ4Q3RRVV"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
             },
             "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
@@ -4283,7 +4530,7 @@
       "id": "2JJt6hnElqQATeuxcoNtav",
       "is_local": false,
       "name": "La Avioneta",
-      "popularity": 2,
+      "popularity": 3,
       "preview_url": "https://p.scdn.co/mp3-preview/37ac7465f8b3a0cdc50aa4c2fbda3a1d2d28c69b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 6,
       "type": "track",
@@ -4777,7 +5024,7 @@
       "id": "31to9V2JYareFfkoLQsEd6",
       "is_local": false,
       "name": "La Hora Es\u2026",
-      "popularity": 35,
+      "popularity": 36,
       "preview_url": "https://p.scdn.co/mp3-preview/1620b4e041b7a5373ffe85dcf04dc8e35ffa1f3e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 13,
       "type": "track",
@@ -10318,13 +10565,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+              "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
             },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
+            "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+            "id": "7BQJLHBNVvz4O2JHmls4Ef",
+            "name": "Wk",
             "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+            "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
           }
         ],
         "available_markets": [
@@ -10409,54 +10656,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+          "spotify": "https://open.spotify.com/album/0qeSXx5Y3F5BBiG1NhX3aK"
         },
-        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
-        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "href": "https://api.spotify.com/v1/albums/0qeSXx5Y3F5BBiG1NhX3aK",
+        "id": "0qeSXx5Y3F5BBiG1NhX3aK",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "url": "https://i.scdn.co/image/ab67616d0000b273003e200700a35c4972fcf1e4",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "url": "https://i.scdn.co/image/ab67616d00001e02003e200700a35c4972fcf1e4",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "url": "https://i.scdn.co/image/ab67616d00004851003e200700a35c4972fcf1e4",
             "width": 64
           }
         ],
-        "name": "De Lo M\u00e1s Solicitado",
-        "release_date": "2019-05-09",
+        "name": "Tr\u00f3pico de C\u00e1ncer",
+        "release_date": "2012-11-25",
         "release_date_precision": "day",
-        "total_tracks": 11,
+        "total_tracks": 23,
         "type": "album",
-        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+        "uri": "spotify:album:0qeSXx5Y3F5BBiG1NhX3aK"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
           },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
+          "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+          "id": "7BQJLHBNVvz4O2JHmls4Ef",
+          "name": "Wk",
           "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-          },
-          "href": "https://api.spotify.com/v1/artists/4WOIfFwyvx22jM0eg2fpKv",
-          "id": "4WOIfFwyvx22jM0eg2fpKv",
-          "name": "Kinky",
-          "type": "artist",
-          "uri": "spotify:artist:4WOIfFwyvx22jM0eg2fpKv"
+          "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
         }
       ],
       "available_markets": [
@@ -10541,23 +10778,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 199266,
-      "explicit": true,
+      "duration_ms": 173400,
+      "explicit": false,
       "external_ids": {
-        "isrc": "QZHZ31954894"
+        "isrc": "US7VG1540504"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3ZAvXkfPFlSKpnZ4Q3RRVV"
+        "spotify": "https://open.spotify.com/track/1qwgTEymtBBxrANlXCdMIh"
       },
-      "href": "https://api.spotify.com/v1/tracks/3ZAvXkfPFlSKpnZ4Q3RRVV",
-      "id": "3ZAvXkfPFlSKpnZ4Q3RRVV",
+      "href": "https://api.spotify.com/v1/tracks/1qwgTEymtBBxrANlXCdMIh",
+      "id": "1qwgTEymtBBxrANlXCdMIh",
       "is_local": false,
-      "name": "Me Gusta",
-      "popularity": 30,
-      "preview_url": "https://p.scdn.co/mp3-preview/48cfb11016e85dfa5483f9763b9826ddc707cc23?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 8,
+      "name": "M\u00eda More",
+      "popularity": 48,
+      "preview_url": "https://p.scdn.co/mp3-preview/ac26026be96d3640590579dad7d38135e5fc57dd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 15,
       "type": "track",
-      "uri": "spotify:track:3ZAvXkfPFlSKpnZ4Q3RRVV"
+      "uri": "spotify:track:1qwgTEymtBBxrANlXCdMIh"
     },
     {
       "album": {
@@ -12060,243 +12297,6 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:0TCpHQU3AxonyDdo6UD2qC"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
-            },
-            "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
-            "id": "2nJOVl8u7PntefIs1Uwb4z",
-            "name": "Don Kalavera",
-            "type": "artist",
-            "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6SbIad8SaIOriXsbvbqykT"
-        },
-        "href": "https://api.spotify.com/v1/albums/6SbIad8SaIOriXsbvbqykT",
-        "id": "6SbIad8SaIOriXsbvbqykT",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ad4fa53e74f1e9347a2c4917",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ad4fa53e74f1e9347a2c4917",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ad4fa53e74f1e9347a2c4917",
-            "width": 64
-          }
-        ],
-        "name": "Espuelas De Filero",
-        "release_date": "2013-11-19",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:6SbIad8SaIOriXsbvbqykT"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
-          },
-          "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
-          "id": "2nJOVl8u7PntefIs1Uwb4z",
-          "name": "Don Kalavera",
-          "type": "artist",
-          "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 274250,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USUYG1037705"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0XcqdX7osMRK3CNu0JAFdG"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0XcqdX7osMRK3CNu0JAFdG",
-      "id": "0XcqdX7osMRK3CNu0JAFdG",
-      "is_local": false,
-      "name": "Embotellado (Remix) (feat. Arrallanes Del Pueblo)",
-      "popularity": 14,
-      "preview_url": "https://p.scdn.co/mp3-preview/c96d4f63870100c689f4475239e7db3666c48b4b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:0XcqdX7osMRK3CNu0JAFdG"
     }
   ],
   "total": 50,
