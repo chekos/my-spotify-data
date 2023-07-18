@@ -139,7 +139,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -1723,7 +1723,7 @@
         }
       ],
       "name": "Bipo Montana",
-      "popularity": 50,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
     },
@@ -1813,6 +1813,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }

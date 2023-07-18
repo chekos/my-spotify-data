@@ -279,7 +279,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -569,7 +569,7 @@
         }
       ],
       "name": "Rich Vagos",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
@@ -1207,7 +1207,7 @@
         }
       ],
       "name": "Phyzh Eye",
-      "popularity": 33,
+      "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
     },
@@ -1572,6 +1572,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
