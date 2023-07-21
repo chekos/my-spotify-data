@@ -1528,9 +1528,44 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "venezuelan hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5GcWBUX00IPuWVGMIRK1sS",
+      "id": "5GcWBUX00IPuWVGMIRK1sS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd51bfc13658dc0d8a2af46b3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d51bfc13658dc0d8a2af46b3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d51bfc13658dc0d8a2af46b3",
+          "width": 160
+        }
+      ],
+      "name": "Residente",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
     }
   ],
-  "total": 43,
+  "total": 44,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
