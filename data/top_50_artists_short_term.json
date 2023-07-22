@@ -431,6 +431,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+      "id": "1FCItwxfRieMGhR0eRxotU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09adc06b030032f0ad563a13",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409adc06b030032f0ad563a13",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809adc06b030032f0ad563a13",
+          "width": 160
+        }
+      ],
+      "name": "Rich Vagos",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -464,41 +499,6 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-      "id": "1FCItwxfRieMGhR0eRxotU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09adc06b030032f0ad563a13",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409adc06b030032f0ad563a13",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809adc06b030032f0ad563a13",
-          "width": 160
-        }
-      ],
-      "name": "Rich Vagos",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
     {
       "external_urls": {
@@ -645,39 +645,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
-      "id": "48G4FvpaGSQAb2ZxhUc2Hv",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebad196d88a7e6a8d1d51568aa",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ad196d88a7e6a8d1d51568aa",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ad196d88a7e6a8d1d51568aa",
-          "width": 160
-        }
-      ],
-      "name": "Jasmine Alvarado",
-      "popularity": 16,
-      "type": "artist",
-      "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -710,6 +677,39 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
+      "id": "48G4FvpaGSQAb2ZxhUc2Hv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad196d88a7e6a8d1d51568aa",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad196d88a7e6a8d1d51568aa",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad196d88a7e6a8d1d51568aa",
+          "width": 160
+        }
+      ],
+      "name": "Jasmine Alvarado",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
     },
     {
       "external_urls": {
@@ -1428,6 +1428,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
+      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
+          "width": 160
+        }
+      ],
+      "name": "Millonario",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
       },
       "followers": {
@@ -1494,41 +1529,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
-          "width": 160
-        }
-      ],
-      "name": "Millonario",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
     },
     {
       "external_urls": {
