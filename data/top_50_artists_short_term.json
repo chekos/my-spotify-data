@@ -316,7 +316,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 50,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -1570,6 +1570,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
