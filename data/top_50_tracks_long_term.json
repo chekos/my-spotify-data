@@ -5807,133 +5807,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH"
-            },
-            "href": "https://api.spotify.com/v1/artists/4x65cIPX0RvYoK1zmQgQXH",
-            "id": "4x65cIPX0RvYoK1zmQgQXH",
-            "name": "D. Krugga",
-            "type": "artist",
-            "uri": "spotify:artist:4x65cIPX0RvYoK1zmQgQXH"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",
-            "id": "4Fsv1gBjfqSyhzAPbhInXV",
-            "name": "Yubeili",
-            "type": "artist",
-            "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-            "id": "3ScIigEm9KZUrUQtXzBmKJ",
-            "name": "Cozy Cuz",
-            "type": "artist",
-            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5nLOtJMO98gTrJ1QC9eqQR"
-        },
-        "href": "https://api.spotify.com/v1/albums/5nLOtJMO98gTrJ1QC9eqQR",
-        "id": "5nLOtJMO98gTrJ1QC9eqQR",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732709eac99ef181687b29b7f5",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022709eac99ef181687b29b7f5",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512709eac99ef181687b29b7f5",
-            "width": 64
-          }
-        ],
-        "name": "P-Perreo",
-        "release_date": "2020-06-26",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:5nLOtJMO98gTrJ1QC9eqQR"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH"
-          },
-          "href": "https://api.spotify.com/v1/artists/4x65cIPX0RvYoK1zmQgQXH",
-          "id": "4x65cIPX0RvYoK1zmQgQXH",
-          "name": "D. Krugga",
-          "type": "artist",
-          "uri": "spotify:artist:4x65cIPX0RvYoK1zmQgQXH"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-          "id": "3ScIigEm9KZUrUQtXzBmKJ",
-          "name": "Cozy Cuz",
-          "type": "artist",
-          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",
-          "id": "4Fsv1gBjfqSyhzAPbhInXV",
-          "name": "Yubeili",
-          "type": "artist",
-          "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
-          },
-          "href": "https://api.spotify.com/v1/artists/3FCbl6b1JHLfVADjqG7iP5",
-          "id": "3FCbl6b1JHLfVADjqG7iP5",
-          "name": "Dani Torres",
-          "type": "artist",
-          "uri": "spotify:artist:3FCbl6b1JHLfVADjqG7iP5"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 174000,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "ushm22027218"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3gupdUJxqmwh2pJhLJm51Z"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3gupdUJxqmwh2pJhLJm51Z",
-      "id": "3gupdUJxqmwh2pJhLJm51Z",
-      "is_local": false,
-      "name": "P-Perreo",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3gupdUJxqmwh2pJhLJm51Z"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -10548,283 +10421,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0NQDFDKG7p0IRcXdqT9uNk"
-            },
-            "href": "https://api.spotify.com/v1/artists/0NQDFDKG7p0IRcXdqT9uNk",
-            "id": "0NQDFDKG7p0IRcXdqT9uNk",
-            "name": "Ohm",
-            "type": "artist",
-            "uri": "spotify:artist:0NQDFDKG7p0IRcXdqT9uNk"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-            "id": "3ScIigEm9KZUrUQtXzBmKJ",
-            "name": "Cozy Cuz",
-            "type": "artist",
-            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-            },
-            "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-            "id": "30XfbCbtW4PAJ5mvhoajY2",
-            "name": "Maxx Gallo",
-            "type": "artist",
-            "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/34NE8mdvSaWk1sbKJV3NkT"
-        },
-        "href": "https://api.spotify.com/v1/albums/34NE8mdvSaWk1sbKJV3NkT",
-        "id": "34NE8mdvSaWk1sbKJV3NkT",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27355b7be7fc3a45f16aa66f65f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0255b7be7fc3a45f16aa66f65f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485155b7be7fc3a45f16aa66f65f",
-            "width": 64
-          }
-        ],
-        "name": "Ira Washa Wason",
-        "release_date": "2020-02-21",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:34NE8mdvSaWk1sbKJV3NkT"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0NQDFDKG7p0IRcXdqT9uNk"
-          },
-          "href": "https://api.spotify.com/v1/artists/0NQDFDKG7p0IRcXdqT9uNk",
-          "id": "0NQDFDKG7p0IRcXdqT9uNk",
-          "name": "Ohm",
-          "type": "artist",
-          "uri": "spotify:artist:0NQDFDKG7p0IRcXdqT9uNk"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-          "id": "3ScIigEm9KZUrUQtXzBmKJ",
-          "name": "Cozy Cuz",
-          "type": "artist",
-          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-          },
-          "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-          "id": "30XfbCbtW4PAJ5mvhoajY2",
-          "name": "Maxx Gallo",
-          "type": "artist",
-          "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 211021,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG2086628"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0TTma8bY1BpeXFUKNdnRPm"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0TTma8bY1BpeXFUKNdnRPm",
-      "id": "0TTma8bY1BpeXFUKNdnRPm",
-      "is_local": false,
-      "name": "Ira Washa Wason",
-      "popularity": 10,
-      "preview_url": "https://p.scdn.co/mp3-preview/939c201547fa992d354807ca8e4b9eb2b337f063?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0TTma8bY1BpeXFUKNdnRPm"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
             },
             "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
@@ -11569,6 +11165,190 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:6vTX1n0ZFlX722ei4lhqTL"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+            "id": "4V2V4PaSblStayYVWTGDbZ",
+            "name": "Geassassin",
+            "type": "artist",
+            "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6ojKRp2hScVGFrK2PiHXO6"
+        },
+        "href": "https://api.spotify.com/v1/albums/6ojKRp2hScVGFrK2PiHXO6",
+        "id": "6ojKRp2hScVGFrK2PiHXO6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326eec589d07b6c660422d9e9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226eec589d07b6c660422d9e9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126eec589d07b6c660422d9e9",
+            "width": 64
+          }
+        ],
+        "name": "El Nuevo Leon",
+        "release_date": "2020-12-16",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:6ojKRp2hScVGFrK2PiHXO6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+          "id": "4V2V4PaSblStayYVWTGDbZ",
+          "name": "Geassassin",
+          "type": "artist",
+          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VECwDIJ0DYczPqCyP85kQ",
+          "id": "4VECwDIJ0DYczPqCyP85kQ",
+          "name": "Jay Romero",
+          "type": "artist",
+          "uri": "spotify:artist:4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
+          "id": "6JG2QQcaQBzinELNvu9PRk",
+          "name": "Bipo Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 174000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA052013354"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uv6nKTFNpJ5uEFMQ6cKsQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uv6nKTFNpJ5uEFMQ6cKsQ",
+      "id": "0uv6nKTFNpJ5uEFMQ6cKsQ",
+      "is_local": false,
+      "name": "Maradona",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0uv6nKTFNpJ5uEFMQ6cKsQ"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+            "name": "Santa Fe Klan",
+            "type": "artist",
+            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0CtyvwPwCoF3VV8KiLRFlG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0CtyvwPwCoF3VV8KiLRFlG",
+        "id": "0CtyvwPwCoF3VV8KiLRFlG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c76643f47efc1d347484db7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020c76643f47efc1d347484db7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510c76643f47efc1d347484db7",
+            "width": 64
+          }
+        ],
+        "name": "Te Ire a Buscar",
+        "release_date": "2019-06-18",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0CtyvwPwCoF3VV8KiLRFlG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
+          "type": "artist",
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+          "id": "1cUpGtXcSQsovNYEZOQgOG",
+          "name": "Nanpa B\u00e1sico",
+          "type": "artist",
+          "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 218045,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ushm21919246"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5NEIEghTIfcIIOKuLlaKPc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5NEIEghTIfcIIOKuLlaKPc",
+      "id": "5NEIEghTIfcIIOKuLlaKPc",
+      "is_local": false,
+      "name": "Te Ire a Buscar",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5NEIEghTIfcIIOKuLlaKPc"
     }
   ],
   "total": 50,
