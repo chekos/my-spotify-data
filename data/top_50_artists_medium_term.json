@@ -1520,6 +1520,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
@@ -1777,42 +1812,6 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap femenino mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
-      "id": "0SmgVe3giVHaJjGmIz8xA4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742141cce2875b4f9304549e31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782141cce2875b4f9304549e31",
-          "width": 160
-        }
-      ],
-      "name": "Yoss Bones",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
     }
   ],
   "total": 50,
