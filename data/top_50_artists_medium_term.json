@@ -1403,6 +1403,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "colombian hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+      "id": "1cUpGtXcSQsovNYEZOQgOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb390fa8fc9a764da0f97eb9d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174390fa8fc9a764da0f97eb9d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178390fa8fc9a764da0f97eb9d1",
+          "width": 160
+        }
+      ],
+      "name": "Nanpa B\u00e1sico",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
       },
       "followers": {
@@ -1777,48 +1813,12 @@
       "popularity": 30,
       "type": "artist",
       "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
-      "id": "2uG7vLSehD2quPeYSPkT73",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7330cc45228070b8b736fa84",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747330cc45228070b8b736fa84",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787330cc45228070b8b736fa84",
-          "width": 160
-        }
-      ],
-      "name": "Tabernario",
-      "popularity": 32,
-      "type": "artist",
-      "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
