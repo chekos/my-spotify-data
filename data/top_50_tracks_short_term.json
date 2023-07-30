@@ -1040,6 +1040,343 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7wgrXbrp9RJQMri26GZgyH",
+            "id": "7wgrXbrp9RJQMri26GZgyH",
+            "name": "Uzielito Mix",
+            "type": "artist",
+            "uri": "spotify:artist:7wgrXbrp9RJQMri26GZgyH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+            },
+            "href": "https://api.spotify.com/v1/artists/4IzIgAufROQT2ITqlUv0ya",
+            "id": "4IzIgAufROQT2ITqlUv0ya",
+            "name": "El Habano",
+            "type": "artist",
+            "uri": "spotify:artist:4IzIgAufROQT2ITqlUv0ya"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RFrAp13K0fHKH7IpSdKxi",
+            "id": "4RFrAp13K0fHKH7IpSdKxi",
+            "name": "Eme MalaFe",
+            "type": "artist",
+            "uri": "spotify:artist:4RFrAp13K0fHKH7IpSdKxi"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/10mxujgP7fvr3R73p2qMlX"
+        },
+        "href": "https://api.spotify.com/v1/albums/10mxujgP7fvr3R73p2qMlX",
+        "id": "10mxujgP7fvr3R73p2qMlX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27356a4dbef0fdf76d299994474",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0256a4dbef0fdf76d299994474",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485156a4dbef0fdf76d299994474",
+            "width": 64
+          }
+        ],
+        "name": "La Suburban (feat. Maell, DJ Jester, DJ Esli, Chino El Gorila, Daniel Martinez & Michael G)",
+        "release_date": "2019-09-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:10mxujgP7fvr3R73p2qMlX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wgrXbrp9RJQMri26GZgyH",
+          "id": "7wgrXbrp9RJQMri26GZgyH",
+          "name": "Uzielito Mix",
+          "type": "artist",
+          "uri": "spotify:artist:7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IzIgAufROQT2ITqlUv0ya",
+          "id": "4IzIgAufROQT2ITqlUv0ya",
+          "name": "El Habano",
+          "type": "artist",
+          "uri": "spotify:artist:4IzIgAufROQT2ITqlUv0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RFrAp13K0fHKH7IpSdKxi",
+          "id": "4RFrAp13K0fHKH7IpSdKxi",
+          "name": "Eme MalaFe",
+          "type": "artist",
+          "uri": "spotify:artist:4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3F1DM59crNsFkIY0ydIlO6",
+          "id": "3F1DM59crNsFkIY0ydIlO6",
+          "name": "Chino El Gorila",
+          "type": "artist",
+          "uri": "spotify:artist:3F1DM59crNsFkIY0ydIlO6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+          },
+          "href": "https://api.spotify.com/v1/artists/10qjZu7jW6R0cuqwY40SVd",
+          "id": "10qjZu7jW6R0cuqwY40SVd",
+          "name": "Dj Esli",
+          "type": "artist",
+          "uri": "spotify:artist:10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3acXvaPqSOwM7EabXX0225"
+          },
+          "href": "https://api.spotify.com/v1/artists/3acXvaPqSOwM7EabXX0225",
+          "id": "3acXvaPqSOwM7EabXX0225",
+          "name": "Dj Jester",
+          "type": "artist",
+          "uri": "spotify:artist:3acXvaPqSOwM7EabXX0225"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rtjia73NEeeTl4McsHU34",
+          "id": "0rtjia73NEeeTl4McsHU34",
+          "name": "Daniel Martinez",
+          "type": "artist",
+          "uri": "spotify:artist:0rtjia73NEeeTl4McsHU34"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7uxBHnPzDiHs0bb5usWjtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7uxBHnPzDiHs0bb5usWjtL",
+          "id": "7uxBHnPzDiHs0bb5usWjtL",
+          "name": "Maell",
+          "type": "artist",
+          "uri": "spotify:artist:7uxBHnPzDiHs0bb5usWjtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+          },
+          "href": "https://api.spotify.com/v1/artists/52vhIE7TjnC3Cxd7ZOWJZ3",
+          "id": "52vhIE7TjnC3Cxd7ZOWJZ3",
+          "name": "Michael G",
+          "type": "artist",
+          "uri": "spotify:artist:52vhIE7TjnC3Cxd7ZOWJZ3"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 248096,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "GBLFP1947583"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6rQefPVoPFNDcG0MtkIeW1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6rQefPVoPFNDcG0MtkIeW1",
+      "id": "6rQefPVoPFNDcG0MtkIeW1",
+      "is_local": false,
+      "name": "La Suburban (feat. Maell, DJ Jester, DJ Esli, Chino El Gorila, Daniel Martinez & Michael G)",
+      "popularity": 57,
+      "preview_url": "https://p.scdn.co/mp3-preview/6737411859ad3e1c13d8932c2c7a6acf2e68f93f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6rQefPVoPFNDcG0MtkIeW1"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -12280,273 +12617,6 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:35FaiHAxYcrMmGzRDnmjWo"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
-            },
-            "href": "https://api.spotify.com/v1/artists/5urer15JPbCELf17LVia7w",
-            "id": "5urer15JPbCELf17LVia7w",
-            "name": "Doctor Destino",
-            "type": "artist",
-            "uri": "spotify:artist:5urer15JPbCELf17LVia7w"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
-            },
-            "href": "https://api.spotify.com/v1/artists/4WQmw3fIx9F7iPKL5v8SCN",
-            "id": "4WQmw3fIx9F7iPKL5v8SCN",
-            "name": "Zaque",
-            "type": "artist",
-            "uri": "spotify:artist:4WQmw3fIx9F7iPKL5v8SCN"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5Tbm5D82jN1EmJlg5pzb5Z"
-        },
-        "href": "https://api.spotify.com/v1/albums/5Tbm5D82jN1EmJlg5pzb5Z",
-        "id": "5Tbm5D82jN1EmJlg5pzb5Z",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27339827c6cea03c87142c6d097",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0239827c6cea03c87142c6d097",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485139827c6cea03c87142c6d097",
-            "width": 64
-          }
-        ],
-        "name": "B(U)da",
-        "release_date": "2021-04-30",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:5Tbm5D82jN1EmJlg5pzb5Z"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
-          },
-          "href": "https://api.spotify.com/v1/artists/5urer15JPbCELf17LVia7w",
-          "id": "5urer15JPbCELf17LVia7w",
-          "name": "Doctor Destino",
-          "type": "artist",
-          "uri": "spotify:artist:5urer15JPbCELf17LVia7w"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
-          },
-          "href": "https://api.spotify.com/v1/artists/4WQmw3fIx9F7iPKL5v8SCN",
-          "id": "4WQmw3fIx9F7iPKL5v8SCN",
-          "name": "Zaque",
-          "type": "artist",
-          "uri": "spotify:artist:4WQmw3fIx9F7iPKL5v8SCN"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4UqFXhJVb9zy2SbNx4ycJQ"
-          },
-          "href": "https://api.spotify.com/v1/artists/4UqFXhJVb9zy2SbNx4ycJQ",
-          "id": "4UqFXhJVb9zy2SbNx4ycJQ",
-          "name": "Reick Uno",
-          "type": "artist",
-          "uri": "spotify:artist:4UqFXhJVb9zy2SbNx4ycJQ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 158241,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY42116972"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3WiCnLQQVKO9h4tiqJ6RhD"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3WiCnLQQVKO9h4tiqJ6RhD",
-      "id": "3WiCnLQQVKO9h4tiqJ6RhD",
-      "is_local": false,
-      "name": "Uno, Dos",
-      "popularity": 4,
-      "preview_url": "https://p.scdn.co/mp3-preview/028058a4abb86c088a186d16b0eb253717f12ebc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:3WiCnLQQVKO9h4tiqJ6RhD"
     }
   ],
   "total": 50,
