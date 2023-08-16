@@ -2,42 +2,6 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
-      "id": "1jVhcHIGJuk16eqY1Mdtuk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd21eb12d02ea733de173b23c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d21eb12d02ea733de173b23c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d21eb12d02ea733de173b23c",
-          "width": 160
-        }
-      ],
-      "name": "Dee",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
       },
       "followers": {
@@ -264,42 +228,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf0ce3fa45277d67ef3c24798",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f0ce3fa45277d67ef3c24798",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f0ce3fa45277d67ef3c24798",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 43,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
@@ -333,6 +261,42 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf0ce3fa45277d67ef3c24798",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f0ce3fa45277d67ef3c24798",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f0ce3fa45277d67ef3c24798",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -406,7 +370,7 @@
       "uri": "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
     }
   ],
-  "total": 11,
+  "total": 10,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
