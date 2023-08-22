@@ -287,6 +287,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+      "id": "3ScIigEm9KZUrUQtXzBmKJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0a52c984a8b4892751e0b1a4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740a52c984a8b4892751e0b1a4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780a52c984a8b4892751e0b1a4",
+          "width": 160
+        }
+      ],
+      "name": "Cozy Cuz",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -392,41 +427,6 @@
       "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-      "id": "3ScIigEm9KZUrUQtXzBmKJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0a52c984a8b4892751e0b1a4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740a52c984a8b4892751e0b1a4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780a52c984a8b4892751e0b1a4",
-          "width": 160
-        }
-      ],
-      "name": "Cozy Cuz",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
     },
     {
       "external_urls": {
@@ -644,6 +644,42 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+      "id": "6viZnVSHavFUcW0blu6Mvw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb96723d9ff8aa635a5dd93780",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517496723d9ff8aa635a5dd93780",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17896723d9ff8aa635a5dd93780",
+          "width": 160
+        }
+      ],
+      "name": "Simpson Ahuevo",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
     },
     {
       "external_urls": {
@@ -969,42 +1005,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-      "id": "6viZnVSHavFUcW0blu6Mvw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb96723d9ff8aa635a5dd93780",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517496723d9ff8aa635a5dd93780",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17896723d9ff8aa635a5dd93780",
-          "width": 160
-        }
-      ],
-      "name": "Simpson Ahuevo",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
     },
     {
       "external_urls": {
@@ -1417,6 +1417,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
+      "id": "48G4FvpaGSQAb2ZxhUc2Hv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad196d88a7e6a8d1d51568aa",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad196d88a7e6a8d1d51568aa",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad196d88a7e6a8d1d51568aa",
+          "width": 160
+        }
+      ],
+      "name": "Jasmine Alvarado",
+      "popularity": 14,
+      "type": "artist",
+      "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
@@ -1487,6 +1520,42 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+      "id": "3L7OHIT4kfdcDSnnGM0TKN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
+          "width": 160
+        }
+      ],
+      "name": "El Pinche Mara",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     },
     {
       "external_urls": {
@@ -1745,82 +1814,12 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "sad sierreno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
-          "width": 160
-        }
-      ],
-      "name": "Peso Pluma",
-      "popularity": 92,
-      "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
-      "id": "2tU377oBzcCBbRNeVve8FC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb58a1ca2304fddc5505f4596d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517458a1ca2304fddc5505f4596d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17858a1ca2304fddc5505f4596d",
-          "width": 160
-        }
-      ],
-      "name": "Go Golden Junk",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
