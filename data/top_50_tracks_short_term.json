@@ -11586,253 +11586,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/07H7kklAEFGHh0VxZNJ9bD"
-            },
-            "href": "https://api.spotify.com/v1/artists/07H7kklAEFGHh0VxZNJ9bD",
-            "id": "07H7kklAEFGHh0VxZNJ9bD",
-            "name": "The Seler",
-            "type": "artist",
-            "uri": "spotify:artist:07H7kklAEFGHh0VxZNJ9bD"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0up0g1vmp9Y4biludXMTTo"
-        },
-        "href": "https://api.spotify.com/v1/albums/0up0g1vmp9Y4biludXMTTo",
-        "id": "0up0g1vmp9Y4biludXMTTo",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273784f32566a5df39acefe15be",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02784f32566a5df39acefe15be",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851784f32566a5df39acefe15be",
-            "width": 64
-          }
-        ],
-        "name": "Milli",
-        "release_date": "2023-07-21",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0up0g1vmp9Y4biludXMTTo"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/07H7kklAEFGHh0VxZNJ9bD"
-          },
-          "href": "https://api.spotify.com/v1/artists/07H7kklAEFGHh0VxZNJ9bD",
-          "id": "07H7kklAEFGHh0VxZNJ9bD",
-          "name": "The Seler",
-          "type": "artist",
-          "uri": "spotify:artist:07H7kklAEFGHh0VxZNJ9bD"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6JAxeQXL5JSyAbTcFPWny0"
-          },
-          "href": "https://api.spotify.com/v1/artists/6JAxeQXL5JSyAbTcFPWny0",
-          "id": "6JAxeQXL5JSyAbTcFPWny0",
-          "name": "Vandalic",
-          "type": "artist",
-          "uri": "spotify:artist:6JAxeQXL5JSyAbTcFPWny0"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 137885,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QZNJX2348250"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0PB630qVHeMfo8MGh7vNpK"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0PB630qVHeMfo8MGh7vNpK",
-      "id": "0PB630qVHeMfo8MGh7vNpK",
-      "is_local": false,
-      "name": "Milli",
-      "popularity": 27,
-      "preview_url": "https://p.scdn.co/mp3-preview/0eee424ee82c7872807c0c46de32a59223d55e76?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0PB630qVHeMfo8MGh7vNpK"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -12067,6 +11820,89 @@
       "track_number": 15,
       "type": "track",
       "uri": "spotify:track:0UjA59PzLqmarHPtVYGgtJ"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
+            "id": "7MyUjj79oHy7I8RocrtzZ2",
+            "name": "Banda Machos",
+            "type": "artist",
+            "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6ZvT8iE0JiuguDiohKhcEF",
+        "id": "6ZvT8iE0JiuguDiohKhcEF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732c4895614bc9fdb216619cd8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022c4895614bc9fdb216619cd8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512c4895614bc9fdb216619cd8",
+            "width": 64
+          }
+        ],
+        "name": "Las 20 Poderosas (USA)",
+        "release_date": "2014-09-16",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:6ZvT8iE0JiuguDiohKhcEF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
+          "id": "7MyUjj79oHy7I8RocrtzZ2",
+          "name": "Banda Machos",
+          "type": "artist",
+          "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "available_markets": [
+        "CA",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 198800,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF160204830"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YIyyTbaIM0MYrfOLhvlrI",
+      "id": "0YIyyTbaIM0MYrfOLhvlrI",
+      "is_local": false,
+      "name": "La suegra",
+      "popularity": 51,
+      "preview_url": "https://p.scdn.co/mp3-preview/326a6ce67145df5a619ec1fdd6680141f93b25a8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0YIyyTbaIM0MYrfOLhvlrI"
     }
   ],
   "total": 50,
