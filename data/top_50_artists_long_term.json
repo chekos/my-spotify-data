@@ -1467,7 +1467,7 @@
         }
       ],
       "name": "Pistola Bang",
-      "popularity": 28,
+      "popularity": 27,
       "type": "artist",
       "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
     },
@@ -1773,17 +1773,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb14b0adadadf2e286341046be",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd7c5e3836ac4a055636fb4cf",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517414b0adadadf2e286341046be",
+          "url": "https://i.scdn.co/image/ab67616100005174d7c5e3836ac4a055636fb4cf",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17814b0adadadf2e286341046be",
+          "url": "https://i.scdn.co/image/ab6761610000f178d7c5e3836ac4a055636fb4cf",
           "width": 160
         }
       ],
@@ -1797,6 +1797,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
