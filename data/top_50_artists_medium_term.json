@@ -1104,7 +1104,7 @@
         }
       ],
       "name": "Lefty Sm",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
@@ -1603,17 +1603,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27378fddb1b8e9f2b07f6601db8",
+          "url": "https://i.scdn.co/image/ab67616d0000b273b25ded5dc4977fdb7f2cac22",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026a06cf990543547311a0080e",
+          "url": "https://i.scdn.co/image/ab67616d00001e02716a0f6b3cffeaf0bb1e2d03",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516a06cf990543547311a0080e",
+          "url": "https://i.scdn.co/image/ab67616d00004851716a0f6b3cffeaf0bb1e2d03",
           "width": 64
         }
       ],
@@ -1812,6 +1812,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
