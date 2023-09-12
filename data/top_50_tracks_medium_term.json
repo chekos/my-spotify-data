@@ -3036,17 +3036,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+              "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
             },
-            "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-            "id": "07PdYoE4jVRF6Ut40GgVSP",
-            "name": "Cartel De Santa",
+            "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+            "id": "4r1ZDYKzPt3iIjuq8LbT6X",
+            "name": "Aczino",
             "type": "artist",
-            "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+            "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
           }
         ],
         "available_markets": [
@@ -3131,54 +3131,64 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+          "spotify": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
         },
-        "href": "https://api.spotify.com/v1/albums/4eoF8b15EaosNzpn2N3Rt9",
-        "id": "4eoF8b15EaosNzpn2N3Rt9",
+        "href": "https://api.spotify.com/v1/albums/7dlzGElxjGae4YC49CsLcE",
+        "id": "7dlzGElxjGae4YC49CsLcE",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273608e249e118a39e897f149ce",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c3659cf86cbcd667c3821635",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02608e249e118a39e897f149ce",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c3659cf86cbcd667c3821635",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851608e249e118a39e897f149ce",
+            "url": "https://i.scdn.co/image/ab67616d00004851c3659cf86cbcd667c3821635",
             "width": 64
           }
         ],
-        "name": "Shorty Party",
-        "release_date": "2023-03-04",
+        "name": "El G.O.A.T. (Deluxe)",
+        "release_date": "2023-07-05",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 19,
         "type": "album",
-        "uri": "spotify:album:4eoF8b15EaosNzpn2N3Rt9"
+        "uri": "spotify:album:7dlzGElxjGae4YC49CsLcE"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+            "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
           },
-          "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-          "id": "07PdYoE4jVRF6Ut40GgVSP",
-          "name": "Cartel De Santa",
+          "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+          "id": "4r1ZDYKzPt3iIjuq8LbT6X",
+          "name": "Aczino",
           "type": "artist",
-          "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+          "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
           },
-          "href": "https://api.spotify.com/v1/artists/4yEIQ0lJDgUEfsuYx3Gsmr",
-          "id": "4yEIQ0lJDgUEfsuYx3Gsmr",
-          "name": "La Kelly",
+          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+          "id": "1QhaqxeqF9sipS2gwbEKpu",
+          "name": "C-Kan",
           "type": "artist",
-          "uri": "spotify:artist:4yEIQ0lJDgUEfsuYx3Gsmr"
+          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+          "name": "Lefty Sm",
+          "type": "artist",
+          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
       "available_markets": [
@@ -3263,23 +3273,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 265000,
+      "duration_ms": 237453,
       "explicit": true,
       "external_ids": {
-        "isrc": "MX3602300010"
+        "isrc": "MXUM72300792"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+        "spotify": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
       },
-      "href": "https://api.spotify.com/v1/tracks/55ZATsjPlTeSTNJOuW90pW",
-      "id": "55ZATsjPlTeSTNJOuW90pW",
+      "href": "https://api.spotify.com/v1/tracks/31to9V2JYareFfkoLQsEd6",
+      "id": "31to9V2JYareFfkoLQsEd6",
       "is_local": false,
-      "name": "Shorty Party",
-      "popularity": 84,
-      "preview_url": "https://p.scdn.co/mp3-preview/861a31225cff10db2eedeb5c28bf6d0a4ecc4bc9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "La Hora Es\u2026",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/1620b4e041b7a5373ffe85dcf04dc8e35ffa1f3e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 13,
       "type": "track",
-      "uri": "spotify:track:55ZATsjPlTeSTNJOuW90pW"
+      "uri": "spotify:track:31to9V2JYareFfkoLQsEd6"
     },
     {
       "album": {
@@ -6554,17 +6564,27 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "SINGLE",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+              "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
             },
-            "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-            "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-            "name": "Aczino",
+            "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+            "id": "0U5RYP2HMdGv2GhicLhkOI",
+            "name": "Neto Pe\u00f1a",
             "type": "artist",
-            "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+            "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+            "name": "Lefty Sm",
+            "type": "artist",
+            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
           }
         ],
         "available_markets": [
@@ -6649,54 +6669,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
+          "spotify": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
         },
-        "href": "https://api.spotify.com/v1/albums/7dlzGElxjGae4YC49CsLcE",
-        "id": "7dlzGElxjGae4YC49CsLcE",
+        "href": "https://api.spotify.com/v1/albums/2oKBetIgm4nosWANPzkO5q",
+        "id": "2oKBetIgm4nosWANPzkO5q",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c3659cf86cbcd667c3821635",
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c1d2ec543c81c7ea08225de",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c3659cf86cbcd667c3821635",
+            "url": "https://i.scdn.co/image/ab67616d00001e027c1d2ec543c81c7ea08225de",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c3659cf86cbcd667c3821635",
+            "url": "https://i.scdn.co/image/ab67616d000048517c1d2ec543c81c7ea08225de",
             "width": 64
           }
         ],
-        "name": "El G.O.A.T. (Deluxe)",
-        "release_date": "2023-07-05",
+        "name": "Alcohol Amargo",
+        "release_date": "2019-10-19",
         "release_date_precision": "day",
-        "total_tracks": 19,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:7dlzGElxjGae4YC49CsLcE"
+        "uri": "spotify:album:2oKBetIgm4nosWANPzkO5q"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+            "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
           },
-          "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-          "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-          "name": "Aczino",
+          "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+          "id": "0U5RYP2HMdGv2GhicLhkOI",
+          "name": "Neto Pe\u00f1a",
           "type": "artist",
-          "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-          },
-          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-          "id": "1QhaqxeqF9sipS2gwbEKpu",
-          "name": "C-Kan",
-          "type": "artist",
-          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+          "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
         },
         {
           "external_urls": {
@@ -6791,23 +6801,270 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 237453,
+      "duration_ms": 236202,
       "explicit": true,
       "external_ids": {
-        "isrc": "MXUM72300792"
+        "isrc": "USHM91957129"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+        "spotify": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
       },
-      "href": "https://api.spotify.com/v1/tracks/31to9V2JYareFfkoLQsEd6",
-      "id": "31to9V2JYareFfkoLQsEd6",
+      "href": "https://api.spotify.com/v1/tracks/3O7aFrnyTmEsLwaKtOonqd",
+      "id": "3O7aFrnyTmEsLwaKtOonqd",
       "is_local": false,
-      "name": "La Hora Es\u2026",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/1620b4e041b7a5373ffe85dcf04dc8e35ffa1f3e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 13,
+      "name": "Alcohol Amargo",
+      "popularity": 38,
+      "preview_url": "https://p.scdn.co/mp3-preview/1a5fd9c5b1382795735a8c1331ae66b5f8f6aed3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:31to9V2JYareFfkoLQsEd6"
+      "uri": "spotify:track:3O7aFrnyTmEsLwaKtOonqd"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+            "id": "07PdYoE4jVRF6Ut40GgVSP",
+            "name": "Cartel De Santa",
+            "type": "artist",
+            "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+        },
+        "href": "https://api.spotify.com/v1/albums/4eoF8b15EaosNzpn2N3Rt9",
+        "id": "4eoF8b15EaosNzpn2N3Rt9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273608e249e118a39e897f149ce",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02608e249e118a39e897f149ce",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851608e249e118a39e897f149ce",
+            "width": 64
+          }
+        ],
+        "name": "Shorty Party",
+        "release_date": "2023-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4eoF8b15EaosNzpn2N3Rt9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          },
+          "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+          "id": "07PdYoE4jVRF6Ut40GgVSP",
+          "name": "Cartel De Santa",
+          "type": "artist",
+          "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yEIQ0lJDgUEfsuYx3Gsmr",
+          "id": "4yEIQ0lJDgUEfsuYx3Gsmr",
+          "name": "La Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:4yEIQ0lJDgUEfsuYx3Gsmr"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 265000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "MX3602300010"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/55ZATsjPlTeSTNJOuW90pW",
+      "id": "55ZATsjPlTeSTNJOuW90pW",
+      "is_local": false,
+      "name": "Shorty Party",
+      "popularity": 84,
+      "preview_url": "https://p.scdn.co/mp3-preview/861a31225cff10db2eedeb5c28bf6d0a4ecc4bc9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:55ZATsjPlTeSTNJOuW90pW"
     },
     {
       "album": {
@@ -10219,263 +10476,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-            },
-            "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-            "id": "0U5RYP2HMdGv2GhicLhkOI",
-            "name": "Neto Pe\u00f1a",
-            "type": "artist",
-            "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-            },
-            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-            "name": "Lefty Sm",
-            "type": "artist",
-            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
-        },
-        "href": "https://api.spotify.com/v1/albums/2oKBetIgm4nosWANPzkO5q",
-        "id": "2oKBetIgm4nosWANPzkO5q",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737c1d2ec543c81c7ea08225de",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027c1d2ec543c81c7ea08225de",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517c1d2ec543c81c7ea08225de",
-            "width": 64
-          }
-        ],
-        "name": "Alcohol Amargo",
-        "release_date": "2019-10-19",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:2oKBetIgm4nosWANPzkO5q"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-          "id": "0U5RYP2HMdGv2GhicLhkOI",
-          "name": "Neto Pe\u00f1a",
-          "type": "artist",
-          "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-          },
-          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-          "name": "Lefty Sm",
-          "type": "artist",
-          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 236202,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USHM91957129"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3O7aFrnyTmEsLwaKtOonqd",
-      "id": "3O7aFrnyTmEsLwaKtOonqd",
-      "is_local": false,
-      "name": "Alcohol Amargo",
-      "popularity": 38,
-      "preview_url": "https://p.scdn.co/mp3-preview/1a5fd9c5b1382795735a8c1331ae66b5f8f6aed3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3O7aFrnyTmEsLwaKtOonqd"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -11918,6 +11918,243 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+            "name": "Lefty Sm",
+            "type": "artist",
+            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
+        },
+        "href": "https://api.spotify.com/v1/albums/3h9sn7qACkviYYhvey79hp",
+        "id": "3h9sn7qACkviYYhvey79hp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738331f07480c48162b8b20a64",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028331f07480c48162b8b20a64",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518331f07480c48162b8b20a64",
+            "width": 64
+          }
+        ],
+        "name": "Volando",
+        "release_date": "2020-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3h9sn7qACkviYYhvey79hp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+          "name": "Lefty Sm",
+          "type": "artist",
+          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 218000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USANG2102659"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1aHD6BlYi6rsJCetEWH9f4",
+      "id": "1aHD6BlYi6rsJCetEWH9f4",
+      "is_local": false,
+      "name": "Volando",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/25e6f1027a7dddcb821085738a600bb7700fd0c7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1aHD6BlYi6rsJCetEWH9f4"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -12152,273 +12389,6 @@
       "track_number": 15,
       "type": "track",
       "uri": "spotify:track:1qwgTEymtBBxrANlXCdMIh"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-            },
-            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-            "id": "7psBfCiJgjoSL9JMbTxqGU",
-            "name": "Kamaro",
-            "type": "artist",
-            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
-        },
-        "href": "https://api.spotify.com/v1/albums/4lgrPArcFGHMKgqxmTeSMA",
-        "id": "4lgrPArcFGHMKgqxmTeSMA",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27301e2981ec91b99ae33cce9bb",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0201e2981ec91b99ae33cce9bb",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485101e2981ec91b99ae33cce9bb",
-            "width": 64
-          }
-        ],
-        "name": "M\u00fasica Prohibida",
-        "release_date": "2022-06-24",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:4lgrPArcFGHMKgqxmTeSMA"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-          },
-          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-          "id": "7psBfCiJgjoSL9JMbTxqGU",
-          "name": "Kamaro",
-          "type": "artist",
-          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-          },
-          "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
-          "id": "1jVhcHIGJuk16eqY1Mdtuk",
-          "name": "Dee",
-          "type": "artist",
-          "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 183512,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6N22219503"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0mOiiGj5Jd70aMfmEZLLoP"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0mOiiGj5Jd70aMfmEZLLoP",
-      "id": "0mOiiGj5Jd70aMfmEZLLoP",
-      "is_local": false,
-      "name": "Mill\u00f3n",
-      "popularity": 25,
-      "preview_url": "https://p.scdn.co/mp3-preview/ee77c94564c924e78e92054a4446b7f3dd7911e7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:0mOiiGj5Jd70aMfmEZLLoP"
     }
   ],
   "total": 50,
