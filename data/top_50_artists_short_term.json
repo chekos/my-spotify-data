@@ -37,44 +37,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "banda",
-        "banda jalisciense",
-        "musica mexicana",
-        "tecnobanda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
-      "id": "7MyUjj79oHy7I8RocrtzZ2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb62f332c0b67e6920eb70c797",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517462f332c0b67e6920eb70c797",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17862f332c0b67e6920eb70c797",
-          "width": 160
-        }
-      ],
-      "name": "Banda Machos",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
@@ -143,6 +105,44 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "banda",
+        "banda jalisciense",
+        "musica mexicana",
+        "tecnobanda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
+      "id": "7MyUjj79oHy7I8RocrtzZ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb62f332c0b67e6920eb70c797",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517462f332c0b67e6920eb70c797",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17862f332c0b67e6920eb70c797",
+          "width": 160
+        }
+      ],
+      "name": "Banda Machos",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
     },
     {
       "external_urls": {
@@ -578,44 +578,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "banda",
-        "banda sinaloense",
-        "musica mexicana",
-        "norteno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
-      "id": "6AcOTCYBMvjKYy4zms0kaC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2de8a704feecf3bc5c4bce98",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742de8a704feecf3bc5c4bce98",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782de8a704feecf3bc5c4bce98",
-          "width": 160
-        }
-      ],
-      "name": "Banda El Recodo",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:6AcOTCYBMvjKYy4zms0kaC"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
       },
       "followers": {
@@ -650,7 +612,7 @@
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     }
   ],
-  "total": 18,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
