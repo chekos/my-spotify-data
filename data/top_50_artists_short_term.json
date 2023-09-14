@@ -320,6 +320,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 92,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
       },
       "followers": {
@@ -421,6 +457,39 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
+      "id": "4AxSQnOMPd42KI149MWsub",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc86e7939785e0dc4905ca7ab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c86e7939785e0dc4905ca7ab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c86e7939785e0dc4905ca7ab",
+          "width": 160
+        }
+      ],
+      "name": "Eddie Zuko",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
     },
     {
       "external_urls": {
@@ -727,7 +796,7 @@
       "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
     }
   ],
-  "total": 20,
+  "total": 22,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
