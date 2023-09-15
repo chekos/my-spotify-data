@@ -145,39 +145,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/0wkxgIUSVvrpkfE5B3i3eV",
-      "id": "0wkxgIUSVvrpkfE5B3i3eV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb297d8c291429ad94cf9cc656",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174297d8c291429ad94cf9cc656",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178297d8c291429ad94cf9cc656",
-          "width": 160
-        }
-      ],
-      "name": "DRZUPREEME",
-      "popularity": 19,
-      "type": "artist",
-      "uri": "spotify:artist:0wkxgIUSVvrpkfE5B3i3eV"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -796,7 +763,7 @@
       "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
     }
   ],
-  "total": 22,
+  "total": 21,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
