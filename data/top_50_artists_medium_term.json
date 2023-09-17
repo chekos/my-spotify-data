@@ -501,6 +501,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 92,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
       },
       "followers": {
@@ -609,44 +645,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap conciencia",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-      "id": "1QhaqxeqF9sipS2gwbEKpu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb334c841c9a00210607162078",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174334c841c9a00210607162078",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178334c841c9a00210607162078",
-          "width": 160
-        }
-      ],
-      "name": "C-Kan",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
       },
       "followers": {
@@ -752,6 +750,44 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap conciencia",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb334c841c9a00210607162078",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174334c841c9a00210607162078",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178334c841c9a00210607162078",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
     {
       "external_urls": {
@@ -1038,42 +1074,6 @@
       "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "corridos tumbados",
-        "sad sierreno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
-          "width": 160
-        }
-      ],
-      "name": "Peso Pluma",
-      "popularity": 92,
-      "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
     },
     {
       "external_urls": {
