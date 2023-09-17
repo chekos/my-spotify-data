@@ -3797,6 +3797,253 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+            "id": "12GqGscKJx3aE4t07u7eVZ",
+            "name": "Peso Pluma",
+            "type": "artist",
+            "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        },
+        "href": "https://api.spotify.com/v1/albums/4jox3ip1I39DFC2B7R5qLH",
+        "id": "4jox3ip1I39DFC2B7R5qLH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022fb583ed96f8f35cbf2897ba",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512fb583ed96f8f35cbf2897ba",
+            "width": 64
+          }
+        ],
+        "name": "G\u00c9NESIS",
+        "release_date": "2023-06-29",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+          "id": "12GqGscKJx3aE4t07u7eVZ",
+          "name": "Peso Pluma",
+          "type": "artist",
+          "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          },
+          "href": "https://api.spotify.com/v1/artists/5XJDexmWFLWOkjOEjOVX3e",
+          "id": "5XJDexmWFLWOkjOEjOVX3e",
+          "name": "Eladio Carrion",
+          "type": "artist",
+          "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 215745,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM6P42305857"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6jUgruwAzfIA3HUQIO3wCR",
+      "id": "6jUgruwAzfIA3HUQIO3wCR",
+      "is_local": false,
+      "name": "77",
+      "popularity": 75,
+      "preview_url": "https://p.scdn.co/mp3-preview/0a7960a5f66a359e0288c9001eab729d242b56cd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6jUgruwAzfIA3HUQIO3wCR"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -12260,119 +12507,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:51enCoVzRqMi7uaVnKovbU"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TPTW3cTwUtiihgOMSQfmy",
-            "id": "4TPTW3cTwUtiihgOMSQfmy",
-            "name": "Mexican Institute Of Sound",
-            "type": "artist",
-            "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
-          }
-        ],
-        "available_markets": [
-          "CA",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6W9IT1iCJ4CnAiVB6IBKXu"
-        },
-        "href": "https://api.spotify.com/v1/albums/6W9IT1iCJ4CnAiVB6IBKXu",
-        "id": "6W9IT1iCJ4CnAiVB6IBKXu",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dc612656f3529ff69a65dbe1",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dc612656f3529ff69a65dbe1",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dc612656f3529ff69a65dbe1",
-            "width": 64
-          }
-        ],
-        "name": "Sad But True",
-        "release_date": "2021-09-10",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:6W9IT1iCJ4CnAiVB6IBKXu"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TPTW3cTwUtiihgOMSQfmy",
-          "id": "4TPTW3cTwUtiihgOMSQfmy",
-          "name": "Mexican Institute Of Sound",
-          "type": "artist",
-          "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-          },
-          "href": "https://api.spotify.com/v1/artists/1CJIcvG0AwRBiclbftNcDp",
-          "id": "1CJIcvG0AwRBiclbftNcDp",
-          "name": "La Perla",
-          "type": "artist",
-          "uri": "spotify:artist:1CJIcvG0AwRBiclbftNcDp"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-          },
-          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-          "id": "2ye2Wgw4gimLv2eAKyk1NB",
-          "name": "Metallica",
-          "type": "artist",
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "available_markets": [
-        "CA",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 271248,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QMKHM2100010"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/58fyr6Q93U6IUff6vuvV0U"
-      },
-      "href": "https://api.spotify.com/v1/tracks/58fyr6Q93U6IUff6vuvV0U",
-      "id": "58fyr6Q93U6IUff6vuvV0U",
-      "is_local": false,
-      "name": "Sad But True",
-      "popularity": 13,
-      "preview_url": "https://p.scdn.co/mp3-preview/1e8b5742b94d58a3b3f3708250a29d01548395e4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:58fyr6Q93U6IUff6vuvV0U"
     }
   ],
   "total": 50,
