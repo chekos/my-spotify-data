@@ -1050,6 +1050,243 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+            "name": "Lefty Sm",
+            "type": "artist",
+            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
+        },
+        "href": "https://api.spotify.com/v1/albums/182ycTI0yqFAoQMJ64M43N",
+        "id": "182ycTI0yqFAoQMJ64M43N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27330ef2711d5d126270748ded1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0230ef2711d5d126270748ded1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485130ef2711d5d126270748ded1",
+            "width": 64
+          }
+        ],
+        "name": "No Para",
+        "release_date": "2020-03-17",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:182ycTI0yqFAoQMJ64M43N"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+          "name": "Lefty Sm",
+          "type": "artist",
+          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 198582,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCGJ2042219"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3KrZWBY3Zo1HWNFSkG8on5",
+      "id": "3KrZWBY3Zo1HWNFSkG8on5",
+      "is_local": false,
+      "name": "No Para",
+      "popularity": 60,
+      "preview_url": "https://p.scdn.co/mp3-preview/1f867de334e5829e097c5594af5e2844fcb994ec?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3KrZWBY3Zo1HWNFSkG8on5"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -1578,13 +1815,23 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
             },
-            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-            "name": "Lefty Sm",
+            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+            "name": "Santa Fe Klan",
             "type": "artist",
-            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
           }
         ],
         "available_markets": [
@@ -1669,44 +1916,54 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
+          "spotify": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
         },
-        "href": "https://api.spotify.com/v1/albums/182ycTI0yqFAoQMJ64M43N",
-        "id": "182ycTI0yqFAoQMJ64M43N",
+        "href": "https://api.spotify.com/v1/albums/35aCkilcy42NSM3eQqdYWm",
+        "id": "35aCkilcy42NSM3eQqdYWm",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27330ef2711d5d126270748ded1",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735a3f05727d83c54d40c05812",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0230ef2711d5d126270748ded1",
+            "url": "https://i.scdn.co/image/ab67616d00001e025a3f05727d83c54d40c05812",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485130ef2711d5d126270748ded1",
+            "url": "https://i.scdn.co/image/ab67616d000048515a3f05727d83c54d40c05812",
             "width": 64
           }
         ],
-        "name": "No Para",
-        "release_date": "2020-03-17",
+        "name": "Socios",
+        "release_date": "2021-08-19",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:182ycTI0yqFAoQMJ64M43N"
+        "uri": "spotify:album:35aCkilcy42NSM3eQqdYWm"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
           },
-          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-          "name": "Lefty Sm",
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
           "type": "artist",
-          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
         }
       ],
       "available_markets": [
@@ -1791,23 +2048,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 198582,
+      "duration_ms": 243000,
       "explicit": true,
       "external_ids": {
-        "isrc": "USCGJ2042219"
+        "isrc": "QM3DF2123376"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
+        "spotify": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
       },
-      "href": "https://api.spotify.com/v1/tracks/3KrZWBY3Zo1HWNFSkG8on5",
-      "id": "3KrZWBY3Zo1HWNFSkG8on5",
+      "href": "https://api.spotify.com/v1/tracks/5XEKaGX5bEvZE79KneoLic",
+      "id": "5XEKaGX5bEvZE79KneoLic",
       "is_local": false,
-      "name": "No Para",
-      "popularity": 60,
-      "preview_url": "https://p.scdn.co/mp3-preview/1f867de334e5829e097c5594af5e2844fcb994ec?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "name": "Socios",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/95d378cb8bd42b944ca576ab70837689037b531b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:3KrZWBY3Zo1HWNFSkG8on5"
+      "uri": "spotify:track:5XEKaGX5bEvZE79KneoLic"
     },
     {
       "album": {
@@ -2549,263 +2806,6 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:52AO4wd45wPcLJlgak5pbZ"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-            },
-            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-            "name": "Santa Fe Klan",
-            "type": "artist",
-            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
-        },
-        "href": "https://api.spotify.com/v1/albums/35aCkilcy42NSM3eQqdYWm",
-        "id": "35aCkilcy42NSM3eQqdYWm",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735a3f05727d83c54d40c05812",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025a3f05727d83c54d40c05812",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515a3f05727d83c54d40c05812",
-            "width": 64
-          }
-        ],
-        "name": "Socios",
-        "release_date": "2021-08-19",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:35aCkilcy42NSM3eQqdYWm"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
-          "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 243000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM3DF2123376"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5XEKaGX5bEvZE79KneoLic",
-      "id": "5XEKaGX5bEvZE79KneoLic",
-      "is_local": false,
-      "name": "Socios",
-      "popularity": 54,
-      "preview_url": "https://p.scdn.co/mp3-preview/95d378cb8bd42b944ca576ab70837689037b531b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:5XEKaGX5bEvZE79KneoLic"
     },
     {
       "album": {
