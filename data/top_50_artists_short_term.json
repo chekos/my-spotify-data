@@ -108,43 +108,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "bases de freestyle",
-        "mexican hip hop",
-        "peruvian hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-      "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc4f67da5e9e77085179c2cb9",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c4f67da5e9e77085179c2cb9",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c4f67da5e9e77085179c2cb9",
-          "width": 160
-        }
-      ],
-      "name": "Aczino",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -393,72 +356,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
-      "id": "3Jarv4dvk7d9k6AkqDUVJg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
-          "width": 160
-        }
-      ],
-      "name": "Nortec: Bostich + Fussible",
-      "popularity": 39,
-      "type": "artist",
-      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
+        "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
+        "bases de freestyle",
         "mexican hip hop",
-        "rap underground mexicano"
+        "peruvian hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/7CvKsTEWv1BS3LydN8HgG6",
-      "id": "7CvKsTEWv1BS3LydN8HgG6",
+      "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+      "id": "4r1ZDYKzPt3iIjuq8LbT6X",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2abef7bee414e247c3f03fd1",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc4f67da5e9e77085179c2cb9",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742abef7bee414e247c3f03fd1",
+          "url": "https://i.scdn.co/image/ab67616100005174c4f67da5e9e77085179c2cb9",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782abef7bee414e247c3f03fd1",
+          "url": "https://i.scdn.co/image/ab6761610000f178c4f67da5e9e77085179c2cb9",
           "width": 160
         }
       ],
-      "name": "ILUMINATIK BUFFON",
-      "popularity": 46,
+      "name": "Aczino",
+      "popularity": 49,
       "type": "artist",
-      "uri": "spotify:artist:7CvKsTEWv1BS3LydN8HgG6"
+      "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     },
     {
       "external_urls": {
@@ -676,7 +607,7 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 19,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
