@@ -286,6 +286,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+      "id": "4QFG9KrGWEbr6hNA58CAqE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
+          "width": 160
+        }
+      ],
+      "name": "Alem\u00e1n",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -322,7 +358,7 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
       },
       "followers": {
         "href": null,
@@ -330,31 +366,32 @@
       },
       "genres": [
         "mexican hip hop",
+        "rap underground mexicano",
         "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-      "id": "4QFG9KrGWEbr6hNA58CAqE",
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe4edf42cc3ee7a91ba3670fa",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
+          "url": "https://i.scdn.co/image/ab67616100005174e4edf42cc3ee7a91ba3670fa",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
+          "url": "https://i.scdn.co/image/ab6761610000f178e4edf42cc3ee7a91ba3670fa",
           "width": 160
         }
       ],
-      "name": "Alem\u00e1n",
-      "popularity": 73,
+      "name": "Leyruk",
+      "popularity": 32,
       "type": "artist",
-      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
     {
       "external_urls": {
@@ -460,43 +497,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-      "id": "4H3ePoFDdsl36QwB96jZzg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe4edf42cc3ee7a91ba3670fa",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e4edf42cc3ee7a91ba3670fa",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e4edf42cc3ee7a91ba3670fa",
-          "width": 160
-        }
-      ],
-      "name": "Leyruk",
-      "popularity": 32,
-      "type": "artist",
-      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
     {
       "external_urls": {
