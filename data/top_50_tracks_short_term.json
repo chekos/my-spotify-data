@@ -6890,6 +6890,97 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 350186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25hiY8kewc9ytxr9cEgbHZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25hiY8kewc9ytxr9cEgbHZ",
+      "id": "25hiY8kewc9ytxr9cEgbHZ",
+      "is_local": false,
+      "name": "Amores Lejanos - En Vivo",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/e16c9619521437ef9caf5e59f1ed37e3c88754ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:25hiY8kewc9ytxr9cEgbHZ"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
             },
             "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
@@ -12130,263 +12221,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-            },
-            "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-            "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-            "name": "Aczino",
-            "type": "artist",
-            "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
-        },
-        "href": "https://api.spotify.com/v1/albums/7dlzGElxjGae4YC49CsLcE",
-        "id": "7dlzGElxjGae4YC49CsLcE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c3659cf86cbcd667c3821635",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c3659cf86cbcd667c3821635",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c3659cf86cbcd667c3821635",
-            "width": 64
-          }
-        ],
-        "name": "El G.O.A.T. (Deluxe)",
-        "release_date": "2023-07-05",
-        "release_date_precision": "day",
-        "total_tracks": 19,
-        "type": "album",
-        "uri": "spotify:album:7dlzGElxjGae4YC49CsLcE"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-          },
-          "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-          "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-          "name": "Aczino",
-          "type": "artist",
-          "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-          },
-          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-          "id": "1QhaqxeqF9sipS2gwbEKpu",
-          "name": "C-Kan",
-          "type": "artist",
-          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-          },
-          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-          "name": "Lefty Sm",
-          "type": "artist",
-          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 237453,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "MXUM72300792"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
-      },
-      "href": "https://api.spotify.com/v1/tracks/31to9V2JYareFfkoLQsEd6",
-      "id": "31to9V2JYareFfkoLQsEd6",
-      "is_local": false,
-      "name": "La Hora Es\u2026",
-      "popularity": 41,
-      "preview_url": "https://p.scdn.co/mp3-preview/1620b4e041b7a5373ffe85dcf04dc8e35ffa1f3e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 13,
-      "type": "track",
-      "uri": "spotify:track:31to9V2JYareFfkoLQsEd6"
     }
   ],
   "total": 50,
