@@ -1762,38 +1762,49 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
       },
       "followers": {
         "href": null,
         "total": 0
       },
       "genres": [
-        "mexican hip hop"
+        "argentine rock",
+        "latin alternative",
+        "latin pop",
+        "latin rock",
+        "mexican pop",
+        "rock en espanol",
+        "ska argentino"
       ],
-      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
-      "id": "5MRMYpdAWZawm3ivBeWvdK",
+      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+      "id": "4TK1gDgb7QKoPFlzRrBRgR",
       "images": [
         {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
+          "width": 1000
+        },
+        {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb833ba5833f551f9ec05ee7bf",
+          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174833ba5833f551f9ec05ee7bf",
-          "width": 320
+          "height": 200,
+          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
+          "width": 200
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178833ba5833f551f9ec05ee7bf",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
+          "width": 64
         }
       ],
-      "name": "Teeam Revolver",
-      "popularity": 48,
+      "name": "Los Enanitos Verdes",
+      "popularity": 71,
       "type": "artist",
-      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
+      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     }
   ],
   "total": 50,
