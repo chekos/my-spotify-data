@@ -7562,6 +7562,97 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 246026,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400440"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HaKjSU18sOZn85mXiAP52",
+      "id": "3HaKjSU18sOZn85mXiAP52",
+      "is_local": false,
+      "name": "Tequila - En Vivo",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/6872bfd688202f27e94c09fd3d25a6b4c50a55bf?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3HaKjSU18sOZn85mXiAP52"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -11778,269 +11869,12 @@
       "track_number": 3,
       "type": "track",
       "uri": "spotify:track:0wdWp0BJKTDCiHvV0HivcM"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-            },
-            "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-            "id": "1FCItwxfRieMGhR0eRxotU",
-            "name": "Rich Vagos",
-            "type": "artist",
-            "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2kGTwHezbLOPc7wK5YLVL7"
-        },
-        "href": "https://api.spotify.com/v1/albums/2kGTwHezbLOPc7wK5YLVL7",
-        "id": "2kGTwHezbLOPc7wK5YLVL7",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27355ea09f0a8947065473e8f45",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0255ea09f0a8947065473e8f45",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485155ea09f0a8947065473e8f45",
-            "width": 64
-          }
-        ],
-        "name": "Rich Vagos Mixtape, Vol. 2",
-        "release_date": "2022-11-18",
-        "release_date_precision": "day",
-        "total_tracks": 29,
-        "type": "album",
-        "uri": "spotify:album:2kGTwHezbLOPc7wK5YLVL7"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-          },
-          "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-          "id": "1FCItwxfRieMGhR0eRxotU",
-          "name": "Rich Vagos",
-          "type": "artist",
-          "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-          "id": "0U8dIwzBn17JkhYxmznp6T",
-          "name": "Jayrick",
-          "type": "artist",
-          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 158300,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QZW9K2267238"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1MEFrBlkxaX088SRCStDX7"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1MEFrBlkxaX088SRCStDX7",
-      "id": "1MEFrBlkxaX088SRCStDX7",
-      "is_local": false,
-      "name": "Bendecido",
-      "popularity": 45,
-      "preview_url": "https://p.scdn.co/mp3-preview/73a0ef9fdc52308e43d25834250a3a9dd65dfdf2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1MEFrBlkxaX088SRCStDX7"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=short_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
