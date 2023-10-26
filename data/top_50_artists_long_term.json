@@ -1544,6 +1544,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "corrido",
+        "corridos tumbados",
+        "musica mexicana",
+        "sad sierreno",
+        "sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+      "id": "7Gi6gjaWy3DxyilpF1a8Is",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb5ccab5d3dc10a08d89cbd76",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b5ccab5d3dc10a08d89cbd76",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b5ccab5d3dc10a08d89cbd76",
+          "width": 160
+        }
+      ],
+      "name": "Junior H",
+      "popularity": 89,
+      "type": "artist",
+      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
       },
       "followers": {
@@ -1755,43 +1794,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5pR3pEU0bCMZhhAzag3DUz",
-      "id": "5pR3pEU0bCMZhhAzag3DUz",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb32f75eb477860061716487a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b32f75eb477860061716487a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b32f75eb477860061716487a",
-          "width": 160
-        }
-      ],
-      "name": "Mike Diaz",
-      "popularity": 38,
-      "type": "artist",
-      "uri": "spotify:artist:5pR3pEU0bCMZhhAzag3DUz"
     }
   ],
   "total": 50,
