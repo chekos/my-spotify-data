@@ -1117,43 +1117,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
-      "id": "3fo4UvMNzZUCFS90Roh5iK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf12416008a1055653fe39474",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f12416008a1055653fe39474",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f12416008a1055653fe39474",
-          "width": 160
-        }
-      ],
-      "name": "Eptos Uno",
-      "popularity": 41,
-      "type": "artist",
-      "uri": "spotify:artist:3fo4UvMNzZUCFS90Roh5iK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
       },
       "followers": {
@@ -1811,6 +1774,41 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
+      "id": "5MRMYpdAWZawm3ivBeWvdK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb833ba5833f551f9ec05ee7bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174833ba5833f551f9ec05ee7bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178833ba5833f551f9ec05ee7bf",
+          "width": 160
+        }
+      ],
+      "name": "Teeam Revolver",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
     }
   ],
   "total": 50,
