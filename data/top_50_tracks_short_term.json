@@ -5555,93 +5555,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-            },
-            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-            "id": "0U8dIwzBn17JkhYxmznp6T",
-            "name": "Jayrick",
-            "type": "artist",
-            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6nPsmqJQ04ph2NVgoKyHT2"
-        },
-        "href": "https://api.spotify.com/v1/albums/6nPsmqJQ04ph2NVgoKyHT2",
-        "id": "6nPsmqJQ04ph2NVgoKyHT2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738633abb5806cd14ec2db9940",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028633abb5806cd14ec2db9940",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518633abb5806cd14ec2db9940",
-            "width": 64
-          }
-        ],
-        "name": "Estrafalario",
-        "release_date": "2023-10-13",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:6nPsmqJQ04ph2NVgoKyHT2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-          "id": "0U8dIwzBn17JkhYxmznp6T",
-          "name": "Jayrick",
-          "type": "artist",
-          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-          },
-          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-          "id": "66RfYVdftqnuHRicyClgL0",
-          "name": "Dharius",
-          "type": "artist",
-          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 160150,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXA1L2300039"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2dzHgU9gyNV2238C7kWWv8"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2dzHgU9gyNV2238C7kWWv8",
-      "id": "2dzHgU9gyNV2238C7kWWv8",
-      "is_local": false,
-      "name": "Sin Dormir (Ya Se Arm\u00f3)",
-      "popularity": 54,
-      "preview_url": null,
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:2dzHgU9gyNV2238C7kWWv8"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
             },
             "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
@@ -7561,6 +7474,93 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+            },
+            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+            "id": "0U8dIwzBn17JkhYxmznp6T",
+            "name": "Jayrick",
+            "type": "artist",
+            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6nPsmqJQ04ph2NVgoKyHT2"
+        },
+        "href": "https://api.spotify.com/v1/albums/6nPsmqJQ04ph2NVgoKyHT2",
+        "id": "6nPsmqJQ04ph2NVgoKyHT2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738633abb5806cd14ec2db9940",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028633abb5806cd14ec2db9940",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518633abb5806cd14ec2db9940",
+            "width": 64
+          }
+        ],
+        "name": "Estrafalario",
+        "release_date": "2023-10-13",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6nPsmqJQ04ph2NVgoKyHT2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+          "id": "0U8dIwzBn17JkhYxmznp6T",
+          "name": "Jayrick",
+          "type": "artist",
+          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          },
+          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+          "id": "66RfYVdftqnuHRicyClgL0",
+          "name": "Dharius",
+          "type": "artist",
+          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 160150,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXA1L2300039"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dzHgU9gyNV2238C7kWWv8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dzHgU9gyNV2238C7kWWv8",
+      "id": "2dzHgU9gyNV2238C7kWWv8",
+      "is_local": false,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "popularity": 54,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2dzHgU9gyNV2238C7kWWv8"
     },
     {
       "album": {
@@ -10350,93 +10350,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-            },
-            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-            "id": "0U8dIwzBn17JkhYxmznp6T",
-            "name": "Jayrick",
-            "type": "artist",
-            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6nPsmqJQ04ph2NVgoKyHT2"
-        },
-        "href": "https://api.spotify.com/v1/albums/6nPsmqJQ04ph2NVgoKyHT2",
-        "id": "6nPsmqJQ04ph2NVgoKyHT2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738633abb5806cd14ec2db9940",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028633abb5806cd14ec2db9940",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518633abb5806cd14ec2db9940",
-            "width": 64
-          }
-        ],
-        "name": "Estrafalario",
-        "release_date": "2023-10-13",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:6nPsmqJQ04ph2NVgoKyHT2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-          "id": "0U8dIwzBn17JkhYxmznp6T",
-          "name": "Jayrick",
-          "type": "artist",
-          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-          },
-          "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
-          "id": "2tU377oBzcCBbRNeVve8FC",
-          "name": "Go Golden Junk",
-          "type": "artist",
-          "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 138500,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXA1L2300041"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4p48rr7Mjj65x6X2hFHd3j"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4p48rr7Mjj65x6X2hFHd3j",
-      "id": "4p48rr7Mjj65x6X2hFHd3j",
-      "is_local": false,
-      "name": "Paleteao",
-      "popularity": 34,
-      "preview_url": null,
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:4p48rr7Mjj65x6X2hFHd3j"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
             "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
@@ -10667,93 +10580,6 @@
       "track_number": 10,
       "type": "track",
       "uri": "spotify:track:6AgCTp4EMV690aC3y3YjPx"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-            },
-            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-            "id": "0U8dIwzBn17JkhYxmznp6T",
-            "name": "Jayrick",
-            "type": "artist",
-            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6nPsmqJQ04ph2NVgoKyHT2"
-        },
-        "href": "https://api.spotify.com/v1/albums/6nPsmqJQ04ph2NVgoKyHT2",
-        "id": "6nPsmqJQ04ph2NVgoKyHT2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738633abb5806cd14ec2db9940",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028633abb5806cd14ec2db9940",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518633abb5806cd14ec2db9940",
-            "width": 64
-          }
-        ],
-        "name": "Estrafalario",
-        "release_date": "2023-10-13",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:6nPsmqJQ04ph2NVgoKyHT2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-          "id": "0U8dIwzBn17JkhYxmznp6T",
-          "name": "Jayrick",
-          "type": "artist",
-          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-          },
-          "href": "https://api.spotify.com/v1/artists/5FJ0JzZcNCGhquRX2zPmbL",
-          "id": "5FJ0JzZcNCGhquRX2zPmbL",
-          "name": "Ervin River",
-          "type": "artist",
-          "uri": "spotify:artist:5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 183000,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXA1L2300033"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6UA8epKf19sSJ2iAtmyEVm"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6UA8epKf19sSJ2iAtmyEVm",
-      "id": "6UA8epKf19sSJ2iAtmyEVm",
-      "is_local": false,
-      "name": "Te Est\u00e1 Olvidando",
-      "popularity": 35,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:6UA8epKf19sSJ2iAtmyEVm"
     },
     {
       "album": {
@@ -11485,12 +11311,516 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7xWky8i89MApbmAZ0wdecv"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2I8hlGzbnZKwkCg1EicEdG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2I8hlGzbnZKwkCg1EicEdG",
+            "id": "2I8hlGzbnZKwkCg1EicEdG",
+            "name": "La Bestia",
+            "type": "artist",
+            "uri": "spotify:artist:2I8hlGzbnZKwkCg1EicEdG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/659AbE0nWrkWBVzZ2rHxYq"
+        },
+        "href": "https://api.spotify.com/v1/albums/659AbE0nWrkWBVzZ2rHxYq",
+        "id": "659AbE0nWrkWBVzZ2rHxYq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27371f97add611963d21fc93b58",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0271f97add611963d21fc93b58",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485171f97add611963d21fc93b58",
+            "width": 64
+          }
+        ],
+        "name": "Vagos",
+        "release_date": "2020-12-16",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:659AbE0nWrkWBVzZ2rHxYq"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2I8hlGzbnZKwkCg1EicEdG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2I8hlGzbnZKwkCg1EicEdG",
+          "id": "2I8hlGzbnZKwkCg1EicEdG",
+          "name": "La Bestia",
+          "type": "artist",
+          "uri": "spotify:artist:2I8hlGzbnZKwkCg1EicEdG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 221538,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USANG2121552"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/04iNeBioZRornBNjEuMMBv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/04iNeBioZRornBNjEuMMBv",
+      "id": "04iNeBioZRornBNjEuMMBv",
+      "is_local": false,
+      "name": "Vagos",
+      "popularity": 27,
+      "preview_url": "https://p.scdn.co/mp3-preview/dcc9dbf8be56519135e7c2e4a37ffc46c5bdf31f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:04iNeBioZRornBNjEuMMBv"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+            },
+            "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+            "id": "6viZnVSHavFUcW0blu6Mvw",
+            "name": "Simpson Ahuevo",
+            "type": "artist",
+            "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR"
+        },
+        "href": "https://api.spotify.com/v1/albums/176ocuyDghIgtnqlRHl7lR",
+        "id": "176ocuyDghIgtnqlRHl7lR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273826e4da304f82168e7e7084f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02826e4da304f82168e7e7084f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851826e4da304f82168e7e7084f",
+            "width": 64
+          }
+        ],
+        "name": "Jorge",
+        "release_date": "2018-09-28",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:176ocuyDghIgtnqlRHl7lR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+          "id": "6viZnVSHavFUcW0blu6Mvw",
+          "name": "Simpson Ahuevo",
+          "type": "artist",
+          "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Alem\u00e1n",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 225000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB1878070"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zEXOA8kPTwxb4AaL1WHWE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zEXOA8kPTwxb4AaL1WHWE",
+      "id": "4zEXOA8kPTwxb4AaL1WHWE",
+      "is_local": false,
+      "name": "Corre",
+      "popularity": 52,
+      "preview_url": "https://p.scdn.co/mp3-preview/07e6893275ff81e6d5ceccaea04de8d7b4b95555?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4zEXOA8kPTwxb4AaL1WHWE"
     }
   ],
   "total": 50,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=short_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
