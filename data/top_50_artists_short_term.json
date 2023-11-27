@@ -220,6 +220,52 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "latin afrobeat",
+        "latin alternative",
+        "latin hip hop",
+        "puerto rican rock",
+        "rap conciencia",
+        "reggaeton",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
+      "id": "0yNSzH5nZmHzeE2xn6Xshb",
+      "images": [
+        {
+          "height": 719,
+          "url": "https://i.scdn.co/image/edabfb79fbf3d71ad9d0961a7b199a1470fe5372",
+          "width": 1000
+        },
+        {
+          "height": 460,
+          "url": "https://i.scdn.co/image/a3c9dd492b973e5d5ebfd957b30325972c16d2d4",
+          "width": 640
+        },
+        {
+          "height": 144,
+          "url": "https://i.scdn.co/image/896866e81c4a3d873ce3a28b2396f75212d192a0",
+          "width": 200
+        },
+        {
+          "height": 46,
+          "url": "https://i.scdn.co/image/28b48ccc46a8cb61fbf3e67867fc7794acc6dc85",
+          "width": 64
+        }
+      ],
+      "name": "Calle 13",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -325,6 +371,42 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
     },
     {
       "external_urls": {
@@ -505,7 +587,7 @@
       "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
     }
   ],
-  "total": 14,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
