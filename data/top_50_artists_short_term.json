@@ -629,6 +629,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XThtYxaIaPS5o9soX7kAu"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2XThtYxaIaPS5o9soX7kAu",
+      "id": "2XThtYxaIaPS5o9soX7kAu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a71df005a3d401bdeaff785e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a71df005a3d401bdeaff785e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a71df005a3d401bdeaff785e",
+          "width": 64
+        }
+      ],
+      "name": "Gloria Lynne",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:2XThtYxaIaPS5o9soX7kAu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -659,7 +692,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 43,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
@@ -771,7 +804,7 @@
       "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
     }
   ],
-  "total": 21,
+  "total": 22,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
