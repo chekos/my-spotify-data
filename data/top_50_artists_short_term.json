@@ -369,7 +369,7 @@
         }
       ],
       "name": "Stevie Wonder",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
     },
@@ -402,7 +402,7 @@
         }
       ],
       "name": "Gloria Lynne",
-      "popularity": 26,
+      "popularity": 27,
       "type": "artist",
       "uri": "spotify:artist:2XThtYxaIaPS5o9soX7kAu"
     },
@@ -482,6 +482,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
