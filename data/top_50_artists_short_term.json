@@ -554,6 +554,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0004348a7c5517eab6e0729f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740004348a7c5517eab6e0729f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780004348a7c5517eab6e0729f",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
@@ -618,12 +653,12 @@
         }
       ],
       "name": "Remik Gonzalez",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 17,
+  "total": 18,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
