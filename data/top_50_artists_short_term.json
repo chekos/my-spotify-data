@@ -579,47 +579,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "motown",
-        "soul"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
-      "id": "7guDJrEfX3qb6FEbdPA5qi",
-      "images": [
-        {
-          "height": 1008,
-          "url": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-          "width": 1000
-        },
-        {
-          "height": 645,
-          "url": "https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9",
-          "width": 640
-        },
-        {
-          "height": 202,
-          "url": "https://i.scdn.co/image/3b24b51bf11404089c4d66acd0c612539c77e7e7",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/05489744160e3f6f94f707fa1e2a6d4bbd14a298",
-          "width": 64
-        }
-      ],
-      "name": "Stevie Wonder",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -802,46 +761,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "jazz blues",
-        "neo soul",
-        "soul",
-        "soul jazz",
-        "torch song",
-        "vocal jazz"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
-      "id": "7G1GBhoKtEPnP86X2PvEYO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174136c51c848c26a6cce7f9e56",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178136c51c848c26a6cce7f9e56",
-          "width": 160
-        }
-      ],
-      "name": "Nina Simone",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
@@ -876,7 +795,7 @@
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
-  "total": 24,
+  "total": 22,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
