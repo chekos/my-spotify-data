@@ -8782,243 +8782,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/48UdGUULeqTanOu3BVGDNV"
-        },
-        "href": "https://api.spotify.com/v1/albums/48UdGUULeqTanOu3BVGDNV",
-        "id": "48UdGUULeqTanOu3BVGDNV",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27340c63642c78996837300a52c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0240c63642c78996837300a52c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485140c63642c78996837300a52c",
-            "width": 64
-          }
-        ],
-        "name": "Alivianado",
-        "release_date": "2022-05-27",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:48UdGUULeqTanOu3BVGDNV"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 187118,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6MZ2276957"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2pEa0vCzu86pDLz9KPDAcg"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2pEa0vCzu86pDLz9KPDAcg",
-      "id": "2pEa0vCzu86pDLz9KPDAcg",
-      "is_local": false,
-      "name": "Alivianado",
-      "popularity": 24,
-      "preview_url": "https://p.scdn.co/mp3-preview/6f2c92079c6b887636b230042c9de5bf5a814f7c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2pEa0vCzu86pDLz9KPDAcg"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -11825,13 +11588,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+              "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
             },
-            "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-            "id": "4H3ePoFDdsl36QwB96jZzg",
-            "name": "Leyruk",
+            "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
+            "id": "3H1jLGJzOPn3WbEv6fvJ3M",
+            "name": "Palmasur",
             "type": "artist",
-            "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+            "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
           }
         ],
         "available_markets": [
@@ -11916,44 +11679,54 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7zxW9wRNKndM4CUH9XeU1i"
+          "spotify": "https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb"
         },
-        "href": "https://api.spotify.com/v1/albums/7zxW9wRNKndM4CUH9XeU1i",
-        "id": "7zxW9wRNKndM4CUH9XeU1i",
+        "href": "https://api.spotify.com/v1/albums/6soq6nzux0A2nBcDbhA5Sb",
+        "id": "6soq6nzux0A2nBcDbhA5Sb",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737c0bb5196b6be5671cb73f25",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731f514c0aa01630320d18215d",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027c0bb5196b6be5671cb73f25",
+            "url": "https://i.scdn.co/image/ab67616d00001e021f514c0aa01630320d18215d",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517c0bb5196b6be5671cb73f25",
+            "url": "https://i.scdn.co/image/ab67616d000048511f514c0aa01630320d18215d",
             "width": 64
           }
         ],
-        "name": "Bendici\u00f3n",
-        "release_date": "2017-01-26",
+        "name": "SANTA TIERRA",
+        "release_date": "2023-09-29",
         "release_date_precision": "day",
-        "total_tracks": 14,
+        "total_tracks": 10,
         "type": "album",
-        "uri": "spotify:album:7zxW9wRNKndM4CUH9XeU1i"
+        "uri": "spotify:album:6soq6nzux0A2nBcDbhA5Sb"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+            "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
           },
-          "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-          "id": "4H3ePoFDdsl36QwB96jZzg",
-          "name": "Leyruk",
+          "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
+          "id": "3H1jLGJzOPn3WbEv6fvJ3M",
+          "name": "Palmasur",
           "type": "artist",
-          "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+          "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+          },
+          "href": "https://api.spotify.com/v1/artists/6P1mgZSQeztdWbWpJYy718",
+          "id": "6P1mgZSQeztdWbWpJYy718",
+          "name": "Solo San",
+          "type": "artist",
+          "uri": "spotify:artist:6P1mgZSQeztdWbWpJYy718"
         }
       ],
       "available_markets": [
@@ -12038,23 +11811,260 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 220000,
-      "explicit": true,
+      "duration_ms": 99333,
+      "explicit": false,
       "external_ids": {
-        "isrc": "US7VG1701880"
+        "isrc": "QM3DF2277812"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2oWAtegyxiKOd7Id2Fa30P"
+        "spotify": "https://open.spotify.com/track/3VJZJnN7g1XvdV7XrOMWOG"
       },
-      "href": "https://api.spotify.com/v1/tracks/2oWAtegyxiKOd7Id2Fa30P",
-      "id": "2oWAtegyxiKOd7Id2Fa30P",
+      "href": "https://api.spotify.com/v1/tracks/3VJZJnN7g1XvdV7XrOMWOG",
+      "id": "3VJZJnN7g1XvdV7XrOMWOG",
       "is_local": false,
-      "name": "Paz",
-      "popularity": 11,
-      "preview_url": "https://p.scdn.co/mp3-preview/e10d275cebbad0fcaae9bb2202b62029f7cb3df2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
+      "name": "Comala",
+      "popularity": 14,
+      "preview_url": "https://p.scdn.co/mp3-preview/78f47449a383c6b38b636551bd944c59fe923493?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 7,
       "type": "track",
-      "uri": "spotify:track:2oWAtegyxiKOd7Id2Fa30P"
+      "uri": "spotify:track:3VJZJnN7g1XvdV7XrOMWOG"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+            },
+            "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
+            "id": "3H1jLGJzOPn3WbEv6fvJ3M",
+            "name": "Palmasur",
+            "type": "artist",
+            "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb"
+        },
+        "href": "https://api.spotify.com/v1/albums/6soq6nzux0A2nBcDbhA5Sb",
+        "id": "6soq6nzux0A2nBcDbhA5Sb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731f514c0aa01630320d18215d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021f514c0aa01630320d18215d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511f514c0aa01630320d18215d",
+            "width": 64
+          }
+        ],
+        "name": "SANTA TIERRA",
+        "release_date": "2023-09-29",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:6soq6nzux0A2nBcDbhA5Sb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          },
+          "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
+          "id": "3H1jLGJzOPn3WbEv6fvJ3M",
+          "name": "Palmasur",
+          "type": "artist",
+          "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 178500,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QM3DF2286340"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6krLcQ7Y1fIxnybD4Ida9B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6krLcQ7Y1fIxnybD4Ida9B",
+      "id": "6krLcQ7Y1fIxnybD4Ida9B",
+      "is_local": false,
+      "name": "Santo Vuelo",
+      "popularity": 12,
+      "preview_url": "https://p.scdn.co/mp3-preview/1a6ca88b246425232444f10276cdf51a85858c60?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6krLcQ7Y1fIxnybD4Ida9B"
     }
   ],
   "total": 50,
