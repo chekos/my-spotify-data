@@ -216,42 +216,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -285,6 +249,42 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
     {
       "external_urls": {
@@ -966,7 +966,7 @@
         }
       ],
       "name": "C\u00f3digo KM",
-      "popularity": 5,
+      "popularity": 6,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
@@ -999,7 +999,7 @@
         }
       ],
       "name": "Nortec: Bostich + Fussible",
-      "popularity": 38,
+      "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
@@ -1795,7 +1795,7 @@
         }
       ],
       "name": "Kendrick Lamar",
-      "popularity": 87,
+      "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     }
