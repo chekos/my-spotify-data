@@ -6024,6 +6024,89 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Lss2KwJWG97CZIEvyzYfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Lss2KwJWG97CZIEvyzYfl",
+            "id": "2Lss2KwJWG97CZIEvyzYfl",
+            "name": "Chuy Jr",
+            "type": "artist",
+            "uri": "spotify:artist:2Lss2KwJWG97CZIEvyzYfl"
+          }
+        ],
+        "available_markets": [
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1NjSCGuxxrq5A1bTA1W6sa"
+        },
+        "href": "https://api.spotify.com/v1/albums/1NjSCGuxxrq5A1bTA1W6sa",
+        "id": "1NjSCGuxxrq5A1bTA1W6sa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273781aceda52180e6810cd1298",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02781aceda52180e6810cd1298",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851781aceda52180e6810cd1298",
+            "width": 64
+          }
+        ],
+        "name": "Mr. Party",
+        "release_date": "2003-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:1NjSCGuxxrq5A1bTA1W6sa"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Lss2KwJWG97CZIEvyzYfl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Lss2KwJWG97CZIEvyzYfl",
+          "id": "2Lss2KwJWG97CZIEvyzYfl",
+          "name": "Chuy Jr",
+          "type": "artist",
+          "uri": "spotify:artist:2Lss2KwJWG97CZIEvyzYfl"
+        }
+      ],
+      "available_markets": [
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 207053,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USEL10300218"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0J2pSqYM7eM19CLzQPomWU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0J2pSqYM7eM19CLzQPomWU",
+      "id": "0J2pSqYM7eM19CLzQPomWU",
+      "is_local": false,
+      "name": "Mr. Party",
+      "popularity": 25,
+      "preview_url": "https://p.scdn.co/mp3-preview/7f3e74658136c70f72435332f04917f57ec23aa6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0J2pSqYM7eM19CLzQPomWU"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
             },
             "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
@@ -9283,7 +9366,7 @@
       "id": "1sccackZF4sZ3j3HGbzxE4",
       "is_local": false,
       "name": "Semilla",
-      "popularity": 37,
+      "popularity": 38,
       "preview_url": "https://p.scdn.co/mp3-preview/3958cbd14a27fa6ff87ae4da63842384b78e073e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -12312,243 +12395,6 @@
       "track_number": 17,
       "type": "track",
       "uri": "spotify:track:360mOrU0yolwXKY8z2uEaE"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-            },
-            "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
-            "id": "0ys2OFYzWYB5hRDLCsBqxt",
-            "name": "Fuerza Regida",
-            "type": "artist",
-            "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
-        },
-        "href": "https://api.spotify.com/v1/albums/3GqCt85yKxtKxnIivSN15e",
-        "id": "3GqCt85yKxtKxnIivSN15e",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273832ea5d2f8c10f95fc3cc66d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02832ea5d2f8c10f95fc3cc66d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851832ea5d2f8c10f95fc3cc66d",
-            "width": 64
-          }
-        ],
-        "name": "TQM",
-        "release_date": "2023-05-19",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3GqCt85yKxtKxnIivSN15e"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-          },
-          "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
-          "id": "0ys2OFYzWYB5hRDLCsBqxt",
-          "name": "Fuerza Regida",
-          "type": "artist",
-          "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 158965,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ9QQ2300371"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
-      },
-      "href": "https://api.spotify.com/v1/tracks/368eeEO3Y2uZUQ6S5oIjcu",
-      "id": "368eeEO3Y2uZUQ6S5oIjcu",
-      "is_local": false,
-      "name": "TQM",
-      "popularity": 84,
-      "preview_url": "https://p.scdn.co/mp3-preview/63f6b66cfcc3d7bd396dcbe18d6e3dee05fdb956?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:368eeEO3Y2uZUQ6S5oIjcu"
     }
   ],
   "total": 50,
