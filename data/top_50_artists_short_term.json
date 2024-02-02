@@ -503,6 +503,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+      "id": "3ScIigEm9KZUrUQtXzBmKJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb878347da0922ea7bf07e2e17",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174878347da0922ea7bf07e2e17",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178878347da0922ea7bf07e2e17",
+          "width": 160
+        }
+      ],
+      "name": "Cozy Cuz",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -572,7 +607,7 @@
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     }
   ],
-  "total": 16,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
