@@ -4976,243 +4976,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-            },
-            "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-            "id": "231yQfVjg9sGhTNsaym9ck",
-            "name": "C\u00f3digo KM",
-            "type": "artist",
-            "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4XssST6ZjeUKutADRKOQHX"
-        },
-        "href": "https://api.spotify.com/v1/albums/4XssST6ZjeUKutADRKOQHX",
-        "id": "4XssST6ZjeUKutADRKOQHX",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
-            "width": 64
-          }
-        ],
-        "name": "El Fin Del Mundo",
-        "release_date": "2020-12-18",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:4XssST6ZjeUKutADRKOQHX"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-          },
-          "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-          "id": "231yQfVjg9sGhTNsaym9ck",
-          "name": "C\u00f3digo KM",
-          "type": "artist",
-          "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 189183,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZES72022920"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3itof28qmCDvqiyJSLLlzy"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3itof28qmCDvqiyJSLLlzy",
-      "id": "3itof28qmCDvqiyJSLLlzy",
-      "is_local": false,
-      "name": "El diablo anda suelto",
-      "popularity": 5,
-      "preview_url": "https://p.scdn.co/mp3-preview/0a9f587d7fe90694646bc203ad961cd1e165c3f5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:3itof28qmCDvqiyJSLLlzy"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
             },
             "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
@@ -5680,6 +5443,243 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+            },
+            "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+            "id": "231yQfVjg9sGhTNsaym9ck",
+            "name": "C\u00f3digo KM",
+            "type": "artist",
+            "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4XssST6ZjeUKutADRKOQHX"
+        },
+        "href": "https://api.spotify.com/v1/albums/4XssST6ZjeUKutADRKOQHX",
+        "id": "4XssST6ZjeUKutADRKOQHX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+            "width": 64
+          }
+        ],
+        "name": "El Fin Del Mundo",
+        "release_date": "2020-12-18",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4XssST6ZjeUKutADRKOQHX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+          },
+          "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+          "id": "231yQfVjg9sGhTNsaym9ck",
+          "name": "C\u00f3digo KM",
+          "type": "artist",
+          "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 189183,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZES72022920"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itof28qmCDvqiyJSLLlzy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3itof28qmCDvqiyJSLLlzy",
+      "id": "3itof28qmCDvqiyJSLLlzy",
+      "is_local": false,
+      "name": "El diablo anda suelto",
+      "popularity": 5,
+      "preview_url": "https://p.scdn.co/mp3-preview/0a9f587d7fe90694646bc203ad961cd1e165c3f5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3itof28qmCDvqiyJSLLlzy"
     },
     {
       "album": {
@@ -6715,6 +6715,103 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+            },
+            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+            "id": "716NhGYqD1jl2wI1Qkgq36",
+            "name": "Bizarrap",
+            "type": "artist",
+            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+            "id": "3p3jPcp8b7WL9XYj4xlsWj",
+            "name": "Snow Tha Product",
+            "type": "artist",
+            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
+        },
+        "href": "https://api.spotify.com/v1/albums/3GN1tT5enSZQ6lMDtls3an",
+        "id": "3GN1tT5enSZQ6lMDtls3an",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730427a473bc9cec1a1df4d14b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020427a473bc9cec1a1df4d14b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510427a473bc9cec1a1df4d14b",
+            "width": 64
+          }
+        ],
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "release_date": "2021-04-28",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3GN1tT5enSZQ6lMDtls3an"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          },
+          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+          "id": "716NhGYqD1jl2wI1Qkgq36",
+          "name": "Bizarrap",
+          "type": "artist",
+          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+          "id": "3p3jPcp8b7WL9XYj4xlsWj",
+          "name": "Snow Tha Product",
+          "type": "artist",
+          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 177442,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "UYB282101015"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ke6it1vTmHtz2ApcIVUz5",
+      "id": "3ke6it1vTmHtz2ApcIVUz5",
+      "is_local": false,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "popularity": 1,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3ke6it1vTmHtz2ApcIVUz5"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
             },
             "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
@@ -6945,103 +7042,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:2SKCG5dtZJh7vwhWJi7rCZ"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-            },
-            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-            "id": "716NhGYqD1jl2wI1Qkgq36",
-            "name": "Bizarrap",
-            "type": "artist",
-            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-            },
-            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-            "id": "3p3jPcp8b7WL9XYj4xlsWj",
-            "name": "Snow Tha Product",
-            "type": "artist",
-            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
-        },
-        "href": "https://api.spotify.com/v1/albums/3GN1tT5enSZQ6lMDtls3an",
-        "id": "3GN1tT5enSZQ6lMDtls3an",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730427a473bc9cec1a1df4d14b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020427a473bc9cec1a1df4d14b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510427a473bc9cec1a1df4d14b",
-            "width": 64
-          }
-        ],
-        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-        "release_date": "2021-04-28",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3GN1tT5enSZQ6lMDtls3an"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-          },
-          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-          "id": "716NhGYqD1jl2wI1Qkgq36",
-          "name": "Bizarrap",
-          "type": "artist",
-          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-          },
-          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-          "id": "3p3jPcp8b7WL9XYj4xlsWj",
-          "name": "Snow Tha Product",
-          "type": "artist",
-          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 177442,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "UYB282101015"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3ke6it1vTmHtz2ApcIVUz5",
-      "id": "3ke6it1vTmHtz2ApcIVUz5",
-      "is_local": false,
-      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-      "popularity": 1,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3ke6it1vTmHtz2ApcIVUz5"
     },
     {
       "album": {
@@ -9252,113 +9252,6 @@
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-            },
-            "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
-            "id": "7MNEVabc4cs19CbzAFZmXz",
-            "name": "Terrace Martin",
-            "type": "artist",
-            "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0YNKpvNn5NSo9jSJVMWu78"
-        },
-        "href": "https://api.spotify.com/v1/albums/0YNKpvNn5NSo9jSJVMWu78",
-        "id": "0YNKpvNn5NSo9jSJVMWu78",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a587ffe6775ac867a5679e7c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a587ffe6775ac867a5679e7c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a587ffe6775ac867a5679e7c",
-            "width": 64
-          }
-        ],
-        "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
-        "release_date": "2020-11-24",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0YNKpvNn5NSo9jSJVMWu78"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-          },
-          "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
-          "id": "4AxSQnOMPd42KI149MWsub",
-          "name": "Eddie Zuko",
-          "type": "artist",
-          "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-          },
-          "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
-          "id": "7MNEVabc4cs19CbzAFZmXz",
-          "name": "Terrace Martin",
-          "type": "artist",
-          "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-          },
-          "href": "https://api.spotify.com/v1/artists/6L3x3if9RVimruryD9LoFb",
-          "id": "6L3x3if9RVimruryD9LoFb",
-          "name": "King Lil G",
-          "type": "artist",
-          "uri": "spotify:artist:6L3x3if9RVimruryD9LoFb"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 135705,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USLD91729759"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6Wvi4z1o4dpuKn7VvTs004"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6Wvi4z1o4dpuKn7VvTs004",
-      "id": "6Wvi4z1o4dpuKn7VvTs004",
-      "is_local": false,
-      "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:6Wvi4z1o4dpuKn7VvTs004"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-            },
-            "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
-            "id": "4AxSQnOMPd42KI149MWsub",
-            "name": "Eddie Zuko",
-            "type": "artist",
-            "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
-          },
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ"
             },
             "href": "https://api.spotify.com/v1/artists/6Dcufc8lKB2eVG5JKnT5fZ",
@@ -9976,6 +9869,113 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
+            "id": "4AxSQnOMPd42KI149MWsub",
+            "name": "Eddie Zuko",
+            "type": "artist",
+            "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
+            "id": "7MNEVabc4cs19CbzAFZmXz",
+            "name": "Terrace Martin",
+            "type": "artist",
+            "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0YNKpvNn5NSo9jSJVMWu78"
+        },
+        "href": "https://api.spotify.com/v1/albums/0YNKpvNn5NSo9jSJVMWu78",
+        "id": "0YNKpvNn5NSo9jSJVMWu78",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a587ffe6775ac867a5679e7c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a587ffe6775ac867a5679e7c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a587ffe6775ac867a5679e7c",
+            "width": 64
+          }
+        ],
+        "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
+        "release_date": "2020-11-24",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0YNKpvNn5NSo9jSJVMWu78"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
+          "id": "4AxSQnOMPd42KI149MWsub",
+          "name": "Eddie Zuko",
+          "type": "artist",
+          "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
+          "id": "7MNEVabc4cs19CbzAFZmXz",
+          "name": "Terrace Martin",
+          "type": "artist",
+          "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6L3x3if9RVimruryD9LoFb",
+          "id": "6L3x3if9RVimruryD9LoFb",
+          "name": "King Lil G",
+          "type": "artist",
+          "uri": "spotify:artist:6L3x3if9RVimruryD9LoFb"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 135705,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLD91729759"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Wvi4z1o4dpuKn7VvTs004"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Wvi4z1o4dpuKn7VvTs004",
+      "id": "6Wvi4z1o4dpuKn7VvTs004",
+      "is_local": false,
+      "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Wvi4z1o4dpuKn7VvTs004"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -10257,6 +10257,243 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
+            "type": "artist",
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
+        },
+        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
+        "id": "6pV6SSMwxUzqGRC5OZjrCi",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
+            "width": 64
+          }
+        ],
+        "name": "Degeneraci\u00f3n Nacional",
+        "release_date": "2022-08-19",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 118312,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QMBZ92263762"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Wk8LYH507gOwd2ebMNjq9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Wk8LYH507gOwd2ebMNjq9",
+      "id": "3Wk8LYH507gOwd2ebMNjq9",
+      "is_local": false,
+      "name": "Chimenea",
+      "popularity": 44,
+      "preview_url": "https://p.scdn.co/mp3-preview/95358196fc5ee79073dfe9a3c7ebde7e441f4250?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3Wk8LYH507gOwd2ebMNjq9"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
             },
             "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
@@ -10497,243 +10734,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1OUNvwxWLqZmScD3G2gP1G"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-            },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
-            "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
-        },
-        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
-        "id": "6pV6SSMwxUzqGRC5OZjrCi",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
-            "width": 64
-          }
-        ],
-        "name": "Degeneraci\u00f3n Nacional",
-        "release_date": "2022-08-19",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-          },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
-          "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 118312,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QMBZ92263762"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3Wk8LYH507gOwd2ebMNjq9"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3Wk8LYH507gOwd2ebMNjq9",
-      "id": "3Wk8LYH507gOwd2ebMNjq9",
-      "is_local": false,
-      "name": "Chimenea",
-      "popularity": 44,
-      "preview_url": "https://p.scdn.co/mp3-preview/95358196fc5ee79073dfe9a3c7ebde7e441f4250?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 6,
-      "type": "track",
-      "uri": "spotify:track:3Wk8LYH507gOwd2ebMNjq9"
     },
     {
       "album": {
