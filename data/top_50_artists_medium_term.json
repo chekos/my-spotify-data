@@ -1157,6 +1157,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+      "id": "3ScIigEm9KZUrUQtXzBmKJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb878347da0922ea7bf07e2e17",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174878347da0922ea7bf07e2e17",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178878347da0922ea7bf07e2e17",
+          "width": 160
+        }
+      ],
+      "name": "Cozy Cuz",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
       },
       "followers": {
@@ -1265,41 +1300,6 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-      "id": "3ScIigEm9KZUrUQtXzBmKJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb878347da0922ea7bf07e2e17",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174878347da0922ea7bf07e2e17",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178878347da0922ea7bf07e2e17",
-          "width": 160
-        }
-      ],
-      "name": "Cozy Cuz",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
     },
     {
       "external_urls": {
