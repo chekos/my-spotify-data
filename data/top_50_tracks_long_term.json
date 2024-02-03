@@ -3006,243 +3006,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3iK2XLBkO4lSF3IkHPPETj"
-        },
-        "href": "https://api.spotify.com/v1/albums/3iK2XLBkO4lSF3IkHPPETj",
-        "id": "3iK2XLBkO4lSF3IkHPPETj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d5a397bedca525e9adcb7955",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d5a397bedca525e9adcb7955",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d5a397bedca525e9adcb7955",
-            "width": 64
-          }
-        ],
-        "name": "Desde Cu\u00e1ndo",
-        "release_date": "2020-11-10",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3iK2XLBkO4lSF3IkHPPETj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 159000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QMFME2007730"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5GkArSRoxpRj7EuVxG4jCz"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5GkArSRoxpRj7EuVxG4jCz",
-      "id": "5GkArSRoxpRj7EuVxG4jCz",
-      "is_local": false,
-      "name": "Desde Cu\u00e1ndo",
-      "popularity": 15,
-      "preview_url": "https://p.scdn.co/mp3-preview/faba642aac53712f98c5602900fd4c129bd04e96?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:5GkArSRoxpRj7EuVxG4jCz"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -3734,6 +3497,243 @@
       "track_number": 8,
       "type": "track",
       "uri": "spotify:track:3ZAvXkfPFlSKpnZ4Q3RRVV"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3iK2XLBkO4lSF3IkHPPETj"
+        },
+        "href": "https://api.spotify.com/v1/albums/3iK2XLBkO4lSF3IkHPPETj",
+        "id": "3iK2XLBkO4lSF3IkHPPETj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d5a397bedca525e9adcb7955",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d5a397bedca525e9adcb7955",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d5a397bedca525e9adcb7955",
+            "width": 64
+          }
+        ],
+        "name": "Desde Cu\u00e1ndo",
+        "release_date": "2020-11-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3iK2XLBkO4lSF3IkHPPETj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 159000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QMFME2007730"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5GkArSRoxpRj7EuVxG4jCz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5GkArSRoxpRj7EuVxG4jCz",
+      "id": "5GkArSRoxpRj7EuVxG4jCz",
+      "is_local": false,
+      "name": "Desde Cu\u00e1ndo",
+      "popularity": 15,
+      "preview_url": "https://p.scdn.co/mp3-preview/faba642aac53712f98c5602900fd4c129bd04e96?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5GkArSRoxpRj7EuVxG4jCz"
     },
     {
       "album": {
@@ -9869,113 +9869,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-            },
-            "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
-            "id": "4AxSQnOMPd42KI149MWsub",
-            "name": "Eddie Zuko",
-            "type": "artist",
-            "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-            },
-            "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
-            "id": "7MNEVabc4cs19CbzAFZmXz",
-            "name": "Terrace Martin",
-            "type": "artist",
-            "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0YNKpvNn5NSo9jSJVMWu78"
-        },
-        "href": "https://api.spotify.com/v1/albums/0YNKpvNn5NSo9jSJVMWu78",
-        "id": "0YNKpvNn5NSo9jSJVMWu78",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a587ffe6775ac867a5679e7c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a587ffe6775ac867a5679e7c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a587ffe6775ac867a5679e7c",
-            "width": 64
-          }
-        ],
-        "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
-        "release_date": "2020-11-24",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0YNKpvNn5NSo9jSJVMWu78"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-          },
-          "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
-          "id": "4AxSQnOMPd42KI149MWsub",
-          "name": "Eddie Zuko",
-          "type": "artist",
-          "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-          },
-          "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
-          "id": "7MNEVabc4cs19CbzAFZmXz",
-          "name": "Terrace Martin",
-          "type": "artist",
-          "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-          },
-          "href": "https://api.spotify.com/v1/artists/6L3x3if9RVimruryD9LoFb",
-          "id": "6L3x3if9RVimruryD9LoFb",
-          "name": "King Lil G",
-          "type": "artist",
-          "uri": "spotify:artist:6L3x3if9RVimruryD9LoFb"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 135705,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USLD91729759"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6Wvi4z1o4dpuKn7VvTs004"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6Wvi4z1o4dpuKn7VvTs004",
-      "id": "6Wvi4z1o4dpuKn7VvTs004",
-      "is_local": false,
-      "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:6Wvi4z1o4dpuKn7VvTs004"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -10253,6 +10146,113 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
+            "id": "4AxSQnOMPd42KI149MWsub",
+            "name": "Eddie Zuko",
+            "type": "artist",
+            "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
+            "id": "7MNEVabc4cs19CbzAFZmXz",
+            "name": "Terrace Martin",
+            "type": "artist",
+            "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0YNKpvNn5NSo9jSJVMWu78"
+        },
+        "href": "https://api.spotify.com/v1/albums/0YNKpvNn5NSo9jSJVMWu78",
+        "id": "0YNKpvNn5NSo9jSJVMWu78",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a587ffe6775ac867a5679e7c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a587ffe6775ac867a5679e7c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a587ffe6775ac867a5679e7c",
+            "width": 64
+          }
+        ],
+        "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
+        "release_date": "2020-11-24",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0YNKpvNn5NSo9jSJVMWu78"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
+          "id": "4AxSQnOMPd42KI149MWsub",
+          "name": "Eddie Zuko",
+          "type": "artist",
+          "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
+          "id": "7MNEVabc4cs19CbzAFZmXz",
+          "name": "Terrace Martin",
+          "type": "artist",
+          "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6L3x3if9RVimruryD9LoFb",
+          "id": "6L3x3if9RVimruryD9LoFb",
+          "name": "King Lil G",
+          "type": "artist",
+          "uri": "spotify:artist:6L3x3if9RVimruryD9LoFb"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 135705,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USLD91729759"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Wvi4z1o4dpuKn7VvTs004"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Wvi4z1o4dpuKn7VvTs004",
+      "id": "6Wvi4z1o4dpuKn7VvTs004",
+      "is_local": false,
+      "name": "Caile Remix (feat. King Lil G & Terrace Martin)",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Wvi4z1o4dpuKn7VvTs004"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -10487,6 +10487,103 @@
       "track_number": 6,
       "type": "track",
       "uri": "spotify:track:3Wk8LYH507gOwd2ebMNjq9"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+            "name": "Santa Fe Klan",
+            "type": "artist",
+            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3IYCbkM8mwDnRjlpA6ltIj"
+        },
+        "href": "https://api.spotify.com/v1/albums/3IYCbkM8mwDnRjlpA6ltIj",
+        "id": "3IYCbkM8mwDnRjlpA6ltIj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27322f66703f91697b075a2a224",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0222f66703f91697b075a2a224",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485122f66703f91697b075a2a224",
+            "width": 64
+          }
+        ],
+        "name": "Socios",
+        "release_date": "2021-08-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3IYCbkM8mwDnRjlpA6ltIj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
+          "type": "artist",
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+          "id": "2hejA1Dkf8v8R0koF44FvW",
+          "name": "Gera MX",
+          "type": "artist",
+          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 243000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QM3DF2123376"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7d8TPVWQLeW5PKrAb76V3N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7d8TPVWQLeW5PKrAb76V3N",
+      "id": "7d8TPVWQLeW5PKrAb76V3N",
+      "is_local": false,
+      "name": "Socios",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7d8TPVWQLeW5PKrAb76V3N"
     },
     {
       "album": {
@@ -10734,103 +10831,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1OUNvwxWLqZmScD3G2gP1G"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-            },
-            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-            "name": "Santa Fe Klan",
-            "type": "artist",
-            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-            },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
-            "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3IYCbkM8mwDnRjlpA6ltIj"
-        },
-        "href": "https://api.spotify.com/v1/albums/3IYCbkM8mwDnRjlpA6ltIj",
-        "id": "3IYCbkM8mwDnRjlpA6ltIj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27322f66703f91697b075a2a224",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0222f66703f91697b075a2a224",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485122f66703f91697b075a2a224",
-            "width": 64
-          }
-        ],
-        "name": "Socios",
-        "release_date": "2021-08-19",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3IYCbkM8mwDnRjlpA6ltIj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
-          "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-          "id": "2hejA1Dkf8v8R0koF44FvW",
-          "name": "Gera MX",
-          "type": "artist",
-          "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 243000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM3DF2123376"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7d8TPVWQLeW5PKrAb76V3N"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7d8TPVWQLeW5PKrAb76V3N",
-      "id": "7d8TPVWQLeW5PKrAb76V3N",
-      "is_local": false,
-      "name": "Socios",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:7d8TPVWQLeW5PKrAb76V3N"
     },
     {
       "album": {
