@@ -11201,123 +11201,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-            },
-            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-            "id": "66RfYVdftqnuHRicyClgL0",
-            "name": "Dharius",
-            "type": "artist",
-            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-            },
-            "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-            "id": "1QhaqxeqF9sipS2gwbEKpu",
-            "name": "C-Kan",
-            "type": "artist",
-            "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
-            "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
-            "name": "Tiro Loko",
-            "type": "artist",
-            "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3ehwVm0oj35FUQuB9oEASO"
-        },
-        "href": "https://api.spotify.com/v1/albums/3ehwVm0oj35FUQuB9oEASO",
-        "id": "3ehwVm0oj35FUQuB9oEASO",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e86aee37a39c646f04ba9d99",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e86aee37a39c646f04ba9d99",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e86aee37a39c646f04ba9d99",
-            "width": 64
-          }
-        ],
-        "name": "El Pasado Est\u00e1 Olvidado",
-        "release_date": "2020-11-25",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3ehwVm0oj35FUQuB9oEASO"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-          },
-          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-          "id": "66RfYVdftqnuHRicyClgL0",
-          "name": "Dharius",
-          "type": "artist",
-          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-          },
-          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-          "id": "1QhaqxeqF9sipS2gwbEKpu",
-          "name": "C-Kan",
-          "type": "artist",
-          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
-          "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
-          "name": "Tiro Loko",
-          "type": "artist",
-          "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 237029,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QMFME2047261"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3RfIrOvpmccRC4Z98DlLJm"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3RfIrOvpmccRC4Z98DlLJm",
-      "id": "3RfIrOvpmccRC4Z98DlLJm",
-      "is_local": false,
-      "name": "El Pasado Est\u00e1 Olvidado",
-      "popularity": 1,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3RfIrOvpmccRC4Z98DlLJm"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -11562,6 +11445,123 @@
       "track_number": 14,
       "type": "track",
       "uri": "spotify:track:3DGMsCvYl6tcvTg1BJ5JAQ"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+            },
+            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+            "id": "66RfYVdftqnuHRicyClgL0",
+            "name": "Dharius",
+            "type": "artist",
+            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+            "id": "1QhaqxeqF9sipS2gwbEKpu",
+            "name": "C-Kan",
+            "type": "artist",
+            "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
+            "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
+            "name": "Tiro Loko",
+            "type": "artist",
+            "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3ehwVm0oj35FUQuB9oEASO"
+        },
+        "href": "https://api.spotify.com/v1/albums/3ehwVm0oj35FUQuB9oEASO",
+        "id": "3ehwVm0oj35FUQuB9oEASO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e86aee37a39c646f04ba9d99",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e86aee37a39c646f04ba9d99",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e86aee37a39c646f04ba9d99",
+            "width": 64
+          }
+        ],
+        "name": "El Pasado Est\u00e1 Olvidado",
+        "release_date": "2020-11-25",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3ehwVm0oj35FUQuB9oEASO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          },
+          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+          "id": "66RfYVdftqnuHRicyClgL0",
+          "name": "Dharius",
+          "type": "artist",
+          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+          "id": "1QhaqxeqF9sipS2gwbEKpu",
+          "name": "C-Kan",
+          "type": "artist",
+          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
+          "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
+          "name": "Tiro Loko",
+          "type": "artist",
+          "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 237029,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMFME2047261"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RfIrOvpmccRC4Z98DlLJm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3RfIrOvpmccRC4Z98DlLJm",
+      "id": "3RfIrOvpmccRC4Z98DlLJm",
+      "is_local": false,
+      "name": "El Pasado Est\u00e1 Olvidado",
+      "popularity": 1,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3RfIrOvpmccRC4Z98DlLJm"
     },
     {
       "album": {
