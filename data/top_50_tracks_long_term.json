@@ -7059,6 +7059,243 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+            },
+            "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+            "id": "231yQfVjg9sGhTNsaym9ck",
+            "name": "C\u00f3digo KM",
+            "type": "artist",
+            "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4XssST6ZjeUKutADRKOQHX"
+        },
+        "href": "https://api.spotify.com/v1/albums/4XssST6ZjeUKutADRKOQHX",
+        "id": "4XssST6ZjeUKutADRKOQHX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+            "width": 64
+          }
+        ],
+        "name": "El Fin Del Mundo",
+        "release_date": "2020-12-18",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4XssST6ZjeUKutADRKOQHX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+          },
+          "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+          "id": "231yQfVjg9sGhTNsaym9ck",
+          "name": "C\u00f3digo KM",
+          "type": "artist",
+          "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 189183,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZES72022920"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itof28qmCDvqiyJSLLlzy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3itof28qmCDvqiyJSLLlzy",
+      "id": "3itof28qmCDvqiyJSLLlzy",
+      "is_local": false,
+      "name": "El diablo anda suelto",
+      "popularity": 6,
+      "preview_url": "https://p.scdn.co/mp3-preview/0a9f587d7fe90694646bc203ad961cd1e165c3f5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3itof28qmCDvqiyJSLLlzy"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
             },
             "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
@@ -7306,13 +7543,23 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
             },
-            "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-            "id": "231yQfVjg9sGhTNsaym9ck",
-            "name": "C\u00f3digo KM",
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
             "type": "artist",
-            "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
+            "id": "7psBfCiJgjoSL9JMbTxqGU",
+            "name": "Kamaro",
+            "type": "artist",
+            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
           }
         ],
         "available_markets": [
@@ -7397,44 +7644,64 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4XssST6ZjeUKutADRKOQHX"
+          "spotify": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
         },
-        "href": "https://api.spotify.com/v1/albums/4XssST6ZjeUKutADRKOQHX",
-        "id": "4XssST6ZjeUKutADRKOQHX",
+        "href": "https://api.spotify.com/v1/albums/4lgrPArcFGHMKgqxmTeSMA",
+        "id": "4lgrPArcFGHMKgqxmTeSMA",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+            "url": "https://i.scdn.co/image/ab67616d0000b27301e2981ec91b99ae33cce9bb",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+            "url": "https://i.scdn.co/image/ab67616d00001e0201e2981ec91b99ae33cce9bb",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+            "url": "https://i.scdn.co/image/ab67616d0000485101e2981ec91b99ae33cce9bb",
             "width": 64
           }
         ],
-        "name": "El Fin Del Mundo",
-        "release_date": "2020-12-18",
+        "name": "M\u00fasica Prohibida",
+        "release_date": "2022-06-24",
         "release_date_precision": "day",
-        "total_tracks": 11,
+        "total_tracks": 15,
         "type": "album",
-        "uri": "spotify:album:4XssST6ZjeUKutADRKOQHX"
+        "uri": "spotify:album:4lgrPArcFGHMKgqxmTeSMA"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
           },
-          "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-          "id": "231yQfVjg9sGhTNsaym9ck",
-          "name": "C\u00f3digo KM",
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
           "type": "artist",
-          "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
+          "id": "7psBfCiJgjoSL9JMbTxqGU",
+          "name": "Kamaro",
+          "type": "artist",
+          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+          "id": "3ScIigEm9KZUrUQtXzBmKJ",
+          "name": "Cozy Cuz",
+          "type": "artist",
+          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
         }
       ],
       "available_markets": [
@@ -7519,23 +7786,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 189183,
+      "duration_ms": 224000,
       "explicit": true,
       "external_ids": {
-        "isrc": "QZES72022920"
+        "isrc": "QM6N22252150"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3itof28qmCDvqiyJSLLlzy"
+        "spotify": "https://open.spotify.com/track/0F474liaweEFCAavvqZHiu"
       },
-      "href": "https://api.spotify.com/v1/tracks/3itof28qmCDvqiyJSLLlzy",
-      "id": "3itof28qmCDvqiyJSLLlzy",
+      "href": "https://api.spotify.com/v1/tracks/0F474liaweEFCAavvqZHiu",
+      "id": "0F474liaweEFCAavvqZHiu",
       "is_local": false,
-      "name": "El diablo anda suelto",
-      "popularity": 6,
-      "preview_url": "https://p.scdn.co/mp3-preview/0a9f587d7fe90694646bc203ad961cd1e165c3f5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
+      "name": "El Amigo",
+      "popularity": 23,
+      "preview_url": "https://p.scdn.co/mp3-preview/aa16901b680b255bd62a5c9705d50676d5fb9a7c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
       "type": "track",
-      "uri": "spotify:track:3itof28qmCDvqiyJSLLlzy"
+      "uri": "spotify:track:0F474liaweEFCAavvqZHiu"
     },
     {
       "album": {
@@ -8247,273 +8514,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7byb5OtBhmTcx4RtwgtDiZ"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-            },
-            "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-            "id": "7psBfCiJgjoSL9JMbTxqGU",
-            "name": "Kamaro",
-            "type": "artist",
-            "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
-        },
-        "href": "https://api.spotify.com/v1/albums/4lgrPArcFGHMKgqxmTeSMA",
-        "id": "4lgrPArcFGHMKgqxmTeSMA",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27301e2981ec91b99ae33cce9bb",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0201e2981ec91b99ae33cce9bb",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485101e2981ec91b99ae33cce9bb",
-            "width": 64
-          }
-        ],
-        "name": "M\u00fasica Prohibida",
-        "release_date": "2022-06-24",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:4lgrPArcFGHMKgqxmTeSMA"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU"
-          },
-          "href": "https://api.spotify.com/v1/artists/7psBfCiJgjoSL9JMbTxqGU",
-          "id": "7psBfCiJgjoSL9JMbTxqGU",
-          "name": "Kamaro",
-          "type": "artist",
-          "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-          "id": "3ScIigEm9KZUrUQtXzBmKJ",
-          "name": "Cozy Cuz",
-          "type": "artist",
-          "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 224000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QM6N22252150"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0F474liaweEFCAavvqZHiu"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0F474liaweEFCAavvqZHiu",
-      "id": "0F474liaweEFCAavvqZHiu",
-      "is_local": false,
-      "name": "El Amigo",
-      "popularity": 23,
-      "preview_url": "https://p.scdn.co/mp3-preview/aa16901b680b255bd62a5c9705d50676d5fb9a7c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:0F474liaweEFCAavvqZHiu"
     },
     {
       "album": {
