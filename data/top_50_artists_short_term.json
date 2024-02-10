@@ -392,6 +392,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
+      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb667e766cf1b336560c88029a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174667e766cf1b336560c88029a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178667e766cf1b336560c88029a",
+          "width": 160
+        }
+      ],
+      "name": "Iluminatik",
+      "popularity": 44,
+      "type": "artist",
+      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
@@ -670,7 +705,7 @@
       "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     }
   ],
-  "total": 19,
+  "total": 20,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
