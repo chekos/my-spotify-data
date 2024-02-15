@@ -1197,6 +1197,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+      },
+      "followers": {
+        "href": null,
+        "total": 18085
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
+      "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1986abfcfe074d2710c9231a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741986abfcfe074d2710c9231a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781986abfcfe074d2710c9231a",
+          "width": 160
+        }
+      ],
+      "name": "Desert Ni\u00f1os",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
       },
       "followers": {
@@ -1347,38 +1382,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
       },
       "followers": {
         "href": null,
-        "total": 18085
+        "total": 83151
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
-      "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1986abfcfe074d2710c9231a",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe4edf42cc3ee7a91ba3670fa",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741986abfcfe074d2710c9231a",
+          "url": "https://i.scdn.co/image/ab67616100005174e4edf42cc3ee7a91ba3670fa",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781986abfcfe074d2710c9231a",
+          "url": "https://i.scdn.co/image/ab6761610000f178e4edf42cc3ee7a91ba3670fa",
           "width": 160
         }
       ],
-      "name": "Desert Ni\u00f1os",
-      "popularity": 35,
+      "name": "Leyruk",
+      "popularity": 32,
       "type": "artist",
-      "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
     {
       "external_urls": {
@@ -1415,6 +1452,75 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
+      },
+      "followers": {
+        "href": null,
+        "total": 6779
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
+      "id": "35BPWrbRCzHa7yWWvCi8BI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6b516fa8109d82b2de7e8414",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746b516fa8109d82b2de7e8414",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786b516fa8109d82b2de7e8414",
+          "width": 160
+        }
+      ],
+      "name": "Ballin",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
+      },
+      "followers": {
+        "href": null,
+        "total": 1595
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
+      "id": "48G4FvpaGSQAb2ZxhUc2Hv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad196d88a7e6a8d1d51568aa",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad196d88a7e6a8d1d51568aa",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad196d88a7e6a8d1d51568aa",
+          "width": 160
+        }
+      ],
+      "name": "Jasmine Alvarado",
+      "popularity": 17,
+      "type": "artist",
+      "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
     },
     {
       "external_urls": {
@@ -1485,6 +1591,44 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+      },
+      "followers": {
+        "href": null,
+        "total": 29987
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap regio",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
+      "id": "1NsRsBdRV7uWMw0SYaHo01",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb206e39172400df73258a7cc7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174206e39172400df73258a7cc7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178206e39172400df73258a7cc7",
+          "width": 160
+        }
+      ],
+      "name": "Phyzh Eye",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
     },
     {
       "external_urls": {
@@ -1591,6 +1735,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+      },
+      "followers": {
+        "href": null,
+        "total": 21985
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
+      "id": "2nJOVl8u7PntefIs1Uwb4z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5553516f0a43ef147328c1bc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745553516f0a43ef147328c1bc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785553516f0a43ef147328c1bc",
+          "width": 160
+        }
+      ],
+      "name": "Don Kalavera",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
@@ -1623,186 +1803,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-      },
-      "followers": {
-        "href": null,
-        "total": 630039
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
-      "id": "645xd9cHiiLqqehoLzLMDR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2903deaa48aea5fea17564ae",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742903deaa48aea5fea17564ae",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782903deaa48aea5fea17564ae",
-          "width": 160
-        }
-      ],
-      "name": "Ad\u00e1n Cruz",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-      },
-      "followers": {
-        "href": null,
-        "total": 1715553
-      },
-      "genres": [
-        "banda",
-        "banda jalisciense",
-        "musica mexicana",
-        "tecnobanda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
-      "id": "7MyUjj79oHy7I8RocrtzZ2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb62f332c0b67e6920eb70c797",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517462f332c0b67e6920eb70c797",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17862f332c0b67e6920eb70c797",
-          "width": 160
-        }
-      ],
-      "name": "Banda Machos",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
-      },
-      "followers": {
-        "href": null,
-        "total": 1243
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/0wkxgIUSVvrpkfE5B3i3eV",
-      "id": "0wkxgIUSVvrpkfE5B3i3eV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb297d8c291429ad94cf9cc656",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174297d8c291429ad94cf9cc656",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178297d8c291429ad94cf9cc656",
-          "width": 160
-        }
-      ],
-      "name": "DRZUPREEME",
-      "popularity": 9,
-      "type": "artist",
-      "uri": "spotify:artist:0wkxgIUSVvrpkfE5B3i3eV"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-      },
-      "followers": {
-        "href": null,
-        "total": 29987
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap regio",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
-      "id": "1NsRsBdRV7uWMw0SYaHo01",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb206e39172400df73258a7cc7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174206e39172400df73258a7cc7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178206e39172400df73258a7cc7",
-          "width": 160
-        }
-      ],
-      "name": "Phyzh Eye",
-      "popularity": 33,
-      "type": "artist",
-      "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
-      },
-      "followers": {
-        "href": null,
-        "total": 10249
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
-      "id": "2uG7vLSehD2quPeYSPkT73",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7330cc45228070b8b736fa84",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747330cc45228070b8b736fa84",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787330cc45228070b8b736fa84",
-          "width": 160
-        }
-      ],
-      "name": "Tabernario",
-      "popularity": 35,
-      "type": "artist",
-      "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
     }
   ],
   "total": 88,
