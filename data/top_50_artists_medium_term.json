@@ -1631,41 +1631,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-      },
-      "followers": {
-        "href": null,
-        "total": 1926675
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
-          "width": 160
-        }
-      ],
-      "name": "Millonario",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
       },
       "followers": {
@@ -1802,6 +1767,44 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+      },
+      "followers": {
+        "href": null,
+        "total": 1715249
+      },
+      "genres": [
+        "banda",
+        "banda jalisciense",
+        "musica mexicana",
+        "tecnobanda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
+      "id": "7MyUjj79oHy7I8RocrtzZ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb62f332c0b67e6920eb70c797",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517462f332c0b67e6920eb70c797",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17862f332c0b67e6920eb70c797",
+          "width": 160
+        }
+      ],
+      "name": "Banda Machos",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
     }
   ],
   "total": 87,
