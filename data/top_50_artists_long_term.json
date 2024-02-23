@@ -1800,10 +1800,10 @@
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     }
   ],
-  "total": 50,
+  "total": 226,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
-  "next": null,
+  "next": "https://api.spotify.com/v1/me/top/artists?offset=50&limit=50&time_range=long_term",
   "previous": null
 }

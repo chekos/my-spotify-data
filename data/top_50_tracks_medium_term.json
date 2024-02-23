@@ -22299,10 +22299,10 @@
       "uri": "spotify:track:6krLcQ7Y1fIxnybD4Ida9B"
     }
   ],
-  "total": 50,
+  "total": 1103,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
-  "next": null,
+  "next": "https://api.spotify.com/v1/me/top/tracks?offset=50&limit=50&time_range=medium_term",
   "previous": null
 }
