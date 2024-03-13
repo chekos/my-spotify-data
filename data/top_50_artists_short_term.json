@@ -109,6 +109,90 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+      },
+      "followers": {
+        "href": null,
+        "total": 2813867
+      },
+      "genres": [
+        "latin afrobeat",
+        "latin alternative",
+        "latin hip hop",
+        "puerto rican rock",
+        "rap conciencia",
+        "reggaeton",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
+      "id": "0yNSzH5nZmHzeE2xn6Xshb",
+      "images": [
+        {
+          "height": 719,
+          "url": "https://i.scdn.co/image/edabfb79fbf3d71ad9d0961a7b199a1470fe5372",
+          "width": 1000
+        },
+        {
+          "height": 460,
+          "url": "https://i.scdn.co/image/a3c9dd492b973e5d5ebfd957b30325972c16d2d4",
+          "width": 640
+        },
+        {
+          "height": 144,
+          "url": "https://i.scdn.co/image/896866e81c4a3d873ce3a28b2396f75212d192a0",
+          "width": 200
+        },
+        {
+          "height": 46,
+          "url": "https://i.scdn.co/image/28b48ccc46a8cb61fbf3e67867fc7794acc6dc85",
+          "width": 64
+        }
+      ],
+      "name": "Calle 13",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+      },
+      "followers": {
+        "href": null,
+        "total": 4599063
+      },
+      "genres": [
+        "colombian pop",
+        "latin pop",
+        "mexican pop",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0UWZUmn7sybxMCqrw9tGa7",
+      "id": "0UWZUmn7sybxMCqrw9tGa7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb330d24db775125dcec2c7b4c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174330d24db775125dcec2c7b4c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178330d24db775125dcec2c7b4c",
+          "width": 160
+        }
+      ],
+      "name": "Juanes",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:0UWZUmn7sybxMCqrw9tGa7"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
       },
       "followers": {
@@ -251,7 +335,7 @@
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     }
   ],
-  "total": 7,
+  "total": 9,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
