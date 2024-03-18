@@ -384,42 +384,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-      },
-      "followers": {
-        "href": null,
-        "total": 354064
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap femenino mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
-      "id": "0SmgVe3giVHaJjGmIz8xA4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742141cce2875b4f9304549e31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782141cce2875b4f9304549e31",
-          "width": 160
-        }
-      ],
-      "name": "Yoss Bones",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
@@ -526,7 +490,7 @@
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     }
   ],
-  "total": 14,
+  "total": 13,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
