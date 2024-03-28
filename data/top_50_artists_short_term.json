@@ -67,7 +67,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -103,9 +103,45 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 12494451
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 91,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
     },
     {
       "external_urls": {
@@ -330,7 +366,7 @@
         }
       ],
       "name": "Jayrick",
-      "popularity": 57,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
@@ -526,7 +562,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
