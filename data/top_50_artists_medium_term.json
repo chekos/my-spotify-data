@@ -254,6 +254,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 16000093
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -322,42 +358,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 16000093
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
     {
       "external_urls": {
@@ -468,41 +468,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 135061
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd88085d3c9f5dc6c7738a841",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d88085d3c9f5dc6c7738a841",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d88085d3c9f5dc6c7738a841",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
       },
       "followers": {
@@ -571,6 +536,41 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 135061
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd88085d3c9f5dc6c7738a841",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d88085d3c9f5dc6c7738a841",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d88085d3c9f5dc6c7738a841",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
     {
       "external_urls": {
