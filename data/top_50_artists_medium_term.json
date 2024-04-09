@@ -2,6 +2,41 @@
   "items": [
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 1914174
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
       },
       "followers": {
@@ -38,41 +73,6 @@
       "popularity": 89,
       "type": "artist",
       "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 1914174
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
     {
       "external_urls": {
@@ -977,42 +977,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-      },
-      "followers": {
-        "href": null,
-        "total": 382136
-      },
-      "genres": [
-        "mexican indie",
-        "nuevo folklore mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-      "id": "51yyeVxyvecgePAWXmeLUE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb38b9199c319f107f045d1d9f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517438b9199c319f107f045d1d9f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17838b9199c319f107f045d1d9f",
-          "width": 160
-        }
-      ],
-      "name": "Daniel, Me Est\u00e1s Matando",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
@@ -1046,6 +1010,42 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+      },
+      "followers": {
+        "href": null,
+        "total": 382136
+      },
+      "genres": [
+        "mexican indie",
+        "nuevo folklore mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
+      "id": "51yyeVxyvecgePAWXmeLUE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb38b9199c319f107f045d1d9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517438b9199c319f107f045d1d9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17838b9199c319f107f045d1d9f",
+          "width": 160
+        }
+      ],
+      "name": "Daniel, Me Est\u00e1s Matando",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
     },
     {
       "external_urls": {
