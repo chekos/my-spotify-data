@@ -1553,6 +1553,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+      },
+      "followers": {
+        "href": null,
+        "total": 2571577
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb82e276ef942dcf3f3766d8d2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517482e276ef942dcf3f3766d8d2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17882e276ef942dcf3f3766d8d2",
+          "width": 160
+        }
+      ],
+      "name": "Dharius",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
       },
       "followers": {
@@ -1763,41 +1798,6 @@
       "popularity": 21,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 149808
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-      "id": "4V2V4PaSblStayYVWTGDbZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb161d62b048799c62061b1e3f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174161d62b048799c62061b1e3f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178161d62b048799c62061b1e3f",
-          "width": 160
-        }
-      ],
-      "name": "Geassassin",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     }
   ],
   "total": 88,
