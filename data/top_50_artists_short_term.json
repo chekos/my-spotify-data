@@ -145,6 +145,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1247034
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -178,76 +213,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1195045
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46fe0ede5d60fbf125cb706f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446fe0ede5d60fbf125cb706f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846fe0ede5d60fbf125cb706f",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 1247034
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
-        }
-      ],
-      "name": "Millonario & W. Corona",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
     {
       "external_urls": {
@@ -287,6 +252,41 @@
       "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1195045
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46fe0ede5d60fbf125cb706f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517446fe0ede5d60fbf125cb706f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17846fe0ede5d60fbf125cb706f",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
   "total": 8,
