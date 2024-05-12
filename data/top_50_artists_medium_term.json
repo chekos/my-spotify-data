@@ -909,6 +909,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+      },
+      "followers": {
+        "href": null,
+        "total": 393211
+      },
+      "genres": [
+        "mexican indie",
+        "nuevo folklore mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
+      "id": "51yyeVxyvecgePAWXmeLUE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb38b9199c319f107f045d1d9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517438b9199c319f107f045d1d9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17838b9199c319f107f045d1d9f",
+          "width": 160
+        }
+      ],
+      "name": "Daniel, Me Est\u00e1s Matando",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -1766,45 +1802,9 @@
       "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7l6cdPhOLYO7lehz5xfzLV"
-      },
-      "followers": {
-        "href": null,
-        "total": 98227
-      },
-      "genres": [
-        "mexican hip hop",
-        "mexican indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7l6cdPhOLYO7lehz5xfzLV",
-      "id": "7l6cdPhOLYO7lehz5xfzLV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4356417afee7bf94203c4332",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744356417afee7bf94203c4332",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784356417afee7bf94203c4332",
-          "width": 160
-        }
-      ],
-      "name": "The Guadaloops",
-      "popularity": 35,
-      "type": "artist",
-      "uri": "spotify:artist:7l6cdPhOLYO7lehz5xfzLV"
     }
   ],
-  "total": 88,
+  "total": 89,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
