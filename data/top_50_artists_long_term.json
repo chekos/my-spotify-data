@@ -1413,6 +1413,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "followers": {
+        "href": null,
+        "total": 28806478
+      },
+      "genres": [
+        "conscious hip hop",
+        "hip hop",
+        "rap",
+        "west coast rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
+          "width": 160
+        }
+      ],
+      "name": "Kendrick Lamar",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
@@ -1484,44 +1522,6 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      "followers": {
-        "href": null,
-        "total": 28806478
-      },
-      "genres": [
-        "conscious hip hop",
-        "hip hop",
-        "rap",
-        "west coast rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
-      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
-          "width": 160
-        }
-      ],
-      "name": "Kendrick Lamar",
-      "popularity": 90,
-      "type": "artist",
-      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
     {
       "external_urls": {
