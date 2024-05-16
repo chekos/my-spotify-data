@@ -145,6 +145,78 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+      },
+      "followers": {
+        "href": null,
+        "total": 10369826
+      },
+      "genres": [
+        "hip hop",
+        "pittsburgh rap",
+        "rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+      "id": "4LLpKhyESsyAXpc4laK94U",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ed3b89aa602145fde71a163a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ed3b89aa602145fde71a163a",
+          "width": 160
+        }
+      ],
+      "name": "Mac Miller",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+      },
+      "followers": {
+        "href": null,
+        "total": 5521
+      },
+      "genres": [
+        "lo-fi latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0sk0gTYhiFal4UfEKbpnGu",
+      "id": "0sk0gTYhiFal4UfEKbpnGu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcf6277169c122c91bac9db7c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174cf6277169c122c91bac9db7c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178cf6277169c122c91bac9db7c",
+          "width": 160
+        }
+      ],
+      "name": "SanelliX",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify:artist:0sk0gTYhiFal4UfEKbpnGu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
@@ -255,6 +327,77 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+      },
+      "followers": {
+        "href": null,
+        "total": 5871
+      },
+      "genres": [
+        "lo-fi latino",
+        "organic house"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5jaiaZFHhEcPR2uAz8yGHP",
+      "id": "5jaiaZFHhEcPR2uAz8yGHP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba01903b48b675ade75d41927",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a01903b48b675ade75d41927",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a01903b48b675ade75d41927",
+          "width": 160
+        }
+      ],
+      "name": "Jiony",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:5jaiaZFHhEcPR2uAz8yGHP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+      },
+      "followers": {
+        "href": null,
+        "total": 3061
+      },
+      "genres": [
+        "lo-fi latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6EE1OjZRlv4jJJ1bUUvp5h",
+      "id": "6EE1OjZRlv4jJJ1bUUvp5h",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba1a2fd257bfe03139359f2e7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a1a2fd257bfe03139359f2e7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a1a2fd257bfe03139359f2e7",
+          "width": 160
+        }
+      ],
+      "name": "Chill&Go",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:6EE1OjZRlv4jJJ1bUUvp5h"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -289,7 +432,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 8,
+  "total": 12,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
