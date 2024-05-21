@@ -22421,17 +22421,27 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "EP",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
             },
-            "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-            "id": "30CTTIqrcr82nS6B40j975",
-            "name": "Robot95",
+            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+            "id": "6tJRAxu0HwB2GI9GueEj4l",
+            "name": "Faruz Feet",
             "type": "artist",
-            "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+            "id": "2Gcx4c9rFAAloAYV2cMGUd",
+            "name": "Proof",
+            "type": "artist",
+            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
           }
         ],
         "available_markets": [
@@ -22622,54 +22632,64 @@
           "XK"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/1lp5sffsnaXjF5W5BxMKrK"
+          "spotify": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
         },
-        "href": "https://api.spotify.com/v1/albums/1lp5sffsnaXjF5W5BxMKrK",
-        "id": "1lp5sffsnaXjF5W5BxMKrK",
+        "href": "https://api.spotify.com/v1/albums/4f0iuEJ66gNenOENDbjva8",
+        "id": "4f0iuEJ66gNenOENDbjva8",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739895c27efb9b4aaf7d592529",
+            "url": "https://i.scdn.co/image/ab67616d0000b273356b1bae0dd78e739cb78610",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029895c27efb9b4aaf7d592529",
+            "url": "https://i.scdn.co/image/ab67616d00001e02356b1bae0dd78e739cb78610",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519895c27efb9b4aaf7d592529",
+            "url": "https://i.scdn.co/image/ab67616d00004851356b1bae0dd78e739cb78610",
             "width": 64
           }
         ],
-        "name": "Too Much Flow",
-        "release_date": "2021-08-27",
+        "name": "Faruz Vs. Proof",
+        "release_date": "2020-01-17",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 4,
         "type": "album",
-        "uri": "spotify:album:1lp5sffsnaXjF5W5BxMKrK"
+        "uri": "spotify:album:4f0iuEJ66gNenOENDbjva8"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+            "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
           },
-          "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-          "id": "30CTTIqrcr82nS6B40j975",
-          "name": "Robot95",
+          "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+          "id": "6tJRAxu0HwB2GI9GueEj4l",
+          "name": "Faruz Feet",
           "type": "artist",
-          "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+          "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+            "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
           },
-          "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-          "id": "6viZnVSHavFUcW0blu6Mvw",
-          "name": "Simpson Ahuevo",
+          "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+          "id": "2Gcx4c9rFAAloAYV2cMGUd",
+          "name": "Proof",
           "type": "artist",
-          "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+          "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04cas0EFOUlG1f5exg4s1Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/04cas0EFOUlG1f5exg4s1Z",
+          "id": "04cas0EFOUlG1f5exg4s1Z",
+          "name": "Dee Jay Masae",
+          "type": "artist",
+          "uri": "spotify:artist:04cas0EFOUlG1f5exg4s1Z"
         }
       ],
       "available_markets": [
@@ -22860,26 +22880,26 @@
         "XK"
       ],
       "disc_number": 1,
-      "duration_ms": 214094,
+      "duration_ms": 178095,
       "explicit": true,
       "external_ids": {
-        "isrc": "FRX452114210"
+        "isrc": "QZHZ51970927"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c"
+        "spotify": "https://open.spotify.com/track/3nWqckFirZhRZvC29RlpVg"
       },
-      "href": "https://api.spotify.com/v1/tracks/2ZBlDOQlq043eg34LwW54c",
-      "id": "2ZBlDOQlq043eg34LwW54c",
+      "href": "https://api.spotify.com/v1/tracks/3nWqckFirZhRZvC29RlpVg",
+      "id": "3nWqckFirZhRZvC29RlpVg",
       "is_local": false,
-      "name": "Too Much Flow",
-      "popularity": 45,
-      "preview_url": "https://p.scdn.co/mp3-preview/0ad207bf2897e9d1ad2f7e47058a3becd8f0fa79?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Ese de Lentes",
+      "popularity": 42,
+      "preview_url": "https://p.scdn.co/mp3-preview/254a73aa71af0c32fe85ab9696a20fb229187dfd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:2ZBlDOQlq043eg34LwW54c"
+      "uri": "spotify:track:3nWqckFirZhRZvC29RlpVg"
     }
   ],
-  "total": 147,
+  "total": 146,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=short_term",
