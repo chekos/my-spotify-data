@@ -1198,6 +1198,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+      },
+      "followers": {
+        "href": null,
+        "total": 396256
+      },
+      "genres": [
+        "mexican indie",
+        "nuevo folklore mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
+      "id": "51yyeVxyvecgePAWXmeLUE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb38b9199c319f107f045d1d9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517438b9199c319f107f045d1d9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17838b9199c319f107f045d1d9f",
+          "width": 160
+        }
+      ],
+      "name": "Daniel, Me Est\u00e1s Matando",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
       },
       "followers": {
@@ -1779,41 +1815,6 @@
       "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 1259290
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
-        }
-      ],
-      "name": "Millonario & W. Corona",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
   "total": 108,
