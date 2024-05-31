@@ -325,6 +325,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+      },
+      "followers": {
+        "href": null,
+        "total": 16208215
+      },
+      "genres": [
+        "corrido",
+        "corridos tumbados",
+        "musica mexicana",
+        "sad sierreno",
+        "sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+      "id": "7Gi6gjaWy3DxyilpF1a8Is",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17850998d90507d8c1603b2530b",
+          "width": 160
+        }
+      ],
+      "name": "Junior H",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
       },
       "followers": {
@@ -574,7 +613,7 @@
       "uri": "spotify:artist:6XToOxid134FKnslBTQZW1"
     }
   ],
-  "total": 16,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
