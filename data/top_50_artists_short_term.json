@@ -110,6 +110,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 16264297
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
       },
       "followers": {
@@ -503,7 +539,7 @@
       "uri": "spotify:artist:6XToOxid134FKnslBTQZW1"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
