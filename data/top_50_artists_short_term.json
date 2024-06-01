@@ -364,6 +364,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 35839
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf0ce3fa45277d67ef3c24798",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f0ce3fa45277d67ef3c24798",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f0ce3fa45277d67ef3c24798",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
       },
       "followers": {
@@ -396,6 +432,41 @@
       "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:6EE1OjZRlv4jJJ1bUUvp5h"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 27025
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe46ccd4e7e53c5d8bab7562e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e46ccd4e7e53c5d8bab7562e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e46ccd4e7e53c5d8bab7562e",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
     {
       "external_urls": {
@@ -613,7 +684,7 @@
       "uri": "spotify:artist:6XToOxid134FKnslBTQZW1"
     }
   ],
-  "total": 17,
+  "total": 19,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
