@@ -182,6 +182,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+      },
+      "followers": {
+        "href": null,
+        "total": 16298163
+      },
+      "genres": [
+        "corrido",
+        "corridos tumbados",
+        "musica mexicana",
+        "sad sierreno",
+        "sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+      "id": "7Gi6gjaWy3DxyilpF1a8Is",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17850998d90507d8c1603b2530b",
+          "width": 160
+        }
+      ],
+      "name": "Junior H",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
       },
       "followers": {
@@ -325,45 +364,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-      },
-      "followers": {
-        "href": null,
-        "total": 16298163
-      },
-      "genres": [
-        "corrido",
-        "corridos tumbados",
-        "musica mexicana",
-        "sad sierreno",
-        "sierreno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
-      "id": "7Gi6gjaWy3DxyilpF1a8Is",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17850998d90507d8c1603b2530b",
-          "width": 160
-        }
-      ],
-      "name": "Junior H",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -400,41 +400,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 1483086
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
@@ -467,6 +432,41 @@
       "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 1483086
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
     {
       "external_urls": {
