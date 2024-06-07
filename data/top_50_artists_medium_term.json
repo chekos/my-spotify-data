@@ -1658,43 +1658,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-      },
-      "followers": {
-        "href": null,
-        "total": 82889
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-      "id": "4H3ePoFDdsl36QwB96jZzg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb58d8945e3be2c310751ad544",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517458d8945e3be2c310751ad544",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17858d8945e3be2c310751ad544",
-          "width": 160
-        }
-      ],
-      "name": "Leyruk",
-      "popularity": 30,
-      "type": "artist",
-      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
       },
       "followers": {
@@ -1801,9 +1764,44 @@
       "popularity": 4,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+      },
+      "followers": {
+        "href": null,
+        "total": 134241
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
+      "id": "2tU377oBzcCBbRNeVve8FC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf6cfe7b559386b032f005e77",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f6cfe7b559386b032f005e77",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f6cfe7b559386b032f005e77",
+          "width": 160
+        }
+      ],
+      "name": "Go Golden Junk",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
     }
   ],
-  "total": 95,
+  "total": 93,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
