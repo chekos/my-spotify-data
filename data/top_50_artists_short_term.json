@@ -361,44 +361,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      "followers": {
-        "href": null,
-        "total": 29733236
-      },
-      "genres": [
-        "conscious hip hop",
-        "hip hop",
-        "rap",
-        "west coast rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
-      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
-          "width": 160
-        }
-      ],
-      "name": "Kendrick Lamar",
-      "popularity": 92,
-      "type": "artist",
-      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -788,7 +750,7 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 22,
+  "total": 21,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
