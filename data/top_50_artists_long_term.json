@@ -1487,45 +1487,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-      },
-      "followers": {
-        "href": null,
-        "total": 381315
-      },
-      "genres": [
-        "boom bap espanol",
-        "pop venezolano",
-        "rap conciencia",
-        "trap venezolano",
-        "venezuelan hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0qHbO3z6lgLE6ZYCkQBo1K",
-      "id": "0qHbO3z6lgLE6ZYCkQBo1K",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb215daecbd046b67d16c9663a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174215daecbd046b67d16c9663a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178215daecbd046b67d16c9663a",
-          "width": 160
-        }
-      ],
-      "name": "Lil Supa",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
       },
       "followers": {
@@ -1814,9 +1775,44 @@
       "popularity": 6,
       "type": "artist",
       "uri": "spotify:artist:0wkxgIUSVvrpkfE5B3i3eV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+      },
+      "followers": {
+        "href": null,
+        "total": 2123564
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
+      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
+          "width": 160
+        }
+      ],
+      "name": "Millonario",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
     }
   ],
-  "total": 110,
+  "total": 109,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
