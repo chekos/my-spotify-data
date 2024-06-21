@@ -1159,6 +1159,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+      },
+      "followers": {
+        "href": null,
+        "total": 218089
+      },
+      "genres": [
+        "bases de freestyle",
+        "mexican hip hop",
+        "peruvian hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+      "id": "4r1ZDYKzPt3iIjuq8LbT6X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb69fbe2431a74cae414fd052c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517469fbe2431a74cae414fd052c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17869fbe2431a74cae414fd052c",
+          "width": 160
+        }
+      ],
+      "name": "Aczino",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -1764,41 +1801,6 @@
       "popularity": 7,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-      },
-      "followers": {
-        "href": null,
-        "total": 134648
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2tU377oBzcCBbRNeVve8FC",
-      "id": "2tU377oBzcCBbRNeVve8FC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf6cfe7b559386b032f005e77",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f6cfe7b559386b032f005e77",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f6cfe7b559386b032f005e77",
-          "width": 160
-        }
-      ],
-      "name": "Go Golden Junk",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:2tU377oBzcCBbRNeVve8FC"
     }
   ],
   "total": 92,
