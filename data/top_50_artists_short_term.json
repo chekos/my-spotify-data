@@ -505,44 +505,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-      },
-      "followers": {
-        "href": null,
-        "total": 5546369
-      },
-      "genres": [
-        "corrido",
-        "corridos tumbados",
-        "sad sierreno",
-        "sierreno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0XeEobZplHxzM9QzFQWLiR",
-      "id": "0XeEobZplHxzM9QzFQWLiR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb114fc6846b9f0e0746baa6a7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174114fc6846b9f0e0746baa6a7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178114fc6846b9f0e0746baa6a7",
-          "width": 160
-        }
-      ],
-      "name": "Eslabon Armado",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
       },
       "followers": {
@@ -650,7 +612,7 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 18,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
