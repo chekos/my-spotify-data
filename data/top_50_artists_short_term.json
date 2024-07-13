@@ -37,42 +37,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 14891592
-      },
-      "genres": [
-        "corridos tumbados",
-        "sad sierreno"
-      ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc08ef51312b27a1237bec73f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c08ef51312b27a1237bec73f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c08ef51312b27a1237bec73f",
-          "width": 160
-        }
-      ],
-      "name": "Peso Pluma",
-      "popularity": 91,
-      "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -106,6 +70,42 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 14891592
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc08ef51312b27a1237bec73f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c08ef51312b27a1237bec73f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c08ef51312b27a1237bec73f",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 91,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
     },
     {
       "external_urls": {
@@ -433,6 +433,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 9216801
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -470,7 +505,7 @@
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     }
   ],
-  "total": 13,
+  "total": 14,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
