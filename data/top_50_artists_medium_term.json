@@ -254,42 +254,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 1681928
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
@@ -358,6 +322,42 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1681928
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
     {
       "external_urls": {
@@ -1811,7 +1811,7 @@
       "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
     }
   ],
-  "total": 82,
+  "total": 81,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
