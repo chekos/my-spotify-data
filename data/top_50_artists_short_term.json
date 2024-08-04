@@ -73,6 +73,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+      },
+      "followers": {
+        "href": null,
+        "total": 6032808
+      },
+      "genres": [
+        "latin alternative",
+        "latin rock",
+        "mexican rock",
+        "morelos indie",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
+      "id": "6IdtcAwaNVAggwd6sCKgTI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742a7f6c818d24ac776151aefc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782a7f6c818d24ac776151aefc",
+          "width": 160
+        }
+      ],
+      "name": "Zo\u00e9",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
@@ -286,45 +325,6 @@
       "popularity": 91,
       "type": "artist",
       "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-      },
-      "followers": {
-        "href": null,
-        "total": 6032808
-      },
-      "genres": [
-        "latin alternative",
-        "latin rock",
-        "mexican rock",
-        "morelos indie",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
-      "id": "6IdtcAwaNVAggwd6sCKgTI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742a7f6c818d24ac776151aefc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782a7f6c818d24ac776151aefc",
-          "width": 160
-        }
-      ],
-      "name": "Zo\u00e9",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
     },
     {
       "external_urls": {
