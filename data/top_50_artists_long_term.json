@@ -211,7 +211,7 @@
         }
       ],
       "name": "Cartel De Santa",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
@@ -319,7 +319,7 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
@@ -608,7 +608,7 @@
         }
       ],
       "name": "Banda Machos",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
     },
@@ -949,6 +949,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+      },
+      "followers": {
+        "href": null,
+        "total": 6036470
+      },
+      "genres": [
+        "latin alternative",
+        "latin rock",
+        "mexican rock",
+        "morelos indie",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
+      "id": "6IdtcAwaNVAggwd6sCKgTI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742a7f6c818d24ac776151aefc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782a7f6c818d24ac776151aefc",
+          "width": 160
+        }
+      ],
+      "name": "Zo\u00e9",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -1230,7 +1269,7 @@
         }
       ],
       "name": "Robot95",
-      "popularity": 59,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
@@ -1388,45 +1427,6 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-      },
-      "followers": {
-        "href": null,
-        "total": 6036470
-      },
-      "genres": [
-        "latin alternative",
-        "latin rock",
-        "mexican rock",
-        "morelos indie",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
-      "id": "6IdtcAwaNVAggwd6sCKgTI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742a7f6c818d24ac776151aefc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782a7f6c818d24ac776151aefc",
-          "width": 160
-        }
-      ],
-      "name": "Zo\u00e9",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
     },
     {
       "external_urls": {
@@ -1780,7 +1780,7 @@
         }
       ],
       "name": "Eslabon Armado",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
     },
@@ -1821,7 +1821,7 @@
       "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
     }
   ],
-  "total": 105,
+  "total": 106,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
