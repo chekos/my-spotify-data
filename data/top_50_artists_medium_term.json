@@ -1360,44 +1360,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-      },
-      "followers": {
-        "href": null,
-        "total": 1801644
-      },
-      "genres": [
-        "banda",
-        "banda jalisciense",
-        "musica mexicana",
-        "tecnobanda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
-      "id": "7MyUjj79oHy7I8RocrtzZ2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb62f332c0b67e6920eb70c797",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517462f332c0b67e6920eb70c797",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17862f332c0b67e6920eb70c797",
-          "width": 160
-        }
-      ],
-      "name": "Banda Machos",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
@@ -1431,39 +1393,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
-      },
-      "followers": {
-        "href": null,
-        "total": 1694
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/0wkxgIUSVvrpkfE5B3i3eV",
-      "id": "0wkxgIUSVvrpkfE5B3i3eV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb297d8c291429ad94cf9cc656",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174297d8c291429ad94cf9cc656",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178297d8c291429ad94cf9cc656",
-          "width": 160
-        }
-      ],
-      "name": "DRZUPREEME",
-      "popularity": 7,
-      "type": "artist",
-      "uri": "spotify:artist:0wkxgIUSVvrpkfE5B3i3eV"
     },
     {
       "external_urls": {
@@ -1832,9 +1761,80 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
+      },
+      "followers": {
+        "href": null,
+        "total": 7200
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
+      "id": "35BPWrbRCzHa7yWWvCi8BI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6b516fa8109d82b2de7e8414",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746b516fa8109d82b2de7e8414",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786b516fa8109d82b2de7e8414",
+          "width": 160
+        }
+      ],
+      "name": "Ballin",
+      "popularity": 25,
+      "type": "artist",
+      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC"
+      },
+      "followers": {
+        "href": null,
+        "total": 5159
+      },
+      "genres": [
+        "san diego rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0zM7iL4aQ9IlzciOyD4oHC",
+      "id": "0zM7iL4aQ9IlzciOyD4oHC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb91f262a6ede8fe851cfa984d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517491f262a6ede8fe851cfa984d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17891f262a6ede8fe851cfa984d",
+          "width": 160
+        }
+      ],
+      "name": "Rossi Rock",
+      "popularity": 23,
+      "type": "artist",
+      "uri": "spotify:artist:0zM7iL4aQ9IlzciOyD4oHC"
     }
   ],
-  "total": 77,
+  "total": 75,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
