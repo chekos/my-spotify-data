@@ -904,6 +904,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+      },
+      "followers": {
+        "href": null,
+        "total": 82960
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb58d8945e3be2c310751ad544",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517458d8945e3be2c310751ad544",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17858d8945e3be2c310751ad544",
+          "width": 160
+        }
+      ],
+      "name": "Leyruk",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -1797,44 +1834,9 @@
       "popularity": 25,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC"
-      },
-      "followers": {
-        "href": null,
-        "total": 5159
-      },
-      "genres": [
-        "san diego rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0zM7iL4aQ9IlzciOyD4oHC",
-      "id": "0zM7iL4aQ9IlzciOyD4oHC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb91f262a6ede8fe851cfa984d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517491f262a6ede8fe851cfa984d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17891f262a6ede8fe851cfa984d",
-          "width": 160
-        }
-      ],
-      "name": "Rossi Rock",
-      "popularity": 23,
-      "type": "artist",
-      "uri": "spotify:artist:0zM7iL4aQ9IlzciOyD4oHC"
     }
   ],
-  "total": 75,
+  "total": 76,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
