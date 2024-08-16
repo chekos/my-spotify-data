@@ -188,41 +188,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-      },
-      "followers": {
-        "href": null,
-        "total": 146114
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
-          "width": 160
-        }
-      ],
-      "name": "West Gold",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
@@ -485,45 +450,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-      },
-      "followers": {
-        "href": null,
-        "total": 16018027
-      },
-      "genres": [
-        "argentine hip hop",
-        "pop venezolano",
-        "trap argentino",
-        "trap latino",
-        "urbano latino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-      "id": "716NhGYqD1jl2wI1Qkgq36",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb14add0d3419426b84158b913",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517414add0d3419426b84158b913",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17814add0d3419426b84158b913",
-          "width": 160
-        }
-      ],
-      "name": "Bizarrap",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
@@ -594,6 +520,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "followers": {
+        "href": null,
+        "total": 16018027
+      },
+      "genres": [
+        "argentine hip hop",
+        "pop venezolano",
+        "trap argentino",
+        "trap latino",
+        "urbano latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id": "716NhGYqD1jl2wI1Qkgq36",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb14add0d3419426b84158b913",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517414add0d3419426b84158b913",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17814add0d3419426b84158b913",
+          "width": 160
+        }
+      ],
+      "name": "Bizarrap",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
       },
       "followers": {
@@ -632,7 +597,7 @@
       "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
     }
   ],
-  "total": 17,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
