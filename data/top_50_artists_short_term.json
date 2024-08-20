@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1234929
+        "total": 1234974
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6092787
+        "total": 6096908
       },
       "genres": [
         "latin alternative",
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 82943
+        "total": 82941
       },
       "genres": [
         "mexican hip hop",
@@ -117,7 +117,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29691
+        "total": 29693
       },
       "genres": [
         "mexican hip hop"
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 219264
+        "total": 219280
       },
       "genres": [
         "bases de freestyle",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3841737
+        "total": 3843785
       },
       "genres": [
         "latin alternative",
@@ -229,7 +229,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1665892
+        "total": 1666233
       },
       "genres": [
         "latin alternative",
@@ -268,7 +268,7 @@
       },
       "followers": {
         "href": null,
-        "total": 84465913
+        "total": 84507883
       },
       "genres": [
         "reggaeton",
@@ -305,7 +305,7 @@
       },
       "followers": {
         "href": null,
-        "total": 15327800
+        "total": 15357269
       },
       "genres": [
         "corridos tumbados",
@@ -341,7 +341,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2414208
+        "total": 2419964
       },
       "genres": [
         "mexican hip hop"
@@ -376,7 +376,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7659816
+        "total": 7671918
       },
       "genres": [
         "r&b en espanol",
@@ -415,7 +415,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16097243
+        "total": 16115337
       },
       "genres": [
         "argentine hip hop",
@@ -454,7 +454,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2450376
+        "total": 2451323
       },
       "genres": [
         "cantautora mexicana",
@@ -493,7 +493,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5046962
+        "total": 5053076
       },
       "genres": [
         "mexican hip hop",
@@ -525,11 +525,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+      },
+      "followers": {
+        "href": null,
+        "total": 1004559
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+      "id": "3L7OHIT4kfdcDSnnGM0TKN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5f048975db07fb05bc456a5f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745f048975db07fb05bc456a5f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785f048975db07fb05bc456a5f",
+          "width": 160
+        }
+      ],
+      "name": "El Pinche Mara",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
       },
       "followers": {
         "href": null,
-        "total": 18061146
+        "total": 18089424
       },
       "genres": [
         "corrido",
@@ -563,7 +599,7 @@
       "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
     }
   ],
-  "total": 15,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
