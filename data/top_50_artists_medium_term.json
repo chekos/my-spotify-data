@@ -1540,6 +1540,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+      },
+      "followers": {
+        "href": null,
+        "total": 122108
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
+      "id": "5MRMYpdAWZawm3ivBeWvdK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe3540b62a3effd93100beb8b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e3540b62a3effd93100beb8b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e3540b62a3effd93100beb8b",
+          "width": 160
+        }
+      ],
+      "name": "Teeam Revolver",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
       },
       "followers": {
@@ -1762,41 +1797,6 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-      },
-      "followers": {
-        "href": null,
-        "total": 122108
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
-      "id": "5MRMYpdAWZawm3ivBeWvdK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe3540b62a3effd93100beb8b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e3540b62a3effd93100beb8b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e3540b62a3effd93100beb8b",
-          "width": 160
-        }
-      ],
-      "name": "Teeam Revolver",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
     },
     {
       "external_urls": {
