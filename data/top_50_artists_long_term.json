@@ -253,41 +253,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-      },
-      "followers": {
-        "href": null,
-        "total": 29779
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-      "id": "0U8dIwzBn17JkhYxmznp6T",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8c25e129f2b95bbe991917fc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748c25e129f2b95bbe991917fc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788c25e129f2b95bbe991917fc",
-          "width": 160
-        }
-      ],
-      "name": "Jayrick",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
@@ -321,6 +286,41 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 29779
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8c25e129f2b95bbe991917fc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748c25e129f2b95bbe991917fc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788c25e129f2b95bbe991917fc",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
     {
       "external_urls": {
@@ -881,7 +881,8 @@
         "total": 37395
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
       "id": "31opIYTivWACiXXzX2khlj",
