@@ -225,6 +225,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 3095851
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap conciencia",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
       },
       "followers": {
@@ -706,7 +744,7 @@
       "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     }
   ],
-  "total": 19,
+  "total": 20,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
