@@ -1347,41 +1347,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
-      },
-      "followers": {
-        "href": null,
-        "total": 290910
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
-      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb667e766cf1b336560c88029a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174667e766cf1b336560c88029a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178667e766cf1b336560c88029a",
-          "width": 160
-        }
-      ],
-      "name": "Iluminatik",
-      "popularity": 44,
-      "type": "artist",
-      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
       },
       "followers": {
@@ -1842,9 +1807,47 @@
       "popularity": 34,
       "type": "artist",
       "uri": "spotify:artist:6EE1OjZRlv4jJJ1bUUvp5h"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+      },
+      "followers": {
+        "href": null,
+        "total": 4840355
+      },
+      "genres": [
+        "colombian pop",
+        "latin pop",
+        "mexican pop",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0UWZUmn7sybxMCqrw9tGa7",
+      "id": "0UWZUmn7sybxMCqrw9tGa7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb330d24db775125dcec2c7b4c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174330d24db775125dcec2c7b4c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178330d24db775125dcec2c7b4c",
+          "width": 160
+        }
+      ],
+      "name": "Juanes",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:0UWZUmn7sybxMCqrw9tGa7"
     }
   ],
-  "total": 64,
+  "total": 63,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
