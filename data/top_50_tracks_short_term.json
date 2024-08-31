@@ -1151,83 +1151,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 222026,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746413"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3IqWGEBsFBBm7GunXG4CVd"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3IqWGEBsFBBm7GunXG4CVd",
-      "id": "3IqWGEBsFBBm7GunXG4CVd",
-      "is_local": false,
-      "name": "A Ver Si No",
-      "popularity": 29,
-      "preview_url": "https://p.scdn.co/mp3-preview/4b820b8bb1b0887610c5b980baf176674388ad38?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 11,
-      "type": "track",
-      "uri": "spotify:track:3IqWGEBsFBBm7GunXG4CVd"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
             },
             "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
@@ -4005,6 +3928,83 @@
           "name": "Remik Gonzalez",
           "type": "artist",
           "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 222026,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDY41746413"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3IqWGEBsFBBm7GunXG4CVd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3IqWGEBsFBBm7GunXG4CVd",
+      "id": "3IqWGEBsFBBm7GunXG4CVd",
+      "is_local": false,
+      "name": "A Ver Si No",
+      "popularity": 29,
+      "preview_url": "https://p.scdn.co/mp3-preview/4b820b8bb1b0887610c5b980baf176674388ad38?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3IqWGEBsFBBm7GunXG4CVd"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+        "id": "5PZxScqkkCa4bjdZcq9fuh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
+            "width": 64
+          }
+        ],
+        "name": "High Con Class XIII",
+        "release_date": "2017-05-17",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
         },
         {
           "external_urls": {
@@ -5051,93 +5051,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:729kMWkfzHPcum2dMczWoa"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
-          "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 72000,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746414"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0D14SMOmYkLqTKI9UbVn61"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0D14SMOmYkLqTKI9UbVn61",
-      "id": "0D14SMOmYkLqTKI9UbVn61",
-      "is_local": false,
-      "name": "Hasta Parece Mentira",
-      "popularity": 18,
-      "preview_url": null,
-      "track_number": 12,
-      "type": "track",
-      "uri": "spotify:track:0D14SMOmYkLqTKI9UbVn61"
     },
     {
       "album": {
@@ -14416,6 +14329,525 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+            "id": "6DjBv6gyR1HLsvwGUOD5V9",
+            "name": "TREN LOKOTE",
+            "type": "artist",
+            "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+            "id": "1QhaqxeqF9sipS2gwbEKpu",
+            "name": "C-Kan",
+            "type": "artist",
+            "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+            },
+            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+            "id": "66RfYVdftqnuHRicyClgL0",
+            "name": "Dharius",
+            "type": "artist",
+            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy"
+        },
+        "href": "https://api.spotify.com/v1/albums/6dcUWslTmKR3ymSgSQ1nzy",
+        "id": "6dcUWslTmKR3ymSgSQ1nzy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a6895906ec69fa0d7a78f0c7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a6895906ec69fa0d7a78f0c7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a6895906ec69fa0d7a78f0c7",
+            "width": 64
+          }
+        ],
+        "name": "Liga Malandra 3",
+        "release_date": "2023-11-03",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6dcUWslTmKR3ymSgSQ1nzy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+          "id": "6DjBv6gyR1HLsvwGUOD5V9",
+          "name": "TREN LOKOTE",
+          "type": "artist",
+          "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+          "id": "1QhaqxeqF9sipS2gwbEKpu",
+          "name": "C-Kan",
+          "type": "artist",
+          "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          },
+          "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+          "id": "66RfYVdftqnuHRicyClgL0",
+          "name": "Dharius",
+          "type": "artist",
+          "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
+          "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
+          "name": "Tiro Loko",
+          "type": "artist",
+          "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w1wJcGdJQ4Lw08oKBnDsw",
+          "id": "2w1wJcGdJQ4Lw08oKBnDsw",
+          "name": "El Jincho",
+          "type": "artist",
+          "uri": "spotify:artist:2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CtBJEWIKkU8CzxJCBLmSi",
+          "id": "0CtBJEWIKkU8CzxJCBLmSi",
+          "name": "Sinful El Pecador",
+          "type": "artist",
+          "uri": "spotify:artist:0CtBJEWIKkU8CzxJCBLmSi"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "disc_number": 1,
+      "duration_ms": 371162,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "UKU932300349"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fAGdSZyZO3uKF0wdVOuVd",
+      "id": "6fAGdSZyZO3uKF0wdVOuVd",
+      "is_local": false,
+      "name": "Liga Malandra 3",
+      "popularity": 55,
+      "preview_url": "https://p.scdn.co/mp3-preview/6b90f2c231e1dc72021d86c0391abca0809080ac?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -18535,7 +18967,7 @@
       "uri": "spotify:track:2P0NKGe5bO586sLXPP8ol1"
     }
   ],
-  "total": 220,
+  "total": 237,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=short_term",
