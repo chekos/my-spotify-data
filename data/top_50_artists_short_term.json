@@ -66,44 +66,9 @@
         }
       ],
       "name": "Jayrick",
-      "popularity": 57,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0XVOL55Wa1lbWs1tAsv5nf"
-      },
-      "followers": {
-        "href": null,
-        "total": 98519
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0XVOL55Wa1lbWs1tAsv5nf",
-      "id": "0XVOL55Wa1lbWs1tAsv5nf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb497d8eb09e5bb9004404386e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174497d8eb09e5bb9004404386e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178497d8eb09e5bb9004404386e",
-          "width": 160
-        }
-      ],
-      "name": "Berbal La 4 Verde",
-      "popularity": 38,
-      "type": "artist",
-      "uri": "spotify:artist:0XVOL55Wa1lbWs1tAsv5nf"
     },
     {
       "external_urls": {
@@ -143,6 +108,41 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XVOL55Wa1lbWs1tAsv5nf"
+      },
+      "followers": {
+        "href": null,
+        "total": 98519
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0XVOL55Wa1lbWs1tAsv5nf",
+      "id": "0XVOL55Wa1lbWs1tAsv5nf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb497d8eb09e5bb9004404386e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174497d8eb09e5bb9004404386e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178497d8eb09e5bb9004404386e",
+          "width": 160
+        }
+      ],
+      "name": "Berbal La 4 Verde",
+      "popularity": 38,
+      "type": "artist",
+      "uri": "spotify:artist:0XVOL55Wa1lbWs1tAsv5nf"
     },
     {
       "external_urls": {
@@ -253,7 +253,7 @@
         }
       ],
       "name": "Cartel De Santa",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
@@ -401,6 +401,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "followers": {
+        "href": null,
+        "total": 3884746
+      },
+      "genres": [
+        "conscious hip hop",
+        "east coast hip hop",
+        "gangster rap",
+        "hardcore hip hop",
+        "hip hop",
+        "queens hip hop",
+        "rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id": "20qISvAhX20dpIbOOzGK3q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb153198caeef9e3bda92f9285",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178153198caeef9e3bda92f9285",
+          "width": 160
+        }
+      ],
+      "name": "Nas",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
@@ -435,7 +476,7 @@
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
     }
   ],
-  "total": 12,
+  "total": 13,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
