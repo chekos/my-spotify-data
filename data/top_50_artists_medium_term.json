@@ -1533,6 +1533,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6DpyI7HwdGGNtLSHfZV7kQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 290
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6DpyI7HwdGGNtLSHfZV7kQ",
+      "id": "6DpyI7HwdGGNtLSHfZV7kQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732451d65905e279d2bcad2f23",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b6e044b430e18416636544d7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b6e044b430e18416636544d7",
+          "width": 64
+        }
+      ],
+      "name": "Gera MXM",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:6DpyI7HwdGGNtLSHfZV7kQ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
@@ -1790,44 +1823,9 @@
       "popularity": 40,
       "type": "artist",
       "uri": "spotify:artist:0sk0gTYhiFal4UfEKbpnGu"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-      },
-      "followers": {
-        "href": null,
-        "total": 2247074
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b54b209cd4863a2e83cac7b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b54b209cd4863a2e83cac7b0",
-          "width": 160
-        }
-      ],
-      "name": "Millonario",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
     }
   ],
-  "total": 59,
+  "total": 60,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
