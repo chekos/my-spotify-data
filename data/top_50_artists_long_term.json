@@ -254,6 +254,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 33075
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -287,41 +322,6 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-      },
-      "followers": {
-        "href": null,
-        "total": 33075
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-      "id": "0U8dIwzBn17JkhYxmznp6T",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
-          "width": 160
-        }
-      ],
-      "name": "Jayrick",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
     {
       "external_urls": {
@@ -682,42 +682,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-      },
-      "followers": {
-        "href": null,
-        "total": 452821
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap femenino mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
-      "id": "0SmgVe3giVHaJjGmIz8xA4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742141cce2875b4f9304549e31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782141cce2875b4f9304549e31",
-          "width": 160
-        }
-      ],
-      "name": "Yoss Bones",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -753,6 +717,42 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+      },
+      "followers": {
+        "href": null,
+        "total": 452821
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap femenino mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
+      "id": "0SmgVe3giVHaJjGmIz8xA4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742141cce2875b4f9304549e31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782141cce2875b4f9304549e31",
+          "width": 160
+        }
+      ],
+      "name": "Yoss Bones",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
     },
     {
       "external_urls": {
@@ -1184,6 +1184,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1386323
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
@@ -1291,41 +1326,6 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 1386323
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
-        }
-      ],
-      "name": "Millonario & W. Corona",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
     {
       "external_urls": {
@@ -1674,6 +1674,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+      },
+      "followers": {
+        "href": null,
+        "total": 1869094
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+      "id": "6DjBv6gyR1HLsvwGUOD5V9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
+          "width": 160
+        }
+      ],
+      "name": "TREN LOKOTE",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
       },
       "followers": {
@@ -1777,44 +1812,9 @@
       "popularity": 25,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-      },
-      "followers": {
-        "href": null,
-        "total": 1869094
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-      "id": "6DjBv6gyR1HLsvwGUOD5V9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
-          "width": 160
-        }
-      ],
-      "name": "TREN LOKOTE",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
     }
   ],
-  "total": 146,
+  "total": 147,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
