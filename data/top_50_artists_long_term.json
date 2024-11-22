@@ -932,6 +932,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1412320
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -967,38 +1002,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 1412320
+        "total": 2852710
       },
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
           "width": 640
         },
         {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
+          "width": 320
         },
         {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
+          "width": 160
         }
       ],
-      "name": "Millonario & W. Corona",
-      "popularity": 61,
+      "name": "Dharius",
+      "popularity": 70,
       "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
     {
       "external_urls": {
@@ -1145,41 +1180,6 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-      },
-      "followers": {
-        "href": null,
-        "total": 2852710
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-      "id": "66RfYVdftqnuHRicyClgL0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
-          "width": 160
-        }
-      ],
-      "name": "Dharius",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
     {
       "external_urls": {
@@ -1818,7 +1818,7 @@
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
     }
   ],
-  "total": 144,
+  "total": 145,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
