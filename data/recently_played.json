@@ -2,6 +2,506 @@
   {
     "track": {
       "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6dLuQ5qXxIuWc5urxfIiZR",
+            "id": "6dLuQ5qXxIuWc5urxfIiZR",
+            "name": "Calle 24",
+            "type": "artist",
+            "uri": "spotify:artist:6dLuQ5qXxIuWc5urxfIiZR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rmkQLzj0k4nZdQehOUByO",
+            "id": "2rmkQLzj0k4nZdQehOUByO",
+            "name": "Chino Pacas",
+            "type": "artist",
+            "uri": "spotify:artist:2rmkQLzj0k4nZdQehOUByO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+            "id": "0ys2OFYzWYB5hRDLCsBqxt",
+            "name": "Fuerza Regida",
+            "type": "artist",
+            "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
+        },
+        "href": "https://api.spotify.com/v1/albums/4x6cjOcVz44aiLSOHCLKPd",
+        "id": "4x6cjOcVz44aiLSOHCLKPd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8fd4190e32eed2dfcd00f66",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8fd4190e32eed2dfcd00f66",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c8fd4190e32eed2dfcd00f66",
+            "width": 64
+          }
+        ],
+        "name": "Que Onda",
+        "release_date": "2023-08-30",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4x6cjOcVz44aiLSOHCLKPd"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6dLuQ5qXxIuWc5urxfIiZR",
+          "id": "6dLuQ5qXxIuWc5urxfIiZR",
+          "name": "Calle 24",
+          "type": "artist",
+          "uri": "spotify:artist:6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          },
+          "href": "https://api.spotify.com/v1/artists/2rmkQLzj0k4nZdQehOUByO",
+          "id": "2rmkQLzj0k4nZdQehOUByO",
+          "name": "Chino Pacas",
+          "type": "artist",
+          "uri": "spotify:artist:2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+          "id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "Fuerza Regida",
+          "type": "artist",
+          "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "disc_number": 1,
+      "duration_ms": 191466,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDXS2303230"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6uIIdjYTxxpWOyWuVXrKQO",
+      "id": "6uIIdjYTxxpWOyWuVXrKQO",
+      "is_local": false,
+      "name": "Que Onda",
+      "popularity": 83,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    "played_at": "2024-12-15T18:27:51.406Z",
+    "context": {
+      "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
+      },
+      "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
+    }
+  },
+  {
+    "track": {
+      "album": {
         "album_type": "album",
         "artists": [
           {
@@ -452,10 +952,10 @@
     "played_at": "2024-12-14T17:59:59.755Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -932,10 +1432,10 @@
     "played_at": "2024-12-14T17:53:32.502Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -1402,10 +1902,10 @@
     "played_at": "2024-12-14T17:50:54.936Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -1872,10 +2372,10 @@
     "played_at": "2024-12-14T17:47:49.521Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -2350,10 +2850,10 @@
     "played_at": "2024-12-14T17:44:07.875Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -2830,10 +3330,10 @@
     "played_at": "2024-12-14T17:40:48.228Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -3350,10 +3850,10 @@
     "played_at": "2024-12-14T17:29:24.446Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -3810,10 +4310,10 @@
     "played_at": "2024-12-14T17:24:12.407Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -4270,10 +4770,10 @@
     "played_at": "2024-12-14T05:53:23.787Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -4740,10 +5240,10 @@
     "played_at": "2024-12-14T05:49:13.725Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -5236,10 +5736,10 @@
     "played_at": "2024-12-14T05:44:45.448Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -5706,10 +6206,10 @@
     "played_at": "2024-12-14T05:41:30.634Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -6186,10 +6686,10 @@
     "played_at": "2024-12-14T05:37:45.135Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -6666,10 +7166,10 @@
     "played_at": "2024-12-14T05:34:47.137Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -7164,10 +7664,10 @@
     "played_at": "2024-12-14T05:30:53.408Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -7642,10 +8142,10 @@
     "played_at": "2024-12-14T05:26:09.241Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -8120,10 +8620,10 @@
     "played_at": "2024-12-14T05:22:49.636Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -8580,10 +9080,10 @@
     "played_at": "2024-12-14T05:18:52.049Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -9050,10 +9550,10 @@
     "played_at": "2024-12-14T05:15:13.992Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -9510,10 +10010,10 @@
     "played_at": "2024-12-14T05:10:52.842Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -9980,10 +10480,10 @@
     "played_at": "2024-12-14T05:07:26.745Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -10450,10 +10950,10 @@
     "played_at": "2024-12-14T05:04:20.375Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -10906,10 +11406,10 @@
     "played_at": "2024-12-14T01:54:17.689Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
       },
-      "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
       "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
     }
   },
@@ -11396,10 +11896,10 @@
     "played_at": "2024-12-14T01:51:25.323Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
       },
-      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
     }
   },
@@ -11856,10 +12356,10 @@
     "played_at": "2024-12-13T05:50:49.785Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
       },
-      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
     }
   },
@@ -12326,10 +12826,10 @@
     "played_at": "2024-12-13T05:47:25.201Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
       },
-      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
     }
   },
@@ -12786,10 +13286,10 @@
     "played_at": "2024-12-13T05:43:40.992Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
       },
-      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
     }
   },
@@ -13246,10 +13746,10 @@
     "played_at": "2024-12-13T05:39:52.142Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
       },
-      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
     }
   },
@@ -13716,10 +14216,10 @@
     "played_at": "2024-12-13T05:37:53.997Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
       },
-      "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
       "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
     }
   },
@@ -14172,10 +14672,10 @@
     "played_at": "2024-12-13T05:29:10.136Z",
     "context": {
       "type": "album",
+      "href": "https://api.spotify.com/v1/albums/0hvT3yIEysuuvkK73vgdcW",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
-      "href": "https://api.spotify.com/v1/albums/0hvT3yIEysuuvkK73vgdcW",
       "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW"
     }
   },
@@ -14632,10 +15132,10 @@
     "played_at": "2024-12-13T04:14:56.416Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -15122,10 +15622,10 @@
     "played_at": "2024-12-13T02:16:31.381Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -15582,10 +16082,10 @@
     "played_at": "2024-12-13T02:12:01.891Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -16038,10 +16538,10 @@
     "played_at": "2024-12-13T02:05:42.470Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -16494,10 +16994,10 @@
     "played_at": "2024-12-11T18:30:45.494Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -16954,10 +17454,10 @@
     "played_at": "2024-12-11T06:05:33.928Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -17414,10 +17914,10 @@
     "played_at": "2024-12-11T01:54:14.630Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -17874,10 +18374,10 @@
     "played_at": "2024-12-11T01:50:36.077Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -18364,10 +18864,10 @@
     "played_at": "2024-12-11T01:46:40.158Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -18844,10 +19344,10 @@
     "played_at": "2024-12-11T01:43:36.163Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -19324,10 +19824,10 @@
     "played_at": "2024-12-11T01:39:48.682Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -19794,10 +20294,10 @@
     "played_at": "2024-12-11T01:35:12.467Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -20284,10 +20784,10 @@
     "played_at": "2024-12-11T01:31:49.430Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -20774,10 +21274,10 @@
     "played_at": "2024-12-10T02:37:05.668Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -21254,10 +21754,10 @@
     "played_at": "2024-12-09T19:01:14.810Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -21714,10 +22214,10 @@
     "played_at": "2024-12-09T18:57:22.911Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -22172,10 +22672,10 @@
     "played_at": "2024-12-09T18:52:09.800Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -22632,10 +23132,10 @@
     "played_at": "2024-12-09T18:48:36.215Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   },
@@ -23092,470 +23592,10 @@
     "played_at": "2024-12-09T18:45:51.206Z",
     "context": {
       "type": "playlist",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
-      "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
-    }
-  },
-  {
-    "track": {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-            },
-            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-            "name": "Lefty Sm",
-            "type": "artist",
-            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0X0f1u386z18IE4KK2rdkZ"
-        },
-        "href": "https://api.spotify.com/v1/albums/0X0f1u386z18IE4KK2rdkZ",
-        "id": "0X0f1u386z18IE4KK2rdkZ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b1c864dc831d7dba646c7d53",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b1c864dc831d7dba646c7d53",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b1c864dc831d7dba646c7d53",
-            "width": 64
-          }
-        ],
-        "name": "Vuela",
-        "release_date": "2023-02-17",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0X0f1u386z18IE4KK2rdkZ"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-          },
-          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-          "name": "Lefty Sm",
-          "type": "artist",
-          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "AU",
-        "AT",
-        "BE",
-        "BO",
-        "BR",
-        "BG",
-        "CA",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DK",
-        "DO",
-        "DE",
-        "EC",
-        "EE",
-        "SV",
-        "FI",
-        "FR",
-        "GR",
-        "GT",
-        "HN",
-        "HK",
-        "HU",
-        "IS",
-        "IE",
-        "IT",
-        "LV",
-        "LT",
-        "LU",
-        "MY",
-        "MT",
-        "MX",
-        "NL",
-        "NZ",
-        "NI",
-        "NO",
-        "PA",
-        "PY",
-        "PE",
-        "PH",
-        "PL",
-        "PT",
-        "SG",
-        "SK",
-        "ES",
-        "SE",
-        "CH",
-        "TW",
-        "TR",
-        "UY",
-        "US",
-        "GB",
-        "AD",
-        "LI",
-        "MC",
-        "ID",
-        "JP",
-        "TH",
-        "VN",
-        "RO",
-        "IL",
-        "ZA",
-        "SA",
-        "AE",
-        "BH",
-        "QA",
-        "OM",
-        "KW",
-        "EG",
-        "MA",
-        "DZ",
-        "TN",
-        "LB",
-        "JO",
-        "PS",
-        "IN",
-        "BY",
-        "KZ",
-        "MD",
-        "UA",
-        "AL",
-        "BA",
-        "HR",
-        "ME",
-        "MK",
-        "RS",
-        "SI",
-        "KR",
-        "BD",
-        "PK",
-        "LK",
-        "GH",
-        "KE",
-        "NG",
-        "TZ",
-        "UG",
-        "AG",
-        "AM",
-        "BS",
-        "BB",
-        "BZ",
-        "BT",
-        "BW",
-        "BF",
-        "CV",
-        "CW",
-        "DM",
-        "FJ",
-        "GM",
-        "GE",
-        "GD",
-        "GW",
-        "GY",
-        "HT",
-        "JM",
-        "KI",
-        "LS",
-        "LR",
-        "MW",
-        "MV",
-        "ML",
-        "MH",
-        "FM",
-        "NA",
-        "NR",
-        "NE",
-        "PW",
-        "PG",
-        "PR",
-        "WS",
-        "SM",
-        "ST",
-        "SN",
-        "SC",
-        "SL",
-        "SB",
-        "KN",
-        "LC",
-        "VC",
-        "SR",
-        "TL",
-        "TO",
-        "TT",
-        "TV",
-        "VU",
-        "AZ",
-        "BN",
-        "BI",
-        "KH",
-        "CM",
-        "TD",
-        "KM",
-        "GQ",
-        "SZ",
-        "GA",
-        "GN",
-        "KG",
-        "LA",
-        "MO",
-        "MR",
-        "MN",
-        "NP",
-        "RW",
-        "TG",
-        "UZ",
-        "ZW",
-        "BJ",
-        "MG",
-        "MU",
-        "MZ",
-        "AO",
-        "CI",
-        "DJ",
-        "ZM",
-        "CD",
-        "CG",
-        "IQ",
-        "LY",
-        "TJ",
-        "VE",
-        "ET",
-        "XK"
-      ],
-      "disc_number": 1,
-      "duration_ms": 217894,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USANG2263879"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1QXwpAhLrrHsCKdtiHMFCt"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1QXwpAhLrrHsCKdtiHMFCt",
-      "id": "1QXwpAhLrrHsCKdtiHMFCt",
-      "is_local": false,
-      "name": "Vuela",
-      "popularity": 57,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1QXwpAhLrrHsCKdtiHMFCt"
-    },
-    "played_at": "2024-12-09T00:00:59.098Z",
-    "context": {
-      "type": "playlist",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
-      },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
       "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
     }
   }
