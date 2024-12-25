@@ -499,6 +499,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+      },
+      "followers": {
+        "href": null,
+        "total": 4559431
+      },
+      "genres": [
+        "cantautora mexicana",
+        "mexican pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0XK6kT7xcZAlcYrNjOgzJe",
+      "id": "0XK6kT7xcZAlcYrNjOgzJe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb13022e44760fe2175dc11a0f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517413022e44760fe2175dc11a0f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17813022e44760fe2175dc11a0f",
+          "width": 160
+        }
+      ],
+      "name": "Carla Morrison",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:0XK6kT7xcZAlcYrNjOgzJe"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
@@ -568,7 +604,7 @@
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     }
   ],
-  "total": 16,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
