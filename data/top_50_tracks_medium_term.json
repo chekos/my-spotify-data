@@ -2818,95 +2818,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-          },
-          "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-          "id": "6DjBv6gyR1HLsvwGUOD5V9",
-          "name": "TREN LOKOTE",
-          "type": "artist",
-          "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 252533,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746409"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3J1aXbNrnGsSmgIJ5Q5zzN",
-      "id": "3J1aXbNrnGsSmgIJ5Q5zzN",
-      "is_local": false,
-      "is_playable": true,
-      "name": "La Feria Drogas y Muerte",
-      "popularity": 4,
-      "preview_url": null,
-      "track_number": 7,
-      "type": "track",
-      "uri": "spotify:track:3J1aXbNrnGsSmgIJ5Q5zzN"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
             },
             "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
@@ -3361,6 +3272,95 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:1yZgFyN2IRaG3qLKZo66Nc"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+        "id": "5PZxScqkkCa4bjdZcq9fuh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "High Con Class XIII",
+        "release_date": "2017-05-17",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+          "id": "6DjBv6gyR1HLsvwGUOD5V9",
+          "name": "TREN LOKOTE",
+          "type": "artist",
+          "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 252533,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDY41746409"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3J1aXbNrnGsSmgIJ5Q5zzN",
+      "id": "3J1aXbNrnGsSmgIJ5Q5zzN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "La Feria Drogas y Muerte",
+      "popularity": 4,
+      "preview_url": null,
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3J1aXbNrnGsSmgIJ5Q5zzN"
     },
     {
       "album": {
@@ -3832,85 +3832,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:3Sualy9gkVDHDgOKcTJgFd"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 298280,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746412"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2QcKNwKB3H0GQS5oUE0ucV"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2QcKNwKB3H0GQS5oUE0ucV",
-      "id": "2QcKNwKB3H0GQS5oUE0ucV",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Canales Enemigos",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 10,
-      "type": "track",
-      "uri": "spotify:track:2QcKNwKB3H0GQS5oUE0ucV"
     },
     {
       "album": {
@@ -4833,6 +4754,85 @@
       "track_number": 9,
       "type": "track",
       "uri": "spotify:track:0Zkhy6gnUQ3kSi4X3eeflf"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+        "id": "5PZxScqkkCa4bjdZcq9fuh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "High Con Class XIII",
+        "release_date": "2017-05-17",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 298280,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDY41746412"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2QcKNwKB3H0GQS5oUE0ucV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2QcKNwKB3H0GQS5oUE0ucV",
+      "id": "2QcKNwKB3H0GQS5oUE0ucV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Canales Enemigos",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2QcKNwKB3H0GQS5oUE0ucV"
     },
     {
       "album": {
@@ -8629,85 +8629,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 220093,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746408"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5vWpOKA4EYXmK27dAuqrKE"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5vWpOKA4EYXmK27dAuqrKE",
-      "id": "5vWpOKA4EYXmK27dAuqrKE",
-      "is_local": false,
-      "is_playable": true,
-      "name": "High Con Class",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 6,
-      "type": "track",
-      "uri": "spotify:track:5vWpOKA4EYXmK27dAuqrKE"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
             },
             "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
@@ -11571,85 +11492,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 314626,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746406"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3Z2hATKvhatvOUCK8EzHqP"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3Z2hATKvhatvOUCK8EzHqP",
-      "id": "3Z2hATKvhatvOUCK8EzHqP",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Nunca Me Fui",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:3Z2hATKvhatvOUCK8EzHqP"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
             },
             "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
@@ -12104,6 +11946,85 @@
       "track_number": 8,
       "type": "track",
       "uri": "spotify:track:3ZAvXkfPFlSKpnZ4Q3RRVV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+        "id": "5PZxScqkkCa4bjdZcq9fuh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "High Con Class XIII",
+        "release_date": "2017-05-17",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 220093,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDY41746408"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5vWpOKA4EYXmK27dAuqrKE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5vWpOKA4EYXmK27dAuqrKE",
+      "id": "5vWpOKA4EYXmK27dAuqrKE",
+      "is_local": false,
+      "is_playable": true,
+      "name": "High Con Class",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5vWpOKA4EYXmK27dAuqrKE"
     },
     {
       "album": {
@@ -12575,95 +12496,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:5hpOBmnNc1mahkYGmte4NI"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-        },
-        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
-        "id": "5PZxScqkkCa4bjdZcq9fuh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "High Con Class XIII",
-        "release_date": "2017-05-17",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-          },
-          "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-          "id": "3L7OHIT4kfdcDSnnGM0TKN",
-          "name": "El Pinche Mara",
-          "type": "artist",
-          "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 239266,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USDY41746411"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6HmI6e5cGmui0fzhKoStub"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6HmI6e5cGmui0fzhKoStub",
-      "id": "6HmI6e5cGmui0fzhKoStub",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Maldita la Flota",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 9,
-      "type": "track",
-      "uri": "spotify:track:6HmI6e5cGmui0fzhKoStub"
     },
     {
       "album": {
@@ -14543,6 +14375,85 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:025ocYl9BtoWxIBP9uxrZ2"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+        "id": "5PZxScqkkCa4bjdZcq9fuh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "High Con Class XIII",
+        "release_date": "2017-05-17",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 314626,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDY41746406"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Z2hATKvhatvOUCK8EzHqP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Z2hATKvhatvOUCK8EzHqP",
+      "id": "3Z2hATKvhatvOUCK8EzHqP",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Nunca Me Fui",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3Z2hATKvhatvOUCK8EzHqP"
     },
     {
       "album": {
@@ -17349,6 +17260,95 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+        "id": "5PZxScqkkCa4bjdZcq9fuh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "High Con Class XIII",
+        "release_date": "2017-05-17",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+          },
+          "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+          "id": "3L7OHIT4kfdcDSnnGM0TKN",
+          "name": "El Pinche Mara",
+          "type": "artist",
+          "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 239266,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDY41746411"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HmI6e5cGmui0fzhKoStub"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HmI6e5cGmui0fzhKoStub",
+      "id": "6HmI6e5cGmui0fzhKoStub",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Maldita la Flota",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6HmI6e5cGmui0fzhKoStub"
     },
     {
       "album": {
