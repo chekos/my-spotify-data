@@ -298,6 +298,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+      },
+      "followers": {
+        "href": null,
+        "total": 36431641
+      },
+      "genres": [
+        "reggaeton",
+        "latin"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+      "id": "4VMYDCV2IEDYJArk749S6m",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aa534de724c7a565c07bb3f5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aa534de724c7a565c07bb3f5",
+          "width": 160
+        }
+      ],
+      "name": "Daddy Yankee",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
       },
       "followers": {
@@ -444,42 +480,6 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:33ScadVnbm2X8kkUqOkC6Z"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-      },
-      "followers": {
-        "href": null,
-        "total": 36431641
-      },
-      "genres": [
-        "reggaeton",
-        "latin"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
-      "id": "4VMYDCV2IEDYJArk749S6m",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aa534de724c7a565c07bb3f5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aa534de724c7a565c07bb3f5",
-          "width": 160
-        }
-      ],
-      "name": "Daddy Yankee",
-      "popularity": 85,
-      "type": "artist",
-      "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
     },
     {
       "external_urls": {
