@@ -22,17 +22,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe9e454f050cf4f1437457766",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e9e454f050cf4f1437457766",
+          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e9e454f050cf4f1437457766",
+          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
           "width": 160
         }
       ],
@@ -187,6 +187,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "followers": {
+        "href": null,
+        "total": 90635576
+      },
+      "genres": [
+        "reggaeton",
+        "trap latino",
+        "urbano latino",
+        "latin"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
+          "width": 160
+        }
+      ],
+      "name": "Bad Bunny",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -331,6 +369,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "followers": {
+        "href": null,
+        "total": 17449737
+      },
+      "genres": [
+        "argentine trap",
+        "trap latino",
+        "urbano latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id": "716NhGYqD1jl2wI1Qkgq36",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb14add0d3419426b84158b913",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517414add0d3419426b84158b913",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17814add0d3419426b84158b913",
+          "width": 160
+        }
+      ],
+      "name": "Bizarrap",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
       },
       "followers": {
@@ -439,7 +514,7 @@
       "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
     }
   ],
-  "total": 12,
+  "total": 14,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
