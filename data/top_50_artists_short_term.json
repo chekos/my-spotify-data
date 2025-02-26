@@ -17,17 +17,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8817cafb81ed736adf29a7b7",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf35b3932775200e07056a4b5",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748817cafb81ed736adf29a7b7",
+          "url": "https://i.scdn.co/image/ab67616100005174f35b3932775200e07056a4b5",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788817cafb81ed736adf29a7b7",
+          "url": "https://i.scdn.co/image/ab6761610000f178f35b3932775200e07056a4b5",
           "width": 160
         }
       ],
@@ -330,6 +330,42 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+      },
+      "followers": {
+        "href": null,
+        "total": 130177
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
+      "id": "5MRMYpdAWZawm3ivBeWvdK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb33ad7786c094432363bdc2ef",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517433ad7786c094432363bdc2ef",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17833ad7786c094432363bdc2ef",
+          "width": 160
+        }
+      ],
+      "name": "Teeam Revolver",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
     },
     {
       "external_urls": {
@@ -738,7 +774,7 @@
       "uri": "spotify:artist:3sgFRtyBnxXD5ESfmbK4dl"
     }
   ],
-  "total": 20,
+  "total": 21,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
