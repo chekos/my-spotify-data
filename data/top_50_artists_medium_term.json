@@ -1690,6 +1690,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+      },
+      "followers": {
+        "href": null,
+        "total": 219432
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+      "id": "2Gcx4c9rFAAloAYV2cMGUd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe16b1051a7a92f055a9f4480",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e16b1051a7a92f055a9f4480",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e16b1051a7a92f055a9f4480",
+          "width": 160
+        }
+      ],
+      "name": "Proof",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
       },
       "followers": {
@@ -1797,46 +1833,9 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:1hcdI2N1023RvSwLzTtdsp"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-      },
-      "followers": {
-        "href": null,
-        "total": 404472
-      },
-      "genres": [
-        "latin folk",
-        "mexican indie",
-        "latin indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/72VywtXEoONiBLNu3ibGI7",
-      "id": "72VywtXEoONiBLNu3ibGI7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebab35a31ce803e11637575764",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ab35a31ce803e11637575764",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ab35a31ce803e11637575764",
-          "width": 160
-        }
-      ],
-      "name": "Silvana Estrada",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:72VywtXEoONiBLNu3ibGI7"
     }
   ],
-  "total": 67,
+  "total": 68,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
