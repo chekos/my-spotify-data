@@ -257,42 +257,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-      },
-      "followers": {
-        "href": null,
-        "total": 130956
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
-      "id": "5MRMYpdAWZawm3ivBeWvdK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba246b7f1b549111a92649afa",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a246b7f1b549111a92649afa",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a246b7f1b549111a92649afa",
-          "width": 160
-        }
-      ],
-      "name": "Teeam Revolver",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -1056,7 +1020,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 29,
+  "total": 28,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
