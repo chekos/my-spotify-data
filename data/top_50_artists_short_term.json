@@ -415,17 +415,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
           "width": 160
         }
       ],
@@ -875,6 +875,50 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+      },
+      "followers": {
+        "href": null,
+        "total": 4784495
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "argentine rock",
+        "mexican rock",
+        "latin alternative"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+      "id": "4TK1gDgb7QKoPFlzRrBRgR",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
+          "width": 64
+        }
+      ],
+      "name": "Los Enanitos Verdes",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
       },
       "followers": {
@@ -891,17 +935,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4d274251335d22647987b86a",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb06f0ec70e12aab8e730f849d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744d274251335d22647987b86a",
+          "url": "https://i.scdn.co/image/ab6761610000517406f0ec70e12aab8e730f849d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784d274251335d22647987b86a",
+          "url": "https://i.scdn.co/image/ab6761610000f17806f0ec70e12aab8e730f849d",
           "width": 160
         }
       ],
@@ -983,7 +1027,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 27,
+  "total": 28,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
