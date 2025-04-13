@@ -455,7 +455,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Tomando Efecto",
-      "popularity": 21,
+      "popularity": 22,
       "preview_url": null,
       "track_number": 8,
       "type": "track",
@@ -4736,7 +4736,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Mentiras",
-      "popularity": 50,
+      "popularity": 51,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -6119,7 +6119,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Sin Ti Estoy Bien",
-      "popularity": 63,
+      "popularity": 64,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -9314,7 +9314,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Hago Ruido",
-      "popularity": 30,
+      "popularity": 31,
       "preview_url": null,
       "track_number": 7,
       "type": "track",
@@ -15239,7 +15239,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Blanca Navidad",
-      "popularity": 41,
+      "popularity": 40,
       "preview_url": null,
       "track_number": 4,
       "type": "track",
@@ -22733,17 +22733,27 @@
     },
     {
       "album": {
-        "album_type": "album",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+              "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
             },
-            "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
-            "id": "2nszmSgqreHSdJA3zWPyrW",
-            "name": "Luis Miguel",
+            "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+            "id": "6VD4UEUPvtsemqD3mmTqCR",
+            "name": "Deorro",
             "type": "artist",
-            "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
+            "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+            "name": "Santa Fe Klan",
+            "type": "artist",
+            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
           }
         ],
         "available_markets": [
@@ -22934,45 +22944,55 @@
           "XK"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+          "spotify": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
         },
-        "href": "https://api.spotify.com/v1/albums/0tu9kY2tDMuuuI6GtSDH9i",
-        "id": "0tu9kY2tDMuuuI6GtSDH9i",
+        "href": "https://api.spotify.com/v1/albums/73o8i8GdGPqeetj2WkQhit",
+        "id": "73o8i8GdGPqeetj2WkQhit",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27315a3198274f6ddbebc681670",
+            "url": "https://i.scdn.co/image/ab67616d0000b273928b5f301d149f23c7e862c6",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0215a3198274f6ddbebc681670",
+            "url": "https://i.scdn.co/image/ab67616d00001e02928b5f301d149f23c7e862c6",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485115a3198274f6ddbebc681670",
+            "url": "https://i.scdn.co/image/ab67616d00004851928b5f301d149f23c7e862c6",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Navidades Luis Miguel",
-        "release_date": "2006-11-06",
+        "name": "La Bandera",
+        "release_date": "2025-04-10",
         "release_date_precision": "day",
-        "total_tracks": 11,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:0tu9kY2tDMuuuI6GtSDH9i"
+        "uri": "spotify:album:73o8i8GdGPqeetj2WkQhit"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+            "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
           },
-          "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
-          "id": "2nszmSgqreHSdJA3zWPyrW",
-          "name": "Luis Miguel",
+          "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+          "id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "Deorro",
           "type": "artist",
-          "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
+          "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
+          "type": "artist",
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
       "available_markets": [
@@ -23163,27 +23183,27 @@
         "XK"
       ],
       "disc_number": 1,
-      "duration_ms": 188199,
-      "explicit": false,
+      "duration_ms": 160006,
+      "explicit": true,
       "external_ids": {
-        "isrc": "USWI20600195"
+        "isrc": "QM6N22513979"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
+        "spotify": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
       },
-      "href": "https://api.spotify.com/v1/tracks/2LxtK38dlYh9Byvv93ndYY",
-      "id": "2LxtK38dlYh9Byvv93ndYY",
+      "href": "https://api.spotify.com/v1/tracks/1yY11odB1K0id6dtJQXT4j",
+      "id": "1yY11odB1K0id6dtJQXT4j",
       "is_local": false,
       "is_playable": true,
-      "name": "Sonr\u00ede",
-      "popularity": 38,
+      "name": "La Bandera",
+      "popularity": 51,
       "preview_url": null,
-      "track_number": 9,
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:2LxtK38dlYh9Byvv93ndYY"
+      "uri": "spotify:track:1yY11odB1K0id6dtJQXT4j"
     }
   ],
-  "total": 949,
+  "total": 950,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
