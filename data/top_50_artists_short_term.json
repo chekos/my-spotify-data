@@ -2,6 +2,42 @@
   "items": [
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+      },
+      "followers": {
+        "href": null,
+        "total": 122095
+      },
+      "genres": [
+        "reggae",
+        "ragga"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+      "id": "3w2WYNyPCPkZFoC1EqfCMe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736464d88f4a4cc33bac40030f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026464d88f4a4cc33bac40030f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516464d88f4a4cc33bac40030f",
+          "width": 64
+        }
+      ],
+      "name": "Nas & Damian \"Jr. Gong\" Marley",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
       },
       "followers": {
@@ -158,42 +194,6 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-      },
-      "followers": {
-        "href": null,
-        "total": 122095
-      },
-      "genres": [
-        "reggae",
-        "ragga"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-      "id": "3w2WYNyPCPkZFoC1EqfCMe",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736464d88f4a4cc33bac40030f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026464d88f4a4cc33bac40030f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516464d88f4a4cc33bac40030f",
-          "width": 64
-        }
-      ],
-      "name": "Nas & Damian \"Jr. Gong\" Marley",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
     },
     {
       "external_urls": {
@@ -920,44 +920,9 @@
       "popularity": 100,
       "type": "artist",
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-      },
-      "followers": {
-        "href": null,
-        "total": 832239
-      },
-      "genres": [
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-      "id": "6fMZytDgX1Q9OV6ndSugym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb75e86a27e54aae43e6325973",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517475e86a27e54aae43e6325973",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17875e86a27e54aae43e6325973",
-          "width": 160
-        }
-      ],
-      "name": "Akapellah",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     }
   ],
-  "total": 25,
+  "total": 24,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
