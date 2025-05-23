@@ -38,6 +38,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+      },
+      "followers": {
+        "href": null,
+        "total": 32007
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+      "id": "5ET6v0l25osw5BzztPsMvD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfa00d1aafa373be7917840d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fa00d1aafa373be7917840d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fa00d1aafa373be7917840d3",
+          "width": 160
+        }
+      ],
+      "name": "Muelas De Gallo",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
       },
       "followers": {
@@ -922,7 +957,7 @@
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
     }
   ],
-  "total": 24,
+  "total": 25,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
