@@ -1567,9 +1567,25 @@
       ],
       "href": "https://api.spotify.com/v1/artists/5n3LP0KcPkzWsvExZ6cJEO",
       "id": "5n3LP0KcPkzWsvExZ6cJEO",
-      "images": [],
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316d19d9449d1a711ec5af0bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216d19d9449d1a711ec5af0bf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116d19d9449d1a711ec5af0bf",
+          "width": 64
+        }
+      ],
       "name": "Gera MXM",
-      "popularity": 0,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:5n3LP0KcPkzWsvExZ6cJEO"
     },
