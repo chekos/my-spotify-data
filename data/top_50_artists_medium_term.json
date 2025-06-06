@@ -297,6 +297,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+      },
+      "followers": {
+        "href": null,
+        "total": 2427700
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
+      "id": "5oYHL2SijkMY52gKIhYJNb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
+          "width": 160
+        }
+      ],
+      "name": "Elefante",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -333,41 +371,47 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
       },
       "followers": {
         "href": null,
-        "total": 2427700
+        "total": 4939229
       },
       "genres": [
         "rock en espa\u00f1ol",
         "latin rock",
+        "argentine rock",
         "mexican rock",
-        "latin pop"
+        "latin alternative"
       ],
-      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
-      "id": "5oYHL2SijkMY52gKIhYJNb",
+      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+      "id": "4TK1gDgb7QKoPFlzRrBRgR",
       "images": [
         {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
+          "width": 1000
+        },
+        {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
+          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
-          "width": 320
+          "height": 200,
+          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
+          "width": 200
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
+          "width": 64
         }
       ],
-      "name": "Elefante",
-      "popularity": 71,
+      "name": "Los Enanitos Verdes",
+      "popularity": 74,
       "type": "artist",
-      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
+      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     },
     {
       "external_urls": {
@@ -440,50 +484,6 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-      },
-      "followers": {
-        "href": null,
-        "total": 4939229
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "mexican rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-      "id": "4TK1gDgb7QKoPFlzRrBRgR",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
-          "width": 64
-        }
-      ],
-      "name": "Los Enanitos Verdes",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     },
     {
       "external_urls": {
@@ -885,7 +885,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -1556,6 +1556,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+      },
+      "followers": {
+        "href": null,
+        "total": 333699
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+      "id": "6viZnVSHavFUcW0blu6Mvw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
+          "width": 160
+        }
+      ],
+      "name": "Simpson Ahuevo",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
@@ -1625,42 +1661,6 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-      },
-      "followers": {
-        "href": null,
-        "total": 333699
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-      "id": "6viZnVSHavFUcW0blu6Mvw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
-          "width": 160
-        }
-      ],
-      "name": "Simpson Ahuevo",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
     },
     {
       "external_urls": {
@@ -1852,7 +1852,7 @@
       "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
     }
   ],
-  "total": 92,
+  "total": 93,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
