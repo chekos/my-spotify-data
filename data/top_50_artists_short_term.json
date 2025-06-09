@@ -360,17 +360,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8f03d18ac0616ffcf8836fcd",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748f03d18ac0616ffcf8836fcd",
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788f03d18ac0616ffcf8836fcd",
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
           "width": 160
         }
       ],
@@ -880,17 +880,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebeb4e662c21a7d0caf7ba15fc",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb99070d7187d0a5985161d263",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174eb4e662c21a7d0caf7ba15fc",
+          "url": "https://i.scdn.co/image/ab6761610000517499070d7187d0a5985161d263",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178eb4e662c21a7d0caf7ba15fc",
+          "url": "https://i.scdn.co/image/ab6761610000f17899070d7187d0a5985161d263",
           "width": 160
         }
       ],
@@ -1012,9 +1012,45 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
+      },
+      "followers": {
+        "href": null,
+        "total": 83182
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+      "id": "7BQJLHBNVvz4O2JHmls4Ef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb70edc0231763dc090338a51d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517470edc0231763dc090338a51d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17870edc0231763dc090338a51d",
+          "width": 160
+        }
+      ],
+      "name": "Wk",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     }
   ],
-  "total": 27,
+  "total": 28,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
