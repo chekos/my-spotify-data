@@ -489,6 +489,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+      },
+      "followers": {
+        "href": null,
+        "total": 3172798
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
+      ],
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "width": 160
+        }
+      ],
+      "name": "Dharius",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -559,43 +596,6 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-      },
-      "followers": {
-        "href": null,
-        "total": 3172798
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
-      ],
-      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-      "id": "66RfYVdftqnuHRicyClgL0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
-          "width": 160
-        }
-      ],
-      "name": "Dharius",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
     {
       "external_urls": {
@@ -956,17 +956,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb34e45cf65382f2eed6752b2e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
+          "url": "https://i.scdn.co/image/ab6761610000517434e45cf65382f2eed6752b2e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
+          "url": "https://i.scdn.co/image/ab6761610000f17834e45cf65382f2eed6752b2e",
           "width": 160
         }
       ],
