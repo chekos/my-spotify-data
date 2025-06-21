@@ -635,8 +635,8 @@
         "corridos b\u00e9licos",
         "m\u00fasica mexicana",
         "sad sierre\u00f1o",
-        "banda",
-        "electro corridos"
+        "electro corridos",
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
       "id": "12GqGscKJx3aE4t07u7eVZ",
@@ -864,17 +864,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba345ff416762343c586a7108",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
+          "url": "https://i.scdn.co/image/ab67616100005174a345ff416762343c586a7108",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
+          "url": "https://i.scdn.co/image/ab6761610000f178a345ff416762343c586a7108",
           "width": 160
         }
       ],
@@ -1839,7 +1839,7 @@
       "uri": "spotify:artist:3fo4UvMNzZUCFS90Roh5iK"
     }
   ],
-  "total": 162,
+  "total": 161,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
