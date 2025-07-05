@@ -261,44 +261,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-      },
-      "followers": {
-        "href": null,
-        "total": 2460366
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
-      "id": "5oYHL2SijkMY52gKIhYJNb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
-          "width": 160
-        }
-      ],
-      "name": "Elefante",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
       },
       "followers": {
@@ -549,6 +511,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+      },
+      "followers": {
+        "href": null,
+        "total": 2460366
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
+      "id": "5oYHL2SijkMY52gKIhYJNb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
+          "width": 160
+        }
+      ],
+      "name": "Elefante",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -618,50 +618,6 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-      },
-      "followers": {
-        "href": null,
-        "total": 4987796
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "mexican rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-      "id": "4TK1gDgb7QKoPFlzRrBRgR",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
-          "width": 64
-        }
-      ],
-      "name": "Los Enanitos Verdes",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     },
     {
       "external_urls": {
@@ -810,7 +766,7 @@
       "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
     }
   ],
-  "total": 22,
+  "total": 21,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
