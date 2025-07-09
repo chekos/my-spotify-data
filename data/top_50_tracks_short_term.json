@@ -1405,17 +1405,37 @@
     },
     {
       "album": {
-        "album_type": "album",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+              "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
             },
-            "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",
-            "id": "4Fsv1gBjfqSyhzAPbhInXV",
-            "name": "Yubeili",
+            "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+            "id": "4V2V4PaSblStayYVWTGDbZ",
+            "name": "Geassassin",
             "type": "artist",
-            "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
+            "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            },
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
+            "type": "artist",
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UlItbkRcPTdmWC4AcKrk8",
+            "id": "5UlItbkRcPTdmWC4AcKrk8",
+            "name": "Drama Theme",
+            "type": "artist",
+            "uri": "spotify:artist:5UlItbkRcPTdmWC4AcKrk8"
           }
         ],
         "available_markets": [
@@ -1498,6 +1518,7 @@
           "JO",
           "PS",
           "IN",
+          "BY",
           "KZ",
           "MD",
           "UA",
@@ -1605,55 +1626,65 @@
           "XK"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
+          "spotify": "https://open.spotify.com/album/5pwP34bppomcDLVWnuLXZ1"
         },
-        "href": "https://api.spotify.com/v1/albums/2Bsf3oexDX6pAk6Za4iEhW",
-        "id": "2Bsf3oexDX6pAk6Za4iEhW",
+        "href": "https://api.spotify.com/v1/albums/5pwP34bppomcDLVWnuLXZ1",
+        "id": "5pwP34bppomcDLVWnuLXZ1",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736fe1fde04b776bbf76765f8b",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed45847c63acc60b09f1361d",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026fe1fde04b776bbf76765f8b",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed45847c63acc60b09f1361d",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516fe1fde04b776bbf76765f8b",
+            "url": "https://i.scdn.co/image/ab67616d00004851ed45847c63acc60b09f1361d",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "LDCR: Los Del Coraz\u00f3n Roto",
-        "release_date": "2024-10-17",
+        "name": "Mega Drive",
+        "release_date": "2024-11-14",
         "release_date_precision": "day",
-        "total_tracks": 14,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:2Bsf3oexDX6pAk6Za4iEhW"
+        "uri": "spotify:album:5pwP34bppomcDLVWnuLXZ1"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
           },
-          "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",
-          "id": "4Fsv1gBjfqSyhzAPbhInXV",
-          "name": "Yubeili",
+          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+          "id": "4V2V4PaSblStayYVWTGDbZ",
+          "name": "Geassassin",
           "type": "artist",
-          "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
+          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
           },
-          "href": "https://api.spotify.com/v1/artists/7g38keVpPTJYsgkh7I4V3q",
-          "id": "7g38keVpPTJYsgkh7I4V3q",
-          "name": "Alka Produce",
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
           "type": "artist",
-          "uri": "spotify:artist:7g38keVpPTJYsgkh7I4V3q"
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UlItbkRcPTdmWC4AcKrk8",
+          "id": "5UlItbkRcPTdmWC4AcKrk8",
+          "name": "Drama Theme",
+          "type": "artist",
+          "uri": "spotify:artist:5UlItbkRcPTdmWC4AcKrk8"
         }
       ],
       "available_markets": [
@@ -1736,6 +1767,7 @@
         "JO",
         "PS",
         "IN",
+        "BY",
         "KZ",
         "MD",
         "UA",
@@ -1843,24 +1875,24 @@
         "XK"
       ],
       "disc_number": 1,
-      "duration_ms": 199139,
-      "explicit": false,
+      "duration_ms": 251000,
+      "explicit": true,
       "external_ids": {
-        "isrc": "BK4DA2401071"
+        "isrc": "QZTVM2472034"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4XewFAzUxekdiZe85bKRM8"
+        "spotify": "https://open.spotify.com/track/6WQWX8UtgKl7gfL8m6St1O"
       },
-      "href": "https://api.spotify.com/v1/tracks/4XewFAzUxekdiZe85bKRM8",
-      "id": "4XewFAzUxekdiZe85bKRM8",
+      "href": "https://api.spotify.com/v1/tracks/6WQWX8UtgKl7gfL8m6St1O",
+      "id": "6WQWX8UtgKl7gfL8m6St1O",
       "is_local": false,
       "is_playable": true,
-      "name": "Lo Intent\u00e9",
-      "popularity": 60,
+      "name": "Mega Drive",
+      "popularity": 47,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:4XewFAzUxekdiZe85bKRM8"
+      "uri": "spotify:track:6WQWX8UtgKl7gfL8m6St1O"
     },
     {
       "album": {
@@ -2792,37 +2824,17 @@
     },
     {
       "album": {
-        "album_type": "single",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+              "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
             },
-            "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-            "id": "4V2V4PaSblStayYVWTGDbZ",
-            "name": "Geassassin",
+            "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",
+            "id": "4Fsv1gBjfqSyhzAPbhInXV",
+            "name": "Yubeili",
             "type": "artist",
-            "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-            },
-            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-            "id": "7I85Ma5xjAo6nlvqOCIiWx",
-            "name": "Fntxy",
-            "type": "artist",
-            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
-            },
-            "href": "https://api.spotify.com/v1/artists/5UlItbkRcPTdmWC4AcKrk8",
-            "id": "5UlItbkRcPTdmWC4AcKrk8",
-            "name": "Drama Theme",
-            "type": "artist",
-            "uri": "spotify:artist:5UlItbkRcPTdmWC4AcKrk8"
+            "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
           }
         ],
         "available_markets": [
@@ -2905,7 +2917,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -3013,65 +3024,55 @@
           "XK"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/5pwP34bppomcDLVWnuLXZ1"
+          "spotify": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
         },
-        "href": "https://api.spotify.com/v1/albums/5pwP34bppomcDLVWnuLXZ1",
-        "id": "5pwP34bppomcDLVWnuLXZ1",
+        "href": "https://api.spotify.com/v1/albums/2Bsf3oexDX6pAk6Za4iEhW",
+        "id": "2Bsf3oexDX6pAk6Za4iEhW",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ed45847c63acc60b09f1361d",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fe1fde04b776bbf76765f8b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ed45847c63acc60b09f1361d",
+            "url": "https://i.scdn.co/image/ab67616d00001e026fe1fde04b776bbf76765f8b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ed45847c63acc60b09f1361d",
+            "url": "https://i.scdn.co/image/ab67616d000048516fe1fde04b776bbf76765f8b",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Mega Drive",
-        "release_date": "2024-11-14",
+        "name": "LDCR: Los Del Coraz\u00f3n Roto",
+        "release_date": "2024-10-17",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 14,
         "type": "album",
-        "uri": "spotify:album:5pwP34bppomcDLVWnuLXZ1"
+        "uri": "spotify:album:2Bsf3oexDX6pAk6Za4iEhW"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+            "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
           },
-          "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-          "id": "4V2V4PaSblStayYVWTGDbZ",
-          "name": "Geassassin",
+          "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",
+          "id": "4Fsv1gBjfqSyhzAPbhInXV",
+          "name": "Yubeili",
           "type": "artist",
-          "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+          "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            "spotify": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
           },
-          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-          "id": "7I85Ma5xjAo6nlvqOCIiWx",
-          "name": "Fntxy",
+          "href": "https://api.spotify.com/v1/artists/7g38keVpPTJYsgkh7I4V3q",
+          "id": "7g38keVpPTJYsgkh7I4V3q",
+          "name": "Alka Produce",
           "type": "artist",
-          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
-          },
-          "href": "https://api.spotify.com/v1/artists/5UlItbkRcPTdmWC4AcKrk8",
-          "id": "5UlItbkRcPTdmWC4AcKrk8",
-          "name": "Drama Theme",
-          "type": "artist",
-          "uri": "spotify:artist:5UlItbkRcPTdmWC4AcKrk8"
+          "uri": "spotify:artist:7g38keVpPTJYsgkh7I4V3q"
         }
       ],
       "available_markets": [
@@ -3154,7 +3155,6 @@
         "JO",
         "PS",
         "IN",
-        "BY",
         "KZ",
         "MD",
         "UA",
@@ -3262,24 +3262,24 @@
         "XK"
       ],
       "disc_number": 1,
-      "duration_ms": 251000,
-      "explicit": true,
+      "duration_ms": 199139,
+      "explicit": false,
       "external_ids": {
-        "isrc": "QZTVM2472034"
+        "isrc": "BK4DA2401071"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6WQWX8UtgKl7gfL8m6St1O"
+        "spotify": "https://open.spotify.com/track/4XewFAzUxekdiZe85bKRM8"
       },
-      "href": "https://api.spotify.com/v1/tracks/6WQWX8UtgKl7gfL8m6St1O",
-      "id": "6WQWX8UtgKl7gfL8m6St1O",
+      "href": "https://api.spotify.com/v1/tracks/4XewFAzUxekdiZe85bKRM8",
+      "id": "4XewFAzUxekdiZe85bKRM8",
       "is_local": false,
       "is_playable": true,
-      "name": "Mega Drive",
-      "popularity": 47,
+      "name": "Lo Intent\u00e9",
+      "popularity": 60,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:6WQWX8UtgKl7gfL8m6St1O"
+      "uri": "spotify:track:4XewFAzUxekdiZe85bKRM8"
     },
     {
       "album": {
