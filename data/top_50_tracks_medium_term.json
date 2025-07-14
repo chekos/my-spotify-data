@@ -12262,99 +12262,6 @@
     },
     {
       "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "id": "6zGGjiyCeY36tgNrxsFrK9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "En Vivo",
-        "release_date": "2004-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-          "id": "4TK1gDgb7QKoPFlzRrBRgR",
-          "name": "Los Enanitos Verdes",
-          "type": "artist",
-          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "CO",
-        "CR",
-        "ES",
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 324173,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF110400453"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1RJRefe3VQ0mCEZZSzbsTu"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1RJRefe3VQ0mCEZZSzbsTu",
-      "id": "1RJRefe3VQ0mCEZZSzbsTu",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Cordillera - En Vivo",
-      "popularity": 36,
-      "preview_url": null,
-      "track_number": 11,
-      "type": "track",
-      "uri": "spotify:track:1RJRefe3VQ0mCEZZSzbsTu"
-    },
-    {
-      "album": {
         "album_type": "single",
         "artists": [
           {
@@ -12801,6 +12708,99 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:62lcIAirqahXFb9EM2gNjP"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 324173,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400453"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RJRefe3VQ0mCEZZSzbsTu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RJRefe3VQ0mCEZZSzbsTu",
+      "id": "1RJRefe3VQ0mCEZZSzbsTu",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Cordillera - En Vivo",
+      "popularity": 36,
+      "preview_url": null,
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1RJRefe3VQ0mCEZZSzbsTu"
     },
     {
       "album": {
@@ -20885,7 +20885,7 @@
       "uri": "spotify:track:0aaKa3qQwpybtg9zqQMcL1"
     }
   ],
-  "total": 882,
+  "total": 886,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
