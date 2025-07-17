@@ -182,49 +182,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-      },
-      "followers": {
-        "href": null,
-        "total": 12341035
-      },
-      "genres": [
-        "old school hip hop",
-        "gangster rap",
-        "east coast hip hop",
-        "hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
-      "id": "5me0Irg2ANcsgc93uaYrpb",
-      "images": [
-        {
-          "height": 1250,
-          "url": "https://i.scdn.co/image/1b4858fbd24046a81cace5ee18d19c868262b91f",
-          "width": 1000
-        },
-        {
-          "height": 800,
-          "url": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd",
-          "width": 640
-        },
-        {
-          "height": 250,
-          "url": "https://i.scdn.co/image/e56612ae56c9007e99ab36b83efd4faf6401260d",
-          "width": 200
-        },
-        {
-          "height": 80,
-          "url": "https://i.scdn.co/image/fc074d287739cca12a89c76fd338ff7d4aa4acee",
-          "width": 64
-        }
-      ],
-      "name": "The Notorious B.I.G.",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
       },
       "followers": {
@@ -480,7 +437,7 @@
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     }
   ],
-  "total": 13,
+  "total": 12,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
