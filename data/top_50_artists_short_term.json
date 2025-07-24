@@ -215,6 +215,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+      },
+      "followers": {
+        "href": null,
+        "total": 538842
+      },
+      "genres": [
+        "southern hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+      "id": "2J257euzcjnDLipsyJH3F2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7d6973a4df776665c9852f26",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747d6973a4df776665c9852f26",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787d6973a4df776665c9852f26",
+          "width": 160
+        }
+      ],
+      "name": "Clipse",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
       },
       "followers": {
@@ -364,7 +399,7 @@
       "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
     }
   ],
-  "total": 10,
+  "total": 11,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
