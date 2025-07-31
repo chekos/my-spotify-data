@@ -1268,6 +1268,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 152196
+      },
+      "genres": [
+        "mexican hip hop",
+        "g-funk",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
@@ -1375,43 +1412,6 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:1GImnM7WYVp95431ypofy9"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-      },
-      "followers": {
-        "href": null,
-        "total": 152196
-      },
-      "genres": [
-        "mexican hip hop",
-        "g-funk",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
-          "width": 160
-        }
-      ],
-      "name": "West Gold",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
     {
       "external_urls": {
@@ -1828,49 +1828,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
       },
       "followers": {
         "href": null,
-        "total": 12393980
+        "total": 2084
       },
-      "genres": [
-        "old school hip hop",
-        "gangster rap",
-        "east coast hip hop",
-        "hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
-      "id": "5me0Irg2ANcsgc93uaYrpb",
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
+      "id": "48G4FvpaGSQAb2ZxhUc2Hv",
       "images": [
         {
-          "height": 1250,
-          "url": "https://i.scdn.co/image/1b4858fbd24046a81cace5ee18d19c868262b91f",
-          "width": 1000
-        },
-        {
-          "height": 800,
-          "url": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd",
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad196d88a7e6a8d1d51568aa",
           "width": 640
         },
         {
-          "height": 250,
-          "url": "https://i.scdn.co/image/e56612ae56c9007e99ab36b83efd4faf6401260d",
-          "width": 200
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad196d88a7e6a8d1d51568aa",
+          "width": 320
         },
         {
-          "height": 80,
-          "url": "https://i.scdn.co/image/fc074d287739cca12a89c76fd338ff7d4aa4acee",
-          "width": 64
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad196d88a7e6a8d1d51568aa",
+          "width": 160
         }
       ],
-      "name": "The Notorious B.I.G.",
-      "popularity": 80,
+      "name": "Jasmine Alvarado",
+      "popularity": 20,
       "type": "artist",
-      "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
     }
   ],
-  "total": 90,
+  "total": 91,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
