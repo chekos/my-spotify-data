@@ -90,17 +90,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
           "width": 160
         }
       ],
@@ -310,17 +310,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe23033f623a49ece86d3eb3d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
+          "url": "https://i.scdn.co/image/ab67616100005174e23033f623a49ece86d3eb3d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
+          "url": "https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d",
           "width": 160
         }
       ],
@@ -328,6 +328,42 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 167582
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5591fc538695a02d974ae5be",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745591fc538695a02d974ae5be",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785591fc538695a02d974ae5be",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
     {
       "external_urls": {
@@ -483,7 +519,7 @@
       "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
     }
   ],
-  "total": 13,
+  "total": 14,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
