@@ -221,6 +221,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 416769
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
@@ -371,6 +407,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+      },
+      "followers": {
+        "href": null,
+        "total": 3240489
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
+      ],
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "width": 160
+        }
+      ],
+      "name": "Dharius",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
       },
       "followers": {
@@ -406,7 +479,7 @@
       "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
     }
   ],
-  "total": 11,
+  "total": 13,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
