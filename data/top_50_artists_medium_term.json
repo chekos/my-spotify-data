@@ -593,6 +593,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+      },
+      "followers": {
+        "href": null,
+        "total": 572886
+      },
+      "genres": [
+        "southern hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+      "id": "2J257euzcjnDLipsyJH3F2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7d6973a4df776665c9852f26",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747d6973a4df776665c9852f26",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787d6973a4df776665c9852f26",
+          "width": 160
+        }
+      ],
+      "name": "Clipse",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
       },
       "followers": {
@@ -1205,17 +1240,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb99070d7187d0a5985161d263",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebeb4e662c21a7d0caf7ba15fc",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517499070d7187d0a5985161d263",
+          "url": "https://i.scdn.co/image/ab67616100005174eb4e662c21a7d0caf7ba15fc",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17899070d7187d0a5985161d263",
+          "url": "https://i.scdn.co/image/ab6761610000f178eb4e662c21a7d0caf7ba15fc",
           "width": 160
         }
       ],
@@ -1816,49 +1851,6 @@
       "popularity": 19,
       "type": "artist",
       "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-      },
-      "followers": {
-        "href": null,
-        "total": 12485195
-      },
-      "genres": [
-        "old school hip hop",
-        "gangster rap",
-        "east coast hip hop",
-        "hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
-      "id": "5me0Irg2ANcsgc93uaYrpb",
-      "images": [
-        {
-          "height": 1250,
-          "url": "https://i.scdn.co/image/1b4858fbd24046a81cace5ee18d19c868262b91f",
-          "width": 1000
-        },
-        {
-          "height": 800,
-          "url": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd",
-          "width": 640
-        },
-        {
-          "height": 250,
-          "url": "https://i.scdn.co/image/e56612ae56c9007e99ab36b83efd4faf6401260d",
-          "width": 200
-        },
-        {
-          "height": 80,
-          "url": "https://i.scdn.co/image/fc074d287739cca12a89c76fd338ff7d4aa4acee",
-          "width": 64
-        }
-      ],
-      "name": "The Notorious B.I.G.",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
     }
   ],
   "total": 89,
