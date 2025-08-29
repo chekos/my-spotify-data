@@ -73,6 +73,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 3442592
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -106,42 +142,6 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 168636
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-      "id": "4V2V4PaSblStayYVWTGDbZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5591fc538695a02d974ae5be",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745591fc538695a02d974ae5be",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785591fc538695a02d974ae5be",
-          "width": 160
-        }
-      ],
-      "name": "Geassassin",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
     {
       "external_urls": {
@@ -252,39 +252,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
         "href": null,
-        "total": 3442592
+        "total": 168636
       },
       "genres": [
         "mexican hip hop",
         "latin hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5591fc538695a02d974ae5be",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "url": "https://i.scdn.co/image/ab676161000051745591fc538695a02d974ae5be",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "url": "https://i.scdn.co/image/ab6761610000f1785591fc538695a02d974ae5be",
           "width": 160
         }
       ],
-      "name": "Lefty Sm",
-      "popularity": 73,
+      "name": "Geassassin",
+      "popularity": 55,
       "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     }
   ],
   "total": 8,
