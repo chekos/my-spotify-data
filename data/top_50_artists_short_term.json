@@ -145,6 +145,45 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "followers": {
+        "href": null,
+        "total": 3662555
+      },
+      "genres": [
+        "old school hip hop",
+        "east coast hip hop",
+        "hip hop",
+        "gangster rap",
+        "hardcore hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id": "34EP7KEpOjXcM2TCat1ISk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e60866298962b71792b2bf1a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e60866298962b71792b2bf1a",
+          "width": 160
+        }
+      ],
+      "name": "Wu-Tang Clan",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -321,45 +360,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-      },
-      "followers": {
-        "href": null,
-        "total": 3662555
-      },
-      "genres": [
-        "old school hip hop",
-        "east coast hip hop",
-        "hip hop",
-        "gangster rap",
-        "hardcore hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
-      "id": "34EP7KEpOjXcM2TCat1ISk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e60866298962b71792b2bf1a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e60866298962b71792b2bf1a",
-          "width": 160
-        }
-      ],
-      "name": "Wu-Tang Clan",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
     },
     {
       "external_urls": {
