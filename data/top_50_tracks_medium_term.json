@@ -6525,172 +6525,6 @@
     },
     {
       "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-            },
-            "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-            "id": "3w2WYNyPCPkZFoC1EqfCMe",
-            "name": "Nas & Damian \"Jr. Gong\" Marley",
-            "type": "artist",
-            "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-          }
-        ],
-        "available_markets": [
-          "MX"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6JpVzt2kwys6D9waCyB13U"
-        },
-        "href": "https://api.spotify.com/v1/albums/6JpVzt2kwys6D9waCyB13U",
-        "id": "6JpVzt2kwys6D9waCyB13U",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27350740b99f076d60c1d83541e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0250740b99f076d60c1d83541e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485150740b99f076d60c1d83541e",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Distant Relatives",
-        "release_date": "2010-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:6JpVzt2kwys6D9waCyB13U"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-          },
-          "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-          "id": "3w2WYNyPCPkZFoC1EqfCMe",
-          "name": "Nas & Damian \"Jr. Gong\" Marley",
-          "type": "artist",
-          "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-        }
-      ],
-      "available_markets": [
-        "MX"
-      ],
-      "disc_number": 1,
-      "duration_ms": 289146,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USUM71010808"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0Uvk1sSaESOmgjN3yoTNSr"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0Uvk1sSaESOmgjN3yoTNSr",
-      "id": "0Uvk1sSaESOmgjN3yoTNSr",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Friends",
-      "popularity": 9,
-      "preview_url": null,
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:0Uvk1sSaESOmgjN3yoTNSr"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-            },
-            "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-            "id": "3w2WYNyPCPkZFoC1EqfCMe",
-            "name": "Nas & Damian \"Jr. Gong\" Marley",
-            "type": "artist",
-            "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-          }
-        ],
-        "available_markets": [
-          "MX"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6JpVzt2kwys6D9waCyB13U"
-        },
-        "href": "https://api.spotify.com/v1/albums/6JpVzt2kwys6D9waCyB13U",
-        "id": "6JpVzt2kwys6D9waCyB13U",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27350740b99f076d60c1d83541e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0250740b99f076d60c1d83541e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485150740b99f076d60c1d83541e",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Distant Relatives",
-        "release_date": "2010-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:6JpVzt2kwys6D9waCyB13U"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-          },
-          "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-          "id": "3w2WYNyPCPkZFoC1EqfCMe",
-          "name": "Nas & Damian \"Jr. Gong\" Marley",
-          "type": "artist",
-          "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-        }
-      ],
-      "available_markets": [
-        "MX"
-      ],
-      "disc_number": 1,
-      "duration_ms": 353080,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "USUM71010810"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1IJanipVds3ohzkIJwSOst"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1IJanipVds3ohzkIJwSOst",
-      "id": "1IJanipVds3ohzkIJwSOst",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Dispear",
-      "popularity": 3,
-      "preview_url": null,
-      "track_number": 7,
-      "type": "track",
-      "uri": "spotify:track:1IJanipVds3ohzkIJwSOst"
-    },
-    {
-      "album": {
         "album_type": "single",
         "artists": [
           {
@@ -7139,6 +6973,172 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:2P0NKGe5bO586sLXPP8ol1"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+            },
+            "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+            "id": "3w2WYNyPCPkZFoC1EqfCMe",
+            "name": "Nas & Damian \"Jr. Gong\" Marley",
+            "type": "artist",
+            "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+          }
+        ],
+        "available_markets": [
+          "MX"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6JpVzt2kwys6D9waCyB13U"
+        },
+        "href": "https://api.spotify.com/v1/albums/6JpVzt2kwys6D9waCyB13U",
+        "id": "6JpVzt2kwys6D9waCyB13U",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350740b99f076d60c1d83541e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250740b99f076d60c1d83541e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150740b99f076d60c1d83541e",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Distant Relatives",
+        "release_date": "2010-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6JpVzt2kwys6D9waCyB13U"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+          },
+          "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+          "id": "3w2WYNyPCPkZFoC1EqfCMe",
+          "name": "Nas & Damian \"Jr. Gong\" Marley",
+          "type": "artist",
+          "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+        }
+      ],
+      "available_markets": [
+        "MX"
+      ],
+      "disc_number": 1,
+      "duration_ms": 289146,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71010808"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Uvk1sSaESOmgjN3yoTNSr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Uvk1sSaESOmgjN3yoTNSr",
+      "id": "0Uvk1sSaESOmgjN3yoTNSr",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Friends",
+      "popularity": 9,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0Uvk1sSaESOmgjN3yoTNSr"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+            },
+            "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+            "id": "3w2WYNyPCPkZFoC1EqfCMe",
+            "name": "Nas & Damian \"Jr. Gong\" Marley",
+            "type": "artist",
+            "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+          }
+        ],
+        "available_markets": [
+          "MX"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6JpVzt2kwys6D9waCyB13U"
+        },
+        "href": "https://api.spotify.com/v1/albums/6JpVzt2kwys6D9waCyB13U",
+        "id": "6JpVzt2kwys6D9waCyB13U",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350740b99f076d60c1d83541e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250740b99f076d60c1d83541e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150740b99f076d60c1d83541e",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Distant Relatives",
+        "release_date": "2010-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6JpVzt2kwys6D9waCyB13U"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+          },
+          "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+          "id": "3w2WYNyPCPkZFoC1EqfCMe",
+          "name": "Nas & Damian \"Jr. Gong\" Marley",
+          "type": "artist",
+          "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+        }
+      ],
+      "available_markets": [
+        "MX"
+      ],
+      "disc_number": 1,
+      "duration_ms": 353080,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71010810"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1IJanipVds3ohzkIJwSOst"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1IJanipVds3ohzkIJwSOst",
+      "id": "1IJanipVds3ohzkIJwSOst",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dispear",
+      "popularity": 3,
+      "preview_url": null,
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1IJanipVds3ohzkIJwSOst"
     },
     {
       "album": {
@@ -20851,7 +20851,7 @@
       "uri": "spotify:track:7veBNI9hUkxOMCKqAQ0LlX"
     }
   ],
-  "total": 797,
+  "total": 807,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
