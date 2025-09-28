@@ -74,6 +74,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 6021080
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe23033f623a49ece86d3eb3d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e23033f623a49ece86d3eb3d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
       },
       "followers": {
@@ -145,42 +181,6 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 6021080
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe23033f623a49ece86d3eb3d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e23033f623a49ece86d3eb3d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
     {
       "external_urls": {
@@ -883,42 +883,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      "followers": {
-        "href": null,
-        "total": 44031888
-      },
-      "genres": [
-        "hip hop",
-        "west coast hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
-      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
-          "width": 160
-        }
-      ],
-      "name": "Kendrick Lamar",
-      "popularity": 93,
-      "type": "artist",
-      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -952,6 +916,42 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "followers": {
+        "href": null,
+        "total": 44031888
+      },
+      "genres": [
+        "hip hop",
+        "west coast hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+          "width": 160
+        }
+      ],
+      "name": "Kendrick Lamar",
+      "popularity": 93,
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
     {
       "external_urls": {
@@ -1694,6 +1694,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
+      },
+      "followers": {
+        "href": null,
+        "total": 2118
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
+      "id": "48G4FvpaGSQAb2ZxhUc2Hv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad196d88a7e6a8d1d51568aa",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad196d88a7e6a8d1d51568aa",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad196d88a7e6a8d1d51568aa",
+          "width": 160
+        }
+      ],
+      "name": "Jasmine Alvarado",
+      "popularity": 17,
+      "type": "artist",
+      "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
       },
       "followers": {
@@ -1809,42 +1842,6 @@
       "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-      },
-      "followers": {
-        "href": null,
-        "total": 2851705
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-      "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8bbda3c2a564c9b986286a77",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748bbda3c2a564c9b986286a77",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788bbda3c2a564c9b986286a77",
-          "width": 160
-        }
-      ],
-      "name": "Millonario",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
     }
   ],
   "total": 158,
