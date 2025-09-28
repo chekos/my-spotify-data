@@ -1074,6 +1074,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+      },
+      "followers": {
+        "href": null,
+        "total": 726966
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+      "id": "645xd9cHiiLqqehoLzLMDR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb383141090bb8b1ecd410dc39",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174383141090bb8b1ecd410dc39",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178383141090bb8b1ecd410dc39",
+          "width": 160
+        }
+      ],
+      "name": "Ad\u00e1n Cruz",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
       },
       "followers": {
@@ -1821,43 +1857,6 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6pWTPhk1AtVfNmkaeXXVpD"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-      },
-      "followers": {
-        "href": null,
-        "total": 4212188
-      },
-      "genres": [
-        "ranchera",
-        "bolero",
-        "mariachi"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
-      "id": "6qhOH2mrlqUDod9sWA5kR2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf4ec89abadc41dbee74502b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f4ec89abadc41dbee74502b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f4ec89abadc41dbee74502b0",
-          "width": 160
-        }
-      ],
-      "name": "Leo Dan",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
     }
   ],
   "total": 81,
