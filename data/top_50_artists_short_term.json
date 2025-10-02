@@ -364,6 +364,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7m0VNGsfGUKPBbbJ56MFnR"
+      },
+      "followers": {
+        "href": null,
+        "total": 9473
+      },
+      "genres": [
+        "trova",
+        "nueva trova",
+        "latin folk",
+        "latin folklore"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7m0VNGsfGUKPBbbJ56MFnR",
+      "id": "7m0VNGsfGUKPBbbJ56MFnR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733389de6705f37b272b2de57a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023389de6705f37b272b2de57a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513389de6705f37b272b2de57a",
+          "width": 64
+        }
+      ],
+      "name": "Gabino Palomares",
+      "popularity": 25,
+      "type": "artist",
+      "uri": "spotify:artist:7m0VNGsfGUKPBbbJ56MFnR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
       },
       "followers": {
@@ -612,7 +650,7 @@
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     }
   ],
-  "total": 17,
+  "total": 18,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
