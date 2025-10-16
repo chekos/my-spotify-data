@@ -21667,13 +21667,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+              "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
             },
-            "href": "https://api.spotify.com/v1/artists/5ZNxiPcbKgaNcBrERMpqeu",
-            "id": "5ZNxiPcbKgaNcBrERMpqeu",
-            "name": "M\u00e4go de Oz",
+            "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+            "id": "2FS22haX3FYbyOsUAkuYqZ",
+            "name": "Los Fabulosos Cadillacs",
             "type": "artist",
-            "uri": "spotify:artist:5ZNxiPcbKgaNcBrERMpqeu"
+            "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
           }
         ],
         "available_markets": [
@@ -21763,7 +21763,9 @@
           "AL",
           "BA",
           "HR",
+          "ME",
           "MK",
+          "RS",
           "SI",
           "KR",
           "BD",
@@ -21858,48 +21860,49 @@
           "LY",
           "TJ",
           "VE",
-          "ET"
+          "ET",
+          "XK"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+          "spotify": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
         },
-        "href": "https://api.spotify.com/v1/albums/3Eubo97y5NcXWz7PsCzHIT",
-        "id": "3Eubo97y5NcXWz7PsCzHIT",
+        "href": "https://api.spotify.com/v1/albums/4jrl8361FYPSK2gdEEKATh",
+        "id": "4jrl8361FYPSK2gdEEKATh",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9",
+            "url": "https://i.scdn.co/image/ab67616d0000b27358cb4a7703f916ff5b3318df",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023e782d96dc4cbe7950a274a9",
+            "url": "https://i.scdn.co/image/ab67616d00001e0258cb4a7703f916ff5b3318df",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513e782d96dc4cbe7950a274a9",
+            "url": "https://i.scdn.co/image/ab67616d0000485158cb4a7703f916ff5b3318df",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Finisterra",
-        "release_date": "2000",
-        "release_date_precision": "year",
-        "total_tracks": 20,
+        "name": "El Ritmo Mundial",
+        "release_date": "1988-06-18",
+        "release_date_precision": "day",
+        "total_tracks": 11,
         "type": "album",
-        "uri": "spotify:album:3Eubo97y5NcXWz7PsCzHIT"
+        "uri": "spotify:album:4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+            "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
           },
-          "href": "https://api.spotify.com/v1/artists/5ZNxiPcbKgaNcBrERMpqeu",
-          "id": "5ZNxiPcbKgaNcBrERMpqeu",
-          "name": "M\u00e4go de Oz",
+          "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+          "id": "2FS22haX3FYbyOsUAkuYqZ",
+          "name": "Los Fabulosos Cadillacs",
           "type": "artist",
-          "uri": "spotify:artist:5ZNxiPcbKgaNcBrERMpqeu"
+          "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
       "available_markets": [
@@ -21989,7 +21992,9 @@
         "AL",
         "BA",
         "HR",
+        "ME",
         "MK",
+        "RS",
         "SI",
         "KR",
         "BD",
@@ -22084,27 +22089,28 @@
         "LY",
         "TJ",
         "VE",
-        "ET"
+        "ET",
+        "XK"
       ],
-      "disc_number": 2,
-      "duration_ms": 296751,
+      "disc_number": 1,
+      "duration_ms": 279986,
       "explicit": false,
       "external_ids": {
-        "isrc": "ES6880400795"
+        "isrc": "ARFSB0800285"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+        "spotify": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
       },
-      "href": "https://api.spotify.com/v1/tracks/02dphTJYUQ9pmdNC52iyOz",
-      "id": "02dphTJYUQ9pmdNC52iyOz",
+      "href": "https://api.spotify.com/v1/tracks/198qSChSMQFuSimdeeY9gK",
+      "id": "198qSChSMQFuSimdeeY9gK",
       "is_local": false,
       "is_playable": true,
-      "name": "Fiesta Pagana",
-      "popularity": 70,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "popularity": 71,
       "preview_url": null,
-      "track_number": 1,
+      "track_number": 3,
       "type": "track",
-      "uri": "spotify:track:02dphTJYUQ9pmdNC52iyOz"
+      "uri": "spotify:track:198qSChSMQFuSimdeeY9gK"
     }
   ],
   "total": 199,
