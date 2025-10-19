@@ -436,44 +436,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-      },
-      "followers": {
-        "href": null,
-        "total": 10059020
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-      "id": "7An4yvF7hDYDolN4m5zKBp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe17b9f28e68b545e075ba35f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e17b9f28e68b545e075ba35f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e17b9f28e68b545e075ba35f",
-          "width": 160
-        }
-      ],
-      "name": "Soda Stereo",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -545,43 +507,6 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:37ZflmHTdxkSLQuT8w9NBs"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-      },
-      "followers": {
-        "href": null,
-        "total": 1850816
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
-      "id": "5B6H1Dq77AV1LZWrbNsuH5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb70f08f633c78d37071b55f7a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517470f08f633c78d37071b55f7a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17870f08f633c78d37071b55f7a",
-          "width": 160
-        }
-      ],
-      "name": "Jarabe De Palo",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
     },
     {
       "external_urls": {
@@ -659,42 +584,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 27816
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
       },
       "followers": {
@@ -727,7 +616,7 @@
       "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
     }
   ],
-  "total": 20,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
