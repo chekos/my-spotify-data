@@ -2,11 +2,46 @@
   "items": [
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+      },
+      "followers": {
+        "href": null,
+        "total": 849605
+      },
+      "genres": [
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+      "id": "6fMZytDgX1Q9OV6ndSugym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb75e86a27e54aae43e6325973",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517475e86a27e54aae43e6325973",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17875e86a27e54aae43e6325973",
+          "width": 160
+        }
+      ],
+      "name": "Akapellah",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 6059791
+        "total": 6061112
       },
       "genres": [
         "mexican hip hop",
@@ -38,82 +73,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-      },
-      "followers": {
-        "href": null,
-        "total": 849447
-      },
-      "genres": [
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-      "id": "6fMZytDgX1Q9OV6ndSugym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb75e86a27e54aae43e6325973",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517475e86a27e54aae43e6325973",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17875e86a27e54aae43e6325973",
-          "width": 160
-        }
-      ],
-      "name": "Akapellah",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 3547956
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
         "href": null,
-        "total": 732396
+        "total": 732768
       },
       "genres": [
         "mexican hip hop",
@@ -145,11 +109,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 3549425
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
       },
       "followers": {
         "href": null,
-        "total": 308666
+        "total": 308687
       },
       "genres": [
         "mexican hip hop",
@@ -185,7 +185,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9582
+        "total": 9584
       },
       "genres": [
         "trova",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 418636
+        "total": 418669
       },
       "genres": [
         "mexican hip hop",
@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3739990
+        "total": 3741390
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -298,7 +298,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1623179
+        "total": 1623487
       },
       "genres": [
         "trova",
@@ -335,7 +335,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1852815
+        "total": 1853159
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -372,7 +372,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1106596
+        "total": 1106668
       },
       "genres": [
         "brazilian hip hop",
@@ -410,7 +410,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2594926
+        "total": 2595670
       },
       "genres": [
         "mpb",
@@ -447,7 +447,7 @@
       },
       "followers": {
         "href": null,
-        "total": 170615
+        "total": 170651
       },
       "genres": [
         "mexican hip hop",
@@ -483,7 +483,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1934193
+        "total": 1934729
       },
       "genres": [
         "mexican hip hop",
@@ -519,7 +519,7 @@
       },
       "followers": {
         "href": null,
-        "total": 153683
+        "total": 153706
       },
       "genres": [
         "mexican hip hop",
@@ -556,7 +556,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76309
+        "total": 76310
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
