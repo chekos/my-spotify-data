@@ -11347,12 +11347,6 @@
           }
         ],
         "available_markets": [
-          "BD",
-          "BT",
-          "KG",
-          "NP",
-          "IN",
-          "LK",
           "KZ",
           "MV",
           "PK",
@@ -11546,12 +11540,6 @@
         }
       ],
       "available_markets": [
-        "BD",
-        "BT",
-        "KG",
-        "NP",
-        "IN",
-        "LK",
         "KZ",
         "MV",
         "PK",
@@ -22079,7 +22067,7 @@
       "uri": "spotify:track:7pV84LMAPq78FxaqV7xKAV"
     }
   ],
-  "total": 2083,
+  "total": 2084,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=long_term",
