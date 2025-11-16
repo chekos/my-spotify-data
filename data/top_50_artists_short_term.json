@@ -520,9 +520,46 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+      },
+      "followers": {
+        "href": null,
+        "total": 233633
+      },
+      "genres": [
+        "freestyle",
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+      "id": "4r1ZDYKzPt3iIjuq8LbT6X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb47c3077aa3a1f4029af25a8e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517447c3077aa3a1f4029af25a8e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17847c3077aa3a1f4029af25a8e",
+          "width": 160
+        }
+      ],
+      "name": "Aczino",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
