@@ -1501,6 +1501,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+      },
+      "followers": {
+        "href": null,
+        "total": 20298142
+      },
+      "genres": [
+        "corrido",
+        "corridos tumbados",
+        "corridos b\u00e9licos",
+        "m\u00fasica mexicana",
+        "sierre\u00f1o",
+        "banda",
+        "electro corridos",
+        "sad sierre\u00f1o"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+      "id": "0ys2OFYzWYB5hRDLCsBqxt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb158a3d24a31166b983e26325",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174158a3d24a31166b983e26325",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178158a3d24a31166b983e26325",
+          "width": 160
+        }
+      ],
+      "name": "Fuerza Regida",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
       },
       "followers": {
@@ -1791,43 +1833,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4UOlRVifrFdQHW9qu5ep8t"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-      },
-      "followers": {
-        "href": null,
-        "total": 1860618
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
-      "id": "5B6H1Dq77AV1LZWrbNsuH5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb70f08f633c78d37071b55f7a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517470f08f633c78d37071b55f7a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17870f08f633c78d37071b55f7a",
-          "width": 160
-        }
-      ],
-      "name": "Jarabe De Palo",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
     }
   ],
   "total": 82,
