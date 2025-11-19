@@ -1138,6 +1138,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 3394302
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "ska",
+        "argentine rock",
+        "latin alternative",
+        "mexican ska",
+        "murga"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+      "id": "2FS22haX3FYbyOsUAkuYqZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebacc7c838bf4dddcc86106b0f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174acc7c838bf4dddcc86106b0f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178acc7c838bf4dddcc86106b0f",
+          "width": 160
+        }
+      ],
+      "name": "Los Fabulosos Cadillacs",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -1800,39 +1841,6 @@
       "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:4OiCK9NnTWhakDIG57uBUA"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
-      },
-      "followers": {
-        "href": null,
-        "total": 582447
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4UOlRVifrFdQHW9qu5ep8t",
-      "id": "4UOlRVifrFdQHW9qu5ep8t",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6e7ddd3bbecdf5b28d20eaff",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746e7ddd3bbecdf5b28d20eaff",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786e7ddd3bbecdf5b28d20eaff",
-          "width": 160
-        }
-      ],
-      "name": "Tech N9ne Collabos",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:4UOlRVifrFdQHW9qu5ep8t"
     }
   ],
   "total": 82,
