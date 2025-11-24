@@ -483,42 +483,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 176831
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd88085d3c9f5dc6c7738a841",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d88085d3c9f5dc6c7738a841",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d88085d3c9f5dc6c7738a841",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
@@ -626,6 +590,42 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 176831
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd88085d3c9f5dc6c7738a841",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d88085d3c9f5dc6c7738a841",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d88085d3c9f5dc6c7738a841",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
     {
       "external_urls": {
@@ -1840,7 +1840,7 @@
       "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
     }
   ],
-  "total": 160,
+  "total": 159,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
