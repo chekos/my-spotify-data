@@ -958,6 +958,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+      },
+      "followers": {
+        "href": null,
+        "total": 4349296
+      },
+      "genres": [
+        "ranchera",
+        "bolero",
+        "mariachi"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
+      "id": "6qhOH2mrlqUDod9sWA5kR2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf4ec89abadc41dbee74502b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f4ec89abadc41dbee74502b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f4ec89abadc41dbee74502b0",
+          "width": 160
+        }
+      ],
+      "name": "Leo Dan",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
@@ -1068,43 +1105,6 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-      },
-      "followers": {
-        "href": null,
-        "total": 4349296
-      },
-      "genres": [
-        "ranchera",
-        "bolero",
-        "mariachi"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6qhOH2mrlqUDod9sWA5kR2",
-      "id": "6qhOH2mrlqUDod9sWA5kR2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf4ec89abadc41dbee74502b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f4ec89abadc41dbee74502b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f4ec89abadc41dbee74502b0",
-          "width": 160
-        }
-      ],
-      "name": "Leo Dan",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
     },
     {
       "external_urls": {
