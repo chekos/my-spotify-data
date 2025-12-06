@@ -300,6 +300,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 57904
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd83bacd0c2eb6a09402fc5bb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d83bacd0c2eb6a09402fc5bb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d83bacd0c2eb6a09402fc5bb",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
       },
       "followers": {
@@ -522,7 +559,7 @@
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
