@@ -40,50 +40,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-      },
-      "followers": {
-        "href": null,
-        "total": 5300046
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "mexican rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-      "id": "4TK1gDgb7QKoPFlzRrBRgR",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
-          "width": 64
-        }
-      ],
-      "name": "Los Enanitos Verdes",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -487,7 +443,7 @@
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     }
   ],
-  "total": 13,
+  "total": 12,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
