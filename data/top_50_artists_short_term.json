@@ -109,6 +109,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 59702
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd83bacd0c2eb6a09402fc5bb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d83bacd0c2eb6a09402fc5bb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d83bacd0c2eb6a09402fc5bb",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
@@ -182,43 +219,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-      },
-      "followers": {
-        "href": null,
-        "total": 59702
-      },
-      "genres": [
-        "mexican hip hop",
-        "electro corridos",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-      "id": "0U8dIwzBn17JkhYxmznp6T",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd83bacd0c2eb6a09402fc5bb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d83bacd0c2eb6a09402fc5bb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d83bacd0c2eb6a09402fc5bb",
-          "width": 160
-        }
-      ],
-      "name": "Jayrick",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
@@ -288,42 +288,6 @@
       "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 10167602
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebcc8e116e76c85e1880d9889f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174cc8e116e76c85e1880d9889f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178cc8e116e76c85e1880d9889f",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -511,6 +475,42 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:2HvyR5FsU37QMqVzIbGwl7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 10167602
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcc8e116e76c85e1880d9889f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174cc8e116e76c85e1880d9889f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178cc8e116e76c85e1880d9889f",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     }
   ],
   "total": 14,
