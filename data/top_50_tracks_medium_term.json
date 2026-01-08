@@ -12128,6 +12128,199 @@
     },
     {
       "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+            },
+            "href": "https://api.spotify.com/v1/artists/09xj0S68Y1OU1vHMCZAIvz",
+            "id": "09xj0S68Y1OU1vHMCZAIvz",
+            "name": "Caf\u00e9 Tacvba",
+            "type": "artist",
+            "uri": "spotify:artist:09xj0S68Y1OU1vHMCZAIvz"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "AT",
+          "BA",
+          "BB",
+          "BE",
+          "BO",
+          "BR",
+          "BS",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CW",
+          "DE",
+          "DM",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HR",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "LT",
+          "LU",
+          "LV",
+          "ME",
+          "MK",
+          "MX",
+          "NI",
+          "NL",
+          "PA",
+          "PE",
+          "PH",
+          "PK",
+          "PY",
+          "RS",
+          "SA",
+          "SI",
+          "SR",
+          "SV",
+          "TT",
+          "US",
+          "UY",
+          "VC",
+          "VE",
+          "XK"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
+        },
+        "href": "https://api.spotify.com/v1/albums/2qbDaaW7eJ42FByw7pQkZQ",
+        "id": "2qbDaaW7eJ42FByw7pQkZQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27316e5769c36966cb9a60600d6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0216e5769c36966cb9a60600d6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485116e5769c36966cb9a60600d6",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "El Objeto Antes Llamado Disco",
+        "release_date": "2012-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2qbDaaW7eJ42FByw7pQkZQ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          },
+          "href": "https://api.spotify.com/v1/artists/09xj0S68Y1OU1vHMCZAIvz",
+          "id": "09xj0S68Y1OU1vHMCZAIvz",
+          "name": "Caf\u00e9 Tacvba",
+          "type": "artist",
+          "uri": "spotify:artist:09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "available_markets": [
+        "AG",
+        "AR",
+        "AT",
+        "BA",
+        "BB",
+        "BE",
+        "BO",
+        "BR",
+        "BS",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CW",
+        "DE",
+        "DM",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GD",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "JM",
+        "JP",
+        "KN",
+        "LC",
+        "LT",
+        "LU",
+        "LV",
+        "ME",
+        "MK",
+        "MX",
+        "NI",
+        "NL",
+        "PA",
+        "PE",
+        "PH",
+        "PK",
+        "PY",
+        "RS",
+        "SA",
+        "SI",
+        "SR",
+        "SV",
+        "TT",
+        "US",
+        "UY",
+        "VC",
+        "VE",
+        "XK"
+      ],
+      "disc_number": 1,
+      "duration_ms": 254173,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71210466"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2GvI8j0DaIAGvubj5NinEF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2GvI8j0DaIAGvubj5NinEF",
+      "id": "2GvI8j0DaIAGvubj5NinEF",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Aprov\u00e9chate",
+      "popularity": 64,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2GvI8j0DaIAGvubj5NinEF"
+    },
+    {
+      "album": {
         "album_type": "single",
         "artists": [
           {
@@ -13025,199 +13218,6 @@
       "track_number": 3,
       "type": "track",
       "uri": "spotify:track:0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-            },
-            "href": "https://api.spotify.com/v1/artists/09xj0S68Y1OU1vHMCZAIvz",
-            "id": "09xj0S68Y1OU1vHMCZAIvz",
-            "name": "Caf\u00e9 Tacvba",
-            "type": "artist",
-            "uri": "spotify:artist:09xj0S68Y1OU1vHMCZAIvz"
-          }
-        ],
-        "available_markets": [
-          "AG",
-          "AR",
-          "AT",
-          "BA",
-          "BB",
-          "BE",
-          "BO",
-          "BR",
-          "BS",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CW",
-          "DE",
-          "DM",
-          "DO",
-          "EC",
-          "EE",
-          "ES",
-          "FI",
-          "FR",
-          "GD",
-          "GT",
-          "GY",
-          "HN",
-          "HR",
-          "HT",
-          "JM",
-          "JP",
-          "KN",
-          "LC",
-          "LT",
-          "LU",
-          "LV",
-          "ME",
-          "MK",
-          "MX",
-          "NI",
-          "NL",
-          "PA",
-          "PE",
-          "PH",
-          "PK",
-          "PY",
-          "RS",
-          "SA",
-          "SI",
-          "SR",
-          "SV",
-          "TT",
-          "US",
-          "UY",
-          "VC",
-          "VE",
-          "XK"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
-        },
-        "href": "https://api.spotify.com/v1/albums/2qbDaaW7eJ42FByw7pQkZQ",
-        "id": "2qbDaaW7eJ42FByw7pQkZQ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27316e5769c36966cb9a60600d6",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0216e5769c36966cb9a60600d6",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485116e5769c36966cb9a60600d6",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "El Objeto Antes Llamado Disco",
-        "release_date": "2012-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:2qbDaaW7eJ42FByw7pQkZQ"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-          },
-          "href": "https://api.spotify.com/v1/artists/09xj0S68Y1OU1vHMCZAIvz",
-          "id": "09xj0S68Y1OU1vHMCZAIvz",
-          "name": "Caf\u00e9 Tacvba",
-          "type": "artist",
-          "uri": "spotify:artist:09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "available_markets": [
-        "AG",
-        "AR",
-        "AT",
-        "BA",
-        "BB",
-        "BE",
-        "BO",
-        "BR",
-        "BS",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CW",
-        "DE",
-        "DM",
-        "DO",
-        "EC",
-        "EE",
-        "ES",
-        "FI",
-        "FR",
-        "GD",
-        "GT",
-        "GY",
-        "HN",
-        "HR",
-        "HT",
-        "JM",
-        "JP",
-        "KN",
-        "LC",
-        "LT",
-        "LU",
-        "LV",
-        "ME",
-        "MK",
-        "MX",
-        "NI",
-        "NL",
-        "PA",
-        "PE",
-        "PH",
-        "PK",
-        "PY",
-        "RS",
-        "SA",
-        "SI",
-        "SR",
-        "SV",
-        "TT",
-        "US",
-        "UY",
-        "VC",
-        "VE",
-        "XK"
-      ],
-      "disc_number": 1,
-      "duration_ms": 254173,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "USUM71210466"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2GvI8j0DaIAGvubj5NinEF"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2GvI8j0DaIAGvubj5NinEF",
-      "id": "2GvI8j0DaIAGvubj5NinEF",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Aprov\u00e9chate",
-      "popularity": 64,
-      "preview_url": null,
-      "track_number": 6,
-      "type": "track",
-      "uri": "spotify:track:2GvI8j0DaIAGvubj5NinEF"
     },
     {
       "album": {
@@ -19058,6 +19058,91 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FbygZnWsyUjzjTGLhWVlO",
+            "id": "1FbygZnWsyUjzjTGLhWVlO",
+            "name": "Timbiriche",
+            "type": "artist",
+            "uri": "spotify:artist:1FbygZnWsyUjzjTGLhWVlO"
+          }
+        ],
+        "available_markets": [
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+        },
+        "href": "https://api.spotify.com/v1/albums/5MlF6ZpIIpoNYY7S9SKKxU",
+        "id": "5MlF6ZpIIpoNYY7S9SKKxU",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7e61c999627866934aadd99",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7e61c999627866934aadd99",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a7e61c999627866934aadd99",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Timbiriche 8",
+        "release_date": "1988-05-07",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FbygZnWsyUjzjTGLhWVlO",
+          "id": "1FbygZnWsyUjzjTGLhWVlO",
+          "name": "Timbiriche",
+          "type": "artist",
+          "uri": "spotify:artist:1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "available_markets": [
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 260786,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXUM70804747"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1K7bwHdwsTjt9YiNmiib0P",
+      "id": "1K7bwHdwsTjt9YiNmiib0P",
+      "is_local": false,
+      "is_playable": true,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "popularity": 63,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1K7bwHdwsTjt9YiNmiib0P"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7m0VNGsfGUKPBbbJ56MFnR"
             },
             "href": "https://api.spotify.com/v1/artists/7m0VNGsfGUKPBbbJ56MFnR",
@@ -19502,91 +19587,6 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:4rJOkPJCRAf0JGkZWwvgtA"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-            },
-            "href": "https://api.spotify.com/v1/artists/1FbygZnWsyUjzjTGLhWVlO",
-            "id": "1FbygZnWsyUjzjTGLhWVlO",
-            "name": "Timbiriche",
-            "type": "artist",
-            "uri": "spotify:artist:1FbygZnWsyUjzjTGLhWVlO"
-          }
-        ],
-        "available_markets": [
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-        },
-        "href": "https://api.spotify.com/v1/albums/5MlF6ZpIIpoNYY7S9SKKxU",
-        "id": "5MlF6ZpIIpoNYY7S9SKKxU",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a7e61c999627866934aadd99",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a7e61c999627866934aadd99",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a7e61c999627866934aadd99",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Timbiriche 8",
-        "release_date": "1988-05-07",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-          },
-          "href": "https://api.spotify.com/v1/artists/1FbygZnWsyUjzjTGLhWVlO",
-          "id": "1FbygZnWsyUjzjTGLhWVlO",
-          "name": "Timbiriche",
-          "type": "artist",
-          "uri": "spotify:artist:1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "available_markets": [
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 260786,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXUM70804747"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1K7bwHdwsTjt9YiNmiib0P",
-      "id": "1K7bwHdwsTjt9YiNmiib0P",
-      "is_local": false,
-      "is_playable": true,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "popularity": 63,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1K7bwHdwsTjt9YiNmiib0P"
     },
     {
       "album": {
@@ -22365,7 +22365,7 @@
       "uri": "spotify:track:0mOiiGj5Jd70aMfmEZLLoP"
     }
   ],
-  "total": 732,
+  "total": 736,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
