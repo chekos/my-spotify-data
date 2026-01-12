@@ -74,6 +74,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+      },
+      "followers": {
+        "href": null,
+        "total": 66396
+      },
+      "genres": [
+        "rap metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5KGNQQzk32VSQv9If4X7A6",
+      "id": "5KGNQQzk32VSQv9If4X7A6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb067b7c64aa73cdb821cdb4b2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174067b7c64aa73cdb821cdb4b2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178067b7c64aa73cdb821cdb4b2",
+          "width": 160
+        }
+      ],
+      "name": "Ladrones",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:5KGNQQzk32VSQv9If4X7A6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
@@ -329,7 +364,7 @@
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     }
   ],
-  "total": 9,
+  "total": 10,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
