@@ -182,6 +182,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+      },
+      "followers": {
+        "href": null,
+        "total": 10233936
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "argentine rock",
+        "latin alternative"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+      "id": "7An4yvF7hDYDolN4m5zKBp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe17b9f28e68b545e075ba35f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e17b9f28e68b545e075ba35f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e17b9f28e68b545e075ba35f",
+          "width": 160
+        }
+      ],
+      "name": "Soda Stereo",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
       },
       "followers": {
@@ -516,7 +554,7 @@
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
