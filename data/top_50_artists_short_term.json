@@ -552,9 +552,49 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+      },
+      "followers": {
+        "href": null,
+        "total": 7934597
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "mexican indie",
+        "latin alternative",
+        "latin indie",
+        "latin rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
+      "id": "6IdtcAwaNVAggwd6sCKgTI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb7554bfcddafd5500ed89062",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b7554bfcddafd5500ed89062",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b7554bfcddafd5500ed89062",
+          "width": 160
+        }
+      ],
+      "name": "Zo\u00e9",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
     }
   ],
-  "total": 15,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
