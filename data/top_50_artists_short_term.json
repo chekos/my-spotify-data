@@ -38,6 +38,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+      },
+      "followers": {
+        "href": null,
+        "total": 3059492
+      },
+      "genres": [
+        "latin hip hop",
+        "latin alternative",
+        "reggaeton"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
+      "id": "0yNSzH5nZmHzeE2xn6Xshb",
+      "images": [
+        {
+          "height": 719,
+          "url": "https://i.scdn.co/image/edabfb79fbf3d71ad9d0961a7b199a1470fe5372",
+          "width": 1000
+        },
+        {
+          "height": 460,
+          "url": "https://i.scdn.co/image/a3c9dd492b973e5d5ebfd957b30325972c16d2d4",
+          "width": 640
+        },
+        {
+          "height": 144,
+          "url": "https://i.scdn.co/image/896866e81c4a3d873ce3a28b2396f75212d192a0",
+          "width": 200
+        },
+        {
+          "height": 46,
+          "url": "https://i.scdn.co/image/28b48ccc46a8cb61fbf3e67867fc7794acc6dc85",
+          "width": 64
+        }
+      ],
+      "name": "Calle 13",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
       },
       "followers": {
@@ -106,48 +148,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:5KGNQQzk32VSQv9If4X7A6"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-      },
-      "followers": {
-        "href": null,
-        "total": 3059492
-      },
-      "genres": [
-        "latin hip hop",
-        "latin alternative",
-        "reggaeton"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
-      "id": "0yNSzH5nZmHzeE2xn6Xshb",
-      "images": [
-        {
-          "height": 719,
-          "url": "https://i.scdn.co/image/edabfb79fbf3d71ad9d0961a7b199a1470fe5372",
-          "width": 1000
-        },
-        {
-          "height": 460,
-          "url": "https://i.scdn.co/image/a3c9dd492b973e5d5ebfd957b30325972c16d2d4",
-          "width": 640
-        },
-        {
-          "height": 144,
-          "url": "https://i.scdn.co/image/896866e81c4a3d873ce3a28b2396f75212d192a0",
-          "width": 200
-        },
-        {
-          "height": 46,
-          "url": "https://i.scdn.co/image/28b48ccc46a8cb61fbf3e67867fc7794acc6dc85",
-          "width": 64
-        }
-      ],
-      "name": "Calle 13",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
     },
     {
       "external_urls": {
@@ -223,43 +223,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-      },
-      "followers": {
-        "href": null,
-        "total": 6858241
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-      "id": "4QFG9KrGWEbr6hNA58CAqE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
-          "width": 160
-        }
-      ],
-      "name": "Alem\u00e1n",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
       },
       "followers": {
@@ -295,6 +258,43 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+      },
+      "followers": {
+        "href": null,
+        "total": 6858241
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+      "id": "4QFG9KrGWEbr6hNA58CAqE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
+          "width": 160
+        }
+      ],
+      "name": "Alem\u00e1n",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
     {
       "external_urls": {
@@ -372,43 +372,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-      },
-      "followers": {
-        "href": null,
-        "total": 3413232
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
-      ],
-      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-      "id": "66RfYVdftqnuHRicyClgL0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
-          "width": 160
-        }
-      ],
-      "name": "Dharius",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
       },
       "followers": {
@@ -443,6 +406,43 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+      },
+      "followers": {
+        "href": null,
+        "total": 3413232
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
+      ],
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "width": 160
+        }
+      ],
+      "name": "Dharius",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
     {
       "external_urls": {
