@@ -293,6 +293,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1999869
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -362,42 +398,6 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 1999869
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
     {
       "external_urls": {
@@ -1245,42 +1245,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-      },
-      "followers": {
-        "href": null,
-        "total": 130756
-      },
-      "genres": [
-        "reggae",
-        "ragga"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-      "id": "3w2WYNyPCPkZFoC1EqfCMe",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736464d88f4a4cc33bac40030f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026464d88f4a4cc33bac40030f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516464d88f4a4cc33bac40030f",
-          "width": 64
-        }
-      ],
-      "name": "Nas & Damian \"Jr. Gong\" Marley",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
       },
       "followers": {
@@ -1317,6 +1281,42 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:628gUkswCfCS1hIOOHmIpK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+      },
+      "followers": {
+        "href": null,
+        "total": 130756
+      },
+      "genres": [
+        "reggae",
+        "ragga"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+      "id": "3w2WYNyPCPkZFoC1EqfCMe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736464d88f4a4cc33bac40030f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026464d88f4a4cc33bac40030f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516464d88f4a4cc33bac40030f",
+          "width": 64
+        }
+      ],
+      "name": "Nas & Damian \"Jr. Gong\" Marley",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
     },
     {
       "external_urls": {
