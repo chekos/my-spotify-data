@@ -1028,42 +1028,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-      },
-      "followers": {
-        "href": null,
-        "total": 806262
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1oHPSeQJBwNmpq0J52Wjn1",
-      "id": "1oHPSeQJBwNmpq0J52Wjn1",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb66e7f41ac4e76e8057a8ee08",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517466e7f41ac4e76e8057a8ee08",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17866e7f41ac4e76e8057a8ee08",
-          "width": 160
-        }
-      ],
-      "name": "Toser One",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:1oHPSeQJBwNmpq0J52Wjn1"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       "followers": {
@@ -1465,7 +1429,7 @@
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     }
   ],
-  "total": 40,
+  "total": 39,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
