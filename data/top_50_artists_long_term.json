@@ -1623,6 +1623,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+      },
+      "followers": {
+        "href": null,
+        "total": 588
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+      "id": "231yQfVjg9sGhTNsaym9ck",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+          "width": 64
+        }
+      ],
+      "name": "C\u00f3digo KM",
+      "popularity": 6,
+      "type": "artist",
+      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
       },
       "followers": {
@@ -1658,39 +1691,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-      },
-      "followers": {
-        "href": null,
-        "total": 588
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-      "id": "231yQfVjg9sGhTNsaym9ck",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
-          "width": 64
-        }
-      ],
-      "name": "C\u00f3digo KM",
-      "popularity": 6,
-      "type": "artist",
-      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
     {
       "external_urls": {
@@ -1842,7 +1842,7 @@
       "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
     }
   ],
-  "total": 168,
+  "total": 169,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
