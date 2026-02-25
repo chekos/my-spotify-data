@@ -291,6 +291,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 3900456
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebca62afe2c6df23438399972f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ca62afe2c6df23438399972f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ca62afe2c6df23438399972f",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
       },
       "followers": {
@@ -650,43 +687,6 @@
       "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-      },
-      "followers": {
-        "href": null,
-        "total": 3900456
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-      "id": "1QhaqxeqF9sipS2gwbEKpu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebca62afe2c6df23438399972f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ca62afe2c6df23438399972f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ca62afe2c6df23438399972f",
-          "width": 160
-        }
-      ],
-      "name": "C-Kan",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
     {
       "external_urls": {
