@@ -435,6 +435,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+      },
+      "followers": {
+        "href": null,
+        "total": 2688945
+      },
+      "genres": [
+        "banda",
+        "norte\u00f1o",
+        "ranchera",
+        "grupera",
+        "duranguense",
+        "mariachi"
+      ],
+      "href": "https://api.spotify.com/v1/artists/59Ih0XIAzMXq7Yf9ny3u5t",
+      "id": "59Ih0XIAzMXq7Yf9ny3u5t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb76e540b7833f408db278ba4b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517476e540b7833f408db278ba4b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17876e540b7833f408db278ba4b",
+          "width": 160
+        }
+      ],
+      "name": "El Chapo De Sinaloa",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:59Ih0XIAzMXq7Yf9ny3u5t"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
@@ -831,45 +871,6 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-      },
-      "followers": {
-        "href": null,
-        "total": 116209
-      },
-      "genres": [
-        "trova",
-        "nueva trova",
-        "latin folklore",
-        "bolero",
-        "latin folk"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4QHjJWgPhculd31AHEsjOb",
-      "id": "4QHjJWgPhculd31AHEsjOb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732d896c7fe40a24d5f5d9c00d",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022d896c7fe40a24d5f5d9c00d",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512d896c7fe40a24d5f5d9c00d",
-          "width": 64
-        }
-      ],
-      "name": "\u00d3scar Ch\u00e1vez",
-      "popularity": 44,
-      "type": "artist",
-      "uri": "spotify:artist:4QHjJWgPhculd31AHEsjOb"
     },
     {
       "external_urls": {
