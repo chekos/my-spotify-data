@@ -1756,6 +1756,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+      },
+      "followers": {
+        "href": null,
+        "total": 2689806
+      },
+      "genres": [
+        "banda",
+        "norte\u00f1o",
+        "ranchera",
+        "grupera",
+        "duranguense",
+        "mariachi"
+      ],
+      "href": "https://api.spotify.com/v1/artists/59Ih0XIAzMXq7Yf9ny3u5t",
+      "id": "59Ih0XIAzMXq7Yf9ny3u5t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb76e540b7833f408db278ba4b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517476e540b7833f408db278ba4b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17876e540b7833f408db278ba4b",
+          "width": 160
+        }
+      ],
+      "name": "El Chapo De Sinaloa",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:59Ih0XIAzMXq7Yf9ny3u5t"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
       },
       "followers": {
@@ -1790,50 +1830,9 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 3431823
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "ska",
-        "argentine rock",
-        "latin alternative",
-        "mexican ska",
-        "murga"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
-      "id": "2FS22haX3FYbyOsUAkuYqZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebacc7c838bf4dddcc86106b0f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174acc7c838bf4dddcc86106b0f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178acc7c838bf4dddcc86106b0f",
-          "width": 160
-        }
-      ],
-      "name": "Los Fabulosos Cadillacs",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
     }
   ],
-  "total": 92,
+  "total": 94,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
