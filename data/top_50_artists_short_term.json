@@ -989,6 +989,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+      },
+      "followers": {
+        "href": null,
+        "total": 8102626
+      },
+      "genres": [
+        "norte\u00f1o",
+        "ranchera",
+        "corrido",
+        "banda",
+        "grupera",
+        "m\u00fasica mexicana",
+        "cumbia norte\u00f1a"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3hYtANQYrE6pd2PbtEyTIy",
+      "id": "3hYtANQYrE6pd2PbtEyTIy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1306b2b87b62721032d33004",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741306b2b87b62721032d33004",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781306b2b87b62721032d33004",
+          "width": 160
+        }
+      ],
+      "name": "Los Tigres Del Norte",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:3hYtANQYrE6pd2PbtEyTIy"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
@@ -1023,7 +1064,7 @@
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
-  "total": 28,
+  "total": 29,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
