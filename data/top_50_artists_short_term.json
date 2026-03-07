@@ -657,6 +657,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+      },
+      "followers": {
+        "href": null,
+        "total": 14164274
+      },
+      "genres": [
+        "ranchera",
+        "mariachi",
+        "m\u00fasica mexicana",
+        "norte\u00f1o",
+        "bolero",
+        "banda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4PPoI9LuYeFX8V674Z1R6l",
+      "id": "4PPoI9LuYeFX8V674Z1R6l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb18d0ae87d123dae4de445c0f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517418d0ae87d123dae4de445c0f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17818d0ae87d123dae4de445c0f",
+          "width": 160
+        }
+      ],
+      "name": "Vicente Fern\u00e1ndez",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:4PPoI9LuYeFX8V674Z1R6l"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -799,6 +839,46 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+      },
+      "followers": {
+        "href": null,
+        "total": 4686531
+      },
+      "genres": [
+        "norte\u00f1o",
+        "tejano",
+        "grupera",
+        "banda",
+        "cumbia norte\u00f1a",
+        "ranchera"
+      ],
+      "href": "https://api.spotify.com/v1/artists/108moq3rq6bm1M4Ypz0J02",
+      "id": "108moq3rq6bm1M4Ypz0J02",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7ebb9816fc711b44d4fe58e5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747ebb9816fc711b44d4fe58e5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787ebb9816fc711b44d4fe58e5",
+          "width": 160
+        }
+      ],
+      "name": "Intocable",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:108moq3rq6bm1M4Ypz0J02"
     },
     {
       "external_urls": {
@@ -1064,7 +1144,7 @@
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
-  "total": 29,
+  "total": 31,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
