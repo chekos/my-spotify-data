@@ -24,6 +24,8 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v6
+      with:
+        fetch-depth: 0
     - name: Set up Python
       uses: actions/setup-python@v6
       with:
@@ -53,4 +55,5 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
+        git pull --rebase origin main
         git push
