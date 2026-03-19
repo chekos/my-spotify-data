@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "27 * * * *"
 
+concurrency:
+  group: spotify-data-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
