@@ -2,12 +2,14 @@ name: Manually authorize and cache credentials
 
 on:
   workflow_dispatch:
-  
+
+permissions:
+  contents: write
+
 env:
   SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
   SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-  USERNAME: ${{ secrets.USERNAME }}
-  PASSWORD: ${{ secrets.PASSWORD }}
+  SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
   REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
 
 jobs:
@@ -15,40 +17,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v6
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
-        python-version: '3.10'
+        python-version: '3.12'
         cache: pip
     - name: Install python dependencies
       run: |-
         pip install -r requirements.txt
-    - name: Cache Spotify info
-      uses: actions/cache@v3
-      with: 
-        path: ~/.config/esporifai
-        key: ${{ runner.os }}-esporifai
-    - name: Cache browser 
-      id: cache-browser
-      uses: actions/cache@v3
-      with: 
-        path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-browsers
-    - name: Install Chromium
-      if: steps.cache-browser.outputs.cache-hit != 'true'
+    - name: Ensure auth works
       run: |
-        playwright install chromium
-    - name: Auth check
-      run: |
-        if [ "$(esporifai auth --check)" ]
-          then
-              echo "Credentials already present."
-              esporifai auth 
-          else
-              echo "Authorizing"
-              esporifai auth --force
-        fi
+        esporifai auth --status
+        esporifai auth --force
     - name: Get tracks played in the last hour
       run: |-
         esporifai get-recently-played before "$(date +"%Y-%m-%d %T")" --limit 5 --time-zone UTC --output -

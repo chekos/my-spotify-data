@@ -5,11 +5,13 @@ on:
   schedule:
     - cron: "27 * * * *"
 
+permissions:
+  contents: write
+
 env:
   SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
   SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-  USERNAME: ${{ secrets.USERNAME }}
-  PASSWORD: ${{ secrets.PASSWORD }}
+  SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
   REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
 
 jobs:
@@ -17,26 +19,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v6
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
-        python-version: '3.10'
+        python-version: '3.12'
         cache: pip
-    - name: Cache playwright 
-      uses: actions/cache@v3
-      with: 
-        path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-browsers
-    - name: Cache Spotify info
-      uses: actions/cache@v3
-      with: 
-        path: ~/.config/esporifai/
-        key: ${{ runner.os }}-esporifai
     - name: Install python dependencies
       run: |-
         pip install -r requirements.txt
-        playwright install chromium
+    - name: Ensure auth works
+      run: |-
+        esporifai auth --status
+        esporifai auth --force
     - name: Get Top Artists 
       run: |-
         esporifai get-top artists --limit 50 --time-range long --output data/top_50_artists_long_term.json
