@@ -1396,6 +1396,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+      },
+      "followers": {
+        "href": null,
+        "total": 5395009
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "latin rock",
+        "latin alternative"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1GImnM7WYVp95431ypofy9",
+      "id": "1GImnM7WYVp95431ypofy9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f58860477b33dfae15b16e0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f58860477b33dfae15b16e0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+          "width": 160
+        }
+      ],
+      "name": "Caifanes",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:1GImnM7WYVp95431ypofy9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
@@ -1790,44 +1828,6 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:59Ih0XIAzMXq7Yf9ny3u5t"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-      },
-      "followers": {
-        "href": null,
-        "total": 10417788
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-      "id": "7An4yvF7hDYDolN4m5zKBp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7c0578274e203f069f5f411c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747c0578274e203f069f5f411c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787c0578274e203f069f5f411c",
-          "width": 160
-        }
-      ],
-      "name": "Soda Stereo",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
     }
   ],
   "total": 101,
