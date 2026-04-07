@@ -20705,43 +20705,22 @@
     },
     {
       "album": {
-        "album_type": "single",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+              "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
             },
-            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-            "name": "Lefty Sm",
+            "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+            "id": "2FS22haX3FYbyOsUAkuYqZ",
+            "name": "Los Fabulosos Cadillacs",
             "type": "artist",
-            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-            },
-            "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-            "id": "3L7OHIT4kfdcDSnnGM0TKN",
-            "name": "El Pinche Mara",
-            "type": "artist",
-            "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+            "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
           }
         ],
         "available_markets": [
           "AR",
           "AU",
-          "AT",
           "BE",
           "BO",
           "BR",
@@ -20754,7 +20733,6 @@
           "CZ",
           "DK",
           "DO",
-          "DE",
           "EC",
           "EE",
           "SV",
@@ -20788,14 +20766,11 @@
           "SK",
           "ES",
           "SE",
-          "CH",
           "TW",
           "TR",
           "UY",
-          "US",
           "GB",
           "AD",
-          "LI",
           "MC",
           "ID",
           "JP",
@@ -20870,7 +20845,6 @@
           "NE",
           "PW",
           "PG",
-          "PR",
           "WS",
           "SM",
           "ST",
@@ -20926,81 +20900,50 @@
           "XK"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
+          "spotify": "https://open.spotify.com/album/3x7HN05ZGGvhP5UOEwGLZh"
         },
-        "href": "https://api.spotify.com/v1/albums/3EYmozDR9AJxr9RSJi5NRt",
-        "id": "3EYmozDR9AJxr9RSJi5NRt",
+        "href": "https://api.spotify.com/v1/albums/3x7HN05ZGGvhP5UOEwGLZh",
+        "id": "3x7HN05ZGGvhP5UOEwGLZh",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738e8e7c167bb2b6a154ad21ea",
+            "url": "https://i.scdn.co/image/ab67616d0000b273964c30a5752530e6f69e1d25",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028e8e7c167bb2b6a154ad21ea",
+            "url": "https://i.scdn.co/image/ab67616d00001e02964c30a5752530e6f69e1d25",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518e8e7c167bb2b6a154ad21ea",
+            "url": "https://i.scdn.co/image/ab67616d00004851964c30a5752530e6f69e1d25",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Bueno Pa Lo Malo",
-        "release_date": "2023-06-22",
+        "name": "Fabulosos Calavera",
+        "release_date": "1997-01-04",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 15,
         "type": "album",
-        "uri": "spotify:album:3EYmozDR9AJxr9RSJi5NRt"
+        "uri": "spotify:album:3x7HN05ZGGvhP5UOEwGLZh"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+            "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
           },
-          "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-          "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-          "name": "Lefty Sm",
+          "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+          "id": "2FS22haX3FYbyOsUAkuYqZ",
+          "name": "Los Fabulosos Cadillacs",
           "type": "artist",
-          "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-          },
-          "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-          "id": "3L7OHIT4kfdcDSnnGM0TKN",
-          "name": "El Pinche Mara",
-          "type": "artist",
-          "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-          },
-          "href": "https://api.spotify.com/v1/artists/60ltkiwaQfISsFpwwktCcb",
-          "id": "60ltkiwaQfISsFpwwktCcb",
-          "name": "Sid MSC",
-          "type": "artist",
-          "uri": "spotify:artist:60ltkiwaQfISsFpwwktCcb"
+          "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
       "available_markets": [
         "AR",
         "AU",
-        "AT",
         "BE",
         "BO",
         "BR",
@@ -21013,7 +20956,6 @@
         "CZ",
         "DK",
         "DO",
-        "DE",
         "EC",
         "EE",
         "SV",
@@ -21047,14 +20989,11 @@
         "SK",
         "ES",
         "SE",
-        "CH",
         "TW",
         "TR",
         "UY",
-        "US",
         "GB",
         "AD",
-        "LI",
         "MC",
         "ID",
         "JP",
@@ -21129,7 +21068,6 @@
         "NE",
         "PW",
         "PG",
-        "PR",
         "WS",
         "SM",
         "ST",
@@ -21185,27 +21123,27 @@
         "XK"
       ],
       "disc_number": 1,
-      "duration_ms": 399230,
-      "explicit": true,
+      "duration_ms": 262680,
+      "explicit": false,
       "external_ids": {
-        "isrc": "QM3DF2224587"
+        "isrc": "USBL10000140"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
+        "spotify": "https://open.spotify.com/track/7LjEZ54M9mss22VC0JdaPW"
       },
-      "href": "https://api.spotify.com/v1/tracks/37Wk4Hhm4MIy6Q1Vg8nVMO",
-      "id": "37Wk4Hhm4MIy6Q1Vg8nVMO",
+      "href": "https://api.spotify.com/v1/tracks/7LjEZ54M9mss22VC0JdaPW",
+      "id": "7LjEZ54M9mss22VC0JdaPW",
       "is_local": false,
       "is_playable": true,
-      "name": "Bueno Pa Lo Malo",
-      "popularity": 57,
+      "name": "Calaveras y Diablitos",
+      "popularity": 59,
       "preview_url": null,
-      "track_number": 1,
+      "track_number": 8,
       "type": "track",
-      "uri": "spotify:track:37Wk4Hhm4MIy6Q1Vg8nVMO"
+      "uri": "spotify:track:7LjEZ54M9mss22VC0JdaPW"
     }
   ],
-  "total": 1006,
+  "total": 1009,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
