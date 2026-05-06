@@ -158,6 +158,78 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
+      },
+      "followers": {
+        "href": null,
+        "total": 8766
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
+      "id": "35BPWrbRCzHa7yWWvCi8BI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba74869dda1c83a0e021d8896",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a74869dda1c83a0e021d8896",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a74869dda1c83a0e021d8896",
+          "width": 160
+        }
+      ],
+      "name": "Ballin",
+      "popularity": 25,
+      "type": "artist",
+      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 65792
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7f5125fc2059e8aa16da6d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a7f5125fc2059e8aa16da6d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a7f5125fc2059e8aa16da6d1",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
@@ -264,44 +336,9 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
-      },
-      "followers": {
-        "href": null,
-        "total": 8766
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
-      "id": "35BPWrbRCzHa7yWWvCi8BI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba74869dda1c83a0e021d8896",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a74869dda1c83a0e021d8896",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a74869dda1c83a0e021d8896",
-          "width": 160
-        }
-      ],
-      "name": "Ballin",
-      "popularity": 25,
-      "type": "artist",
-      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
     }
   ],
-  "total": 8,
+  "total": 9,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
