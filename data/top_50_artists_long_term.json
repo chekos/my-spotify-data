@@ -924,6 +924,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 1985793
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc90f3fc1e05b43fe7da45773",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c90f3fc1e05b43fe7da45773",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c90f3fc1e05b43fe7da45773",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
@@ -1036,42 +1072,6 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:6IdtcAwaNVAggwd6sCKgTI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 1985793
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc90f3fc1e05b43fe7da45773",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c90f3fc1e05b43fe7da45773",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c90f3fc1e05b43fe7da45773",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
     {
       "external_urls": {
@@ -1812,39 +1812,36 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
       },
       "followers": {
         "href": null,
-        "total": 1686485
+        "total": 3197361
       },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
-      "id": "3mYFuz6iY7D9X78rOXg5CG",
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
+      "id": "5TYxZTjIPqKM8K8NuP9woO",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb6a7dae26d7f8a3896d55988",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdfb9d2cb6a43021d9002a10e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b6a7dae26d7f8a3896d55988",
+          "url": "https://i.scdn.co/image/ab67616100005174dfb9d2cb6a43021d9002a10e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b6a7dae26d7f8a3896d55988",
+          "url": "https://i.scdn.co/image/ab6761610000f178dfb9d2cb6a43021d9002a10e",
           "width": 160
         }
       ],
-      "name": "Akwid",
-      "popularity": 64,
+      "name": "C. Tangana",
+      "popularity": 73,
       "type": "artist",
-      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
+      "uri": "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
     }
   ],
   "total": 168,
