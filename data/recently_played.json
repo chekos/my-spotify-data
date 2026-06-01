@@ -451,11 +451,11 @@
     },
     "played_at": "2026-05-26T20:05:40.586Z",
     "context": {
-      "type": "playlist",
       "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/5Tcxzu5qXtuJwIrfmobPGg"
       },
+      "type": "playlist",
       "uri": "spotify:playlist:5Tcxzu5qXtuJwIrfmobPGg"
     }
   },
@@ -941,11 +941,11 @@
     },
     "played_at": "2026-05-26T20:04:09.971Z",
     "context": {
-      "type": "album",
       "href": "https://api.spotify.com/v1/albums/4p7prXOtCEjiwU0iWb62fP",
       "external_urls": {
         "spotify": "https://open.spotify.com/album/4p7prXOtCEjiwU0iWb62fP"
       },
+      "type": "album",
       "uri": "spotify:album:4p7prXOtCEjiwU0iWb62fP"
     }
   }
