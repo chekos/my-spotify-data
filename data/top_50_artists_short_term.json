@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6453174
+        "total": 6454872
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3834030
+        "total": 3836370
       },
       "genres": [
         "latin pop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1468207
+        "total": 1468598
       },
       "genres": [
         "mexican hip hop",
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3581508
+        "total": 3583043
       },
       "genres": [
         "mexican hip hop",
@@ -151,7 +151,7 @@
       },
       "followers": {
         "href": null,
-        "total": 67231
+        "total": 67267
       },
       "genres": [
         "mexican hip hop",
@@ -188,7 +188,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5748098
+        "total": 5750470
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -227,7 +227,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2707258
+        "total": 2707889
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -265,7 +265,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28735
+        "total": 28741
       },
       "genres": [
         "mexican hip hop"
@@ -300,7 +300,7 @@
       },
       "followers": {
         "href": null,
-        "total": 180725
+        "total": 180768
       },
       "genres": [
         "mexican hip hop",
@@ -336,7 +336,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3893653
+        "total": 3894717
       },
       "genres": [
         "mexican hip hop",
@@ -368,11 +368,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 2170345
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
         "href": null,
-        "total": 7160103
+        "total": 7162018
       },
       "genres": [
         "mexican hip hop",
@@ -409,7 +444,7 @@
       },
       "followers": {
         "href": null,
-        "total": 159298
+        "total": 159327
       },
       "genres": [
         "g-funk",
@@ -446,7 +481,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10393261
+        "total": 10394497
       },
       "genres": [
         "mexican hip hop",
@@ -482,7 +517,7 @@
       },
       "followers": {
         "href": null,
-        "total": 379936
+        "total": 380059
       },
       "genres": [
         "mexican hip hop",
@@ -513,7 +548,7 @@
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
