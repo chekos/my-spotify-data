@@ -261,6 +261,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+      },
+      "followers": {
+        "href": null,
+        "total": 4767139
+      },
+      "genres": [
+        "banda",
+        "norte\u00f1o",
+        "m\u00fasica mexicana",
+        "ranchera",
+        "grupera",
+        "corrido"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
+      "id": "6AcOTCYBMvjKYy4zms0kaC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf673fca644777c0c45abf71d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f673fca644777c0c45abf71d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f673fca644777c0c45abf71d",
+          "width": 160
+        }
+      ],
+      "name": "Banda El Recodo",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:6AcOTCYBMvjKYy4zms0kaC"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
       },
       "followers": {
@@ -546,9 +586,50 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+      },
+      "followers": {
+        "href": null,
+        "total": 4960549
+      },
+      "genres": [
+        "grupera",
+        "norte\u00f1o",
+        "cumbia",
+        "ranchera",
+        "cumbia norte\u00f1a",
+        "tejano",
+        "banda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0VKh7CQDi9MkUvaBMoK1V0",
+      "id": "0VKh7CQDi9MkUvaBMoK1V0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5cb57224cd6e74a82b2accd6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745cb57224cd6e74a82b2accd6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785cb57224cd6e74a82b2accd6",
+          "width": 160
+        }
+      ],
+      "name": "Bronco",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:0VKh7CQDi9MkUvaBMoK1V0"
     }
   ],
-  "total": 15,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
