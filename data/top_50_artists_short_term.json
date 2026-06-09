@@ -517,6 +517,50 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+      },
+      "followers": {
+        "href": null,
+        "total": 4222484
+      },
+      "genres": [
+        "banda",
+        "norte\u00f1o",
+        "corrido",
+        "grupera",
+        "ranchera"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3CAhiUHkUYT1mFtVHM9SHA",
+      "id": "3CAhiUHkUYT1mFtVHM9SHA",
+      "images": [
+        {
+          "height": 1535,
+          "url": "https://i.scdn.co/image/20848d4bf33aec496067ff23dcb49174adde438e",
+          "width": 1000
+        },
+        {
+          "height": 982,
+          "url": "https://i.scdn.co/image/3e8924d334900f87e533ebb58eb4e0261e9b233d",
+          "width": 640
+        },
+        {
+          "height": 307,
+          "url": "https://i.scdn.co/image/a8e600a1ac7ab3da0a2a9ac8b07fbc70fbad49d1",
+          "width": 200
+        },
+        {
+          "height": 98,
+          "url": "https://i.scdn.co/image/b3cbb3b46e34222b1ff87a014ad4bfec33b0c862",
+          "width": 64
+        }
+      ],
+      "name": "Valent\u00edn Elizalde",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:3CAhiUHkUYT1mFtVHM9SHA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
@@ -629,7 +673,7 @@
       "uri": "spotify:artist:0VKh7CQDi9MkUvaBMoK1V0"
     }
   ],
-  "total": 17,
+  "total": 18,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
