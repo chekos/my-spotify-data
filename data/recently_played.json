@@ -6,6 +6,100 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
+            "id": "6AcOTCYBMvjKYy4zms0kaC",
+            "name": "Banda El Recodo",
+            "type": "artist",
+            "uri": "spotify:artist:6AcOTCYBMvjKYy4zms0kaC"
+          }
+        ],
+        "available_markets": [
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
+        },
+        "href": "https://api.spotify.com/v1/albums/10bfwCIfySATCoekmUjeab",
+        "id": "10bfwCIfySATCoekmUjeab",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fd9510af559dfd6be2bd1fb5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fd9510af559dfd6be2bd1fb5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fd9510af559dfd6be2bd1fb5",
+            "width": 64
+          }
+        ],
+        "name": "Contigo Por Siempre",
+        "release_date": "2001-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:10bfwCIfySATCoekmUjeab"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
+          "id": "6AcOTCYBMvjKYy4zms0kaC",
+          "name": "Banda El Recodo",
+          "type": "artist",
+          "uri": "spotify:artist:6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "available_markets": [
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 196893,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USFI20100974"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3DqQhY5S4RIWIoFuowD7kX",
+      "id": "3DqQhY5S4RIWIoFuowD7kX",
+      "is_local": false,
+      "name": "Y Llegaste T\u00fa",
+      "popularity": 70,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3DqQhY5S4RIWIoFuowD7kX"
+    },
+    "played_at": "2026-06-13T22:02:15.553Z",
+    "context": {
+      "type": "playlist",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/43yV4LBb4ipYL61cCqfebc"
+      },
+      "href": "https://api.spotify.com/v1/playlists/43yV4LBb4ipYL61cCqfebc",
+      "uri": "spotify:playlist:43yV4LBb4ipYL61cCqfebc"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
             },
             "href": "https://api.spotify.com/v1/artists/5j9R5dTGerKvdXopZnfJh9",
