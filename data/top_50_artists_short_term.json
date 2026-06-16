@@ -193,39 +193,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 3855946
+        "total": 3595196
       },
       "genres": [
-        "latin pop",
-        "latin rock"
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
       ],
-      "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",
-      "id": "2QWIScpFDNxmS6ZEMIUvgm",
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3960e28156f094ca2245cab6",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743960e28156f094ca2245cab6",
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783960e28156f094ca2245cab6",
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
           "width": 160
         }
       ],
-      "name": "Julieta Venegas",
-      "popularity": 75,
+      "name": "Dharius",
+      "popularity": 66,
       "type": "artist",
-      "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
     {
       "external_urls": {
@@ -309,43 +310,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-      },
-      "followers": {
-        "href": null,
-        "total": 3595196
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
-      ],
-      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-      "id": "66RfYVdftqnuHRicyClgL0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
-          "width": 160
-        }
-      ],
-      "name": "Dharius",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
       },
       "followers": {
@@ -386,7 +350,7 @@
       "uri": "spotify:artist:0VKh7CQDi9MkUvaBMoK1V0"
     }
   ],
-  "total": 10,
+  "total": 9,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
