@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4782971
+        "total": 4784442
       },
       "genres": [
         "banda",
@@ -46,7 +46,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6474673
+        "total": 6476182
       },
       "genres": [
         "mexican hip hop",
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1473515
+        "total": 1473874
       },
       "genres": [
         "mexican hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1238324
+        "total": 1239303
       },
       "genres": [
         "norte\u00f1o",
@@ -156,11 +156,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 67806
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7f5125fc2059e8aa16da6d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a7f5125fc2059e8aa16da6d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a7f5125fc2059e8aa16da6d1",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
       },
       "followers": {
         "href": null,
-        "total": 4234428
+        "total": 4235566
       },
       "genres": [
         "banda",
@@ -204,7 +241,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3907224
+        "total": 3908223
       },
       "genres": [
         "mexican hip hop",
@@ -236,40 +273,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 67761
+        "total": 29794
       },
       "genres": [
         "mexican hip hop",
-        "electro corridos",
         "latin hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba7f5125fc2059e8aa16da6d1",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a7f5125fc2059e8aa16da6d1",
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a7f5125fc2059e8aa16da6d1",
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
           "width": 160
         }
       ],
-      "name": "Jayrick",
-      "popularity": 54,
+      "name": "Yoga Fire",
+      "popularity": 51,
       "type": "artist",
-      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -277,7 +313,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3599161
+        "total": 3600348
       },
       "genres": [
         "mexican hip hop",
@@ -314,7 +350,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4975418
+        "total": 4976798
       },
       "genres": [
         "grupera",
@@ -350,7 +386,7 @@
       "uri": "spotify:artist:0VKh7CQDi9MkUvaBMoK1V0"
     }
   ],
-  "total": 9,
+  "total": 10,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
