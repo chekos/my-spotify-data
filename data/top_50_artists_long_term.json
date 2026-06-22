@@ -1249,43 +1249,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-      },
-      "followers": {
-        "href": null,
-        "total": 679665
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "latin r&b"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
-      "id": "0SmgVe3giVHaJjGmIz8xA4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46a673f5e0f5581b41b2b14f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446a673f5e0f5581b41b2b14f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846a673f5e0f5581b41b2b14f",
-          "width": 160
-        }
-      ],
-      "name": "Yoss Bones",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
       },
       "followers": {
@@ -1473,6 +1436,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+      },
+      "followers": {
+        "href": null,
+        "total": 346446
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+      "id": "6viZnVSHavFUcW0blu6Mvw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc7366ba6ebc8654eca47edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c7366ba6ebc8654eca47edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c7366ba6ebc8654eca47edb8",
+          "width": 160
+        }
+      ],
+      "name": "Simpson Ahuevo",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -1509,39 +1508,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
         "href": null,
-        "total": 346446
+        "total": 679665
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "latin r&b"
       ],
-      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-      "id": "6viZnVSHavFUcW0blu6Mvw",
+      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
+      "id": "0SmgVe3giVHaJjGmIz8xA4",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc7366ba6ebc8654eca47edb8",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46a673f5e0f5581b41b2b14f",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c7366ba6ebc8654eca47edb8",
+          "url": "https://i.scdn.co/image/ab6761610000517446a673f5e0f5581b41b2b14f",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c7366ba6ebc8654eca47edb8",
+          "url": "https://i.scdn.co/image/ab6761610000f17846a673f5e0f5581b41b2b14f",
           "width": 160
         }
       ],
-      "name": "Simpson Ahuevo",
-      "popularity": 51,
+      "name": "Yoss Bones",
+      "popularity": 61,
       "type": "artist",
-      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
     },
     {
       "external_urls": {
@@ -1838,7 +1838,7 @@
       "uri": "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
     }
   ],
-  "total": 173,
+  "total": 174,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
