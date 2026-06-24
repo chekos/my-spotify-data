@@ -9,9 +9,13 @@
         "total": 4790800
       },
       "genres": [
-        "mexican hip hop",
-        "electro corridos",
-        "latin hip hop"
+        "grupera",
+        "norte\u00f1o",
+        "cumbia",
+        "ranchera",
+        "cumbia norte\u00f1a",
+        "tejano",
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
       "id": "6AcOTCYBMvjKYy4zms0kaC",
@@ -39,47 +43,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 6482697
-      },
-      "genres": [
-        "grupera",
-        "norte\u00f1o",
-        "cumbia",
-        "ranchera",
-        "cumbia norte\u00f1a",
-        "tejano",
-        "banda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4d6e8056b57e39ef82eaee22",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744d6e8056b57e39ef82eaee22",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784d6e8056b57e39ef82eaee22",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -87,14 +50,12 @@
         "total": 1475455
       },
       "genres": [
+        "banda",
         "norte\u00f1o",
-        "tejano",
-        "cumbia norte\u00f1a",
-        "ranchera",
         "m\u00fasica mexicana",
-        "corrido",
+        "ranchera",
         "grupera",
-        "banda"
+        "corrido"
       ],
       "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
       "id": "4Hzj6dfl1y5x5TzCSsvLB6",
@@ -129,12 +90,14 @@
         "total": 1243786
       },
       "genres": [
-        "banda",
         "norte\u00f1o",
-        "m\u00fasica mexicana",
+        "tejano",
+        "cumbia norte\u00f1a",
         "ranchera",
+        "m\u00fasica mexicana",
+        "corrido",
         "grupera",
-        "corrido"
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/5j9R5dTGerKvdXopZnfJh9",
       "id": "5j9R5dTGerKvdXopZnfJh9",
@@ -201,6 +164,79 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 6482697
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4d6e8056b57e39ef82eaee22",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744d6e8056b57e39ef82eaee22",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784d6e8056b57e39ef82eaee22",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 3912303
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
       },
       "followers": {
@@ -239,42 +275,6 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:3CAhiUHkUYT1mFtVHM9SHA"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 3912303
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
     {
       "external_urls": {
