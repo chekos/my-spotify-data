@@ -962,11 +962,7 @@
         "href": null,
         "total": 9358
       },
-      "genres": [
-        "freestyle",
-        "mexican hip hop",
-        "latin hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
       "id": "3ScIigEm9KZUrUQtXzBmKJ",
       "images": [
@@ -999,7 +995,11 @@
         "href": null,
         "total": 118774291
       },
-      "genres": [],
+      "genres": [
+        "freestyle",
+        "mexican hip hop",
+        "latin hip hop"
+      ],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
       "images": [
@@ -1215,10 +1215,8 @@
         "total": 19184
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
       "id": "1jVhcHIGJuk16eqY1Mdtuk",
@@ -1253,8 +1251,10 @@
         "total": 3142200
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
       ],
       "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
       "id": "0yNSzH5nZmHzeE2xn6Xshb",
@@ -1774,7 +1774,8 @@
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1810,8 +1811,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
       "id": "5TYxZTjIPqKM8K8NuP9woO",
