@@ -9,8 +9,7 @@
         "total": 3913302
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
       "id": "6eXHRfK9Ad3IpMpSAqvcDf",
@@ -45,8 +44,8 @@
         "total": 1475809
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "reggae",
+        "ragga"
       ],
       "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
       "id": "4Hzj6dfl1y5x5TzCSsvLB6",
@@ -81,8 +80,7 @@
         "total": 68011
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
       "id": "0U8dIwzBn17JkhYxmznp6T",
@@ -153,7 +151,6 @@
         "total": 7194871
       },
       "genres": [
-        "g-funk",
         "mexican hip hop",
         "latin hip hop"
       ],
@@ -262,7 +259,8 @@
         "total": 33948379
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
       "id": "7Gi6gjaWy3DxyilpF1a8Is",
@@ -297,6 +295,7 @@
         "total": 2095514
       },
       "genres": [
+        "g-funk",
         "mexican hip hop",
         "latin hip hop"
       ],
@@ -333,8 +332,8 @@
         "total": 3606506
       },
       "genres": [
-        "reggae",
-        "ragga"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
       "id": "66RfYVdftqnuHRicyClgL0",
@@ -369,11 +368,8 @@
         "total": 181493
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "mexican rock",
-        "latin alternative"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
       "id": "4V2V4PaSblStayYVWTGDbZ",
@@ -408,7 +404,11 @@
         "total": 382033
       },
       "genres": [
-        "mexican hip hop"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "argentine rock",
+        "mexican rock",
+        "latin alternative"
       ],
       "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
       "id": "6tJRAxu0HwB2GI9GueEj4l",
@@ -436,11 +436,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       "followers": {
         "href": null,
-        "total": 28763688
+        "total": 48275632
       },
       "genres": [
         "corrido",
@@ -449,42 +449,6 @@
         "m\u00fasica mexicana",
         "sad sierre\u00f1o",
         "banda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5283f5b671cf618b82a2696",
-          "width": 160
-        }
-      ],
-      "name": "Peso Pluma",
-      "popularity": 90,
-      "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      "followers": {
-        "href": null,
-        "total": 48275632
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -519,9 +483,8 @@
         "total": 29833
       },
       "genres": [
-        "electro corridos",
-        "dembow belico",
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -549,6 +512,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 28763688
+      },
+      "genres": [
+        "electro corridos",
+        "dembow belico",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5283f5b671cf618b82a2696",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
       },
       "followers": {
@@ -556,9 +556,9 @@
         "total": 241269
       },
       "genres": [
-        "argentine trap",
-        "trap latino",
-        "urbano latino"
+        "latin hip hop",
+        "latin alternative",
+        "reggaeton"
       ],
       "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
       "id": "4r1ZDYKzPt3iIjuq8LbT6X",
@@ -593,9 +593,9 @@
         "total": 25729
       },
       "genres": [
-        "latin hip hop",
-        "latin alternative",
-        "reggaeton"
+        "argentine trap",
+        "trap latino",
+        "urbano latino"
       ],
       "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
       "id": "3H1jLGJzOPn3WbEv6fvJ3M",
@@ -729,11 +729,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
       },
       "followers": {
         "href": null,
-        "total": 192273
+        "total": 28760
       },
       "genres": [
         "banda",
@@ -743,42 +743,6 @@
         "norte\u00f1o",
         "duranguense",
         "m\u00fasica mexicana"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd88085d3c9f5dc6c7738a841",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d88085d3c9f5dc6c7738a841",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d88085d3c9f5dc6c7738a841",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 28760
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
       "id": "4RtYPfT9hi1qBolEuVArOG",
@@ -850,7 +814,6 @@
       },
       "genres": [
         "mexican hip hop",
-        "electro corridos",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
@@ -886,12 +849,9 @@
         "total": 137066
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "mexican indie",
-        "latin alternative",
-        "latin indie",
-        "latin rock"
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
       "id": "3w2WYNyPCPkZFoC1EqfCMe",
@@ -916,6 +876,46 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 192273
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "mexican indie",
+        "latin alternative",
+        "latin indie",
+        "latin rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd88085d3c9f5dc6c7738a841",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d88085d3c9f5dc6c7738a841",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d88085d3c9f5dc6c7738a841",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
     {
       "external_urls": {
@@ -962,11 +962,7 @@
         "href": null,
         "total": 9358
       },
-      "genres": [
-        "freestyle",
-        "mexican hip hop",
-        "latin hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
       "id": "3ScIigEm9KZUrUQtXzBmKJ",
       "images": [
@@ -999,7 +995,11 @@
         "href": null,
         "total": 118774291
       },
-      "genres": [],
+      "genres": [
+        "freestyle",
+        "mexican hip hop",
+        "latin hip hop"
+      ],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
       "images": [
@@ -1208,44 +1208,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-      },
-      "followers": {
-        "href": null,
-        "total": 889320
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-      "id": "6fMZytDgX1Q9OV6ndSugym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb75e86a27e54aae43e6325973",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517475e86a27e54aae43e6325973",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17875e86a27e54aae43e6325973",
-          "width": 160
-        }
-      ],
-      "name": "Akapellah",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
       },
       "followers": {
@@ -1253,8 +1215,10 @@
         "total": 19184
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
       ],
       "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
       "id": "1jVhcHIGJuk16eqY1Mdtuk",
@@ -1289,11 +1253,8 @@
         "total": 3142200
       },
       "genres": [
-        "mariachi",
-        "bolero",
-        "latin pop",
-        "ranchera",
-        "villancicos"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
       "id": "0yNSzH5nZmHzeE2xn6Xshb",
@@ -1333,8 +1294,11 @@
         "total": 2718604
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "mariachi",
+        "bolero",
+        "latin pop",
+        "ranchera",
+        "villancicos"
       ],
       "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
       "id": "5oYHL2SijkMY52gKIhYJNb",
@@ -1359,6 +1323,42 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+      },
+      "followers": {
+        "href": null,
+        "total": 889320
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+      "id": "6fMZytDgX1Q9OV6ndSugym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb75e86a27e54aae43e6325973",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517475e86a27e54aae43e6325973",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17875e86a27e54aae43e6325973",
+          "width": 160
+        }
+      ],
+      "name": "Akapellah",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
     {
       "external_urls": {
