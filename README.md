@@ -42,3 +42,11 @@ python3 -m unittest discover -s tests -p 'test_*.py'
 The builder reads sibling repos through Git refs, defaults to `origin/main`, and
 is expected to be idempotent. A second run should report `"changed_files": []`
 when source refs have not changed.
+
+## Automation
+
+`.github/workflows/canonical-data.yml` rebuilds the stable canonical files from
+full Git history and commits only those explicit files when they change. The
+workflow checks out `spotify-git-scraping` and `my-esporifai` as sibling repos so
+the no-data-loss audit remains reproducible while the old repos are still
+available.
