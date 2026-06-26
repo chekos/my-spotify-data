@@ -138,6 +138,37 @@ class BuildCanonicalDataTest(unittest.TestCase):
             builder.collision_report(events),
         )
 
+    def test_source_fingerprint_ignores_unrelated_repo_head_changes(self):
+        first_summary = builder.SourceSummary(
+            "source",
+            "repo",
+            "data/recently_played.json",
+            "origin/main",
+            "data-commit-1",
+        )
+        second_summary = builder.SourceSummary(
+            "source",
+            "repo",
+            "data/recently_played.json",
+            "origin/main",
+            "workflow-only-head-change",
+        )
+        first_summary.source_hash = "same-event-set"
+        second_summary.source_hash = "same-event-set"
+        events = [
+            {
+                "played_at": "2026-01-01T00:00:00Z",
+                "track_id": "track-1",
+                "sources": ["source"],
+            }
+        ]
+        tracks = [{"id": "track-1", "metadata_status": "complete"}]
+
+        self.assertEqual(
+            builder.source_fingerprint([first_summary], events, tracks, [], []),
+            builder.source_fingerprint([second_summary], events, tracks, [], []),
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

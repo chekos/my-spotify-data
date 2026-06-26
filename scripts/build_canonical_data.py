@@ -69,6 +69,12 @@ def resolve_ref(repo: Path, ref: str) -> str:
     return run_git(repo, "rev-parse", ref).decode().strip()
 
 
+def latest_file_commit(repo: Path, ref: str, path: str) -> str:
+    output = run_git(repo, "log", "-1", "--format=%H", ref, "--", path)
+    commit = output.decode().strip()
+    return commit or resolve_ref(repo, ref)
+
+
 def file_commits(repo: Path, ref: str, path: str) -> list[str]:
     output = run_git(repo, "log", "--reverse", "--format=%H", ref, "--", path)
     return [line for line in output.decode().splitlines() if line]
@@ -291,9 +297,9 @@ def ingest_recently_played_history(
     albums: dict[str, Json],
     artists: dict[str, Json],
 ) -> tuple[SourceSummary, set[tuple[str, str]]]:
-    resolved_ref = resolve_ref(repo, ref)
     commits = file_commits(repo, ref, path)
     payloads = cat_file_versions(repo, commits, path)
+    resolved_ref = commits[-1] if commits else resolve_ref(repo, ref)
     summary = SourceSummary(source, repo_name, path, ref, resolved_ref, commits=len(commits))
     source_events: dict[tuple[str, str], Json] = {}
 
@@ -331,7 +337,7 @@ def ingest_export_events(
     source: str,
     events: dict[tuple[str, str], Json],
 ) -> tuple[SourceSummary, set[tuple[str, str]]]:
-    resolved_ref = resolve_ref(repo, ref)
+    resolved_ref = latest_file_commit(repo, ref, path)
     data = git_show_json(repo, ref, path)
     summary = SourceSummary(source, repo_name, path, ref, resolved_ref, commits=1)
     source_events: dict[tuple[str, str], Json] = {}
@@ -422,6 +428,29 @@ def collision_report(events: dict[tuple[str, str], Json]) -> dict[str, list[str]
     }
 
 
+def source_fingerprint(
+    summaries: list[SourceSummary],
+    event_records: list[Json],
+    track_records: list[Json],
+    album_records: list[Json],
+    artist_records: list[Json],
+) -> str:
+    return compact_hash(
+        {
+            "source_event_hashes": [
+                [summary.name, summary.source_hash]
+                for summary in sorted(summaries, key=lambda summary: summary.name)
+            ],
+            "outputs": {
+                "events": compact_hash(event_records),
+                "tracks": compact_hash(track_records),
+                "albums": compact_hash(album_records),
+                "artists": compact_hash(artist_records),
+            },
+        }
+    )
+
+
 def markdown_audit(audit: Json) -> str:
     lines = [
         "# Canonical Spotify Data Audit",
@@ -446,7 +475,7 @@ def markdown_audit(audit: Json) -> str:
                 f"### {source['name']}",
                 "",
                 f"- Repo/path: `{source['repo']}:{source['path']}`",
-                f"- Ref: `{source['ref']}` -> `{source['resolved_ref']}`",
+                f"- Latest data commit: `{source['resolved_ref']}` from `{source['ref']}`",
                 f"- File versions: `{source['commits']}`",
                 f"- Snapshots with items: `{source['snapshots_with_items']}`",
                 f"- Unique events: `{source['unique_events']}`",
@@ -559,8 +588,12 @@ def build(args: argparse.Namespace) -> Json:
 
     audit = {
         "source_ref": args.source_ref,
-        "source_fingerprint": compact_hash(
-            [f"{summary.name}:{summary.resolved_ref}" for summary in summaries]
+        "source_fingerprint": source_fingerprint(
+            summaries,
+            event_records,
+            track_records,
+            album_records,
+            artist_records,
         ),
         "union": {
             "events": len(event_records),
