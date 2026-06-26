@@ -12,6 +12,12 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+  SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
+  SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+  REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+
 jobs:
   build-canonical-data:
     runs-on: ubuntu-latest
@@ -37,6 +43,19 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+          cache: pip
+      - name: Install Spotify dependencies
+        working-directory: my-spotify-data
+        run: pip install -r requirements.txt
+      - name: Ensure Spotify auth works
+        working-directory: my-spotify-data
+        run: |-
+          esporifai auth --status
+          esporifai auth --force
+      - name: Fetch current recently played snapshot
+        working-directory: my-spotify-data
+        run: |-
+          esporifai get-recently-played before "$(date +"%Y-%m-%d %T")" --limit 50 --time-zone UTC --output data/recently_played.json --trim
       - name: Test canonical builder
         working-directory: my-spotify-data
         run: python -m unittest discover -s tests -p 'test_*.py'
@@ -48,6 +67,7 @@ jobs:
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
+          git restore data/recently_played.json
           git add \
             data/listening_events.jsonl \
             data/track_catalog.jsonl \
