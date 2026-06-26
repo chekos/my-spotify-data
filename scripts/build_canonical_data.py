@@ -116,6 +116,16 @@ def load_json(payload: bytes) -> Any:
     return json.loads(payload.decode("utf-8"))
 
 
+def load_json_file(path: Path) -> Any:
+    return json.loads(path.read_text())
+
+
+def load_jsonl(path: Path) -> list[Json]:
+    if not path.exists():
+        return []
+    return [json.loads(line) for line in path.read_text().splitlines() if line.strip()]
+
+
 def json_items(payload: bytes) -> tuple[list[Json], str]:
     data = load_json(payload)
     if isinstance(data, list):
@@ -213,7 +223,11 @@ def normalize_track(track: Json, source: str) -> Json | None:
     }
 
 
-def merge_record(records: dict[str, Json], record: Json | None) -> None:
+def merge_record(
+    records: dict[str, Json],
+    record: Json | None,
+    merge_existing_sources: bool = True,
+) -> None:
     if not record:
         return
     record_id = record["id"]
@@ -226,7 +240,8 @@ def merge_record(records: dict[str, Json], record: Json | None) -> None:
 
     for key, value in record.items():
         if key == "sources":
-            existing["sources"] = sorted(set(existing.get("sources", [])) | set(value))
+            if merge_existing_sources:
+                existing["sources"] = sorted(set(existing.get("sources", [])) | set(value))
         elif value not in (None, [], {}) and existing.get(key) in (None, [], {}, ""):
             existing[key] = value
 
@@ -244,6 +259,22 @@ def add_event(events: dict[tuple[str, str], Json], played_at: str, track_id: str
     event["sources"] = sorted(set(event["sources"]) | {source})
 
 
+def add_existing_event(events: dict[tuple[str, str], Json], record: Json) -> None:
+    played_at = record.get("played_at")
+    track_id = record.get("track_id")
+    if not played_at or not track_id:
+        return
+    event = events.setdefault(
+        (played_at, track_id),
+        {
+            "played_at": played_at,
+            "track_id": track_id,
+            "sources": [],
+        },
+    )
+    event["sources"] = sorted(set(event["sources"]) | set(record.get("sources", [])))
+
+
 def ingest_recently_played_item(
     item: Json,
     source: str,
@@ -251,6 +282,8 @@ def ingest_recently_played_item(
     tracks: dict[str, Json],
     albums: dict[str, Json],
     artists: dict[str, Json],
+    merge_existing_event_source: bool = True,
+    merge_existing_catalog_sources: bool = True,
 ) -> None:
     played_at = item.get("played_at")
     track = item.get("track") if isinstance(item.get("track"), dict) else {}
@@ -258,18 +291,35 @@ def ingest_recently_played_item(
     if not played_at or not track_id:
         return
 
-    add_event(events, played_at, track_id, source)
-    merge_record(tracks, normalize_track(track, source))
+    if merge_existing_event_source or (played_at, track_id) not in events:
+        add_event(events, played_at, track_id, source)
+    merge_record(
+        tracks,
+        normalize_track(track, source),
+        merge_existing_sources=merge_existing_catalog_sources,
+    )
 
     album = track.get("album") if isinstance(track.get("album"), dict) else None
-    merge_record(albums, normalize_album(album, source) if album else None)
+    merge_record(
+        albums,
+        normalize_album(album, source) if album else None,
+        merge_existing_sources=merge_existing_catalog_sources,
+    )
     if album:
         for artist in album.get("artists", []):
             if isinstance(artist, dict):
-                merge_record(artists, normalize_artist(artist, source))
+                merge_record(
+                    artists,
+                    normalize_artist(artist, source),
+                    merge_existing_sources=merge_existing_catalog_sources,
+                )
     for artist in track.get("artists", []):
         if isinstance(artist, dict):
-            merge_record(artists, normalize_artist(artist, source))
+            merge_record(
+                artists,
+                normalize_artist(artist, source),
+                merge_existing_sources=merge_existing_catalog_sources,
+            )
 
 
 def summarize_events(summary: SourceSummary, events: dict[tuple[str, str], Json]) -> None:
@@ -380,6 +430,53 @@ def ingest_catalog_file(
     for item in data:
         if isinstance(item, dict):
             merge_record(records, normalizer(item, source))
+
+
+def ingest_existing_canonical_data(
+    data_dir: Path,
+    events: dict[tuple[str, str], Json],
+    tracks: dict[str, Json],
+    albums: dict[str, Json],
+    artists: dict[str, Json],
+) -> None:
+    for event in load_jsonl(data_dir / "listening_events.jsonl"):
+        add_existing_event(events, event)
+    for track in load_jsonl(data_dir / "track_catalog.jsonl"):
+        merge_record(tracks, track)
+    for album in load_jsonl(data_dir / "album_catalog.jsonl"):
+        merge_record(albums, album)
+    for artist in load_jsonl(data_dir / "artist_catalog.jsonl"):
+        merge_record(artists, artist)
+
+
+def ingest_current_recently_played_file(
+    path: Path,
+    source: str,
+    events: dict[tuple[str, str], Json],
+    tracks: dict[str, Json],
+    albums: dict[str, Json],
+    artists: dict[str, Json],
+) -> None:
+    if not path.exists():
+        return
+    data = load_json_file(path)
+    if isinstance(data, list):
+        items = [item for item in data if isinstance(item, dict)]
+    elif isinstance(data, dict):
+        items = [item for item in data.get("items", []) if isinstance(item, dict)]
+    else:
+        return
+    for item in items:
+        ingest_recently_played_item(
+            item,
+            source,
+            events,
+            tracks,
+            albums,
+            artists,
+            merge_existing_event_source=False,
+            merge_existing_catalog_sources=False,
+        )
 
 
 def add_missing_track_stubs(events: dict[tuple[str, str], Json], tracks: dict[str, Json]) -> None:
@@ -511,6 +608,8 @@ def build(args: argparse.Namespace) -> Json:
     source_sets: dict[str, set[tuple[str, str]]] = {}
     summaries: list[SourceSummary] = []
 
+    ingest_existing_canonical_data(data_dir, events, tracks, albums, artists)
+
     source_configs = [
         (
             "spotify-git-scraping_api_recently_played",
@@ -558,6 +657,14 @@ def build(args: argparse.Namespace) -> Json:
     ingest_catalog_file(esporifai_repo, args.source_ref, "tracks.json", "my-esporifai_catalog", "track", tracks)
     ingest_catalog_file(esporifai_repo, args.source_ref, "albums.json", "my-esporifai_catalog", "album", albums)
     ingest_catalog_file(esporifai_repo, args.source_ref, "artists.json", "my-esporifai_catalog", "artist", artists)
+    ingest_current_recently_played_file(
+        data_dir / "recently_played.json",
+        "my-spotify-data_current_api_recently_played",
+        events,
+        tracks,
+        albums,
+        artists,
+    )
     add_missing_track_stubs(events, tracks)
 
     event_records = [events[key] for key in sorted(events)]

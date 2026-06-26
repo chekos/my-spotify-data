@@ -3,6 +3,7 @@ from __future__ import annotations
 import importlib.util
 import json
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -184,6 +185,95 @@ class BuildCanonicalDataTest(unittest.TestCase):
         self.assertNotIn("snapshots_with_items", summary.as_dict())
         self.assertNotIn("shape_counts", summary.as_dict())
         self.assertEqual("semantic-event-set", summary.as_dict()["source_hash"])
+
+    def test_current_recently_played_file_does_not_relabel_existing_events(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            item = sample_recently_played_item()
+            current_file = Path(tmpdir) / "recently_played.json"
+            current_file.write_text(json.dumps({"items": [item]}))
+            events = {
+                ("2026-01-01T00:00:00Z", "track-1"): {
+                    "played_at": "2026-01-01T00:00:00Z",
+                    "track_id": "track-1",
+                    "sources": ["existing_canonical_source"],
+                }
+            }
+            tracks = {}
+            albums = {}
+            artists = {}
+
+            builder.ingest_current_recently_played_file(
+                current_file,
+                "current_snapshot_source",
+                events,
+                tracks,
+                albums,
+                artists,
+            )
+
+            self.assertEqual(
+                ["existing_canonical_source"],
+                events[("2026-01-01T00:00:00Z", "track-1")]["sources"],
+            )
+            self.assertEqual("Song", tracks["track-1"]["name"])
+            self.assertEqual(
+                ["current_snapshot_source"],
+                tracks["track-1"]["sources"],
+            )
+
+    def test_current_recently_played_file_does_not_relabel_existing_catalogs(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            item = sample_recently_played_item()
+            current_file = Path(tmpdir) / "recently_played.json"
+            current_file.write_text(json.dumps({"items": [item]}))
+            events = {}
+            tracks = {
+                "track-1": {
+                    "id": "track-1",
+                    "sources": ["existing_catalog_source"],
+                }
+            }
+            albums = {}
+            artists = {}
+
+            builder.ingest_current_recently_played_file(
+                current_file,
+                "current_snapshot_source",
+                events,
+                tracks,
+                albums,
+                artists,
+            )
+
+            self.assertEqual(
+                ["existing_catalog_source"],
+                tracks["track-1"]["sources"],
+            )
+            self.assertEqual("Song", tracks["track-1"]["name"])
+
+    def test_current_recently_played_file_adds_new_events(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            item = sample_recently_played_item()
+            current_file = Path(tmpdir) / "recently_played.json"
+            current_file.write_text(json.dumps([item]))
+            events = {}
+            tracks = {}
+            albums = {}
+            artists = {}
+
+            builder.ingest_current_recently_played_file(
+                current_file,
+                "current_snapshot_source",
+                events,
+                tracks,
+                albums,
+                artists,
+            )
+
+            self.assertEqual(
+                ["current_snapshot_source"],
+                events[("2026-01-01T00:00:00Z", "track-1")]["sources"],
+            )
 
 
 if __name__ == "__main__":
