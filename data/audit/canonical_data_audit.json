@@ -1,0 +1,228 @@
+{
+  "catalog": {
+    "albums": 1796,
+    "artists": 1405,
+    "tracks": 8056,
+    "tracks_missing_metadata": 4987
+  },
+  "coverage_checks": [
+    {
+      "missing_count": 0,
+      "missing_examples": [],
+      "source": "my-esporifai_recent_history",
+      "source_events": 14841
+    },
+    {
+      "missing_count": 0,
+      "missing_examples": [],
+      "source": "my-esporifai_spotify_account_export",
+      "source_events": 52629
+    },
+    {
+      "missing_count": 0,
+      "missing_examples": [],
+      "source": "my-spotify-data_api_recently_played",
+      "source_events": 15873
+    },
+    {
+      "missing_count": 0,
+      "missing_examples": [],
+      "source": "spotify-git-scraping_api_recently_played",
+      "source_events": 14842
+    }
+  ],
+  "source_fingerprint": "31c1e6b0af697b9a860169371419fe97f136047a4bcdddeac71c1e4a1429200b",
+  "source_ref": "origin/main",
+  "sources": [
+    {
+      "bad_payloads": 0,
+      "commits": 31610,
+      "earliest": "2022-08-10T20:50:04.612Z",
+      "latest": "2026-06-24T14:48:02.110Z",
+      "name": "spotify-git-scraping_api_recently_played",
+      "path": "data/recently_played.json",
+      "ref": "origin/main",
+      "repo": "spotify-git-scraping",
+      "resolved_ref": "60b3153e2cdd5985674f138ad4c3219cdd1a2b8e",
+      "shape_counts": {
+        "object": 31610
+      },
+      "snapshots_with_items": 10804,
+      "source_hash": "070525637a1343d11936755ddf351b5ef5c66e239cae3b37763cdb92f58aea7f",
+      "unique_events": 14842,
+      "unique_tracks": 2948
+    },
+    {
+      "bad_payloads": 0,
+      "commits": 16700,
+      "earliest": "2022-08-10T20:50:04.612Z",
+      "latest": "2026-06-24T14:48:02.110Z",
+      "name": "my-spotify-data_api_recently_played",
+      "path": "data/recently_played.json",
+      "ref": "origin/main",
+      "repo": "my-spotify-data",
+      "resolved_ref": "74935114aa1242dc6f1899ba06d0157b1cbd4329",
+      "shape_counts": {
+        "array": 16700
+      },
+      "snapshots_with_items": 16699,
+      "source_hash": "24d88238bff2e4c7f60ffbe4efbfc4f73ad932fce29e0e60b14d21ef7791ff56",
+      "unique_events": 15873,
+      "unique_tracks": 3069
+    },
+    {
+      "bad_payloads": 0,
+      "commits": 1,
+      "earliest": "2022-08-10T20:50:04.612Z",
+      "latest": "2026-06-24T14:48:02.110Z",
+      "name": "my-esporifai_recent_history",
+      "path": "history.json",
+      "ref": "origin/main",
+      "repo": "my-esporifai",
+      "resolved_ref": "e9a593733be0148a91576781b2549f14add9657f",
+      "shape_counts": {
+        "array": 1
+      },
+      "snapshots_with_items": 1,
+      "source_hash": "7895fd9ddc6f6fde4813cdb74e90a43d4bf9530ab6eb47830ce36cdf82159903",
+      "unique_events": 14841,
+      "unique_tracks": 2948
+    },
+    {
+      "bad_payloads": 0,
+      "commits": 1,
+      "earliest": "2018-01-10T19:46:56Z",
+      "latest": "2023-06-26T23:20:53Z",
+      "name": "my-esporifai_spotify_account_export",
+      "path": "streaming_history.json",
+      "ref": "origin/main",
+      "repo": "my-esporifai",
+      "resolved_ref": "e9a593733be0148a91576781b2549f14add9657f",
+      "shape_counts": {
+        "array": 1
+      },
+      "snapshots_with_items": 1,
+      "source_hash": "2373d382fca7abc8abf090983229090fc71452136d3d90dff05ab60dee58891a",
+      "unique_events": 52629,
+      "unique_tracks": 6738
+    }
+  ],
+  "union": {
+    "earliest": "2018-01-10T19:46:56Z",
+    "event_set_hash": "f8a4465ea8a27342386f08c631c9291155393b8d1ee064fba564d3aad33f96c9",
+    "events": 68499,
+    "latest": "2026-06-24T14:48:02.110Z",
+    "timestamp_collision_count": 610,
+    "timestamp_collision_examples": {
+      "2018-01-12T18:06:06Z": [
+        "18Jb6dkdAvXR04Dxcn5ugQ",
+        "1CJBQgltFGmq9xe6FZErUD",
+        "1RV94eCJdgpc8g9oFNaUze",
+        "1XRgIKC5TPwo7nWGyKqgG0",
+        "22nyEAEM29tcBRhukR089b",
+        "29wVPCj3jwyL0cwuKBF0Zg",
+        "2nJHf1rDPMtDulPyEPa7D8",
+        "3ISSJmu5n98ulX8yjM9ixk",
+        "3Vo4wInECJQuz9BIBMOu8i",
+        "3kxfsdsCpFgN412fpnW85Y",
+        "3lz2JgAt4cyr04qDlBgTOv",
+        "3sb6NagmHdUeFIH02QIqrq",
+        "40dJ9cVDpLlVZQPFjyZAe0",
+        "5nN8BwAQDJDguq7Dpd3JQQ",
+        "67e978D8cffnAWJLmXxoum",
+        "6DB2KOEwHnjkgEnBt5SdeJ",
+        "6sXOOOP43eMqDyma4BlirP",
+        "75FDPwaULRdYDn4StFN2rT",
+        "7AshCoGdQcLEK5Eqpz3Bvg",
+        "7KeBFM0MZSktLgNXRiPRPW"
+      ],
+      "2018-01-12T18:06:07Z": [
+        "18Jb6dkdAvXR04Dxcn5ugQ",
+        "29wVPCj3jwyL0cwuKBF0Zg",
+        "2nJHf1rDPMtDulPyEPa7D8",
+        "3sb6NagmHdUeFIH02QIqrq",
+        "40dJ9cVDpLlVZQPFjyZAe0",
+        "5nN8BwAQDJDguq7Dpd3JQQ",
+        "67e978D8cffnAWJLmXxoum",
+        "6sXOOOP43eMqDyma4BlirP"
+      ],
+      "2018-01-16T21:54:57Z": [
+        "1CJBQgltFGmq9xe6FZErUD",
+        "1RV94eCJdgpc8g9oFNaUze"
+      ],
+      "2018-01-22T16:20:24Z": [
+        "18Jb6dkdAvXR04Dxcn5ugQ",
+        "29wVPCj3jwyL0cwuKBF0Zg",
+        "2nJHf1rDPMtDulPyEPa7D8"
+      ],
+      "2018-02-06T02:39:16Z": [
+        "2Tk6uGwp55sYE78BqBzMhQ",
+        "2xgYiwLjrwQWtk6hMDNR5K"
+      ],
+      "2018-02-06T15:25:31Z": [
+        "0UviSZPDD0YRiwZNXW8InD",
+        "2lICx8XOYPpcI8hRLUWzGB",
+        "3chFDAQoZZjxjkQjY4j4o7"
+      ],
+      "2018-02-06T15:46:18Z": [
+        "0ybYRtURC8rMvPxhU7L1md",
+        "1M6m3xfwinMZQ2ZvpgyoJz",
+        "6Tod7K66GZUGReQS8G4KRI"
+      ],
+      "2018-02-06T23:13:54Z": [
+        "17lAnGGRVM8iQWLtOPAv5Q",
+        "5fh5zPUpoNdpUHVx7L80oj"
+      ],
+      "2018-02-06T23:14:02Z": [
+        "5WTGI9ChtTWEyqHUwyYzDI",
+        "7AshCoGdQcLEK5Eqpz3Bvg"
+      ],
+      "2018-02-09T16:18:56Z": [
+        "1gG4q7ldZAEbgUzFpfLn4l",
+        "3TVx0NIn0nwtTHMBmepRB3"
+      ],
+      "2018-02-13T16:05:45Z": [
+        "1Uys6mv0DO1pBiwuCCdOtc",
+        "48lVlNggKceeVp9fuJwHWM"
+      ],
+      "2018-02-14T01:40:42Z": [
+        "0lh971Ntxfzy3O7rWp52yO",
+        "2jH7h0OVT5bVSu6CmfqNeq",
+        "3OMJ65vWq2MMyu7BvcPdoi"
+      ],
+      "2018-02-14T02:01:42Z": [
+        "02yRYn1ZL4oEgFvTjdZc18",
+        "3ISSJmu5n98ulX8yjM9ixk"
+      ],
+      "2018-03-06T00:32:37Z": [
+        "0OxYhnIcm3yd3Sbki7zgjC",
+        "0lh971Ntxfzy3O7rWp52yO"
+      ],
+      "2018-03-06T00:40:04Z": [
+        "2xgYiwLjrwQWtk6hMDNR5K",
+        "7K9hqHtFNQmynx2WwO38Sl"
+      ],
+      "2018-03-06T13:57:23Z": [
+        "1920FDYUrHiTD0AjSvd84n",
+        "7dT59IhMoNBtnFt7KLTFVN"
+      ],
+      "2018-03-15T23:39:08Z": [
+        "1QMJAEdFRxNoDTzYx5Hhts",
+        "3yLWo82VAt9ut9MNkvMq0E"
+      ],
+      "2018-03-16T23:56:45Z": [
+        "1920FDYUrHiTD0AjSvd84n",
+        "7E8YHuAKevxtiq3BkZnLQm"
+      ],
+      "2018-03-23T00:21:48Z": [
+        "0fmYTdqi0MQCE34j8XUvSs",
+        "5WcpMbCy5Tll3zvHhiHddP"
+      ],
+      "2018-03-23T00:43:25Z": [
+        "3XxBasXWxSmVv5dB46nz10",
+        "7sD6GAFoQMiABHx7jnvJZ8"
+      ]
+    },
+    "tracks": 8056
+  }
+}
