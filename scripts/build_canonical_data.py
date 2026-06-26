@@ -75,36 +75,48 @@ def file_commits(repo: Path, ref: str, path: str) -> list[str]:
     return [line for line in output.decode().splitlines() if line]
 
 
-def cat_file_versions(repo: Path, commits: list[str], path: str) -> list[bytes]:
+def iter_cat_file_versions(repo: Path, commits: list[str], path: str):
     if not commits:
-        return []
+        return
 
-    specs = "".join(f"{commit}:{path}\n" for commit in commits).encode()
     process = subprocess.Popen(
         ["git", "-C", str(repo), "cat-file", "--batch"],
         stdin=subprocess.PIPE,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
     )
-    stdout, stderr = process.communicate(specs)
-    if process.returncode != 0:
-        raise RuntimeError(stderr.decode(errors="replace"))
+    if process.stdin is None or process.stdout is None or process.stderr is None:
+        raise RuntimeError("Unable to open git cat-file pipes")
 
-    payloads: list[bytes] = []
-    pos = 0
-    for _commit in commits:
-        nl = stdout.find(b"\n", pos)
-        if nl == -1:
-            raise RuntimeError("Malformed git cat-file output")
-        header = stdout[pos:nl].decode(errors="replace")
-        pos = nl + 1
-        parts = header.split()
-        if len(parts) < 3 or parts[1] != "blob":
-            raise RuntimeError(f"Unexpected git cat-file header: {header}")
-        size = int(parts[2])
-        payloads.append(stdout[pos : pos + size])
-        pos += size + 1
-    return payloads
+    stderr = b""
+    returncode = 0
+    try:
+        for commit in commits:
+            process.stdin.write(f"{commit}:{path}\n".encode())
+            process.stdin.flush()
+            header = process.stdout.readline().decode(errors="replace").strip()
+            parts = header.split()
+            if len(parts) < 3 or parts[1] != "blob":
+                raise RuntimeError(f"Unexpected git cat-file header: {header}")
+            size = int(parts[2])
+            payload = process.stdout.read(size)
+            process.stdout.read(1)
+            yield payload
+
+        process.stdin.close()
+        stderr = process.stderr.read()
+        returncode = process.wait()
+    finally:
+        if process.poll() is None:
+            process.terminate()
+            process.wait()
+        if not process.stdin.closed:
+            process.stdin.close()
+        process.stdout.close()
+        process.stderr.close()
+
+    if returncode != 0:
+        raise RuntimeError(stderr.decode(errors="replace"))
 
 
 def compact_hash(value: Any) -> str:
@@ -343,12 +355,11 @@ def ingest_recently_played_history(
     artists: dict[str, Json],
 ) -> tuple[SourceSummary, set[tuple[str, str]]]:
     commits = file_commits(repo, ref, path)
-    payloads = cat_file_versions(repo, commits, path)
     resolved_ref = commits[-1] if commits else resolve_ref(repo, ref)
     summary = SourceSummary(source, repo_name, path, ref, resolved_ref, commits=len(commits))
     source_events: dict[tuple[str, str], Json] = {}
 
-    for payload in payloads:
+    for payload in iter_cat_file_versions(repo, commits, path):
         try:
             items, shape = json_items(payload)
         except Exception:

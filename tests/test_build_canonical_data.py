@@ -186,6 +186,38 @@ class BuildCanonicalDataTest(unittest.TestCase):
         self.assertNotIn("shape_counts", summary.as_dict())
         self.assertEqual("semantic-event-set", summary.as_dict()["source_hash"])
 
+    def test_iter_cat_file_versions_streams_history_blobs(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo = Path(tmpdir)
+            history_file = repo / "data" / "recently_played.json"
+            builder.run_git(repo, "init")
+            builder.run_git(repo, "config", "user.email", "test@example.com")
+            builder.run_git(repo, "config", "user.name", "Test User")
+
+            history_file.parent.mkdir()
+            history_file.write_text(json.dumps({"items": [sample_recently_played_item("track-1")]}))
+            builder.run_git(repo, "add", "data/recently_played.json")
+            builder.run_git(repo, "commit", "-m", "first snapshot")
+
+            history_file.write_text(json.dumps({"items": [sample_recently_played_item("track-2")]}))
+            builder.run_git(repo, "add", "data/recently_played.json")
+            builder.run_git(repo, "commit", "-m", "second snapshot")
+
+            commits = builder.file_commits(repo, "HEAD", "data/recently_played.json")
+            payloads = [
+                json.loads(payload.decode())
+                for payload in builder.iter_cat_file_versions(
+                    repo,
+                    commits,
+                    "data/recently_played.json",
+                )
+            ]
+
+        self.assertEqual(
+            ["track-1", "track-2"],
+            [payload["items"][0]["track"]["id"] for payload in payloads],
+        )
+
     def test_current_recently_played_file_does_not_relabel_existing_events(self):
         with tempfile.TemporaryDirectory() as tmpdir:
             item = sample_recently_played_item()
