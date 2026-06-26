@@ -169,6 +169,22 @@ class BuildCanonicalDataTest(unittest.TestCase):
             builder.source_fingerprint([second_summary], events, tracks, [], []),
         )
 
+    def test_source_summary_audit_payload_excludes_volatile_commit_ids(self):
+        summary = builder.SourceSummary(
+            "source",
+            "repo",
+            "data/recently_played.json",
+            "origin/main",
+            "raw-file-commit",
+        )
+        summary.source_hash = "semantic-event-set"
+
+        self.assertNotIn("resolved_ref", summary.as_dict())
+        self.assertNotIn("commits", summary.as_dict())
+        self.assertNotIn("snapshots_with_items", summary.as_dict())
+        self.assertNotIn("shape_counts", summary.as_dict())
+        self.assertEqual("semantic-event-set", summary.as_dict()["source_hash"])
+
 
 if __name__ == "__main__":
     unittest.main()
