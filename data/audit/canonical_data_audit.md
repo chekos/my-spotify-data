@@ -1,7 +1,7 @@
 # Canonical Spotify Data Audit
 
 Source ref: `origin/main`
-Source fingerprint: `31c1e6b0af697b9a860169371419fe97f136047a4bcdddeac71c1e4a1429200b`
+Source fingerprint: `a6c7a955c7ec54e84d44dab37f2e6138beff4fb2f1e2df1f5bbc235eb14bbb1a`
 
 ## Union
 
@@ -16,7 +16,7 @@ Source fingerprint: `31c1e6b0af697b9a860169371419fe97f136047a4bcdddeac71c1e4a142
 ### spotify-git-scraping_api_recently_played
 
 - Repo/path: `spotify-git-scraping:data/recently_played.json`
-- Ref: `origin/main` -> `60b3153e2cdd5985674f138ad4c3219cdd1a2b8e`
+- Latest data commit: `60b3153e2cdd5985674f138ad4c3219cdd1a2b8e` from `origin/main`
 - File versions: `31610`
 - Snapshots with items: `10804`
 - Unique events: `14842`
@@ -27,7 +27,7 @@ Source fingerprint: `31c1e6b0af697b9a860169371419fe97f136047a4bcdddeac71c1e4a142
 ### my-spotify-data_api_recently_played
 
 - Repo/path: `my-spotify-data:data/recently_played.json`
-- Ref: `origin/main` -> `74935114aa1242dc6f1899ba06d0157b1cbd4329`
+- Latest data commit: `db26fa63474a565bdfb8fc9a5108167f1da7396e` from `origin/main`
 - File versions: `16700`
 - Snapshots with items: `16699`
 - Unique events: `15873`
@@ -38,7 +38,7 @@ Source fingerprint: `31c1e6b0af697b9a860169371419fe97f136047a4bcdddeac71c1e4a142
 ### my-esporifai_recent_history
 
 - Repo/path: `my-esporifai:history.json`
-- Ref: `origin/main` -> `e9a593733be0148a91576781b2549f14add9657f`
+- Latest data commit: `c475b28ee30934925e5ec4fcfa63a3c274b5ff66` from `origin/main`
 - File versions: `1`
 - Snapshots with items: `1`
 - Unique events: `14841`
@@ -49,7 +49,7 @@ Source fingerprint: `31c1e6b0af697b9a860169371419fe97f136047a4bcdddeac71c1e4a142
 ### my-esporifai_spotify_account_export
 
 - Repo/path: `my-esporifai:streaming_history.json`
-- Ref: `origin/main` -> `e9a593733be0148a91576781b2549f14add9657f`
+- Latest data commit: `23a3aa5466ee505fd0e789e5ee21d2810405c51b` from `origin/main`
 - File versions: `1`
 - Snapshots with items: `1`
 - Unique events: `52629`
