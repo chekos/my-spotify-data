@@ -35,73 +35,45 @@
   "source_ref": "origin/main",
   "sources": [
     {
-      "bad_payloads": 0,
-      "commits": 31610,
       "earliest": "2022-08-10T20:50:04.612Z",
       "latest": "2026-06-24T14:48:02.110Z",
       "name": "spotify-git-scraping_api_recently_played",
       "path": "data/recently_played.json",
       "ref": "origin/main",
       "repo": "spotify-git-scraping",
-      "resolved_ref": "60b3153e2cdd5985674f138ad4c3219cdd1a2b8e",
-      "shape_counts": {
-        "object": 31610
-      },
-      "snapshots_with_items": 10804,
       "source_hash": "070525637a1343d11936755ddf351b5ef5c66e239cae3b37763cdb92f58aea7f",
       "unique_events": 14842,
       "unique_tracks": 2948
     },
     {
-      "bad_payloads": 0,
-      "commits": 16700,
       "earliest": "2022-08-10T20:50:04.612Z",
       "latest": "2026-06-24T14:48:02.110Z",
       "name": "my-spotify-data_api_recently_played",
       "path": "data/recently_played.json",
       "ref": "origin/main",
       "repo": "my-spotify-data",
-      "resolved_ref": "db26fa63474a565bdfb8fc9a5108167f1da7396e",
-      "shape_counts": {
-        "array": 16700
-      },
-      "snapshots_with_items": 16699,
       "source_hash": "24d88238bff2e4c7f60ffbe4efbfc4f73ad932fce29e0e60b14d21ef7791ff56",
       "unique_events": 15873,
       "unique_tracks": 3069
     },
     {
-      "bad_payloads": 0,
-      "commits": 1,
       "earliest": "2022-08-10T20:50:04.612Z",
       "latest": "2026-06-24T14:48:02.110Z",
       "name": "my-esporifai_recent_history",
       "path": "history.json",
       "ref": "origin/main",
       "repo": "my-esporifai",
-      "resolved_ref": "c475b28ee30934925e5ec4fcfa63a3c274b5ff66",
-      "shape_counts": {
-        "array": 1
-      },
-      "snapshots_with_items": 1,
       "source_hash": "7895fd9ddc6f6fde4813cdb74e90a43d4bf9530ab6eb47830ce36cdf82159903",
       "unique_events": 14841,
       "unique_tracks": 2948
     },
     {
-      "bad_payloads": 0,
-      "commits": 1,
       "earliest": "2018-01-10T19:46:56Z",
       "latest": "2023-06-26T23:20:53Z",
       "name": "my-esporifai_spotify_account_export",
       "path": "streaming_history.json",
       "ref": "origin/main",
       "repo": "my-esporifai",
-      "resolved_ref": "23a3aa5466ee505fd0e789e5ee21d2810405c51b",
-      "shape_counts": {
-        "array": 1
-      },
-      "snapshots_with_items": 1,
       "source_hash": "2373d382fca7abc8abf090983229090fc71452136d3d90dff05ab60dee58891a",
       "unique_events": 52629,
       "unique_tracks": 6738
