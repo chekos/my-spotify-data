@@ -127,6 +127,88 @@ class BuildCanonicalDataTest(unittest.TestCase):
 
         self.assertEqual("missing", tracks["missing-track"]["metadata_status"])
 
+    def test_merge_record_upgrades_missing_metadata_status(self):
+        records = {
+            "track-1": {
+                "id": "track-1",
+                "metadata_status": "missing",
+                "sources": ["existing"],
+            }
+        }
+
+        builder.merge_record(
+            records,
+            {
+                "id": "track-1",
+                "name": "Song",
+                "metadata_status": "complete",
+                "sources": ["enrichment"],
+            },
+        )
+
+        self.assertEqual("complete", records["track-1"]["metadata_status"])
+        self.assertEqual("Song", records["track-1"]["name"])
+        self.assertEqual(["enrichment", "existing"], records["track-1"]["sources"])
+
+    def test_track_ids_needing_metadata_includes_missing_and_incomplete_records(self):
+        events = {
+            ("2020-01-01T00:00:00Z", "missing-track"): {},
+            ("2020-01-02T00:00:00Z", "stub-track"): {},
+            ("2020-01-03T00:00:00Z", "complete-track"): {},
+        }
+        tracks = {
+            "stub-track": {"id": "stub-track", "metadata_status": "missing"},
+            "complete-track": {"id": "complete-track", "metadata_status": "complete"},
+        }
+
+        self.assertEqual(
+            ["missing-track", "stub-track"],
+            builder.track_ids_needing_metadata(events, tracks),
+        )
+
+    def test_enrich_missing_track_catalog_fetches_batches_and_catalog_records(self):
+        events = {
+            ("2020-01-01T00:00:00Z", "track-1"): {},
+            ("2020-01-02T00:00:00Z", "track-2"): {},
+            ("2020-01-03T00:00:00Z", "track-3"): {},
+        }
+        tracks = {"track-1": {"id": "track-1", "metadata_status": "missing"}}
+        albums = {}
+        artists = {}
+        batches = []
+
+        def fetch_tracks(batch):
+            batches.append(batch)
+            return [
+                sample_recently_played_item(track_id=track_id)["track"]
+                for track_id in batch
+                if track_id != "track-3"
+            ]
+
+        summary = builder.enrich_missing_track_catalog(
+            events,
+            tracks,
+            albums,
+            artists,
+            fetch_tracks,
+            batch_size=2,
+        )
+
+        self.assertEqual([["track-1", "track-2"], ["track-3"]], batches)
+        self.assertEqual("complete", tracks["track-1"]["metadata_status"])
+        self.assertEqual("Song", tracks["track-2"]["name"])
+        self.assertEqual("Album", albums["album-1"]["name"])
+        self.assertEqual("Artist", artists["artist-1"]["name"])
+        self.assertEqual(
+            {
+                "enabled": True,
+                "requested_tracks": 3,
+                "returned_tracks": 2,
+                "tracks_missing_metadata_after": 1,
+            },
+            summary,
+        )
+
     def test_collision_report_finds_same_timestamp_different_track(self):
         events = {
             ("2026-01-01T00:00:00Z", "track-1"): {},

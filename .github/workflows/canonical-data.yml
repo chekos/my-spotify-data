@@ -61,7 +61,7 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_*.py'
       - name: Build canonical data
         working-directory: my-spotify-data
-        run: python scripts/build_canonical_data.py
+        run: python scripts/build_canonical_data.py --enrich-missing-tracks
       - name: Commit and push if canonical data changed
         working-directory: my-spotify-data
         run: |-

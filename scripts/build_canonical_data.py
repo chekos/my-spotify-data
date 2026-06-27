@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Build canonical Spotify listening data from the legacy repo family.
 
-The script is intentionally stdlib-only so it can run in a bare checkout. It
-reads source repositories through Git plumbing instead of checking out old
-commits, then writes deterministic JSONL files and an audit report.
+The default build is stdlib-only so it can run in a bare checkout. When
+requested, the script can use the installed esporifai package to backfill
+missing Spotify catalog metadata from the API.
 """
 
 from __future__ import annotations
@@ -19,6 +19,7 @@ from typing import Any
 
 
 Json = dict[str, Any]
+METADATA_STATUS_RANK = {"missing": 0, "partial": 1, "complete": 2}
 
 
 @dataclass
@@ -254,6 +255,11 @@ def merge_record(
         if key == "sources":
             if merge_existing_sources:
                 existing["sources"] = sorted(set(existing.get("sources", [])) | set(value))
+        elif key == "metadata_status":
+            current_rank = METADATA_STATUS_RANK.get(existing.get("metadata_status"), -1)
+            incoming_rank = METADATA_STATUS_RANK.get(value, -1)
+            if incoming_rank > current_rank:
+                existing[key] = value
         elif value not in (None, [], {}) and existing.get(key) in (None, [], {}, ""):
             existing[key] = value
 
@@ -490,6 +496,85 @@ def ingest_current_recently_played_file(
         )
 
 
+def ingest_catalog_track(
+    track: Json,
+    source: str,
+    tracks: dict[str, Json],
+    albums: dict[str, Json],
+    artists: dict[str, Json],
+) -> None:
+    merge_record(tracks, normalize_track(track, source))
+
+    album = track.get("album") if isinstance(track.get("album"), dict) else None
+    merge_record(albums, normalize_album(album, source) if album else None)
+    if album:
+        for artist in album.get("artists", []):
+            if isinstance(artist, dict):
+                merge_record(artists, normalize_artist(artist, source))
+    for artist in track.get("artists", []):
+        if isinstance(artist, dict):
+            merge_record(artists, normalize_artist(artist, source))
+
+
+def track_ids_needing_metadata(
+    events: dict[tuple[str, str], Json],
+    tracks: dict[str, Json],
+) -> list[str]:
+    event_track_ids = {track_id for _played_at, track_id in events}
+    return sorted(
+        track_id
+        for track_id in event_track_ids
+        if tracks.get(track_id, {}).get("metadata_status") != "complete"
+    )
+
+
+def batched(values: list[str], size: int):
+    for index in range(0, len(values), size):
+        yield values[index : index + size]
+
+
+def spotify_track_fetcher():
+    from esporifai.api import get_several_tracks
+    from esporifai.cli import ensure_token_info
+
+    token_info = ensure_token_info()
+
+    def fetch(batch: list[str]) -> list[Json]:
+        response = get_several_tracks(token_info["access_token"], batch)
+        response.raise_for_status()
+        payload = response.json()
+        if not isinstance(payload, dict):
+            return []
+        tracks = payload.get("tracks") or []
+        return [track for track in tracks if isinstance(track, dict)]
+
+    return fetch
+
+
+def enrich_missing_track_catalog(
+    events: dict[tuple[str, str], Json],
+    tracks: dict[str, Json],
+    albums: dict[str, Json],
+    artists: dict[str, Json],
+    fetch_tracks,
+    source: str = "spotify_api_catalog_enrichment",
+    batch_size: int = 50,
+) -> Json:
+    track_ids = track_ids_needing_metadata(events, tracks)
+    returned_tracks = 0
+    for batch in batched(track_ids, batch_size):
+        for track in fetch_tracks(batch):
+            ingest_catalog_track(track, source, tracks, albums, artists)
+            returned_tracks += 1
+
+    return {
+        "enabled": True,
+        "requested_tracks": len(track_ids),
+        "returned_tracks": returned_tracks,
+        "tracks_missing_metadata_after": len(track_ids_needing_metadata(events, tracks)),
+    }
+
+
 def add_missing_track_stubs(events: dict[tuple[str, str], Json], tracks: dict[str, Json]) -> None:
     for _played_at, track_id in events:
         if track_id not in tracks:
@@ -601,6 +686,9 @@ def markdown_audit(audit: Json) -> str:
             f"- Track records missing metadata: `{audit['catalog']['tracks_missing_metadata']}`",
             f"- Album records: `{audit['catalog']['albums']}`",
             f"- Artist records: `{audit['catalog']['artists']}`",
+            f"- Spotify catalog enrichment: `{audit['catalog_enrichment']['enabled']}`",
+            f"- Spotify enrichment requested tracks: `{audit['catalog_enrichment']['requested_tracks']}`",
+            f"- Spotify enrichment returned tracks: `{audit['catalog_enrichment']['returned_tracks']}`",
             "",
         ]
     )
@@ -676,6 +764,20 @@ def build(args: argparse.Namespace) -> Json:
         albums,
         artists,
     )
+    enrichment = {
+        "enabled": False,
+        "requested_tracks": 0,
+        "returned_tracks": 0,
+        "tracks_missing_metadata_after": len(track_ids_needing_metadata(events, tracks)),
+    }
+    if args.enrich_missing_tracks:
+        enrichment = enrich_missing_track_catalog(
+            events,
+            tracks,
+            albums,
+            artists,
+            spotify_track_fetcher(),
+        )
     add_missing_track_stubs(events, tracks)
 
     event_records = [events[key] for key in sorted(events)]
@@ -717,6 +819,7 @@ def build(args: argparse.Namespace) -> Json:
         },
         "sources": [summary.as_dict() for summary in summaries],
         "coverage_checks": coverage_checks,
+        "catalog_enrichment": enrichment,
         "catalog": {
             "tracks": len(track_records),
             "tracks_missing_metadata": sum(1 for record in track_records if record.get("metadata_status") == "missing"),
@@ -752,6 +855,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--workspace-root", default=Path(__file__).resolve().parents[2])
     parser.add_argument("--source-ref", default="origin/main")
     parser.add_argument("--data-dir", default="data")
+    parser.add_argument(
+        "--enrich-missing-tracks",
+        action="store_true",
+        help="Backfill missing track catalog metadata through the Spotify API.",
+    )
     return parser.parse_args()
 
 

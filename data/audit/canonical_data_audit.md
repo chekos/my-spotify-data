@@ -62,3 +62,6 @@ Source fingerprint: `b0b7066d6c1f9cad1822debbae15ef4c1fea04b99c0bbd44fb9a9e8f832
 - Track records missing metadata: `4987`
 - Album records: `1798`
 - Artist records: `1406`
+- Spotify catalog enrichment: `False`
+- Spotify enrichment requested tracks: `0`
+- Spotify enrichment returned tracks: `0`

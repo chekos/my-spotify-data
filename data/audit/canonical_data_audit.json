@@ -5,6 +5,12 @@
     "tracks": 8058,
     "tracks_missing_metadata": 4987
   },
+  "catalog_enrichment": {
+    "enabled": false,
+    "requested_tracks": 0,
+    "returned_tracks": 0,
+    "tracks_missing_metadata_after": 4987
+  },
   "coverage_checks": [
     {
       "missing_count": 0,
