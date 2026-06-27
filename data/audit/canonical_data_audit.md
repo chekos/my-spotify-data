@@ -63,5 +63,5 @@ Source fingerprint: `083840e54d4aa64cf93ef94ea5bb1f89501dcb2ec0913f1cc8d474429c3
 - Album records: `4330`
 - Artist records: `3295`
 - Spotify catalog enrichment: `True`
-- Spotify enrichment requested tracks: `4986`
-- Spotify enrichment returned tracks: `4986`
+- Spotify enrichment requested tracks: `0`
+- Spotify enrichment returned tracks: `0`
