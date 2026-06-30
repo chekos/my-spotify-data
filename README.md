@@ -7,6 +7,8 @@ Spotify/git-scraping repos while keeping the committed source files stable and
 deterministic. Generated analytics, SQLite databases, rendered pages, and
 screenshots belong in `my-spotify-analytics`, not here.
 
+Current migration status is tracked in `docs/migration-status.md`.
+
 ## Canonical Files
 
 - `data/listening_events.jsonl`: one normalized listening event per line,
@@ -22,8 +24,11 @@ screenshots belong in `my-spotify-analytics`, not here.
 - `data/audit/canonical_data_audit.json`: machine-readable audit details,
   checksums, source refs, and coverage checks.
 
-The current canonical audit preserves 68,499 unique `(played_at, track_id)`
-events across:
+The current canonical audit records the event count, date range, catalog counts,
+source checksums, and coverage checks. Use the audit files for live counts rather
+than copying those values into prose.
+
+Canonical history is rebuilt from:
 
 - `spotify-git-scraping`
 - `my-spotify-data`
@@ -35,8 +40,11 @@ events across:
 From the grouped workspace root layout:
 
 ```shell
-python3 scripts/build_canonical_data.py
-python3 -m unittest discover -s tests -p 'test_*.py'
+cd my-spotify-data
+uv run --python 3.12 --with-requirements requirements.txt \
+  python scripts/build_canonical_data.py --enrich-missing-tracks
+uv run --python 3.12 --with-requirements requirements.txt \
+  python -m unittest discover -s tests -p 'test_*.py'
 ```
 
 The builder reads sibling repos through Git refs, defaults to `origin/main`, and
@@ -50,3 +58,11 @@ full Git history and commits only those explicit files when they change. The
 workflow checks out `spotify-git-scraping` and `my-esporifai` as sibling repos so
 the no-data-loss audit remains reproducible while the old repos are still
 available.
+
+This is the only scheduled raw Spotify fetcher in the repo family. Older
+git-scraping/data repos are retained as historical source material and recovery
+references.
+
+The older `recently-played.yml` and `top-items.yml` workflows in this repo are
+kept for recovery reference but disabled in GitHub Actions; the canonical data
+workflow owns regular data refreshes.
