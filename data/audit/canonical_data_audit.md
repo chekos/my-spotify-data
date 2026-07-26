@@ -1,14 +1,14 @@
 # Canonical Spotify Data Audit
 
 Source ref: `origin/main`
-Source fingerprint: `8578887f5dc9829dc27d49a42af015d0a12607a84609099f64a74808eb780d98`
+Source fingerprint: `b23ebdba58af8d5e7394e6a7d207d2272dc086848a5f81408fe3254d62c24cd3`
 
 ## Union
 
-- Events: `68735`
+- Events: `68748`
 - Tracks: `8070`
 - Earliest: `2018-01-10T19:46:56Z`
-- Latest: `2026-07-24T18:26:04.927Z`
+- Latest: `2026-07-25T14:43:01.204Z`
 - Timestamp collisions: `610`
 
 ## Sources
