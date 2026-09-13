@@ -1,8 +1,8 @@
 {
   "catalog": {
-    "albums": 4370,
+    "albums": 4371,
     "artists": 3312,
-    "tracks": 8110,
+    "tracks": 8111,
     "tracks_missing_metadata": 0
   },
   "catalog_enrichment": {
@@ -37,7 +37,7 @@
       "source_events": 14842
     }
   ],
-  "source_fingerprint": "8e9f8c0959a9148882847d1d939b83be14c0130fd4fe1e49f2d2d510826bcb4b",
+  "source_fingerprint": "e9f4e7d602a2633afe7175310a8af4fe13975a26fddea4ec09ef19f88440cc4e",
   "source_ref": "origin/main",
   "sources": [
     {
@@ -87,9 +87,9 @@
   ],
   "union": {
     "earliest": "2018-01-10T19:46:56Z",
-    "event_set_hash": "7413808f3f4939c7e0db98a863986d76d886933727ecdd66cb941be7899bd189",
-    "events": 69345,
-    "latest": "2026-09-13T15:18:59Z",
+    "event_set_hash": "257058e44cc39fb257904951e5ed736173ad3f460a9847c425ff3327677a50e8",
+    "events": 69357,
+    "latest": "2026-09-13T16:33:13.093Z",
     "timestamp_collision_count": 612,
     "timestamp_collision_examples": {
       "2018-01-12T18:06:06Z": [
@@ -201,6 +201,6 @@
         "7sD6GAFoQMiABHx7jnvJZ8"
       ]
     },
-    "tracks": 8110
+    "tracks": 8111
   }
 }
