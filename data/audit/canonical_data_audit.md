@@ -1,14 +1,14 @@
 # Canonical Spotify Data Audit
 
 Source ref: `origin/main`
-Source fingerprint: `e9f4e7d602a2633afe7175310a8af4fe13975a26fddea4ec09ef19f88440cc4e`
+Source fingerprint: `0fc32539234895e260e6ec2cbef30663555d4c8b3d7a45e771627ba8baece83a`
 
 ## Union
 
-- Events: `69357`
-- Tracks: `8111`
+- Events: `69373`
+- Tracks: `8112`
 - Earliest: `2018-01-10T19:46:56Z`
-- Latest: `2026-09-13T16:33:13.093Z`
+- Latest: `2026-09-13T17:39:47.492Z`
 - Timestamp collisions: `612`
 
 ## Sources
@@ -58,10 +58,10 @@ Source fingerprint: `e9f4e7d602a2633afe7175310a8af4fe13975a26fddea4ec09ef19f8844
 
 ## Catalog
 
-- Track records: `8111`
+- Track records: `8112`
 - Track records missing metadata: `0`
-- Album records: `4371`
-- Artist records: `3312`
+- Album records: `4372`
+- Artist records: `3313`
 - Spotify catalog enrichment: `True`
 - Spotify enrichment requested tracks: `0`
 - Spotify enrichment returned tracks: `0`
