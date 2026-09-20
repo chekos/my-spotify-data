@@ -66,3 +66,17 @@ references.
 The older `recently-played.yml` and `top-items.yml` workflows in this repo are
 kept for recovery reference but disabled in GitHub Actions; the canonical data
 workflow owns regular data refreshes.
+
+## Spotify authentication recovery
+
+Spotify refresh tokens expire six months after authorization; refreshing access
+tokens does not extend that lifetime. See the
+[Spotify expiration policy](https://developer.spotify.com/blog/2026-06-18-refresh-token-expiration).
+An `invalid_grant` response requires a new user authorization, while
+`invalid_client` requires checking the app credentials.
+
+Run the manual `Check Spotify authentication` workflow to diagnose failures.
+Its error output excludes raw OAuth responses and credentials. On failure, its
+one-day `spotify-public-config` artifact contains only the public client ID and
+registered redirect URI needed to prepare sign-in. Never upload access tokens,
+refresh tokens, client secrets, or authorization codes as workflow artifacts.

@@ -52,8 +52,7 @@ jobs:
       - name: Ensure Spotify auth works
         working-directory: my-spotify-data
         run: |-
-          esporifai auth --status
-          esporifai auth --force
+          python scripts/check_spotify_auth.py
       - name: Fetch current recently played snapshot
         working-directory: my-spotify-data
         run: |-
