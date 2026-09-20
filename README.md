@@ -80,3 +80,14 @@ Its error output excludes raw OAuth responses and credentials. On failure, its
 one-day `spotify-public-config` artifact contains only the public client ID and
 registered redirect URI needed to prepare sign-in. Never upload access tokens,
 refresh tokens, client secrets, or authorization codes as workflow artifacts.
+
+Recovery can use Spotify's authorization-code flow with PKCE: the public client
+ID and existing redirect URI are sufficient; the client secret does not need
+to leave GitHub. Generate a random state and PKCE verifier locally, request
+the existing scopes, and use the owner's Spotify browser session to authorize.
+Validate the callback state before exchanging its code with the verifier.
+Verify recently-played access, then pass the returned refresh token through
+stdin to `gh secret set SPOTIFY_REFRESH_TOKEN --repo chekos/my-spotify-data`.
+Do not print the token or place it in command arguments. Delete temporary PKCE
+state after use. Rerun the manual check and the canonical workflow, and verify
+the committed listening-event timestamp before declaring recovery complete.
