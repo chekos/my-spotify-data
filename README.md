@@ -66,3 +66,28 @@ references.
 The older `recently-played.yml` and `top-items.yml` workflows in this repo are
 kept for recovery reference but disabled in GitHub Actions; the canonical data
 workflow owns regular data refreshes.
+
+## Spotify authentication recovery
+
+Spotify refresh tokens expire six months after authorization; refreshing access
+tokens does not extend that lifetime. See the
+[Spotify expiration policy](https://developer.spotify.com/blog/2026-06-18-refresh-token-expiration).
+An `invalid_grant` response requires a new user authorization, while
+`invalid_client` requires checking the app credentials.
+
+Run the manual `Check Spotify authentication` workflow to diagnose failures.
+Its error output excludes raw OAuth responses and credentials. On failure, its
+one-day `spotify-public-config` artifact contains only the public client ID and
+registered redirect URI needed to prepare sign-in. Never upload access tokens,
+refresh tokens, client secrets, or authorization codes as workflow artifacts.
+
+Recovery can use Spotify's authorization-code flow with PKCE: the public client
+ID and existing redirect URI are sufficient; the client secret does not need
+to leave GitHub. Generate a random state and PKCE verifier locally, request
+the existing scopes, and use the owner's Spotify browser session to authorize.
+Validate the callback state before exchanging its code with the verifier.
+Verify recently-played access, then pass the returned refresh token through
+stdin to `gh secret set SPOTIFY_REFRESH_TOKEN --repo chekos/my-spotify-data`.
+Do not print the token or place it in command arguments. Delete temporary PKCE
+state after use. Rerun the manual check and the canonical workflow, and verify
+the committed listening-event timestamp before declaring recovery complete.
