@@ -1,8 +1,8 @@
 {
   "catalog": {
-    "albums": 4377,
-    "artists": 3316,
-    "tracks": 8117,
+    "albums": 4380,
+    "artists": 3318,
+    "tracks": 8120,
     "tracks_missing_metadata": 0
   },
   "catalog_enrichment": {
@@ -37,7 +37,7 @@
       "source_events": 14842
     }
   ],
-  "source_fingerprint": "9952e5bd9ac24be7856bf95e0c23578388d2bcc591eaa6644496de8d5ea3b12f",
+  "source_fingerprint": "0c8b84e7b4059f86fcbfb30fc8821b6427153611e2d1fcf5e5dcc80ffc80ccdb",
   "source_ref": "origin/main",
   "sources": [
     {
@@ -87,9 +87,9 @@
   ],
   "union": {
     "earliest": "2018-01-10T19:46:56Z",
-    "event_set_hash": "596c918dfb4159491e6787abbd49ed8863551bf2f4afab67c3a8aeb5ef396c40",
-    "events": 69576,
-    "latest": "2026-09-26T04:09:34.358Z",
+    "event_set_hash": "4d4fbeaa778261d6000903c92c3bcb991e9448e2be6e503a0b9ae60efd6a6641",
+    "events": 69589,
+    "latest": "2026-09-26T19:40:37.758Z",
     "timestamp_collision_count": 613,
     "timestamp_collision_examples": {
       "2018-01-12T18:06:06Z": [
@@ -201,6 +201,6 @@
         "7sD6GAFoQMiABHx7jnvJZ8"
       ]
     },
-    "tracks": 8117
+    "tracks": 8120
   }
 }
